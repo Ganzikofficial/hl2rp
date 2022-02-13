@@ -1,0 +1,2531 @@
+[00:00:00]	Александр Климов ran 'Equip' on item 'M3 Super 90' (#63)
+[00:00:01]	Александр Климов ran 'EquipUn' on item 'UMP-45' (#51)
+[00:00:02]	Александр Климов ran 'Equip' on item 'M3 Super 90' (#63)
+[00:00:31]	Александр Климов has spawned a 'Entity [571][arccw_ammo_pistol_large]'.
+[00:00:32]	Александр Климов has spawned a 'Entity [572][arccw_ammo_pistol_large]'.
+[00:00:33]	Александр Климов has spawned a 'Entity [571][arccw_ammo_smg1_large]'.
+[00:00:33]	Александр Климов has spawned a 'Entity [572][arccw_ammo_smg1_large]'.
+[00:00:34]	Александр Климов has spawned a 'Entity [576][arccw_ammo_smg1_large]'.
+[00:00:34]	Александр Климов has spawned a 'Entity [571][arccw_ammo_smg1_large]'.
+[00:00:35]	Александр Климов has spawned a 'Entity [572][arccw_ammo_smg1_large]'.
+[00:00:35]	Александр Климов has spawned a 'Entity [591][arccw_ammo_smg1_large]'.
+[00:00:35]	Александр Климов has spawned a 'Entity [576][arccw_ammo_smg1_large]'.
+[00:00:35]	Александр Климов has spawned a 'Entity [593][arccw_ammo_smg1_large]'.
+[00:00:36]	Александр Климов has spawned a 'Entity [571][arccw_ammo_smg1_large]'.
+[00:00:36]	Александр Климов has spawned a 'Entity [601][arccw_ammo_smg1_large]'.
+[00:00:36]	Александр Климов has spawned a 'Entity [671][arccw_ammo_smg1_large]'.
+[00:06:27]	Александр Климов has taken 74 damage from Александр Климов.
+[00:22:57]	Александр Климов entered observer.
+[00:23:01]	Александр Климов exited observer at their location.
+[00:24:47]	Александр Климов entered observer.
+[00:24:51]	Александр Климов exited observer at their location.
+[00:24:57]	Александр Климов used command '/DoorBuy'.
+[00:25:46]	Александр Климов ran 'take' on item 'M3 Super 90' (#60)
+[00:25:46]	Александр Климов has gained a 'M3 Super 90' #60.
+[00:25:50]	Александр Климов ran 'drop' on item 'M3 Super 90' (#60)
+[00:25:50]	Александр Климов has lost a 'M3 Super 90' #60.
+[00:31:40]	Александр Климов has disabled persistence for 'models/props_wasteland/exterior_fence003b.mdl'.
+[00:31:42]	Александр Климов entered observer.
+[00:31:44]	Александр Климов exited observer at their location.
+[00:41:02]	Александр Климов ran 'EquipUn' on item 'M3 Super 90' (#63)
+[00:41:09]	Александр Климов ran 'Equip' on item 'UMP-45' (#51)
+[00:42:03]	Александр Климов entered observer.
+[00:42:06]	Александр Климов exited observer at their location.
+[00:42:33]	Александр Климов entered observer.
+[00:42:58]	Александр Климов exited observer at their location.
+[00:49:53]	Александр Климов has spawned 'models/weapons/w_smg_p90.mdl'.
+[00:49:55]	Александр Климов entered observer.
+[00:50:07]	Александр Климов exited observer at their location.
+[00:50:08]	Александр Климов has spawned 'models/weapons/w_smg_p90.mdl'.
+[00:51:05]	Александр Климов ran 'EquipUn' on item 'UMP-45' (#51)
+[00:51:06]	Александр Климов ran 'drop' on item 'M3 Super 90' (#63)
+[00:51:06]	Александр Климов has lost a 'M3 Super 90' #63.
+[00:51:09]	Александр Климов ran 'take' on item 'M3 Super 90' (#63)
+[00:51:09]	Александр Климов has gained a 'M3 Super 90' #63.
+[00:51:11]	Александр Климов ran 'Equip' on item 'M3 Super 90' (#63)
+[00:52:03]	Александр Климов ran 'EquipUn' on item 'M3 Super 90' (#63)
+[00:56:22]	Александр Климов has gained a '357' #64.
+[00:56:22]	Александр Климов used command '/CharGiveItem А 357'.
+[00:56:54]	Александр Климов ran 'Equip' on item '357' (#64)
+[00:56:57]	Александр Климов ran 'Equip' on item 'UMP-45' (#51)
+[00:56:58]	Александр Климов ran 'EquipUn' on item 'UMP-45' (#51)
+[00:57:00]	Александр Климов ran 'Equip' on item 'M3 Super 90' (#63)
+[00:57:10]	Александр Климов ran 'EquipUn' on item '357' (#64)
+[00:57:11]	Александр Климов ran 'drop' on item '357' (#64)
+[00:57:11]	Александр Климов has lost a '357' #64.
+[01:00:38]	Александр Климов ran 'EquipUn' on item 'M3 Super 90' (#63)
+[01:01:11]	Г@H3NK has connected.
+[01:02:06]	Г@H3NK loaded the character 'Александр Климов'
+[01:03:36]	Александр Климов has gained a 'AK-47' #64.
+[01:03:36]	Александр Климов used command '/CharGiveItem а Ak'.
+[01:03:44]	Александр Климов ran 'drop' on item 'M3 Super 90' (#63)
+[01:03:44]	Александр Климов has lost a 'M3 Super 90' #63.
+[01:04:59]	Г@H3NK has connected.
+[01:05:37]	Г@H3NK loaded the character 'Александр Климов'
+[01:06:15]	Г@H3NK has connected.
+[01:06:54]	Г@H3NK loaded the character 'Александр Климов'
+[01:10:15]	Г@H3NK has connected.
+[01:10:54]	Г@H3NK loaded the character 'Александр Климов'
+[01:11:28]	Г@H3NK has connected.
+[01:12:05]	Г@H3NK loaded the character 'Александр Климов'
+[01:12:52]	Г@H3NK has connected.
+[01:13:31]	Г@H3NK loaded the character 'Александр Климов'
+[01:13:40]	Александр Климов entered observer.
+[01:13:44]	Александр Климов ran 'take' on item 'M3 Super 90' (#60)
+[01:13:44]	Александр Климов has gained a 'M3 Super 90' #60.
+[01:13:50]	Александр Климов ran 'drop' on item 'M3 Super 90' (#60)
+[01:13:50]	Александр Климов has lost a 'M3 Super 90' #60.
+[01:13:53]	Александр Климов ran 'drop' on item 'AK-47' (#64)
+[01:13:53]	Александр Климов has lost a 'AK-47' #64.
+[01:13:56]	Александр Климов ran 'take' on item 'AK-47' (#64)
+[01:13:56]	Александр Климов has gained a 'AK-47' #64.
+[01:13:58]	Александр Климов exited observer at their location.
+[01:14:08]	Александр Климов ran 'Equip' on item 'AK-47' (#64)
+[01:14:23]	Александр Климов has spawned a 'Entity [202][arccw_ammo_smg1_large]'.
+[01:14:24]	Александр Климов has spawned a 'Entity [202][arccw_ammo_ar2_large]'.
+[01:14:25]	Александр Климов has spawned a 'Entity [203][arccw_ammo_ar2_large]'.
+[01:14:27]	Александр Климов has spawned a 'Entity [202][arccw_ammo_ar2_large]'.
+[01:14:27]	Александр Климов has spawned a 'Entity [203][arccw_ammo_ar2_large]'.
+[01:19:08]	Александр Климов entered observer.
+[01:19:30]	Александр Климов exited observer at their location.
+[01:20:56]	Александр Климов entered observer.
+[01:21:00]	Александр Климов exited observer at their location.
+[01:21:05]	Александр Климов ran 'EquipUn' on item 'AK-47' (#64)
+[01:21:06]	Александр Климов ran 'drop' on item 'AK-47' (#64)
+[01:21:06]	Александр Климов has lost a 'AK-47' #64.
+[01:21:13]	Александр Климов ran 'take' on item 'M3 Super 90' (#63)
+[01:21:13]	Александр Климов has gained a 'M3 Super 90' #63.
+[01:23:23]	Александр Климов ran 'take' on item 'AK-47' (#64)
+[01:23:23]	Александр Климов has gained a 'AK-47' #64.
+[01:23:29]	Александр Климов ran 'drop' on item 'AK-47' (#64)
+[01:23:29]	Александр Климов has lost a 'AK-47' #64.
+[01:27:56]	Г@H3NK has connected.
+[01:28:36]	Г@H3NK loaded the character 'Александр Климов'
+[01:28:53]	Александр Климов used command '/CharGiveItem а P90'.
+[01:29:06]	Александр Климов used command '/CharGiveItem а P90'.
+[01:29:28]	Александр Климов used command '/CharGiveItem а p90'.
+[01:29:50]	Александр Климов used command '/CharGiveItem А p90'.
+[01:31:05]	Г@H3NK has connected.
+[01:32:21]	Г@H3NK loaded the character 'Александр Климов'
+[01:33:03]	Александр Климов has gained a 'P90' #65.
+[01:33:03]	Александр Климов used command '/CharGiveItem Александр p90'.
+[01:34:48]	Г@H3NK has connected.
+[01:35:24]	Г@H3NK loaded the character 'Александр Климов'
+[01:36:29]	Г@H3NK has connected.
+[01:37:03]	Г@H3NK loaded the character 'Александр Климов'
+[01:37:10]	Александр Климов ran 'Equip' on item 'P90' (#65)
+[01:38:50]	Г@H3NK has connected.
+[01:39:24]	Г@H3NK loaded the character 'Александр Климов'
+[01:40:33]	Г@H3NK has connected.
+[01:41:08]	Г@H3NK loaded the character 'Александр Климов'
+[01:41:34]	Г@H3NK has connected.
+[01:48:49]	Г@H3NK loaded the character 'Александр Климов'
+[01:51:42]	Александр Климов set weaponRaiseTime to '0.1'.
+[01:52:41]	Александр Климов set weaponRaiseTime to '0.5'.
+[01:53:15]	Александр Климов entered observer.
+[01:53:17]	Александр Климов exited observer at their location.
+[01:53:23]	Александр Климов entered observer.
+[01:54:19]	Александр Климов exited observer at their location.
+[01:54:20]	Александр Климов ran 'take' on item 'AK-47' (#64)
+[01:54:35]	Александр Климов ran 'EquipUn' on item 'P90' (#65)
+[01:54:47]	Александр Климов ran 'take' on item 'AK-47' (#64)
+[01:54:49]	Александр Климов ran 'take' on item 'AK-47' (#64)
+[01:54:51]	Александр Климов ran 'drop' on item 'P90' (#65)
+[01:54:51]	Александр Климов has lost a 'P90' #65.
+[01:54:54]	Александр Климов ran 'take' on item 'AK-47' (#64)
+[01:54:54]	Александр Климов has gained a 'AK-47' #64.
+[01:55:01]	Александр Климов ran 'drop' on item 'AK-47' (#64)
+[01:55:01]	Александр Климов has lost a 'AK-47' #64.
+[01:55:05]	Александр Климов ran 'take' on item 'P90' (#65)
+[01:55:05]	Александр Климов has gained a 'P90' #65.
+[01:55:09]	Александр Климов ran 'drop' on item 'M3 Super 90' (#63)
+[01:55:09]	Александр Климов has lost a 'M3 Super 90' #63.
+[01:55:14]	Александр Климов ran 'take' on item 'M3 Super 90' (#63)
+[01:55:14]	Александр Климов has gained a 'M3 Super 90' #63.
+[01:55:18]	Александр Климов entered observer.
+[01:55:22]	Александр Климов ran 'take' on item 'AK-47' (#64)
+[01:55:32]	Александр Климов exited observer at their location.
+[01:55:49]	Александр Климов ran 'drop' on item 'M3 Super 90' (#63)
+[01:55:49]	Александр Климов has lost a 'M3 Super 90' #63.
+[01:55:51]	Александр Климов ran 'drop' on item 'UMP-45' (#51)
+[01:55:51]	Александр Климов has lost a 'UMP-45' #51.
+[01:55:51]	Александр Климов ran 'drop' on item 'P90' (#65)
+[01:55:51]	Александр Климов has lost a 'P90' #65.
+[01:56:09]	Г@H3NK loaded the character 'Alexander Klimov'
+[01:56:10]	Alexander Klimov entered observer.
+[01:56:16]	Alexander Klimov exited observer at their location.
+[01:56:51]	Alexander Klimov ran 'drop' on item 'Citizen ID' (#2)
+[01:56:51]	Alexander Klimov has lost a 'Citizen ID' #2.
+[01:57:01]	Alexander Klimov entered observer.
+[01:57:02]	Alexander Klimov exited observer at their location.
+[01:57:15]	Alexander Klimov entered observer.
+[01:57:19]	Alexander Klimov exited observer at their location.
+[01:57:24]	Г@H3NK loaded the character 'Александр Климов'
+[01:57:27]	Александр Климов entered observer.
+[01:57:27]	Александр Климов exited observer at their location.
+[01:57:53]	Г@H3NK loaded the character 'Alexander Klimov'
+[01:57:53]	Alexander Klimov entered observer.
+[01:57:56]	Alexander Klimov ran 'take' on item 'Citizen ID' (#2)
+[01:57:56]	Alexander Klimov has gained a 'Citizen ID' #2.
+[01:57:57]	Alexander Klimov exited observer at their location.
+[01:58:00]	Alexander Klimov entered observer.
+[01:58:01]	Alexander Klimov exited observer at their location.
+[01:58:32]	Bot01 has connected.
+[01:58:32]	Bot01 loaded the character 'Bot01'
+[01:58:38]	Г@H3NK loaded the character 'MPF-I4.51977'
+[01:58:39]	MPF-I4.51977 entered observer.
+[01:58:50]	MPF-I4.51977 exited observer at their location.
+[01:58:51]	MPF-I4.51977 entered observer.
+[01:58:52]	MPF-I4.51977 exited observer at their location.
+[01:58:57]	MPF-I4.51977 entered observer.
+[01:59:01]	MPF-I4.51977 exited observer at their location.
+[01:59:25]	Bot01 has taken 8 damage from MPF-I4.51977.
+[02:01:18]	Bot01 has taken 8 damage from MPF-I4.51977.
+[02:01:19]	Bot01 has taken 8 damage from MPF-I4.51977.
+[02:01:22]	Bot01 has taken 8 damage from MPF-I4.51977.
+[02:01:23]	Bot01 has taken 8 damage from MPF-I4.51977.
+[02:01:36]	Bot01 has taken 5 damage from MPF-I4.51977.
+[02:01:37]	Bot01 has taken 5 damage from MPF-I4.51977.
+[02:01:38]	Bot01 has taken 5 damage from MPF-I4.51977.
+[02:01:41]	Bot01 has taken 2 damage from MPF-I4.51977.
+[02:02:13]	Bot01 has taken 5 damage from MPF-I4.51977.
+[02:02:15]	Bot01 has taken 5 damage from MPF-I4.51977.
+[02:02:15]	Bot01 has taken 5 damage from MPF-I4.51977.
+[02:02:16]	Bot01 has taken 5 damage from MPF-I4.51977.
+[02:02:17]	Bot01 has taken 5 damage from MPF-I4.51977.
+[02:02:17]	Bot01 has taken 5 damage from MPF-I4.51977.
+[02:02:18]	Bot01 has taken 5 damage from MPF-I4.51977.
+[02:02:18]	Bot01 has taken 5 damage from MPF-I4.51977.
+[02:02:19]	Bot01 has taken 5 damage from MPF-I4.51977.
+[02:02:19]	Bot01 has taken 5 damage from MPF-I4.51977.
+[02:02:19]	MPF-I4.51977 has killed Bot01 with weapon_pistol.
+[02:02:36]	Bot01 has taken 12 damage from MPF-I4.51977.
+[02:02:43]	Bot01 has taken 5 damage from MPF-I4.51977.
+[02:02:44]	Bot01 has taken 5 damage from MPF-I4.51977.
+[02:02:45]	Bot01 has taken 5 damage from MPF-I4.51977.
+[02:02:49]	Bot01 has taken 2 damage from MPF-I4.51977.
+[02:02:50]	Bot01 has taken 2 damage from MPF-I4.51977.
+[02:02:50]	Bot01 has taken 2 damage from MPF-I4.51977.
+[02:02:51]	Bot01 has taken 2 damage from MPF-I4.51977.
+[02:02:52]	Bot01 has taken 2 damage from MPF-I4.51977.
+[02:02:53]	Bot01 has taken 2 damage from MPF-I4.51977.
+[02:02:55]	Bot01 has taken 2 damage from MPF-I4.51977.
+[02:02:55]	Bot01 has taken 2 damage from MPF-I4.51977.
+[02:02:56]	Bot01 has taken 2 damage from MPF-I4.51977.
+[02:02:58]	Bot01 has taken 2 damage from MPF-I4.51977.
+[02:02:58]	Bot01 has taken 2 damage from MPF-I4.51977.
+[02:02:59]	Bot01 has taken 2 damage from MPF-I4.51977.
+[02:03:01]	Bot01 has taken 2 damage from MPF-I4.51977.
+[02:03:02]	Bot01 has taken 2 damage from MPF-I4.51977.
+[02:03:03]	Bot01 has taken 2 damage from MPF-I4.51977.
+[02:03:04]	Bot01 has taken 2 damage from MPF-I4.51977.
+[02:03:05]	Bot01 has taken 2 damage from MPF-I4.51977.
+[02:03:06]	Bot01 has taken 2 damage from MPF-I4.51977.
+[02:03:07]	Bot01 has taken 2 damage from MPF-I4.51977.
+[02:03:08]	Bot01 has taken 2 damage from MPF-I4.51977.
+[02:03:09]	Bot01 has taken 2 damage from MPF-I4.51977.
+[02:03:10]	Bot01 has taken 2 damage from MPF-I4.51977.
+[02:03:11]	Bot01 has taken 2 damage from MPF-I4.51977.
+[02:03:12]	Bot01 has taken 2 damage from MPF-I4.51977.
+[02:03:12]	Bot01 has taken 2 damage from MPF-I4.51977.
+[02:03:13]	Bot01 has taken 2 damage from MPF-I4.51977.
+[02:03:14]	Bot01 has taken 2 damage from MPF-I4.51977.
+[02:03:15]	Bot01 has taken 2 damage from MPF-I4.51977.
+[02:03:16]	Bot01 has taken 2 damage from MPF-I4.51977.
+[02:03:17]	Bot01 has taken 2 damage from MPF-I4.51977.
+[02:03:38]	MPF-I4.51977 has gained 300 tokens.
+[02:04:52]	Bot01 has taken 12 damage from MPF-I4.51977.
+[02:04:54]	Bot01 has taken 12 damage from MPF-I4.51977.
+[02:04:54]	MPF-I4.51977 has killed Bot01 with weapon_pistol.
+[02:08:38]	MPF-I4.51977 has gained 300 tokens.
+[02:08:58]	MPF-I4.51977 has spawned a 'NPC [569][npc_manhack]'.
+[02:09:02]	MPF-I4.51977 has taken 4 damage from npc_manhack.
+[02:09:13]	MPF-I4.51977 has spawned a 'NPC [569][npc_manhack]'.
+[02:09:14]	MPF-I4.51977 has taken 4 damage from npc_manhack.
+[02:09:30]	MPF-I4.51977 has spawned a 'NPC [569][npc_manhack]'.
+[02:09:31]	MPF-I4.51977 has taken 4 damage from npc_manhack.
+[02:09:34]	MPF-I4.51977 has taken 4 damage from npc_manhack.
+[02:09:37]	MPF-I4.51977 has taken 4 damage from npc_manhack.
+[02:09:46]	MPF-I4.51977 has spawned a 'NPC [569][npc_combine_s]'.
+[02:09:47]	MPF-I4.51977 has taken 12 damage from npc_combine_s.
+[02:09:48]	MPF-I4.51977 has taken 24 damage from npc_combine_s.
+[02:09:50]	MPF-I4.51977 has taken 24 damage from npc_combine_s.
+[02:11:03]	Bot01 has taken 8 damage from MPF-I4.51977.
+[02:11:08]	Bot01 has taken 5 damage from MPF-I4.51977.
+[02:11:10]	Bot01 has taken 8 damage from MPF-I4.51977.
+[02:11:11]	Bot01 has taken 5 damage from MPF-I4.51977.
+[02:11:14]	Bot01 has taken 5 damage from MPF-I4.51977.
+[02:11:16]	Bot01 has taken 2 damage from MPF-I4.51977.
+[02:11:17]	Bot01 has taken 2 damage from MPF-I4.51977.
+[02:11:18]	Bot01 has taken 2 damage from MPF-I4.51977.
+[02:11:18]	Bot01 has taken 2 damage from MPF-I4.51977.
+[02:11:19]	Bot01 has taken 2 damage from MPF-I4.51977.
+[02:11:20]	Bot01 has taken 2 damage from MPF-I4.51977.
+[02:11:42]	MPF-I4.51977 has gained a 'M3 Super 90' #66.
+[02:11:42]	MPF-I4.51977 used command '/CharGiveItem MPF m3'.
+[02:11:48]	MPF-I4.51977 ran 'Equip' on item 'M3 Super 90' (#66)
+[02:11:54]	MPF-I4.51977 has spawned a 'Entity [594][arccw_ammo_buckshot_large]'.
+[02:12:02]	Bot01 has taken 107 damage from MPF-I4.51977.
+[02:12:02]	MPF-I4.51977 has killed Bot01 with arccw_shorty.
+[02:12:54]	Bot01 has taken 26 damage from MPF-I4.51977.
+[02:12:54]	Bot01 has taken 26 damage from MPF-I4.51977.
+[02:12:56]	Bot01 has taken 26 damage from MPF-I4.51977.
+[02:12:56]	Bot01 has taken 27 damage from MPF-I4.51977.
+[02:12:56]	MPF-I4.51977 has killed Bot01 with arccw_shorty.
+[02:13:11]	Bot01 has taken 26 damage from MPF-I4.51977.
+[02:13:11]	Bot01 has taken 26 damage from MPF-I4.51977.
+[02:13:11]	Bot01 has taken 26 damage from MPF-I4.51977.
+[02:13:11]	Bot01 has taken 26 damage from MPF-I4.51977.
+[02:13:11]	MPF-I4.51977 has killed Bot01 with arccw_shorty.
+[02:13:24]	Bot01 has taken 5 damage from MPF-I4.51977.
+[02:13:38]	MPF-I4.51977 has gained 300 tokens.
+[02:14:32]	Bot01 has taken 8 damage from MPF-I4.51977.
+[02:14:35]	Bot01 has taken 8 damage from MPF-I4.51977.
+[02:14:36]	Bot01 has taken 8 damage from MPF-I4.51977.
+[02:14:36]	Bot01 has taken 8 damage from MPF-I4.51977.
+[02:14:38]	Bot01 has taken 8 damage from MPF-I4.51977.
+[02:14:38]	Bot01 has taken 8 damage from MPF-I4.51977.
+[02:14:39]	Bot01 has taken 8 damage from MPF-I4.51977.
+[02:14:40]	Bot01 has taken 8 damage from MPF-I4.51977.
+[02:14:41]	Bot01 has taken 8 damage from MPF-I4.51977.
+[02:14:42]	Bot01 has taken 8 damage from MPF-I4.51977.
+[02:14:43]	Bot01 has taken 8 damage from MPF-I4.51977.
+[02:14:44]	Bot01 has taken 8 damage from MPF-I4.51977.
+[02:14:44]	MPF-I4.51977 has killed Bot01 with ix_hands.
+[02:15:00]	Bot01 has taken 5 damage from MPF-I4.51977.
+[02:15:02]	Bot01 has taken 5 damage from MPF-I4.51977.
+[02:15:03]	Bot01 has taken 5 damage from MPF-I4.51977.
+[02:15:06]	Bot01 has taken 2 damage from MPF-I4.51977.
+[02:15:09]	Bot01 has taken 10 damage from MPF-I4.51977.
+[02:15:29]	MPF-I4.51977 used command '/ActDeny'.
+[02:18:38]	MPF-I4.51977 has gained 300 tokens.
+[02:19:34]	MPF-I4.51977 used command '/ViewObjectives'.
+[02:19:43]	Bot01 has taken 5 damage from MPF-I4.51977.
+[02:19:44]	Bot01 has taken 5 damage from MPF-I4.51977.
+[02:19:45]	Bot01 has taken 5 damage from MPF-I4.51977.
+[02:19:48]	MPF-I4.51977 used command '/ViewObjectives'.
+[02:20:06]	MPF-I4.51977 used command '/ViewData bot'.
+[02:20:49]	MPF-I4.51977 used command '/Request'.
+[02:20:58]	MPF-I4.51977 used command '/Request 10-8'.
+[02:21:09]	MPF-I4.51977 used command '/Request OTA'.
+[02:21:18]	MPF-I4.51977 used command '/ViewObjectives'.
+[02:21:23]	Bot01 has taken 5 damage from MPF-I4.51977.
+[02:21:24]	Bot01 has taken 5 damage from MPF-I4.51977.
+[02:21:25]	Bot01 has taken 5 damage from MPF-I4.51977.
+[02:21:26]	Bot01 has taken 2 damage from MPF-I4.51977.
+[02:21:27]	Bot01 has taken 2 damage from MPF-I4.51977.
+[02:23:24]	MPF-I4.51977 entered observer.
+[02:23:38]	MPF-I4.51977 has gained 300 tokens.
+[02:23:41]	MPF-I4.51977 exited observer at their location.
+[02:23:42]	MPF-I4.51977 entered observer.
+[02:23:54]	MPF-I4.51977 exited observer at their location.
+[02:24:50]	MPF-I4.51977 used command '/TextAdd Зарещенный Сектор 100'.
+[02:24:52]	MPF-I4.51977 entered observer.
+[02:24:53]	MPF-I4.51977 exited observer at their location.
+[02:25:02]	MPF-I4.51977 used command '/TextRemove'.
+[02:25:10]	MPF-I4.51977 used command '/TextAdd Зарещенный Сектор 1'.
+[02:25:14]	MPF-I4.51977 used command '/TextRemove'.
+[02:25:22]	MPF-I4.51977 used command '/TextRemove'.
+[02:25:49]	MPF-I4.51977 used command '/TextAdd Запрещенный Сектор'.
+[02:25:51]	MPF-I4.51977 entered observer.
+[02:25:54]	MPF-I4.51977 used command '/TextRemove'.
+[02:25:56]	MPF-I4.51977 exited observer at their location.
+[02:26:31]	MPF-I4.51977 used command '/TextAdd Запрещенный Сектор'.
+[02:26:33]	MPF-I4.51977 used command '/TextRemove'.
+[02:27:23]	MPF-I4.51977 used command '/TextAdd Запрещенный Сектор'.
+[02:27:27]	MPF-I4.51977 used command '/TextRemove'.
+[02:27:31]	MPF-I4.51977 entered observer.
+[02:27:34]	MPF-I4.51977 exited observer at their location.
+[02:27:36]	MPF-I4.51977 entered observer.
+[02:27:40]	MPF-I4.51977 used command '/TextAdd Запрещенный Сектор'.
+[02:27:41]	MPF-I4.51977 exited observer at their location.
+[02:27:51]	MPF-I4.51977 has removed their last 3D text.
+[02:27:59]	MPF-I4.51977 used command '/TextAdd Запрещенный Сектор'.
+[02:28:03]	MPF-I4.51977 used command '/TextRemove'.
+[02:28:10]	MPF-I4.51977 used command '/TextAdd Запрещенный Сектор'.
+[02:28:12]	MPF-I4.51977 used command '/TextRemove'.
+[02:28:38]	MPF-I4.51977 has gained 300 tokens.
+[02:28:53]	MPF-I4.51977 used command '/TextAdd "З'.
+[02:28:54]	MPF-I4.51977 used command '/TextRemove'.
+[02:29:32]	MPF-I4.51977 used command '/TextAdd ЗАКРЫТЫЙ СЕКТОР'.
+[02:29:49]	MPF-I4.51977 has spawned a 'Entity [541][ix_forcefield]'.
+[02:29:50]	MPF-I4.51977 has spawned a 'Entity [545][ix_forcefield]'.
+[02:29:52]	MPF-I4.51977 entered observer.
+[02:29:52]	MPF-I4.51977 exited observer at their location.
+[02:29:54]	MPF-I4.51977 has spawned a 'Entity [542][ix_forcefield]'.
+[02:29:56]	MPF-I4.51977 has spawned a 'Entity [545][ix_forcefield]'.
+[02:29:57]	MPF-I4.51977 has spawned a 'Entity [542][ix_forcefield]'.
+[02:29:58]	MPF-I4.51977 has spawned a 'Entity [545][ix_forcefield]'.
+[02:29:59]	MPF-I4.51977 has spawned a 'Entity [542][ix_forcefield]'.
+[02:30:03]	MPF-I4.51977 has spawned a 'Entity [545][ix_forcefield]'.
+[02:30:09]	MPF-I4.51977 has spawned a 'Entity [541][ix_forcefield]'.
+[02:30:10]	MPF-I4.51977 has spawned a 'Entity [545][ix_forcefield]'.
+[02:30:21]	MPF-I4.51977 has spawned a 'Entity [542][ix_forcefield]'.
+[02:30:22]	MPF-I4.51977 entered observer.
+[02:30:23]	MPF-I4.51977 exited observer at their location.
+[02:30:25]	MPF-I4.51977 entered observer.
+[02:30:26]	MPF-I4.51977 exited observer at their location.
+[02:30:37]	MPF-I4.51977 has spawned a 'Entity [540][ix_forcefield]'.
+[02:30:39]	MPF-I4.51977 has spawned a 'Entity [569][ix_forcefield]'.
+[02:31:59]	MPF-I4.51977 entered observer.
+[02:32:02]	MPF-I4.51977 exited observer at their location.
+[02:32:36]	MPF-I4.51977 used command '/ActMotion'.
+[02:32:39]	MPF-I4.51977 used command '/ActMotion'.
+[02:32:43]	MPF-I4.51977 used command '/ActMotion 2'.
+[02:32:46]	MPF-I4.51977 used command '/ActMotion 3'.
+[02:32:49]	MPF-I4.51977 used command '/ActMotion 1'.
+[02:33:05]	MPF-I4.51977 used command '/ActStand'.
+[02:33:07]	MPF-I4.51977 used command '/ActStand 2'.
+[02:33:09]	MPF-I4.51977 used command '/ActStand 3'.
+[02:33:12]	MPF-I4.51977 used command '/ExitAct'.
+[02:33:14]	MPF-I4.51977 used command '/ActStand 3'.
+[02:33:16]	MPF-I4.51977 used command '/ActStand 2'.
+[02:33:20]	MPF-I4.51977 used command '/ActStand 4'.
+[02:33:22]	MPF-I4.51977 used command '/ActStand 1'.
+[02:33:28]	MPF-I4.51977 used command '/ExitAct'.
+[02:33:29]	MPF-I4.51977 entered observer.
+[02:33:32]	MPF-I4.51977 exited observer at their location.
+[02:33:37]	MPF-I4.51977 used command '/ActStand 1'.
+[02:33:38]	MPF-I4.51977 has gained 300 tokens.
+[02:33:45]	MPF-I4.51977 used command '/ExitAct'.
+[02:33:50]	MPF-I4.51977 used command '/ActStand 1'.
+[02:33:56]	MPF-I4.51977 used command '/ExitAct'.
+[02:34:04]	MPF-I4.51977 used command '/ActLean'.
+[02:34:13]	MPF-I4.51977 used command '/ActDeny'.
+[02:34:17]	MPF-I4.51977 used command '/ActDeny 2'.
+[02:34:20]	MPF-I4.51977 used command '/ActDeny'.
+[02:35:38]	Bot01 has taken 5 damage from MPF-I4.51977.
+[02:35:39]	Bot01 has taken 5 damage from MPF-I4.51977.
+[02:35:41]	Bot01 has taken 5 damage from MPF-I4.51977.
+[02:36:28]	Bot01 has taken 50 damage from worldspawn.
+[02:36:28]	worldspawn has killed Bot01.
+[02:36:43]	MPF-I4.51977 entered observer.
+[02:36:44]	MPF-I4.51977 exited observer at their location.
+[02:36:47]	Bot01 has taken 5 damage from MPF-I4.51977.
+[02:36:49]	Bot01 has taken 5 damage from MPF-I4.51977.
+[02:36:50]	Bot01 has taken 5 damage from MPF-I4.51977.
+[02:36:52]	Bot01 has taken 2 damage from MPF-I4.51977.
+[02:36:53]	Bot01 has taken 2 damage from MPF-I4.51977.
+[02:37:00]	Bot01 has taken 107 damage from MPF-I4.51977.
+[02:37:00]	MPF-I4.51977 has killed Bot01 with arccw_shorty.
+[02:37:09]	MPF-I4.51977 entered observer.
+[02:37:20]	MPF-I4.51977 exited observer at their location.
+[02:37:21]	MPF-I4.51977 entered observer.
+[02:37:26]	MPF-I4.51977 exited observer at their location.
+[02:37:46]	MPF-I4.51977 entered observer.
+[02:37:48]	MPF-I4.51977 exited observer at their location.
+[02:38:38]	MPF-I4.51977 has gained 300 tokens.
+[02:39:45]	Г@H3NK loaded the character 'Александр Климов'
+[02:40:38]	Александр Климов has gained a 'UMP-45' #67.
+[02:40:38]	Александр Климов used command '/CharGiveItem А ump45'.
+[02:40:42]	Александр Климов ran 'Equip' on item 'UMP-45' (#67)
+[02:41:21]	Александр Климов entered observer.
+[02:41:29]	Александр Климов ran 'EquipUn' on item 'UMP-45' (#67)
+[02:41:37]	Александр Климов exited observer at their location.
+[02:41:38]	Александр Климов ran 'drop' on item 'Suitcase' (#62)
+[02:41:38]	Александр Климов has lost a 'Suitcase' #62.
+[02:41:40]	Александр Климов ran 'take' on item 'Suitcase' (#62)
+[02:41:40]	Александр Климов has gained a 'Suitcase' #62.
+[02:41:49]	Александр Климов has gained a 'M3 Super 90' #68.
+[02:41:49]	Александр Климов used command '/CharGiveItem А m3'.
+[02:42:03]	Александр Климов has spawned 'models/props_lab/filecabinet02.mdl'.
+[02:42:10]	Александр Климов entered observer.
+[02:42:14]	Александр Климов exited observer at their location.
+[02:42:16]	Александр Климов has spawned a 'Entity [27][ix_forcefield]'.
+[02:42:17]	Александр Климов has spawned a 'Entity [568][ix_forcefield]'.
+[02:42:19]	Александр Климов entered observer.
+[02:42:22]	Александр Климов exited observer at their location.
+[02:42:28]	Г@H3NK loaded the character 'MPF-I4.51977'
+[02:42:44]	MPF-I4.51977 entered observer.
+[02:43:02]	MPF-I4.51977 exited observer at their location.
+[02:43:06]	MPF-I4.51977 has spawned a 'Entity [27][ix_forcefield]'.
+[02:43:07]	MPF-I4.51977 has spawned a 'Entity [572][ix_forcefield]'.
+[02:43:08]	MPF-I4.51977 has spawned a 'Entity [27][ix_forcefield]'.
+[02:43:09]	MPF-I4.51977 has spawned a 'Entity [572][ix_forcefield]'.
+[02:43:11]	MPF-I4.51977 has spawned a 'Entity [27][ix_forcefield]'.
+[02:43:13]	MPF-I4.51977 has spawned a 'Entity [27][ix_forcefield]'.
+[02:43:15]	MPF-I4.51977 has spawned a 'Entity [27][ix_forcefield]'.
+[02:43:17]	MPF-I4.51977 has spawned a 'Entity [27][ix_forcefield]'.
+[02:43:21]	MPF-I4.51977 has spawned a 'Entity [572][ix_forcefield]'.
+[02:43:23]	MPF-I4.51977 has spawned a 'Entity [27][ix_forcefield]'.
+[02:43:25]	MPF-I4.51977 entered observer.
+[02:43:26]	MPF-I4.51977 has spawned a 'Entity [27][ix_forcefield]'.
+[02:43:29]	MPF-I4.51977 has spawned a 'Entity [27][ix_forcefield]'.
+[02:43:30]	MPF-I4.51977 has spawned a 'Entity [572][ix_forcefield]'.
+[02:43:35]	MPF-I4.51977 exited observer at their location.
+[02:43:50]	MPF-I4.51977 has spawned a 'Entity [574][ix_forcefield]'.
+[02:43:53]	MPF-I4.51977 has spawned a 'Entity [574][ix_forcefield]'.
+[02:43:59]	MPF-I4.51977 has spawned a 'Entity [574][ix_forcefield]'.
+[02:44:02]	MPF-I4.51977 has spawned a 'Entity [574][ix_forcefield]'.
+[02:44:07]	MPF-I4.51977 has spawned a 'Entity [574][ix_forcefield]'.
+[02:44:10]	MPF-I4.51977 has spawned a 'Entity [593][ix_forcefield]'.
+[02:44:16]	MPF-I4.51977 has spawned a 'Entity [574][ix_forcefield]'.
+[02:44:17]	MPF-I4.51977 has spawned a 'Entity [593][ix_forcefield]'.
+[02:44:18]	MPF-I4.51977 has spawned a 'Entity [574][ix_forcefield]'.
+[02:44:20]	MPF-I4.51977 has spawned a 'Entity [593][ix_forcefield]'.
+[02:44:21]	MPF-I4.51977 has spawned a 'Entity [574][ix_forcefield]'.
+[02:44:23]	MPF-I4.51977 has spawned a 'Entity [593][ix_forcefield]'.
+[02:44:23]	MPF-I4.51977 entered observer.
+[02:44:27]	MPF-I4.51977 has spawned a 'Entity [574][ix_forcefield]'.
+[02:44:29]	MPF-I4.51977 has spawned a 'Entity [601][ix_forcefield]'.
+[02:44:31]	MPF-I4.51977 has spawned a 'Entity [574][ix_forcefield]'.
+[02:44:46]	MPF-I4.51977 exited observer at their location.
+[02:44:55]	MPF-I4.51977 has spawned a 'Entity [574][ix_forcefield]'.
+[02:44:56]	MPF-I4.51977 has spawned a 'Entity [541][ix_forcefield]'.
+[02:44:57]	MPF-I4.51977 has spawned a 'Entity [574][ix_forcefield]'.
+[02:44:57]	MPF-I4.51977 has spawned a 'Entity [594][ix_forcefield]'.
+[02:44:58]	MPF-I4.51977 has spawned a 'Entity [541][ix_forcefield]'.
+[02:44:58]	MPF-I4.51977 has spawned a 'Entity [670][ix_forcefield]'.
+[02:44:58]	MPF-I4.51977 has spawned a 'Entity [688][ix_forcefield]'.
+[02:45:10]	MPF-I4.51977 has spawned a 'Entity [541][ix_rationdispenser]'.
+[02:45:11]	MPF-I4.51977 has spawned a 'Entity [593][ix_rationdispenser]'.
+[02:45:21]	Г@H3NK loaded the character 'Александр Климов'
+[02:45:23]	Александр Климов entered observer.
+[02:45:28]	Александр Климов exited observer at their location.
+[02:45:29]	Александр Климов has spawned a 'Entity [27][ix_forcefield]'.
+[02:45:31]	Александр Климов entered observer.
+[02:45:35]	Александр Климов has spawned a 'Entity [27][ix_forcefield]'.
+[02:45:38]	Александр Климов exited observer at their location.
+[02:45:45]	Г@H3NK loaded the character 'MPF-I4.51977'
+[02:45:47]	MPF-I4.51977 has spawned a 'Entity [27][ix_forcefield]'.
+[02:45:49]	MPF-I4.51977 has spawned a 'Entity [27][ix_forcefield]'.
+[02:45:50]	MPF-I4.51977 entered observer.
+[02:45:56]	MPF-I4.51977 has spawned a 'Entity [27][ix_forcefield]'.
+[02:46:04]	MPF-I4.51977 has spawned a 'Entity [27][ix_forcefield]'.
+[02:46:06]	MPF-I4.51977 has spawned a 'Entity [568][ix_forcefield]'.
+[02:46:15]	MPF-I4.51977 has spawned a 'Entity [568][ix_forcefield]'.
+[02:46:16]	MPF-I4.51977 has spawned a 'Entity [27][ix_forcefield]'.
+[02:46:21]	MPF-I4.51977 has spawned a 'Entity [27][ix_forcefield]'.
+[02:46:22]	MPF-I4.51977 has spawned a 'Entity [27][ix_forcefield]'.
+[02:46:30]	MPF-I4.51977 exited observer at their location.
+[02:46:35]	MPF-I4.51977 entered observer.
+[02:46:38]	MPF-I4.51977 has spawned a 'Entity [27][ix_forcefield]'.
+[02:46:40]	MPF-I4.51977 has spawned a 'Entity [568][ix_forcefield]'.
+[02:46:47]	MPF-I4.51977 exited observer at their location.
+[02:47:14]	MPF-I4.51977 entered observer.
+[02:47:24]	MPF-I4.51977 has spawned a 'Entity [27][ix_forcefield]'.
+[02:47:26]	MPF-I4.51977 has spawned a 'Entity [572][ix_forcefield]'.
+[02:47:30]	MPF-I4.51977 has spawned a 'Entity [572][ix_forcefield]'.
+[02:47:35]	MPF-I4.51977 has spawned a 'Entity [27][ix_forcefield]'.
+[02:47:36]	MPF-I4.51977 has spawned a 'Entity [572][ix_forcefield]'.
+[02:47:37]	MPF-I4.51977 has spawned a 'Entity [27][ix_forcefield]'.
+[02:47:44]	MPF-I4.51977 exited observer at their location.
+[02:47:45]	MPF-I4.51977 has spawned a 'Entity [27][ix_forcefield]'.
+[02:47:46]	MPF-I4.51977 has spawned a 'Entity [27][ix_forcefield]'.
+[02:47:48]	MPF-I4.51977 has spawned a 'Entity [572][ix_forcefield]'.
+[02:47:51]	MPF-I4.51977 entered observer.
+[02:48:21]	MPF-I4.51977 has spawned a 'Entity [27][ix_forcefield]'.
+[02:48:30]	MPF-I4.51977 has spawned a 'Entity [27][ix_forcefield]'.
+[02:48:33]	MPF-I4.51977 has spawned a 'Entity [27][ix_forcefield]'.
+[02:48:34]	MPF-I4.51977 has spawned a 'Entity [572][ix_forcefield]'.
+[02:49:50]	MPF-I4.51977 exited observer at their location.
+[02:50:05]	MPF-I4.51977 used command '/SpawnAdd rebel'.
+[02:50:11]	MPF-I4.51977 entered observer.
+[02:50:45]	MPF-I4.51977 exited observer at their location.
+[02:50:45]	MPF-I4.51977 has gained 300 tokens.
+[02:50:47]	MPF-I4.51977 entered observer.
+[02:50:58]	MPF-I4.51977 exited observer at their location.
+[02:51:31]	MPF-I4.51977 entered observer.
+[02:51:32]	MPF-I4.51977 exited observer at their location.
+[02:51:55]	MPF-I4.51977 entered observer.
+[02:51:56]	MPF-I4.51977 exited observer at their location.
+[02:52:13]	MPF-I4.51977 has taken 5 damage from sewer_base_door.
+[02:52:13]	MPF-I4.51977 has taken 5 damage from sewer_base_door.
+[02:52:13]	MPF-I4.51977 has taken 5 damage from sewer_base_door.
+[02:52:13]	MPF-I4.51977 has taken 5 damage from sewer_base_door.
+[02:52:13]	MPF-I4.51977 has taken 5 damage from sewer_base_door.
+[02:52:13]	MPF-I4.51977 has taken 5 damage from sewer_base_door.
+[02:52:13]	MPF-I4.51977 has taken 5 damage from sewer_base_door.
+[02:52:13]	MPF-I4.51977 has taken 5 damage from sewer_base_door.
+[02:52:13]	MPF-I4.51977 has taken 5 damage from sewer_base_door.
+[02:52:13]	MPF-I4.51977 has taken 5 damage from sewer_base_door.
+[02:52:13]	MPF-I4.51977 has taken 5 damage from sewer_base_door.
+[02:52:13]	MPF-I4.51977 has taken 5 damage from sewer_base_door.
+[02:52:13]	MPF-I4.51977 has taken 5 damage from sewer_base_door.
+[02:52:13]	MPF-I4.51977 has taken 5 damage from sewer_base_door.
+[02:52:13]	MPF-I4.51977 has taken 5 damage from sewer_base_door.
+[02:52:13]	MPF-I4.51977 has taken 5 damage from sewer_base_door.
+[02:52:13]	MPF-I4.51977 has taken 5 damage from sewer_base_door.
+[02:52:13]	MPF-I4.51977 has taken 5 damage from sewer_base_door.
+[02:52:13]	MPF-I4.51977 has taken 5 damage from sewer_base_door.
+[02:52:13]	MPF-I4.51977 has taken 5 damage from sewer_base_door.
+[02:52:13]	MPF-I4.51977 has taken 5 damage from sewer_base_door.
+[02:52:13]	MPF-I4.51977 has taken 5 damage from sewer_base_door.
+[02:52:14]	MPF-I4.51977 has taken 5 damage from sewer_base_door.
+[02:52:14]	MPF-I4.51977 has taken 5 damage from sewer_base_door.
+[02:52:14]	MPF-I4.51977 has taken 5 damage from sewer_base_door.
+[02:52:14]	MPF-I4.51977 has taken 5 damage from sewer_base_door.
+[02:52:14]	MPF-I4.51977 has taken 5 damage from sewer_base_door.
+[02:52:14]	MPF-I4.51977 has taken 5 damage from sewer_base_door.
+[02:52:14]	MPF-I4.51977 has taken 5 damage from sewer_base_door.
+[02:52:14]	MPF-I4.51977 has taken 5 damage from sewer_base_door.
+[02:52:14]	MPF-I4.51977 has taken 5 damage from sewer_base_door.
+[02:52:14]	MPF-I4.51977 has taken 5 damage from sewer_base_door.
+[02:52:14]	MPF-I4.51977 has taken 5 damage from sewer_base_door.
+[02:52:14]	MPF-I4.51977 has taken 5 damage from sewer_base_door.
+[02:52:14]	MPF-I4.51977 has taken 5 damage from sewer_base_door.
+[02:52:14]	MPF-I4.51977 has taken 5 damage from sewer_base_door.
+[02:52:14]	MPF-I4.51977 has taken 5 damage from sewer_base_door.
+[02:52:14]	sewer_base_door has killed MPF-I4.51977.
+[02:52:28]	MPF-I4.51977 ran 'Equip' on item 'M3 Super 90' (#66)
+[02:52:32]	MPF-I4.51977 entered observer.
+[02:53:52]	MPF-I4.51977 set vignette to '[false]'.
+[02:53:52]	MPF-I4.51977 set vignette to '[true]'.
+[02:53:53]	MPF-I4.51977 set vignette to '[false]'.
+[02:54:02]	MPF-I4.51977 exited observer at their location.
+[02:54:20]	MPF-I4.51977 set vignette to '[true]'.
+[02:54:28]	MPF-I4.51977 set weaponAlwaysRaised to '[true]'.
+[02:54:33]	MPF-I4.51977 set weaponAlwaysRaised to '[false]'.
+[02:54:38]	MPF-I4.51977 set thirdperson to '[false]'.
+[02:54:40]	MPF-I4.51977 set thirdperson to '[true]'.
+[02:54:40]	MPF-I4.51977 set thirdperson to '[false]'.
+[02:54:56]	MPF-I4.51977 set allowVoice to '[true]'.
+[02:55:06]	MPF-I4.51977 set intro to '[false]'.
+[02:55:45]	MPF-I4.51977 has gained 300 tokens.
+[02:56:56]	MPF-I4.51977 set walkSpeed to '75'.
+[02:57:33]	MPF-I4.51977 set walkSpeed to '75'.
+[02:57:39]	MPF-I4.51977 set walkSpeed to '75'.
+[02:57:42]	MPF-I4.51977 set walkSpeed to '75'.
+[02:58:18]	MPF-I4.51977 set walkSpeed to '100'.
+[02:58:30]	MPF-I4.51977 set walkSpeed to '75'.
+[02:58:33]	MPF-I4.51977 set walkSpeed to '500'.
+[02:58:58]	MPF-I4.51977 set walkSpeed to '75'.
+[02:59:17]	MPF-I4.51977 set walkSpeed to '85'.
+[02:59:38]	MPF-I4.51977 set walkSpeed to '80'.
+[03:00:05]	MPF-I4.51977 set staminaDrain to '2'.
+[03:00:32]	MPF-I4.51977 used command '/ViewObjectives'.
+[03:00:45]	MPF-I4.51977 has gained 300 tokens.
+[03:01:26]	MPF-I4.51977 set staminaDrain to '1.5'.
+[03:01:36]	MPF-I4.51977 set spawnTime to '30'.
+[03:02:02]	MPF-I4.51977 set runSpeed to '250'.
+[03:02:23]	MPF-I4.51977 set runSpeed to '215'.
+[03:02:33]	MPF-I4.51977 has taken 57 damage from worldspawn.
+[03:02:43]	MPF-I4.51977 used command '/ViewObjectives'.
+[03:03:40]	MPF-I4.51977 used command '/PlyWhitelist bot mpf'.
+[03:03:47]	MPF-I4.51977 used command '/PlyWhitelist bot metropolice'.
+[03:05:15]	MPF-I4.51977 used command '/PlyUnwhitelist bot rebel'.
+[03:05:30]	MPF-I4.51977 used command '/CharBan bot 0'.
+[03:05:45]	MPF-I4.51977 has gained 300 tokens.
+[03:05:45]	MPF-I4.51977 used command '/CharUnban bot'.
+[03:05:51]	Bot02 has connected.
+[03:05:51]	Bot02 loaded the character 'Bot02'
+[03:05:55]	Bot03 has connected.
+[03:05:55]	Bot03 loaded the character 'Bot03'
+[03:06:05]	MPF-I4.51977 used command '/PlyWhitelist bot metropolice'.
+[03:06:11]	MPF-I4.51977 used command '/PlyWhitelist bot03 metropolice'.
+[03:06:19]	MPF-I4.51977 used command '/CharUnban bot'.
+[03:06:31]	MPF-I4.51977 used command '/CharFallOver'.
+[03:06:33]	MPF-I4.51977 has taken 500 damage from worldspawn.
+[03:06:33]	worldspawn has killed MPF-I4.51977.
+[03:07:30]	MPF-I4.51977 used command '/CharSetClass bot03 metropolice'.
+[03:07:39]	MPF-I4.51977 used command '/CharSetClass bot03 elitemetropolice'.
+[03:07:48]	MPF-I4.51977 used command '/CharSetClass bot03 elite metropolice'.
+[03:07:55]	MPF-I4.51977 used command '/CharSetClass bot03'.
+[03:08:16]	MPF-I4.51977 ran 'Equip' on item 'M3 Super 90' (#66)
+[03:08:40]	Bot03 has taken 75 damage from MPF-I4.51977.
+[03:08:43]	Bot03 has taken 190 damage from MPF-I4.51977.
+[03:08:43]	MPF-I4.51977 has killed Bot03 with arccw_shorty.
+[03:08:48]	MPF-I4.51977 entered observer.
+[03:08:53]	MPF-I4.51977 exited observer at their location.
+[03:08:54]	MPF-I4.51977 entered observer.
+[03:08:55]	MPF-I4.51977 exited observer at their location.
+[03:08:56]	MPF-I4.51977 entered observer.
+[03:08:58]	MPF-I4.51977 exited observer at their location.
+[03:09:02]	Bot02 has taken 27 damage from MPF-I4.51977.
+[03:09:02]	Bot02 has taken 107 damage from MPF-I4.51977.
+[03:09:02]	MPF-I4.51977 has killed Bot02 with arccw_shorty.
+[03:09:11]	MPF-I4.51977 entered observer.
+[03:09:12]	MPF-I4.51977 exited observer at their location.
+[03:09:15]	MPF-I4.51977 entered observer.
+[03:09:16]	MPF-I4.51977 exited observer at their location.
+[03:09:32]	MPF-I4.51977 set spawnTime to '15'.
+[03:09:35]	Bot02 has taken 23 damage from MPF-I4.51977.
+[03:09:35]	Bot02 has taken 23 damage from MPF-I4.51977.
+[03:09:35]	Bot02 has taken 93 damage from MPF-I4.51977.
+[03:09:35]	MPF-I4.51977 has killed Bot02 with arccw_shorty.
+[03:09:39]	Bot03 has taken 20 damage from MPF-I4.51977.
+[03:09:39]	Bot03 has taken 21 damage from MPF-I4.51977.
+[03:09:39]	Bot03 has taken 20 damage from MPF-I4.51977.
+[03:09:40]	Bot03 has taken 21 damage from MPF-I4.51977.
+[03:09:40]	Bot03 has taken 82 damage from MPF-I4.51977.
+[03:09:40]	MPF-I4.51977 has killed Bot03 with arccw_shorty.
+[03:09:55]	Bot02 has taken 80 damage from MPF-I4.51977.
+[03:09:57]	Bot02 has taken 80 damage from MPF-I4.51977.
+[03:09:57]	MPF-I4.51977 has killed Bot02 with arccw_shorty.
+[03:09:59]	Bot03 has taken 80 damage from MPF-I4.51977.
+[03:10:00]	Bot03 has taken 20 damage from MPF-I4.51977.
+[03:10:00]	MPF-I4.51977 has killed Bot03 with arccw_shorty.
+[03:10:23]	Bot02 has taken 128 damage from MPF-I4.51977.
+[03:10:23]	MPF-I4.51977 has killed Bot02 with arccw_shorty.
+[03:10:25]	Bot03 has taken 96 damage from MPF-I4.51977.
+[03:10:25]	Bot03 has taken 95 damage from MPF-I4.51977.
+[03:10:25]	MPF-I4.51977 has killed Bot03 with arccw_shorty.
+[03:10:40]	Bot02 has taken 22 damage from MPF-I4.51977.
+[03:10:41]	Bot02 has taken 24 damage from MPF-I4.51977.
+[03:10:41]	Bot02 has taken 95 damage from MPF-I4.51977.
+[03:10:41]	MPF-I4.51977 has killed Bot02 with arccw_shorty.
+[03:10:45]	MPF-I4.51977 has gained 300 tokens.
+[03:10:45]	Bot03 has taken 116 damage from MPF-I4.51977.
+[03:10:45]	MPF-I4.51977 has killed Bot03 with arccw_shorty.
+[03:10:58]	Bot02 has taken 119 damage from MPF-I4.51977.
+[03:10:58]	MPF-I4.51977 has killed Bot02 with arccw_shorty.
+[03:11:04]	Bot03 has taken 130 damage from MPF-I4.51977.
+[03:11:04]	MPF-I4.51977 has killed Bot03 with arccw_shorty.
+[03:11:30]	Bot02 has taken 136 damage from MPF-I4.51977.
+[03:11:30]	MPF-I4.51977 has killed Bot02 with arccw_shorty.
+[03:11:35]	Bot03 has taken 23 damage from MPF-I4.51977.
+[03:11:37]	Bot03 has taken 23 damage from MPF-I4.51977.
+[03:11:38]	Bot03 has taken 22 damage from MPF-I4.51977.
+[03:11:43]	Bot03 has taken 22 damage from MPF-I4.51977.
+[03:11:43]	Bot03 has taken 88 damage from MPF-I4.51977.
+[03:11:43]	MPF-I4.51977 has killed Bot03 with arccw_shorty.
+[03:12:05]	Bot02 has taken 115 damage from MPF-I4.51977.
+[03:12:05]	MPF-I4.51977 has killed Bot02 with arccw_shorty.
+[03:12:09]	Bot03 has taken 227 damage from MPF-I4.51977.
+[03:12:09]	MPF-I4.51977 has killed Bot03 with arccw_shorty.
+[03:12:28]	Bot02 has taken 232 damage from MPF-I4.51977.
+[03:12:28]	MPF-I4.51977 has killed Bot02 with arccw_shorty.
+[03:12:30]	Bot03 has taken 27 damage from MPF-I4.51977.
+[03:12:37]	Bot03 has taken 5 damage from MPF-I4.51977.
+[03:12:37]	Bot03 has taken 5 damage from MPF-I4.51977.
+[03:12:38]	Bot03 has taken 5 damage from MPF-I4.51977.
+[03:12:40]	Bot03 has taken 2 damage from MPF-I4.51977.
+[03:12:41]	Bot03 has taken 2 damage from MPF-I4.51977.
+[03:12:42]	Bot03 has taken 2 damage from MPF-I4.51977.
+[03:12:43]	Bot03 has taken 2 damage from MPF-I4.51977.
+[03:12:44]	Bot03 has taken 2 damage from MPF-I4.51977.
+[03:12:45]	Bot03 has taken 2 damage from MPF-I4.51977.
+[03:12:46]	Bot03 has taken 2 damage from MPF-I4.51977.
+[03:12:46]	Bot03 has taken 2 damage from MPF-I4.51977.
+[03:12:47]	Bot03 has taken 2 damage from MPF-I4.51977.
+[03:12:48]	Bot03 has taken 2 damage from MPF-I4.51977.
+[03:12:49]	Bot03 has taken 2 damage from MPF-I4.51977.
+[03:12:50]	Bot03 has taken 2 damage from MPF-I4.51977.
+[03:12:51]	Bot03 has taken 2 damage from MPF-I4.51977.
+[03:12:57]	Bot03 has taken 125 damage from MPF-I4.51977.
+[03:12:57]	MPF-I4.51977 has killed Bot03 with arccw_shorty.
+[03:13:01]	Bot02 has taken 88 damage from MPF-I4.51977.
+[03:13:01]	Bot02 has taken 22 damage from MPF-I4.51977.
+[03:13:01]	MPF-I4.51977 has killed Bot02 with arccw_shorty.
+[03:13:14]	Bot03 has taken 22 damage from MPF-I4.51977.
+[03:13:16]	Bot03 has taken 23 damage from MPF-I4.51977.
+[03:13:18]	Bot02 has taken 134 damage from MPF-I4.51977.
+[03:13:18]	MPF-I4.51977 has killed Bot02 with arccw_shorty.
+[03:13:21]	Bot03 has taken 129 damage from MPF-I4.51977.
+[03:13:21]	MPF-I4.51977 has killed Bot03 with arccw_shorty.
+[03:13:57]	Bot02 has taken 25 damage from MPF-I4.51977.
+[03:13:57]	Bot02 has taken 25 damage from MPF-I4.51977.
+[03:14:05]	Bot02 has taken 20 damage from MPF-I4.51977.
+[03:14:05]	Bot02 has taken 20 damage from MPF-I4.51977.
+[03:14:05]	Bot02 has taken 20 damage from MPF-I4.51977.
+[03:14:05]	MPF-I4.51977 has killed Bot02 with arccw_shorty.
+[03:14:08]	Bot03 has taken 85 damage from MPF-I4.51977.
+[03:14:08]	Bot03 has taken 21 damage from MPF-I4.51977.
+[03:14:08]	MPF-I4.51977 has killed Bot03 with arccw_shorty.
+[03:14:50]	Bot03 has taken 87 damage from MPF-I4.51977.
+[03:14:50]	Bot03 has taken 22 damage from MPF-I4.51977.
+[03:14:50]	MPF-I4.51977 has killed Bot03 with arccw_shorty.
+[03:15:26]	Bot02 has taken 138 damage from MPF-I4.51977.
+[03:15:26]	MPF-I4.51977 has killed Bot02 with arccw_shorty.
+[03:15:29]	Bot03 has taken 206 damage from MPF-I4.51977.
+[03:15:29]	MPF-I4.51977 has killed Bot03 with arccw_shorty.
+[03:15:45]	MPF-I4.51977 has gained 300 tokens.
+[03:15:47]	Bot02 has taken 94 damage from MPF-I4.51977.
+[03:15:47]	Bot02 has taken 94 damage from MPF-I4.51977.
+[03:15:47]	MPF-I4.51977 has killed Bot02 with arccw_shorty.
+[03:15:48]	Bot03 has taken 81 damage from MPF-I4.51977.
+[03:15:48]	Bot03 has taken 81 damage from MPF-I4.51977.
+[03:15:48]	MPF-I4.51977 has killed Bot03 with arccw_shorty.
+[03:19:29]	MPF-I4.51977 entered observer.
+[03:19:34]	MPF-I4.51977 exited observer at their location.
+[03:19:46]	MPF-I4.51977 used command '/Broadcast КОД 3'.
+[03:19:53]	MPF-I4.51977 used command '/Broadcast "КОД 3'.
+[03:20:09]	MPF-I4.51977 used command '/Dispatch 10-8'.
+[03:20:20]	Г@H3NK loaded the character 'OTA-ECHO.OWS-57367'
+[03:20:28]	Bot03 has taken 22 damage from OTA-ECHO.OWS-57367.
+[03:20:28]	Bot03 has taken 11 damage from OTA-ECHO.OWS-57367.
+[03:20:28]	Bot03 has taken 22 damage from OTA-ECHO.OWS-57367.
+[03:20:28]	Bot03 has taken 11 damage from OTA-ECHO.OWS-57367.
+[03:20:29]	Bot03 has taken 11 damage from OTA-ECHO.OWS-57367.
+[03:20:29]	Bot03 has taken 11 damage from OTA-ECHO.OWS-57367.
+[03:20:30]	Bot02 has taken 22 damage from OTA-ECHO.OWS-57367.
+[03:20:31]	Bot02 has taken 11 damage from OTA-ECHO.OWS-57367.
+[03:20:31]	Bot02 has taken 11 damage from OTA-ECHO.OWS-57367.
+[03:20:32]	Bot02 has taken 22 damage from OTA-ECHO.OWS-57367.
+[03:20:33]	Bot02 has taken 22 damage from OTA-ECHO.OWS-57367.
+[03:20:34]	Bot02 has taken 22 damage from OTA-ECHO.OWS-57367.
+[03:20:34]	OTA-ECHO.OWS-57367 has killed Bot02 with weapon_ar2.
+[03:20:41]	OTA-ECHO.OWS-57367 ran 'EquipUn' on item 'Pulse-Rifle' (#50)
+[03:20:41]	OTA-ECHO.OWS-57367 ran 'Equip' on item 'Pulse-Rifle' (#50)
+[03:20:49]	OTA-ECHO.OWS-57367 ran 'EquipUn' on item 'Pulse-Rifle' (#50)
+[03:20:49]	OTA-ECHO.OWS-57367 ran 'Equip' on item 'Pulse-Rifle' (#50)
+[03:20:57]	Bot02 has taken 3 damage from OTA-ECHO.OWS-57367.
+[03:20:57]	Bot02 has taken 11 damage from OTA-ECHO.OWS-57367.
+[03:20:57]	Bot02 has taken 11 damage from OTA-ECHO.OWS-57367.
+[03:20:57]	Bot02 has taken 11 damage from OTA-ECHO.OWS-57367.
+[03:20:57]	Bot02 has taken 3 damage from OTA-ECHO.OWS-57367.
+[03:20:57]	Bot02 has taken 11 damage from OTA-ECHO.OWS-57367.
+[03:20:57]	Bot02 has taken 3 damage from OTA-ECHO.OWS-57367.
+[03:20:58]	Bot02 has taken 11 damage from OTA-ECHO.OWS-57367.
+[03:20:58]	Bot02 has taken 11 damage from OTA-ECHO.OWS-57367.
+[03:20:58]	Bot02 has taken 11 damage from OTA-ECHO.OWS-57367.
+[03:20:58]	Bot02 has taken 22 damage from OTA-ECHO.OWS-57367.
+[03:20:58]	OTA-ECHO.OWS-57367 has killed Bot02 with weapon_ar2.
+[03:21:10]	OTA-ECHO.OWS-57367 ran 'EquipUn' on item 'Pulse-Rifle' (#50)
+[03:21:21]	OTA-ECHO.OWS-57367 ran 'drop' on item 'Pulse-Rifle' (#50)
+[03:21:21]	OTA-ECHO.OWS-57367 has lost a 'Pulse-Rifle' #50.
+[03:21:40]	OTA-ECHO.OWS-57367 has gained a 'M3 Super 90' #69.
+[03:21:40]	OTA-ECHO.OWS-57367 used command '/CharGiveItem OTA m3'.
+[03:21:42]	OTA-ECHO.OWS-57367 ran 'Equip' on item 'M3 Super 90' (#69)
+[03:21:52]	OTA-ECHO.OWS-57367 used command '/CharSetSkin OTA 1'.
+[03:22:09]	OTA-ECHO.OWS-57367 has spawned a 'Entity [545][item_box_buckshot]'.
+[03:22:09]	OTA-ECHO.OWS-57367 has spawned a 'Entity [594][item_box_buckshot]'.
+[03:22:10]	OTA-ECHO.OWS-57367 has spawned a 'Entity [671][item_box_buckshot]'.
+[03:22:10]	OTA-ECHO.OWS-57367 has spawned a 'Entity [679][item_box_buckshot]'.
+[03:22:10]	OTA-ECHO.OWS-57367 has spawned a 'Entity [686][item_box_buckshot]'.
+[03:22:10]	OTA-ECHO.OWS-57367 has spawned a 'Entity [688][item_box_buckshot]'.
+[03:22:10]	OTA-ECHO.OWS-57367 has spawned a 'Entity [691][item_box_buckshot]'.
+[03:22:10]	OTA-ECHO.OWS-57367 has spawned a 'Entity [693][item_box_buckshot]'.
+[03:22:10]	OTA-ECHO.OWS-57367 has spawned a 'Entity [701][item_box_buckshot]'.
+[03:22:10]	OTA-ECHO.OWS-57367 has spawned a 'Entity [707][item_box_buckshot]'.
+[03:22:10]	OTA-ECHO.OWS-57367 has spawned a 'Entity [545][item_box_buckshot]'.
+[03:22:11]	OTA-ECHO.OWS-57367 has spawned a 'Entity [594][item_box_buckshot]'.
+[03:22:15]	Bot02 has taken 27 damage from OTA-ECHO.OWS-57367.
+[03:22:15]	Bot02 has taken 107 damage from OTA-ECHO.OWS-57367.
+[03:22:15]	OTA-ECHO.OWS-57367 has killed Bot02 with arccw_shorty.
+[03:22:20]	Bot03 has taken 98 damage from OTA-ECHO.OWS-57367.
+[03:22:20]	OTA-ECHO.OWS-57367 has killed Bot03 with arccw_shorty.
+[03:25:11]	Bot03 has taken 24 damage from OTA-ECHO.OWS-57367.
+[03:25:11]	Bot03 has taken 96 damage from OTA-ECHO.OWS-57367.
+[03:25:11]	OTA-ECHO.OWS-57367 has killed Bot03 with arccw_shorty.
+[03:25:20]	OTA-ECHO.OWS-57367 has gained 40 tokens.
+[03:25:49]	Bot02 has taken 23 damage from OTA-ECHO.OWS-57367.
+[03:25:50]	Bot02 has taken 92 damage from OTA-ECHO.OWS-57367.
+[03:25:50]	OTA-ECHO.OWS-57367 has killed Bot02 with arccw_shorty.
+[03:27:29]	Г@H3NK has connected.
+[03:28:19]	Г@H3NK loaded the character 'Александр Климов'
+[03:28:40]	Александр Климов has spawned a 'Entity [200][st_radio_country_n]'.
+[03:28:44]	Александр Климов has spawned a 'Entity [292][st_radio_classics_n]'.
+[03:28:49]	Александр Климов has spawned a 'Entity [200][st_radio_cuban_n]'.
+[03:28:52]	Александр Климов has spawned a 'Entity [292][st_radio_desert_n]'.
+[03:29:00]	Александр Климов has spawned a 'Entity [200][ix_forcefield]'.
+[03:29:02]	Александр Климов has spawned a 'Entity [200][ix_forcefield]'.
+[03:29:03]	Александр Климов has spawned a 'Entity [688][ix_forcefield]'.
+[03:29:04]	Александр Климов has spawned a 'Entity [200][ix_forcefield]'.
+[03:29:08]	Александр Климов has spawned a 'Entity [200][ix_forcefield]'.
+[03:29:10]	Александр Климов has spawned a 'Entity [688][ix_forcefield]'.
+[03:29:12]	Александр Климов has spawned a 'Entity [200][ix_forcefield]'.
+[03:29:13]	Александр Климов has spawned a 'Entity [688][ix_forcefield]'.
+[03:29:15]	Александр Климов has spawned a 'Entity [200][ix_forcefield]'.
+[03:29:16]	Александр Климов has spawned a 'Entity [688][ix_forcefield]'.
+[03:29:17]	Александр Климов has spawned a 'Entity [200][ix_forcefield]'.
+[03:29:18]	Александр Климов has spawned a 'Entity [688][ix_forcefield]'.
+[03:29:22]	Александр Климов has spawned a 'Entity [200][ix_forcefield]'.
+[03:29:23]	Александр Климов has spawned a 'Entity [688][ix_forcefield]'.
+[03:29:24]	Александр Климов has spawned a 'Entity [200][ix_forcefield]'.
+[03:29:25]	Александр Климов has spawned a 'Entity [688][ix_forcefield]'.
+[03:30:33]	Александр Климов has spawned a 'Entity [200][st_radio_flamenco_n]'.
+[03:30:35]	Александр Климов has spawned a 'Entity [293][st_radio_flamenco_n]'.
+[03:30:54]	Александр Климов entered observer.
+[03:31:13]	Александр Климов exited observer at their location.
+[03:32:10]	Александр Климов has spawned 'models/barnes/citizen/male_04.mdl'.
+[03:32:41]	Александр Климов used command '/CharSetModel А models/barnes/citizen/male_04.mdl'.
+[03:33:01]	Александр Климов used command '/ActSitWall'.
+[03:33:05]	Александр Климов used command '/ActSit'.
+[03:33:15]	Александр Климов has spawned 'models/barnes/refugee/male_04.mdl'.
+[03:33:16]	Александр Климов has spawned 'models/barnes/refugee/male_04.mdl'.
+[03:33:18]	Александр Климов has spawned 'models/barnes/refugee/male_04.mdl'.
+[03:33:20]	Александр Климов has spawned 'models/barnes/refugee/male_05.mdl'.
+[03:37:51]	Александр Климов used command '/BecomeClass scout'.
+[03:38:00]	Александр Климов used command '/BecomeClass soldier'.
+[03:38:19]	Александр Климов used command '/BecomeClass солдат'.
+[03:38:27]	Александр Климов used command '/BecomeClass'.
+[03:38:49]	Александр Климов used command '/BecomeClass rebel_soldier'.
+[03:40:18]	Александр Климов used command '/BecomeClass rebel_veteran'.
+[03:40:20]	Александр Климов used command '/ExitAct'.
+[03:40:28]	Александр Климов ran 'Equip' on item 'M3 Super 90' (#68)
+[03:40:38]	Александр Климов has taken 6 damage from worldspawn.
+[03:40:45]	Александр Климов entered observer.
+[03:40:46]	Александр Климов exited observer at their location.
+[03:41:20]	Александр Климов has spawned 'models/tactical_rebel.mdl'.
+[03:41:38]	Александр Климов has spawned 'models/humans/group03/coalition_male.mdl'.
+[03:41:42]	Александр Климов has spawned 'models/humans/group03/male_118.mdl'.
+[03:41:44]	Александр Климов entered observer.
+[03:41:46]	Александр Климов exited observer at their location.
+[03:41:47]	Александр Климов entered observer.
+[03:41:49]	Александр Климов has spawned 'models/humans/group03/male_31.mdl'.
+[03:41:52]	Александр Климов has spawned 'models/humans/group03/male_31.mdl'.
+[03:45:00]	Александр Климов exited observer at their location.
+[03:45:25]	Александр Климов ran 'EquipUn' on item 'M3 Super 90' (#68)
+[03:48:36]	Александр Климов has spawned 'models/barnes/refugee/male_79.mdl'.
+[03:48:36]	Александр Климов entered observer.
+[03:48:43]	Александр Климов exited observer at their location.
+[03:48:47]	Александр Климов has spawned 'models/barnes/refugee/male_91.mdl'.
+[03:48:48]	Александр Климов entered observer.
+[03:48:51]	Александр Климов exited observer at their location.
+[03:49:07]	Александр Климов has spawned 'models/javelin_unit.mdl'.
+[03:49:07]	Александр Климов entered observer.
+[03:49:10]	Александр Климов exited observer at their location.
+[03:49:16]	Александр Климов has spawned 'models/barnes/refugee/male_24.mdl'.
+[03:49:22]	Александр Климов has spawned 'models/barnes/refugee/male_91.mdl'.
+[03:50:45]	Александр Климов used command '/BecomeClass Разведчик'.
+[03:51:25]	Александр Климов has lost 65 tokens.
+[03:51:25]	Александр Климов ordered a shipment
+[03:51:30]	Александр Климов has gained a 'Health Kit' #70.
+[03:51:30]	Александр Климов took 'Health Kit' from the shipment
+[03:51:33]	Александр Климов ran 'Apply' on item 'Health Kit' (#70)
+[03:51:43]	Александр Климов ran 'drop' on item 'Suitcase' (#62)
+[03:51:43]	Александр Климов has lost a 'Suitcase' #62.
+[03:51:43]	Александр Климов has lost a 'M3 Super 90' #68.
+[03:51:48]	Александр Климов ran 'take' on item 'Suitcase' (#62)
+[03:51:48]	Александр Климов has gained a 'Suitcase' #62.
+[03:51:48]	Александр Климов has gained a 'M3 Super 90' #68.
+[03:51:50]	Александр Климов ran 'drop' on item 'Suitcase' (#62)
+[03:51:50]	Александр Климов has lost a 'Suitcase' #62.
+[03:51:50]	Александр Климов has lost a 'M3 Super 90' #68.
+[03:51:55]	Александр Климов ran 'take' on item 'Suitcase' (#62)
+[03:51:55]	Александр Климов has gained a 'Suitcase' #62.
+[03:51:55]	Александр Климов has gained a 'M3 Super 90' #68.
+[03:53:04]	Александр Климов has spawned 'models/barnes/refugee/female_67.mdl'.
+[03:53:06]	Александр Климов has spawned 'models/barnes/refugee/male_04.mdl'.
+[03:53:07]	Александр Климов entered observer.
+[03:53:21]	Александр Климов has spawned 'models/kake/gasmask_female/gasmask_female.mdl'.
+[03:53:22]	Александр Климов has spawned 'models/kake/ceda_operator_female.mdl'.
+[03:53:27]	Александр Климов has spawned 'models/humans/rajio/male_01.mdl'.
+[03:53:37]	Александр Климов exited observer at their location.
+[03:53:51]	Александр Климов used command '/BecomeClass'.
+[03:54:05]	Александр Климов used command '/BecomeClass Ветеран'.
+[03:54:08]	Александр Климов ran 'drop' on item 'Suitcase' (#62)
+[03:54:08]	Александр Климов has lost a 'Suitcase' #62.
+[03:54:08]	Александр Климов has lost a 'M3 Super 90' #68.
+[03:54:12]	Александр Климов entered observer.
+[03:54:13]	Александр Климов exited observer at their location.
+[03:54:13]	Александр Климов has taken 202 damage from worldspawn.
+[03:54:13]	worldspawn has killed Александр Климов.
+[03:54:32]	Александр Климов entered observer.
+[03:54:33]	Александр Климов exited observer at their location.
+[03:54:33]	Александр Климов entered observer.
+[03:54:34]	Александр Климов exited observer at their location.
+[03:54:39]	Александр Климов ran 'Equip' on item 'UMP-45' (#67)
+[03:54:48]	Александр Климов entered observer.
+[03:54:55]	Александр Климов ran 'EquipUn' on item 'UMP-45' (#67)
+[03:55:12]	Александр Климов exited observer at their location.
+[03:55:28]	Александр Климов ran 'take' on item 'Suitcase' (#62)
+[03:55:28]	Александр Климов has gained a 'Suitcase' #62.
+[03:55:28]	Александр Климов has gained a 'M3 Super 90' #68.
+[03:55:30]	Александр Климов ran 'drop' on item 'M3 Super 90' (#68)
+[03:55:30]	Александр Климов has lost a 'M3 Super 90' #68.
+[03:55:32]	Александр Климов ran 'take' on item 'M3 Super 90' (#68)
+[03:55:32]	Александр Климов has gained a 'M3 Super 90' #68.
+[03:55:33]	Александр Климов ran 'Equip' on item 'M3 Super 90' (#68)
+[03:55:42]	Александр Климов ran 'EquipUn' on item 'M3 Super 90' (#68)
+[03:55:46]	Александр Климов ran 'drop' on item 'Suitcase' (#62)
+[03:55:46]	Александр Климов has lost a 'Suitcase' #62.
+[03:55:46]	Александр Климов has lost a 'M3 Super 90' #68.
+[03:57:52]	Александр Климов set throwForce to '300'.
+[04:01:04]	Александр Климов used command '/DoorSetTitle Комната 201'.
+[04:01:07]	Александр Климов used command '/DoorSetTitle Комната 201'.
+[04:01:12]	Александр Климов used command '/DoorSetTitle Комната 201'.
+[04:01:39]	Александр Климов used command '/DoorSetDisabled 0'.
+[04:01:43]	Александр Климов used command '/DoorBuy'.
+[04:02:00]	Александр Климов used command '/DoorSetHidden 1'.
+[04:02:04]	Александр Климов used command '/DoorSetHidden 0'.
+[04:02:12]	Александр Климов used command '/DoorSetHidden 0'.
+[04:02:18]	Александр Климов used command '/DoorSetTitle Комната 20'.
+[04:02:20]	Александр Климов used command '/DoorSetTitle Комната 20'.
+[04:02:23]	Александр Климов used command '/DoorSetTitle Комната 20'.
+[04:02:35]	Александр Климов used command '/DoorSetTitle'.
+[04:02:54]	Александр Климов used command '/DoorSetTitle Комната 202'.
+[04:02:56]	Александр Климов entered observer.
+[04:03:10]	Александр Климов exited observer at their location.
+[04:03:11]	Александр Климов entered observer.
+[04:03:12]	Александр Климов exited observer at their location.
+[04:03:14]	Александр Климов entered observer.
+[04:03:15]	Александр Климов exited observer at their location.
+[04:03:16]	Александр Климов entered observer.
+[04:03:16]	Александр Климов exited observer at their location.
+[04:03:20]	Александр Климов used command '/DoorSetTitle Комната 20'.
+[04:03:27]	Александр Климов used command '/DoorSetHidden 0'.
+[04:03:29]	Александр Климов used command '/DoorSetHidden 0'.
+[04:03:34]	Александр Климов used command '/DoorSetHidden 1'.
+[04:03:38]	Александр Климов used command '/DoorSetHidden 1'.
+[04:03:39]	Александр Климов entered observer.
+[04:03:43]	Александр Климов exited observer at their location.
+[04:04:00]	Александр Климов used command '/DoorSetDisabled 0'.
+[04:04:02]	Александр Климов used command '/DoorSetDisabled 1'.
+[04:04:04]	Александр Климов used command '/DoorSetDisabled 1'.
+[04:04:09]	Александр Климов used command '/DoorSetDisabled 1'.
+[04:04:17]	Александр Климов used command '/DoorSetHidden 0'.
+[04:04:39]	Александр Климов used command '/DoorSetTitle Комната 203'.
+[04:04:50]	Александр Климов entered observer.
+[04:04:53]	Александр Климов exited observer at their location.
+[04:04:57]	Александр Климов used command '/DoorSetHidden 0'.
+[04:05:02]	Александр Климов entered observer.
+[04:05:47]	Александр Климов exited observer at their location.
+[04:05:48]	Александр Климов entered observer.
+[04:05:52]	Александр Климов exited observer at their location.
+[04:05:58]	Александр Климов used command '/DoorSetHidden 0'.
+[04:06:00]	Александр Климов used command '/DoorSetHidden 0'.
+[04:06:01]	Александр Климов entered observer.
+[04:06:04]	Александр Климов exited observer at their location.
+[04:06:13]	Александр Климов used command '/DoorSetTitle Комната'.
+[04:06:30]	Александр Климов used command '/DoorSetTitle Комната'.
+[04:06:37]	Александр Климов used command '/DoorSetTitle Комната 203'.
+[04:06:40]	Александр Климов used command '/DoorSetTitle Комната'.
+[04:06:47]	Александр Климов used command '/DoorSetTitle Комната 301'.
+[04:06:54]	Александр Климов used command '/DoorSetTitle Комната 302'.
+[04:06:55]	Александр Климов entered observer.
+[04:07:13]	Александр Климов exited observer at their location.
+[04:07:22]	Александр Климов used command '/DoorSetTitle Комната 303'.
+[04:07:49]	Александр Климов entered observer.
+[04:07:52]	Александр Климов exited observer at their location.
+[04:08:12]	Александр Климов used command '/DoorSetTitle Крыша'.
+[04:08:17]	Александр Климов used command '/DoorSetHidden 0'.
+[04:08:47]	Александр Климов entered observer.
+[04:08:50]	Александр Климов exited observer at their location.
+[04:08:56]	Александр Климов has spawned a 'Entity [89][ix_combinelock]'.
+[04:08:57]	Александр Климов entered observer.
+[04:09:00]	Александр Климов has spawned a 'Entity [89][ix_combinelock]'.
+[04:09:08]	Александр Климов exited observer at their location.
+[04:09:08]	Александр Климов has spawned a 'Entity [89][ix_combinelock]'.
+[04:09:09]	Александр Климов entered observer.
+[04:09:11]	Александр Климов exited observer at their location.
+[04:09:13]	Александр Климов entered observer.
+[04:09:18]	Александр Климов has spawned a 'Entity [200][ix_combinelock]'.
+[04:09:21]	Александр Климов has spawned a 'Entity [292][ix_combinelock]'.
+[04:09:22]	Александр Климов exited observer at their location.
+[04:09:23]	Александр Климов entered observer.
+[04:09:59]	Александр Климов has spawned a 'Entity [200][ix_combinelock]'.
+[04:10:16]	Александр Климов exited observer at their location.
+[04:11:16]	Г@H3NK loaded the character 'MPF-I4.51977'
+[04:11:17]	MPF-I4.51977 entered observer.
+[04:11:24]	MPF-I4.51977 exited observer at their location.
+[04:11:25]	MPF-I4.51977 has spawned a 'Entity [88][ix_forcefield]'.
+[04:11:28]	MPF-I4.51977 has spawned a 'Entity [88][ix_forcefield]'.
+[04:11:30]	MPF-I4.51977 has spawned a 'Entity [88][ix_forcefield]'.
+[04:11:31]	MPF-I4.51977 has spawned a 'Entity [293][ix_forcefield]'.
+[04:11:32]	MPF-I4.51977 has spawned a 'Entity [88][ix_forcefield]'.
+[04:11:33]	MPF-I4.51977 has spawned a 'Entity [293][ix_forcefield]'.
+[04:11:38]	MPF-I4.51977 entered observer.
+[04:12:35]	MPF-I4.51977 exited observer at their location.
+[04:12:45]	MPF-I4.51977 used command '/DoorSetOwnable'.
+[04:12:48]	MPF-I4.51977 used command '/DoorSetOwnable'.
+[04:12:49]	MPF-I4.51977 entered observer.
+[04:12:56]	MPF-I4.51977 exited observer at their location.
+[04:12:57]	MPF-I4.51977 used command '/DoorSetOwnable'.
+[04:12:58]	MPF-I4.51977 entered observer.
+[04:13:01]	MPF-I4.51977 exited observer at their location.
+[04:13:01]	MPF-I4.51977 used command '/DoorSetOwnable'.
+[04:13:02]	MPF-I4.51977 entered observer.
+[04:13:19]	MPF-I4.51977 exited observer at their location.
+[04:13:23]	MPF-I4.51977 used command '/DoorSetOwnable'.
+[04:13:24]	MPF-I4.51977 used command '/DoorSetOwnable'.
+[04:13:25]	MPF-I4.51977 entered observer.
+[04:13:32]	MPF-I4.51977 exited observer at their location.
+[04:13:39]	MPF-I4.51977 used command '/DoorSetUnownable'.
+[04:13:48]	MPF-I4.51977 used command '/DoorSetHidden 1'.
+[04:13:49]	MPF-I4.51977 entered observer.
+[04:13:50]	MPF-I4.51977 exited observer at their location.
+[04:14:19]	MPF-I4.51977 entered observer.
+[04:14:26]	MPF-I4.51977 exited observer at their location.
+[04:14:32]	MPF-I4.51977 used command '/DoorSetOwnable'.
+[04:14:33]	MPF-I4.51977 entered observer.
+[04:14:34]	MPF-I4.51977 exited observer at their location.
+[04:14:37]	MPF-I4.51977 used command '/DoorSetOwnable'.
+[04:14:37]	MPF-I4.51977 entered observer.
+[04:14:37]	MPF-I4.51977 exited observer at their location.
+[04:14:38]	MPF-I4.51977 entered observer.
+[04:14:44]	MPF-I4.51977 exited observer at their location.
+[04:14:45]	MPF-I4.51977 used command '/DoorBuy'.
+[04:14:46]	MPF-I4.51977 entered observer.
+[04:15:06]	MPF-I4.51977 exited observer at their location.
+[04:15:06]	MPF-I4.51977 entered observer.
+[04:15:58]	Bot02 has taken 26 damage from MPF-I4.51977.
+[04:15:58]	Bot02 has taken 105 damage from MPF-I4.51977.
+[04:15:58]	MPF-I4.51977 has killed Bot02 with arccw_shorty.
+[04:16:00]	Bot03 has taken 26 damage from MPF-I4.51977.
+[04:16:00]	Bot03 has taken 105 damage from MPF-I4.51977.
+[04:16:00]	MPF-I4.51977 has killed Bot03 with arccw_shorty.
+[04:16:05]	MPF-I4.51977 exited observer at their location.
+[04:16:16]	MPF-I4.51977 used command '/DoorSetOwnable'.
+[04:16:16]	MPF-I4.51977 entered observer.
+[04:16:17]	MPF-I4.51977 has gained 300 tokens.
+[04:16:18]	MPF-I4.51977 exited observer at their location.
+[04:16:24]	MPF-I4.51977 entered observer.
+[04:16:27]	MPF-I4.51977 exited observer at their location.
+[04:16:28]	MPF-I4.51977 used command '/DoorSetOwnable'.
+[04:16:29]	MPF-I4.51977 entered observer.
+[04:16:33]	MPF-I4.51977 exited observer at their location.
+[04:16:35]	MPF-I4.51977 used command '/DoorSetOwnable'.
+[04:16:35]	MPF-I4.51977 entered observer.
+[04:16:37]	MPF-I4.51977 exited observer at their location.
+[04:16:38]	MPF-I4.51977 used command '/DoorSetOwnable'.
+[04:16:39]	MPF-I4.51977 entered observer.
+[04:16:40]	MPF-I4.51977 exited observer at their location.
+[04:16:52]	MPF-I4.51977 entered observer.
+[04:17:00]	MPF-I4.51977 exited observer at their location.
+[04:17:17]	MPF-I4.51977 used command '/DoorSetDisabled 1'.
+[04:17:21]	MPF-I4.51977 entered observer.
+[04:17:30]	MPF-I4.51977 exited observer at their location.
+[04:17:37]	MPF-I4.51977 entered observer.
+[04:17:40]	MPF-I4.51977 exited observer at their location.
+[04:17:42]	MPF-I4.51977 entered observer.
+[04:17:53]	MPF-I4.51977 exited observer at their location.
+[04:18:00]	MPF-I4.51977 entered observer.
+[04:18:03]	MPF-I4.51977 exited observer at their location.
+[04:18:08]	MPF-I4.51977 used command '/DoorSetOwnable'.
+[04:18:12]	MPF-I4.51977 used command '/DoorSetOwnable'.
+[04:18:17]	MPF-I4.51977 used command '/DoorSetOwnable'.
+[04:18:21]	MPF-I4.51977 used command '/DoorSetOwnable'.
+[04:18:26]	MPF-I4.51977 used command '/DoorSetOwnable'.
+[04:18:30]	MPF-I4.51977 used command '/DoorSetOwnable'.
+[04:18:35]	MPF-I4.51977 used command '/DoorSetOwnable'.
+[04:18:38]	MPF-I4.51977 used command '/DoorSetOwnable'.
+[04:18:41]	MPF-I4.51977 entered observer.
+[04:18:46]	MPF-I4.51977 exited observer at their location.
+[04:18:55]	MPF-I4.51977 used command '/DoorSetTitle Комната 201'.
+[04:18:58]	MPF-I4.51977 used command '/DoorSetTitle Комната 20'.
+[04:19:02]	MPF-I4.51977 used command '/DoorSetTitle Комната 202'.
+[04:19:09]	MPF-I4.51977 used command '/DoorSetTitle Комната 301'.
+[04:19:17]	MPF-I4.51977 used command '/DoorSetTitle Комната 302'.
+[04:19:23]	MPF-I4.51977 used command '/DoorSetTitle Комната 401'.
+[04:19:29]	MPF-I4.51977 used command '/DoorSetTitle Комната 402'.
+[04:19:40]	MPF-I4.51977 used command '/DoorSetTitle Комната 501'.
+[04:19:44]	MPF-I4.51977 used command '/DoorSetTitle Комната 502'.
+[04:19:47]	MPF-I4.51977 entered observer.
+[04:20:03]	MPF-I4.51977 exited observer at their location.
+[04:20:06]	MPF-I4.51977 has spawned a 'Entity [545][ix_combinelock]'.
+[04:20:07]	MPF-I4.51977 entered observer.
+[04:20:08]	MPF-I4.51977 has spawned a 'Entity [571][ix_combinelock]'.
+[04:20:59]	MPF-I4.51977 exited observer at their location.
+[04:21:17]	MPF-I4.51977 has gained 300 tokens.
+[04:21:27]	MPF-I4.51977 entered observer.
+[04:22:27]	MPF-I4.51977 exited observer at their location.
+[04:22:31]	MPF-I4.51977 entered observer.
+[04:22:33]	MPF-I4.51977 exited observer at their location.
+[04:22:36]	MPF-I4.51977 entered observer.
+[04:22:40]	MPF-I4.51977 exited observer at their location.
+[04:22:41]	MPF-I4.51977 entered observer.
+[04:22:42]	MPF-I4.51977 exited observer at their location.
+[04:22:42]	MPF-I4.51977 entered observer.
+[04:22:45]	MPF-I4.51977 exited observer at their location.
+[04:22:47]	MPF-I4.51977 entered observer.
+[04:22:52]	MPF-I4.51977 exited observer at their location.
+[04:22:54]	MPF-I4.51977 entered observer.
+[04:23:03]	MPF-I4.51977 exited observer at their location.
+[04:23:04]	MPF-I4.51977 entered observer.
+[04:23:15]	MPF-I4.51977 exited observer at their location.
+[04:23:18]	MPF-I4.51977 entered observer.
+[04:23:21]	MPF-I4.51977 exited observer at their location.
+[04:23:24]	MPF-I4.51977 entered observer.
+[04:23:28]	MPF-I4.51977 exited observer at their location.
+[04:23:30]	MPF-I4.51977 entered observer.
+[04:23:32]	MPF-I4.51977 exited observer at their location.
+[04:23:45]	MPF-I4.51977 entered observer.
+[04:23:48]	MPF-I4.51977 exited observer at their location.
+[04:23:58]	MPF-I4.51977 used command '/AreaEdit'.
+[04:24:00]	MPF-I4.51977 entered observer.
+[04:25:17]	MPF-I4.51977 has added area "Вокзал".
+[04:25:19]	MPF-I4.51977 exited observer at their location.
+[04:25:40]	MPF-I4.51977 used command '/AreaEdit'.
+[04:25:45]	MPF-I4.51977 entered observer.
+[04:25:47]	MPF-I4.51977 exited observer at their location.
+[04:25:52]	MPF-I4.51977 entered observer.
+[04:25:56]	MPF-I4.51977 exited observer at their location.
+[04:26:13]	MPF-I4.51977 used command '/AreaEdit'.
+[04:26:14]	MPF-I4.51977 entered observer.
+[04:26:17]	MPF-I4.51977 has gained 300 tokens.
+[04:27:25]	MPF-I4.51977 has added area "Контрольно Пропускной Пункт".
+[04:27:31]	MPF-I4.51977 exited observer at their location.
+[04:27:33]	MPF-I4.51977 entered observer.
+[04:27:34]	MPF-I4.51977 exited observer at their location.
+[04:27:41]	MPF-I4.51977 ran 'Equip' on item '.9mm Pistol' (#42)
+[04:27:42]	MPF-I4.51977 ran 'EquipUn' on item '.9mm Pistol' (#42)
+[04:27:43]	MPF-I4.51977 ran 'drop' on item '.9mm Pistol' (#42)
+[04:27:43]	MPF-I4.51977 has lost a '.9mm Pistol' #42.
+[04:27:46]	MPF-I4.51977 ran 'take' on item '.9mm Pistol' (#42)
+[04:27:46]	MPF-I4.51977 has gained a '.9mm Pistol' #42.
+[04:27:51]	MPF-I4.51977 entered observer.
+[04:27:51]	MPF-I4.51977 exited observer at their location.
+[04:27:51]	MPF-I4.51977 has taken 151 damage from worldspawn.
+[04:27:51]	worldspawn has killed MPF-I4.51977.
+[04:28:16]	MPF-I4.51977 entered observer.
+[04:28:18]	MPF-I4.51977 exited observer at their location.
+[04:28:19]	MPF-I4.51977 entered observer.
+[04:28:21]	MPF-I4.51977 exited observer at their location.
+[04:28:35]	MPF-I4.51977 entered observer.
+[04:28:38]	MPF-I4.51977 exited observer at their location.
+[04:28:40]	MPF-I4.51977 entered observer.
+[04:28:43]	MPF-I4.51977 exited observer at their location.
+[04:28:49]	MPF-I4.51977 entered observer.
+[04:28:57]	MPF-I4.51977 exited observer at their location.
+[04:28:59]	MPF-I4.51977 used the 'Валерий' vendor.
+[04:29:03]	MPF-I4.51977 entered observer.
+[04:29:04]	MPF-I4.51977 exited observer at their location.
+[04:29:21]	MPF-I4.51977 used command '/AreaEdit'.
+[04:29:22]	MPF-I4.51977 entered observer.
+[04:31:17]	MPF-I4.51977 has gained 300 tokens.
+[04:31:32]	MPF-I4.51977 has added area "Зал".
+[14:19:15]	Г@H3NK has connected.
+[14:20:00]	Г@H3NK loaded the character 'Александр Климов'
+[14:20:16]	Александр Климов used command '/BecomeClass Ветеран'.
+[14:22:10]	Александр Климов entered observer.
+[14:22:16]	Александр Климов exited observer at their location.
+[14:22:56]	Александр Климов entered observer.
+[14:22:56]	Александр Климов exited observer at their location.
+[14:23:09]	Александр Климов ran 'Equip' on item 'UMP-45' (#67)
+[14:23:46]	֍ Aime-moi ֍ has connected.
+[14:24:25]	֍ Aime-moi ֍ loaded the character 'Альберт Кольм'
+[14:24:53]	Альберт Кольм has spawned 'models/willardupgrades/civilprotection.mdl'.
+[14:24:58]	Альберт Кольм entered observer.
+[14:25:16]	Альберт Кольм exited observer at their location.
+[14:25:20]	Альберт Кольм has spawned 'models/overwatchupgrades/killcapturelead.mdl'.
+[14:25:21]	Альберт Кольм entered observer.
+[14:25:25]	Александр Климов ran 'EquipUn' on item 'UMP-45' (#67)
+[14:25:28]	Александр Климов ran 'Equip' on item 'UMP-45' (#67)
+[14:25:33]	Альберт Кольм exited observer at their location.
+[14:25:37]	Альберт Кольм entered observer.
+[14:25:44]	Альберт Кольм exited observer at their location.
+[14:25:48]	Альберт Кольм has spawned 'models/overwatchupgrades/newelite.mdl'.
+[14:25:50]	Альберт Кольм entered observer.
+[14:26:42]	Альберт Кольм exited observer at their location.
+[14:26:47]	Альберт Кольм ran 'Equip' on item 'UMP-45' (#56)
+[14:26:52]	Альберт Кольм ran 'EquipUn' on item 'UMP-45' (#56)
+[14:26:54]	Альберт Кольм entered observer.
+[14:27:00]	֍ Aime-moi ֍ loaded the character 'D8.MPF-BLADE.57989'
+[14:27:23]	D8.MPF-BLADE.57989 used command '/CharEditBodygroup'.
+[14:27:32]	D8.MPF-BLADE.57989 used command '/CharEditBodygroup MPF'.
+[14:27:49]	D8.MPF-BLADE.57989 has changed D8.MPF-BLADE.57989's bodygroups.
+[14:27:59]	D8.MPF-BLADE.57989 has spawned a 'Entity [90][st_radio_finetuned_n]'.
+[14:28:01]	D8.MPF-BLADE.57989 has spawned a 'Entity [90][st_radio_finetuned_n]'.
+[14:28:15]	D8.MPF-BLADE.57989 has spawned a 'Entity [90][free_bodygroupr]'.
+[14:29:41]	D8.MPF-BLADE.57989 has spawned 'models/weapons/arccw/c_gce.mdl'.
+[14:29:46]	D8.MPF-BLADE.57989 has spawned 'models/weapons/arccw/c_gce.mdl'.
+[14:30:22]	D8.MPF-BLADE.57989 entered observer.
+[14:30:24]	D8.MPF-BLADE.57989 exited observer at their location.
+[14:30:27]	D8.MPF-BLADE.57989 entered observer.
+[14:30:31]	D8.MPF-BLADE.57989 exited observer at their location.
+[14:32:00]	D8.MPF-BLADE.57989 entered observer.
+[14:32:00]	D8.MPF-BLADE.57989 has gained 300 tokens.
+[14:32:01]	D8.MPF-BLADE.57989 exited observer at their location.
+[14:33:05]	D8.MPF-BLADE.57989 entered observer.
+[14:33:10]	D8.MPF-BLADE.57989 exited observer at their location.
+[14:33:27]	D8.MPF-BLADE.57989 has spawned a 'Entity [14][ix_forcefield]'.
+[14:33:27]	D8.MPF-BLADE.57989 entered observer.
+[14:33:31]	Александр Климов ran 'EquipUn' on item 'UMP-45' (#67)
+[14:33:33]	D8.MPF-BLADE.57989 has spawned a 'Entity [14][ix_forcefield]'.
+[14:33:45]	D8.MPF-BLADE.57989 has spawned a 'Entity [14][ix_forcefield]'.
+[14:33:48]	D8.MPF-BLADE.57989 has spawned a 'Entity [14][ix_forcefield]'.
+[14:33:49]	D8.MPF-BLADE.57989 has spawned a 'Entity [14][ix_forcefield]'.
+[14:33:51]	D8.MPF-BLADE.57989 has spawned a 'Entity [60][ix_forcefield]'.
+[14:33:52]	D8.MPF-BLADE.57989 has spawned a 'Entity [14][ix_forcefield]'.
+[14:33:55]	D8.MPF-BLADE.57989 has spawned a 'Entity [14][ix_forcefield]'.
+[14:33:57]	D8.MPF-BLADE.57989 exited observer at their location.
+[14:33:58]	D8.MPF-BLADE.57989 entered observer.
+[14:34:33]	Г@H3NK has connected.
+[14:35:20]	Г@H3NK loaded the character 'Александр Климов'
+[14:38:31]	֍ Aime-moi ֍ has connected.
+[14:39:50]	֍ Aime-moi ֍ loaded the character 'D8.MPF-BLADE.57989'
+[14:39:54]	Александр Климов ran 'Equip' on item 'UMP-45' (#67)
+[14:40:31]	D8.MPF-BLADE.57989 entered observer.
+[14:40:31]	D8.MPF-BLADE.57989 exited observer at their location.
+[14:40:36]	D8.MPF-BLADE.57989 entered observer.
+[14:40:46]	D8.MPF-BLADE.57989 exited observer at their location.
+[14:40:47]	D8.MPF-BLADE.57989 entered observer.
+[14:40:50]	D8.MPF-BLADE.57989 exited observer at their location.
+[14:40:52]	D8.MPF-BLADE.57989 entered observer.
+[14:40:55]	D8.MPF-BLADE.57989 exited observer at their location.
+[14:41:01]	D8.MPF-BLADE.57989 has spawned a 'Entity [88][ix_rationdispenser]'.
+[14:41:13]	D8.MPF-BLADE.57989 entered observer.
+[14:41:18]	D8.MPF-BLADE.57989 exited observer at their location.
+[14:41:19]	D8.MPF-BLADE.57989 entered observer.
+[14:41:30]	D8.MPF-BLADE.57989 exited observer at their location.
+[14:41:34]	D8.MPF-BLADE.57989 has spawned a 'Entity [91][ix_forcefield]'.
+[14:41:34]	D8.MPF-BLADE.57989 entered observer.
+[14:41:39]	D8.MPF-BLADE.57989 has spawned a 'Entity [91][ix_forcefield]'.
+[14:41:45]	D8.MPF-BLADE.57989 has spawned a 'Entity [91][ix_forcefield]'.
+[14:41:49]	D8.MPF-BLADE.57989 has spawned a 'Entity [91][ix_forcefield]'.
+[14:41:50]	D8.MPF-BLADE.57989 has spawned a 'Entity [99][ix_forcefield]'.
+[14:41:54]	D8.MPF-BLADE.57989 has spawned a 'Entity [91][ix_forcefield]'.
+[14:41:55]	D8.MPF-BLADE.57989 has spawned a 'Entity [99][ix_forcefield]'.
+[14:41:57]	D8.MPF-BLADE.57989 exited observer at their location.
+[14:42:21]	D8.MPF-BLADE.57989 entered observer.
+[14:42:27]	D8.MPF-BLADE.57989 exited observer at their location.
+[14:42:28]	D8.MPF-BLADE.57989 entered observer.
+[14:42:42]	D8.MPF-BLADE.57989 exited observer at their location.
+[14:42:45]	Александр Климов entered observer.
+[14:43:00]	Александр Климов exited observer at their location.
+[14:43:13]	Александр Климов has taken 11 damage from D8.MPF-BLADE.57989.
+[14:43:13]	Александр Климов has taken 11 damage from D8.MPF-BLADE.57989.
+[14:43:14]	Александр Климов has taken 3 damage from D8.MPF-BLADE.57989.
+[14:43:14]	Александр Климов has taken 11 damage from D8.MPF-BLADE.57989.
+[14:43:14]	Александр Климов has taken 11 damage from D8.MPF-BLADE.57989.
+[14:43:15]	Александр Климов has taken 11 damage from D8.MPF-BLADE.57989.
+[14:43:16]	Александр Климов has taken 3 damage from D8.MPF-BLADE.57989.
+[14:43:17]	D8.MPF-BLADE.57989 entered observer.
+[14:43:18]	Александр Климов has taken 22 damage from D8.MPF-BLADE.57989.
+[14:43:18]	Александр Климов has taken 3 damage from D8.MPF-BLADE.57989.
+[14:43:19]	Александр Климов has taken 11 damage from D8.MPF-BLADE.57989.
+[14:43:19]	Александр Климов has taken 11 damage from D8.MPF-BLADE.57989.
+[14:43:19]	D8.MPF-BLADE.57989 has killed Александр Климов with weapon_ar2.
+[14:43:21]	D8.MPF-BLADE.57989 exited observer at their location.
+[14:43:27]	D8.MPF-BLADE.57989 has spawned a 'Entity [63][item_ammo_ar2_large]'.
+[14:44:22]	D8.MPF-BLADE.57989 entered observer.
+[14:44:29]	Александр Климов ran 'Equip' on item 'UMP-45' (#67)
+[14:44:37]	Александр Климов entered observer.
+[14:44:38]	Александр Климов exited observer at their location.
+[14:44:49]	Александр Климов has spawned a 'Entity [83][arccw_ammo_pistol_large]'.
+[14:44:50]	D8.MPF-BLADE.57989 has gained 300 tokens.
+[14:45:00]	D8.MPF-BLADE.57989 exited observer at their location.
+[14:45:01]	D8.MPF-BLADE.57989 entered observer.
+[14:45:08]	D8.MPF-BLADE.57989 exited observer at their location.
+[14:47:04]	D8.MPF-BLADE.57989 has spawned a 'Entity [91][npc_crouched_shooting_metrocop]'.
+[14:47:05]	D8.MPF-BLADE.57989 has taken 24 damage from CrouchedShootingMetroCopWithAShooty.
+[14:47:05]	D8.MPF-BLADE.57989 has taken 24 damage from CrouchedShootingMetroCopWithAShooty.
+[14:47:06]	D8.MPF-BLADE.57989 entered observer.
+[14:47:07]	D8.MPF-BLADE.57989 exited observer at their location.
+[14:47:10]	D8.MPF-BLADE.57989 has spawned a 'Entity [91][item_healthkit]'.
+[14:47:11]	D8.MPF-BLADE.57989 has spawned a 'Entity [92][item_healthkit]'.
+[14:47:12]	D8.MPF-BLADE.57989 has spawned a 'Entity [91][item_battery]'.
+[14:47:12]	D8.MPF-BLADE.57989 has spawned a 'Entity [109][item_battery]'.
+[14:47:13]	D8.MPF-BLADE.57989 has spawned a 'Entity [92][item_battery]'.
+[14:47:13]	D8.MPF-BLADE.57989 entered observer.
+[14:47:21]	D8.MPF-BLADE.57989 exited observer at their location.
+[14:47:25]	D8.MPF-BLADE.57989 has spawned a 'Entity [91][npc_entrance_blocker_cop]'.
+[14:47:32]	D8.MPF-BLADE.57989 has spawned a 'Entity [91][npc_entrance_blocker_cop]'.
+[14:47:38]	D8.MPF-BLADE.57989 has spawned a 'Entity [91][npc_entrance_blocker_cop]'.
+[14:47:42]	D8.MPF-BLADE.57989 has spawned a 'NPC [91][npc_citizen]'.
+[14:47:47]	D8.MPF-BLADE.57989 has spawned a 'Entity [91][npc_knocking_cop]'.
+[14:48:01]	D8.MPF-BLADE.57989 has spawned a 'Entity [91][npc_entrance_blocker_cop]'.
+[14:48:18]	D8.MPF-BLADE.57989 has spawned a 'Entity [114][npc_citizen_with_luggage_idle]'.
+[14:48:25]	D8.MPF-BLADE.57989 has spawned a 'Entity [119][npc_idleunarmed_combinesoldier]'.
+[14:48:29]	D8.MPF-BLADE.57989 has spawned a 'Entity [119][npc_idleunarmed_combinesoldier]'.
+[14:48:36]	D8.MPF-BLADE.57989 has spawned a 'Entity [119][npc_citizen_with_luggage_idle]'.
+[14:48:40]	D8.MPF-BLADE.57989 has spawned a 'Entity [119][npc_plaza_citizen_static]'.
+[14:48:43]	D8.MPF-BLADE.57989 has spawned a 'Entity [119][npc_plaza_citizen_static]'.
+[14:48:45]	D8.MPF-BLADE.57989 has spawned a 'Entity [122][npc_plaza_citizen_static]'.
+[14:48:50]	D8.MPF-BLADE.57989 has spawned a 'Entity [142][npc_plaza_citizen_dynamic]'.
+[14:48:58]	D8.MPF-BLADE.57989 has spawned a 'Entity [142][npc_line_idle_male]'.
+[14:49:02]	D8.MPF-BLADE.57989 has spawned a 'Entity [153][npc_line_idle_female]'.
+[14:49:15]	D8.MPF-BLADE.57989 entered observer.
+[14:49:18]	D8.MPF-BLADE.57989 exited observer at their location.
+[14:49:30]	D8.MPF-BLADE.57989 has spawned a 'Entity [156][npc_welding_rebel]'.
+[14:49:35]	D8.MPF-BLADE.57989 entered observer.
+[14:49:37]	D8.MPF-BLADE.57989 exited observer at their location.
+[14:49:45]	D8.MPF-BLADE.57989 has spawned a 'NPC [156][npc_metropolice]'.
+[14:49:49]	D8.MPF-BLADE.57989 has spawned a 'NPC [156][npc_metropolice]'.
+[14:49:49]	D8.MPF-BLADE.57989 entered observer.
+[14:49:50]	D8.MPF-BLADE.57989 exited observer at their location.
+[14:49:50]	D8.MPF-BLADE.57989 has gained 300 tokens.
+[14:49:55]	D8.MPF-BLADE.57989 entered observer.
+[14:49:56]	D8.MPF-BLADE.57989 exited observer at their location.
+[14:50:06]	D8.MPF-BLADE.57989 has taken 3 damage from npc_metropolice.
+[14:50:12]	D8.MPF-BLADE.57989 entered observer.
+[14:50:13]	D8.MPF-BLADE.57989 exited observer at their location.
+[14:50:29]	D8.MPF-BLADE.57989 has spawned a 'Entity [165][npc_line_idle_male]'.
+[14:50:34]	D8.MPF-BLADE.57989 has spawned a 'Entity [168][npc_line_idle_male]'.
+[14:50:39]	D8.MPF-BLADE.57989 has spawned a 'Entity [175][npc_line_idle_female]'.
+[14:50:44]	D8.MPF-BLADE.57989 has spawned a 'Entity [178][npc_citizen_with_luggage_idle]'.
+[14:50:55]	D8.MPF-BLADE.57989 entered observer.
+[14:50:57]	D8.MPF-BLADE.57989 exited observer at their location.
+[14:51:00]	D8.MPF-BLADE.57989 has spawned a 'Entity [185][npc_slightly_improved_camera]'.
+[14:51:27]	Александр Климов has spawned a 'NPC [189][npc_citizen]'.
+[14:51:39]	D8.MPF-BLADE.57989 entered observer.
+[14:51:41]	D8.MPF-BLADE.57989 exited observer at their location.
+[14:51:42]	D8.MPF-BLADE.57989 entered observer.
+[14:51:43]	Александр Климов has taken 3 damage from npc_citizen.
+[14:51:43]	Александр Климов has taken 3 damage from npc_citizen.
+[14:51:43]	Александр Климов has taken 6 damage from npc_citizen.
+[14:51:43]	Александр Климов has taken 3 damage from npc_citizen.
+[14:51:44]	Александр Климов has taken 3 damage from npc_citizen.
+[14:51:44]	D8.MPF-BLADE.57989 exited observer at their location.
+[14:51:44]	Александр Климов has taken 3 damage from npc_citizen.
+[14:51:44]	Александр Климов has taken 6 damage from npc_citizen.
+[14:51:45]	Александр Климов has taken 3 damage from npc_citizen.
+[14:51:45]	Александр Климов has taken 6 damage from npc_citizen.
+[14:51:45]	Александр Климов has taken 1 damage from npc_citizen.
+[14:51:46]	Александр Климов has taken 3 damage from npc_citizen.
+[14:51:46]	D8.MPF-BLADE.57989 has spawned a 'Entity [192][npc_line_idle_male]'.
+[14:51:46]	Александр Климов has taken 1 damage from npc_citizen.
+[14:51:47]	Александр Климов has taken 3 damage from npc_citizen.
+[14:51:49]	D8.MPF-BLADE.57989 has spawned a 'Entity [196][npc_line_idle_female]'.
+[14:51:50]	Александр Климов has taken 3 damage from npc_citizen.
+[14:51:51]	Александр Климов has taken 3 damage from npc_citizen.
+[14:51:51]	Александр Климов has taken 3 damage from npc_citizen.
+[14:51:51]	Александр Климов has taken 6 damage from npc_citizen.
+[14:51:51]	Александр Климов has taken 3 damage from npc_citizen.
+[14:51:51]	Александр Климов has taken 1 damage from npc_citizen.
+[14:51:52]	Александр Климов has taken 3 damage from npc_citizen.
+[14:51:52]	Александр Климов has taken 3 damage from npc_citizen.
+[14:51:52]	Александр Климов has taken 3 damage from npc_citizen.
+[14:51:53]	D8.MPF-BLADE.57989 has spawned a 'Entity [195][npc_line_idle_male]'.
+[14:51:54]	Александр Климов has taken 3 damage from npc_citizen.
+[14:51:54]	Александр Климов has taken 3 damage from npc_citizen.
+[14:51:54]	Александр Климов has taken 6 damage from npc_citizen.
+[14:52:07]	Александр Климов has taken 6 damage from npc_citizen.
+[14:52:08]	Александр Климов has taken 6 damage from npc_citizen.
+[14:52:10]	Александр Климов has taken 6 damage from npc_citizen.
+[14:52:10]	npc_citizen has killed Александр Климов.
+[14:52:10]	D8.MPF-BLADE.57989 entered observer.
+[14:52:14]	D8.MPF-BLADE.57989 exited observer at their location.
+[14:52:17]	D8.MPF-BLADE.57989 has spawned a 'Entity [76][npc_knocking_cop]'.
+[14:52:24]	D8.MPF-BLADE.57989 entered observer.
+[14:52:25]	Александр Климов has taken 1 damage from npc_citizen.
+[14:52:25]	Александр Климов has taken 3 damage from npc_citizen.
+[14:52:25]	Александр Климов has taken 3 damage from npc_citizen.
+[14:52:26]	Александр Климов has taken 3 damage from npc_citizen.
+[14:52:26]	Александр Климов has taken 3 damage from npc_citizen.
+[14:52:26]	Александр Климов has taken 3 damage from npc_citizen.
+[14:52:26]	Александр Климов has taken 3 damage from npc_citizen.
+[14:52:26]	Александр Климов has taken 3 damage from npc_citizen.
+[14:52:27]	Александр Климов has taken 3 damage from npc_citizen.
+[14:52:27]	Александр Климов has taken 3 damage from npc_citizen.
+[14:52:27]	Александр Климов has taken 3 damage from npc_citizen.
+[14:52:27]	Александр Климов has taken 3 damage from npc_citizen.
+[14:52:28]	Александр Климов has taken 3 damage from npc_citizen.
+[14:52:28]	Александр Климов has taken 3 damage from npc_citizen.
+[14:52:28]	Александр Климов has taken 3 damage from npc_citizen.
+[14:52:28]	Александр Климов has taken 3 damage from npc_citizen.
+[14:52:29]	D8.MPF-BLADE.57989 exited observer at their location.
+[14:52:41]	D8.MPF-BLADE.57989 entered observer.
+[14:52:45]	D8.MPF-BLADE.57989 exited observer at their location.
+[14:52:49]	D8.MPF-BLADE.57989 has spawned a 'Entity [76][npc_citizen_with_ration_idle]'.
+[14:52:54]	D8.MPF-BLADE.57989 has spawned a 'Entity [76][npc_sitting_citizen]'.
+[14:52:57]	D8.MPF-BLADE.57989 has spawned a 'Entity [76][npc_sitting_citizen]'.
+[14:53:03]	D8.MPF-BLADE.57989 has spawned a 'Entity [87][npc_sitting_citizen]'.
+[14:53:08]	D8.MPF-BLADE.57989 entered observer.
+[14:53:10]	D8.MPF-BLADE.57989 exited observer at their location.
+[14:53:17]	D8.MPF-BLADE.57989 has spawned a 'Entity [190][npc_waving_citizen]'.
+[14:53:20]	D8.MPF-BLADE.57989 has spawned a 'Entity [190][npc_waving_citizen]'.
+[14:53:23]	D8.MPF-BLADE.57989 entered observer.
+[14:53:31]	D8.MPF-BLADE.57989 has spawned a 'Entity [190][npc_knocking_cop]'.
+[14:53:36]	D8.MPF-BLADE.57989 has spawned a 'Entity [190][npc_crouched_shooting_metrocop]'.
+[14:53:37]	Александр Климов used command '/BecomeClass Солдат'.
+[14:53:38]	D8.MPF-BLADE.57989 exited observer at their location.
+[14:53:39]	D8.MPF-BLADE.57989 entered observer.
+[14:53:42]	D8.MPF-BLADE.57989 exited observer at their location.
+[14:53:43]	D8.MPF-BLADE.57989 entered observer.
+[14:53:50]	D8.MPF-BLADE.57989 exited observer at their location.
+[14:53:53]	D8.MPF-BLADE.57989 has spawned a 'Entity [190][npc_crouched_down_citizen]'.
+[14:53:55]	Александр Климов used command '/BecomeClass rebel_soldier'.
+[14:53:57]	D8.MPF-BLADE.57989 has spawned a 'Entity [190][npc_line_idle_male]'.
+[14:54:00]	D8.MPF-BLADE.57989 has spawned a 'Entity [240][npc_line_idle_male]'.
+[14:54:02]	D8.MPF-BLADE.57989 has spawned a 'Entity [243][npc_line_idle_male]'.
+[14:54:05]	Александр Климов ran 'Equip' on item 'UMP-45' (#67)
+[14:54:05]	D8.MPF-BLADE.57989 entered observer.
+[14:54:06]	D8.MPF-BLADE.57989 exited observer at their location.
+[14:54:07]	D8.MPF-BLADE.57989 entered observer.
+[14:54:14]	D8.MPF-BLADE.57989 has spawned a 'Entity [241][npc_line_idle_female]'.
+[14:54:15]	D8.MPF-BLADE.57989 exited observer at their location.
+[14:54:17]	D8.MPF-BLADE.57989 entered observer.
+[14:54:27]	D8.MPF-BLADE.57989 exited observer at their location.
+[14:54:32]	D8.MPF-BLADE.57989 has spawned a 'Entity [247][npc_sitting_citizen]'.
+[14:54:33]	Александр Климов has spawned a 'Entity [252][arccw_ammo_pistol_large]'.
+[14:54:37]	D8.MPF-BLADE.57989 has spawned a 'Entity [252][npc_sitting_citizen]'.
+[14:54:41]	D8.MPF-BLADE.57989 has spawned a 'Entity [247][npc_sitting_citizen]'.
+[14:54:47]	D8.MPF-BLADE.57989 has spawned a 'Entity [255][npc_line_idle_male]'.
+[14:54:50]	D8.MPF-BLADE.57989 has gained 300 tokens.
+[14:54:51]	D8.MPF-BLADE.57989 entered observer.
+[14:55:21]	Александр Климов ran 'EquipUn' on item 'UMP-45' (#67)
+[14:55:53]	Александр Климов has spawned a 'Weapon [269][weapon_slam]'.
+[14:55:53]	Александр Климов has spawned a 'Weapon [270][weapon_slam]'.
+[14:55:53]	Александр Климов has spawned a 'Weapon [271][weapon_slam]'.
+[14:55:53]	Александр Климов has spawned a 'Weapon [272][weapon_slam]'.
+[14:55:54]	Александр Климов has spawned a 'Weapon [274][weapon_slam]'.
+[14:55:54]	Александр Климов has spawned a 'Weapon [269][weapon_slam]'.
+[14:55:54]	Александр Климов has spawned a 'Weapon [270][weapon_slam]'.
+[14:55:55]	Александр Климов has spawned a 'Weapon [272][weapon_slam]'.
+[14:55:55]	Александр Климов has spawned a 'Weapon [275][weapon_slam]'.
+[14:56:11]	Александр Климов has taken 5 damage from prop_physics.
+[14:56:11]	Александр Климов has taken 5 damage from prop_physics.
+[14:56:21]	Александр Климов has taken 24 damage from D8.MPF-BLADE.57989.
+[14:56:35]	Александр Климов has taken 149 damage from Александр Климов.
+[14:56:35]	Александр Климов has killed Александр Климов.
+[14:56:42]	D8.MPF-BLADE.57989 exited observer at their location.
+[14:56:57]	D8.MPF-BLADE.57989 has spawned a 'Entity [214][npc_ground_sitting_citizen_static]'.
+[14:57:00]	D8.MPF-BLADE.57989 has spawned a 'Entity [265][npc_ground_sitting_citizen_static]'.
+[14:57:03]	D8.MPF-BLADE.57989 has spawned a 'Entity [214][npc_ground_sitting_citizen_static]'.
+[14:57:05]	D8.MPF-BLADE.57989 has spawned a 'Entity [265][npc_ground_sitting_citizen_dynamic]'.
+[14:57:07]	D8.MPF-BLADE.57989 has spawned a 'Entity [263][npc_ground_sitting_citizen_dynamic]'.
+[14:57:08]	D8.MPF-BLADE.57989 has spawned a 'Entity [265][npc_ground_sitting_citizen_dynamic]'.
+[14:57:15]	D8.MPF-BLADE.57989 has spawned a 'Entity [263][npc_plaza_citizen_static]'.
+[14:57:21]	D8.MPF-BLADE.57989 entered observer.
+[14:57:23]	D8.MPF-BLADE.57989 exited observer at their location.
+[14:57:26]	D8.MPF-BLADE.57989 has spawned a 'Entity [272][npc_slightly_improved_camera]'.
+[14:57:33]	D8.MPF-BLADE.57989 entered observer.
+[14:57:39]	D8.MPF-BLADE.57989 exited observer at their location.
+[14:57:39]	D8.MPF-BLADE.57989 entered observer.
+[14:57:52]	D8.MPF-BLADE.57989 has spawned a 'NPC [63][npc_combine_s]'.
+[14:58:59]	Александр Климов entered observer.
+[14:59:04]	Александр Климов exited observer at their location.
+[14:59:12]	Александр Климов ran 'Equip' on item 'UMP-45' (#67)
+[14:59:45]	֍ Aime-moi ֍ (STEAM_0:0:424879351) has disconnected.
+[15:00:09]	Александр Климов has spawned a 'Entity [83][item_ammo_pistol_large]'.
+[15:00:11]	Александр Климов has spawned a 'Entity [83][item_ammo_pistol_large]'.
+[15:00:11]	Александр Климов has spawned a 'Entity [84][item_ammo_pistol_large]'.
+[15:00:11]	Александр Климов has spawned a 'Entity [85][item_ammo_pistol_large]'.
+[15:00:12]	Александр Климов has spawned a 'Entity [86][item_ammo_pistol_large]'.
+[15:00:20]	Александр Климов entered observer.
+[15:00:21]	Александр Климов exited observer at their location.
+[15:00:23]	Александр Климов entered observer.
+[15:00:25]	Александр Климов exited observer at their location.
+[15:00:28]	Александр Климов entered observer.
+[15:00:29]	Александр Климов exited observer at their location.
+[15:00:42]	֍ Aime-moi ֍ has connected.
+[15:01:53]	֍ Aime-moi ֍ loaded the character 'D8.MPF-BLADE.57989'
+[15:03:15]	D8.MPF-BLADE.57989 entered observer.
+[15:03:24]	D8.MPF-BLADE.57989 exited observer at their location.
+[15:03:26]	D8.MPF-BLADE.57989 entered observer.
+[15:03:35]	D8.MPF-BLADE.57989 exited observer at their location.
+[15:03:37]	D8.MPF-BLADE.57989 entered observer.
+[15:03:50]	D8.MPF-BLADE.57989 used command '/Dispatch Anti-citizen'.
+[15:04:31]	Александр Климов set maxCharacters to '8'.
+[15:05:09]	֍ Aime-moi ֍ created the character 'MPF-RCT.11329'
+[15:05:09]	MPF-RCT.11329 has gained a '.9mm Pistol' #70.
+[15:05:09]	MPF-RCT.11329 has gained a '.9mm Патроны' #71.
+[15:05:09]	MPF-RCT.11329 has gained a '.9mm Патроны' #72.
+[15:05:13]	֍ Aime-moi ֍ loaded the character 'MPF-RCT.11329'
+[15:05:38]	MPF-EpU.11329 used command '/CharSetName MPF MPF-EpU.11329'.
+[15:05:45]	MPF-EpU.11329 used command '/Dispatch Anti-citizen'.
+[15:06:00]	MPF-SeC.11329 used command '/CharSetName MPF MPF-SeC.11329'.
+[15:06:02]	MPF-SeC.11329 used command '/Dispatch Anti-citizen'.
+[15:06:10]	MPF-SeC.11329 entered observer.
+[15:06:19]	Александр Климов entered observer.
+[15:06:27]	Александр Климов exited observer at their location.
+[15:06:31]	MPF-SeC.11329 used command '/Dispatch Anti-citizen'.
+[15:06:38]	MPF-SeC.11329 exited observer at their location.
+[15:06:44]	Александр Климов has taken 5 damage from MPF-SeC.11329.
+[15:06:45]	Александр Климов has taken 5 damage from MPF-SeC.11329.
+[15:06:48]	MPF-SeC.11329 entered observer.
+[15:06:49]	Александр Климов has taken 5 damage from MPF-SeC.11329.
+[15:06:52]	MPF-SeC.11329 exited observer at their location.
+[15:07:19]	Александр Климов used command '/CharGetUp'.
+[15:07:19]	Александр Климов has taken 2 damage from MPF-SeC.11329.
+[15:07:20]	Александр Климов has taken 2 damage from MPF-SeC.11329.
+[15:07:21]	Александр Климов has taken 2 damage from MPF-SeC.11329.
+[15:07:22]	Александр Климов has taken 2 damage from MPF-SeC.11329.
+[15:07:23]	Александр Климов has taken 2 damage from MPF-SeC.11329.
+[15:07:24]	Александр Климов has taken 2 damage from MPF-SeC.11329.
+[15:07:25]	Александр Климов has taken 2 damage from MPF-SeC.11329.
+[15:07:27]	Александр Климов has taken 2 damage from MPF-SeC.11329.
+[15:07:27]	Александр Климов has taken 2 damage from MPF-SeC.11329.
+[15:07:28]	Александр Климов has taken 2 damage from MPF-SeC.11329.
+[15:07:29]	Александр Климов has taken 2 damage from MPF-SeC.11329.
+[15:07:29]	Александр Климов used command '/CharGetUp'.
+[15:07:30]	Александр Климов has taken 2 damage from MPF-SeC.11329.
+[15:07:30]	Александр Климов has taken 2 damage from MPF-SeC.11329.
+[15:07:32]	Александр Климов used command '/CharGetUp'.
+[15:07:35]	Александр Климов used command '/CharGetUp'.
+[15:07:39]	Александр Климов has taken 54 damage from MPF-SeC.11329.
+[15:07:41]	Александр Климов has taken 54 damage from MPF-SeC.11329.
+[15:07:41]	MPF-SeC.11329 has killed Александр Климов with arccw_deagle357.
+[15:07:49]	MPF-SeC.11329 has spawned a 'Entity [96][arccw_ammo_pistol_large]'.
+[15:07:50]	MPF-SeC.11329 has spawned a 'Entity [96][arccw_ammo_357_large]'.
+[15:08:08]	֍ Aime-moi ֍ (STEAM_0:0:424879351) deleted character 'MPF-SeC.11329'
+[15:08:13]	֍ Aime-moi ֍ loaded the character 'D8.MPF-BLADE.57989'
+[15:08:15]	D8.MPF-BLADE.57989 entered observer.
+[15:08:15]	D8.MPF-BLADE.57989 exited observer at their location.
+[15:08:17]	Александр Климов entered observer.
+[15:08:18]	Александр Климов exited observer at their location.
+[15:08:18]	Александр Климов entered observer.
+[15:08:22]	Александр Климов exited observer at their location.
+[15:08:31]	D8.MPF-BLADE.57989 entered observer.
+[15:08:47]	Александр Климов ran 'Equip' on item 'UMP-45' (#67)
+[15:09:08]	Александр Климов entered observer.
+[15:09:23]	Александр Климов entered observer.
+[15:09:34]	Александр Климов exited observer at their location.
+[15:09:38]	D8.MPF-BLADE.57989 used command '/MapRestart 1'.
+[15:10:19]	Г@H3NK has connected.
+[15:11:05]	Г@H3NK loaded the character 'Александр Климов'
+[15:11:07]	Александр Климов has taken 1 damage from env_fire.
+[15:11:20]	֍ Aime-moi ֍ has connected.
+[15:12:03]	Александр Климов entered observer.
+[15:12:05]	Александр Климов exited observer at their location.
+[15:13:24]	Александр Климов has taken 9 damage from worldspawn.
+[15:13:33]	֍ Aime-moi ֍ loaded the character 'D8.MPF-BLADE.57989'
+[15:14:06]	Александр Климов has spawned a 'Entity [93][st_radio_jams_o]'.
+[15:14:30]	Александр Климов used command '/ActSit'.
+[15:14:51]	D8.MPF-BLADE.57989 entered observer.
+[15:15:01]	Александр Климов has spawned a 'Entity [86][st_radio_cuban_o]'.
+[15:15:05]	Александр Климов has spawned a 'Entity [93][st_radio_classics_o]'.
+[15:15:10]	Александр Климов has spawned a 'Entity [86][st_radio_flamenco_o]'.
+[15:15:21]	D8.MPF-BLADE.57989 exited observer at their location.
+[15:15:23]	D8.MPF-BLADE.57989 entered observer.
+[15:15:37]	Александр Климов has spawned a 'Entity [93][st_radio_finetuned_o]'.
+[15:15:41]	Александр Климов has spawned a 'Entity [86][st_radio_country_o]'.
+[15:15:44]	Александр Климов has spawned a 'Entity [93][st_radio_jams_o]'.
+[15:15:46]	Александр Климов has spawned a 'Entity [86][st_radio_jams_o]'.
+[15:15:49]	D8.MPF-BLADE.57989 exited observer at their location.
+[15:15:50]	Александр Климов has spawned a 'Entity [93][st_radio_cuban_o]'.
+[15:15:50]	D8.MPF-BLADE.57989 entered observer.
+[15:15:51]	Александр Климов has spawned a 'Entity [86][st_radio_classics_o]'.
+[15:15:53]	D8.MPF-BLADE.57989 has spawned a 'Entity [94][npc_entrance_blocker_cop]'.
+[15:15:58]	Александр Климов has spawned a 'Entity [96][st_radio_salsa_o]'.
+[15:15:59]	D8.MPF-BLADE.57989 exited observer at their location.
+[15:16:00]	D8.MPF-BLADE.57989 has spawned a 'Entity [86][npc_entrance_blocker_cop]'.
+[15:16:01]	Александр Климов has spawned a 'Entity [109][st_radio_syrian_o]'.
+[15:16:04]	Александр Климов has spawned a 'Entity [96][st_radio_bongo_o]'.
+[15:16:04]	Александр Климов has spawned a 'Entity [113][st_radio_bongo_o]'.
+[15:16:05]	Александр Климов has spawned a 'Entity [109][st_radio_bongo_o]'.
+[15:16:08]	Александр Климов has spawned a 'Entity [96][st_radio_middleeast_o]'.
+[15:16:10]	Александр Климов has spawned a 'Entity [109][st_radio_middleeast_o]'.
+[15:16:13]	D8.MPF-BLADE.57989 has spawned a 'Entity [96][npc_citizen_with_luggage_walking]'.
+[15:16:19]	D8.MPF-BLADE.57989 has spawned a 'Entity [96][npc_plaza_citizen_dynamic]'.
+[15:16:22]	D8.MPF-BLADE.57989 has spawned a 'Entity [121][npc_plaza_citizen_static]'.
+[15:16:24]	D8.MPF-BLADE.57989 has spawned a 'Entity [124][npc_plaza_citizen_static]'.
+[15:16:24]	Александр Климов has spawned a 'Entity [152][st_radio_country_o]'.
+[15:16:27]	Александр Климов has spawned a 'Entity [121][st_radio_jams_o]'.
+[15:16:31]	D8.MPF-BLADE.57989 has spawned a 'Entity [122][npc_plaza_citizen_static]'.
+[15:16:32]	Александр Климов has spawned a 'Entity [124][st_radio_cuban_o]'.
+[15:16:33]	Александр Климов has spawned a 'Entity [142][st_radio_cuban_o]'.
+[15:16:38]	Александр Климов has spawned a 'Entity [121][st_radio_desert_o]'.
+[15:16:43]	D8.MPF-BLADE.57989 has spawned a 'Entity [124][npc_hiding_citizen]'.
+[15:16:43]	Александр Климов has spawned a 'Entity [153][st_radio_finetuned_o]'.
+[15:16:46]	D8.MPF-BLADE.57989 has spawned a 'Entity [121][npc_ground_sitting_citizen_static]'.
+[15:16:50]	D8.MPF-BLADE.57989 entered observer.
+[15:16:50]	D8.MPF-BLADE.57989 exited observer at their location.
+[15:17:07]	D8.MPF-BLADE.57989 has spawned 'models/props_combine/combine_interface001.mdl'.
+[15:17:12]	D8.MPF-BLADE.57989 entered observer.
+[15:17:27]	D8.MPF-BLADE.57989 has spawned a 'NPC [153][npc_metropolice]'.
+[15:17:31]	D8.MPF-BLADE.57989 exited observer at their location.
+[15:17:36]	D8.MPF-BLADE.57989 entered observer.
+[15:17:36]	D8.MPF-BLADE.57989 exited observer at their location.
+[15:17:46]	D8.MPF-BLADE.57989 has spawned a 'Entity [154][npc_line_idle_male]'.
+[15:17:48]	Александр Климов has spawned a 'Entity [164][st_radio_classics_o]'.
+[15:17:56]	D8.MPF-BLADE.57989 has spawned a 'Entity [165][npc_line_idle_male]'.
+[15:17:57]	D8.MPF-BLADE.57989 has spawned a 'Entity [168][npc_line_idle_male]'.
+[15:18:02]	D8.MPF-BLADE.57989 has spawned a 'Entity [165][npc_citizen_with_luggage_idle]'.
+[15:18:02]	Александр Климов has spawned a 'Entity [176][st_radio_salsa_o]'.
+[15:18:06]	D8.MPF-BLADE.57989 has spawned a 'Entity [164][npc_citizen_with_luggage_idle]'.
+[15:18:17]	D8.MPF-BLADE.57989 has spawned a 'Entity [183][npc_walking_unarmed_combine_soldier]'.
+[15:18:31]	D8.MPF-BLADE.57989 entered observer.
+[15:18:33]	D8.MPF-BLADE.57989 exited observer at their location.
+[15:18:34]	D8.MPF-BLADE.57989 has gained 300 tokens.
+[15:18:40]	D8.MPF-BLADE.57989 has spawned a 'Entity [183][npc_line_idle_male]'.
+[15:18:43]	D8.MPF-BLADE.57989 has spawned a 'Entity [186][npc_line_idle_male]'.
+[15:18:46]	D8.MPF-BLADE.57989 has spawned a 'Entity [189][npc_line_idle_female]'.
+[15:18:48]	D8.MPF-BLADE.57989 has spawned a 'Entity [192][npc_line_idle_female]'.
+[15:18:50]	D8.MPF-BLADE.57989 has spawned a 'Entity [189][npc_line_idle_female]'.
+[15:18:57]	D8.MPF-BLADE.57989 entered observer.
+[15:18:59]	D8.MPF-BLADE.57989 exited observer at their location.
+[15:19:04]	D8.MPF-BLADE.57989 has spawned a 'Entity [192][npc_line_idle_male]'.
+[15:19:06]	D8.MPF-BLADE.57989 has spawned a 'Entity [195][npc_line_idle_male]'.
+[15:19:12]	D8.MPF-BLADE.57989 entered observer.
+[15:19:18]	D8.MPF-BLADE.57989 has spawned a 'Entity [198][npc_metrocop_abusing_male_no_punch]'.
+[15:19:19]	D8.MPF-BLADE.57989 exited observer at their location.
+[15:19:20]	D8.MPF-BLADE.57989 has spawned a 'Entity [238][npc_metrocop_abusing_male]'.
+[15:19:31]	D8.MPF-BLADE.57989 entered observer.
+[15:19:33]	D8.MPF-BLADE.57989 exited observer at their location.
+[15:19:34]	D8.MPF-BLADE.57989 entered observer.
+[15:19:36]	D8.MPF-BLADE.57989 exited observer at their location.
+[15:19:47]	D8.MPF-BLADE.57989 has spawned a 'Entity [198][npc_slightly_improved_camera]'.
+[15:20:00]	D8.MPF-BLADE.57989 entered observer.
+[15:20:03]	D8.MPF-BLADE.57989 exited observer at their location.
+[15:20:07]	D8.MPF-BLADE.57989 has spawned a 'Entity [237][npc_citizen_with_luggage_idle]'.
+[15:20:11]	D8.MPF-BLADE.57989 has spawned a 'Entity [241][npc_ground_laying_citizen]'.
+[15:20:16]	D8.MPF-BLADE.57989 has spawned a 'Entity [241][npc_cowering_citizen]'.
+[15:20:21]	D8.MPF-BLADE.57989 has spawned a 'Entity [241][npc_citizen_with_luggage_idle]'.
+[15:20:24]	D8.MPF-BLADE.57989 has spawned a 'Entity [241][npc_ground_sitting_citizen_static]'.
+[15:20:30]	D8.MPF-BLADE.57989 entered observer.
+[15:20:31]	D8.MPF-BLADE.57989 exited observer at their location.
+[15:20:34]	D8.MPF-BLADE.57989 entered observer.
+[15:20:37]	D8.MPF-BLADE.57989 exited observer at their location.
+[15:20:43]	D8.MPF-BLADE.57989 entered observer.
+[15:20:45]	D8.MPF-BLADE.57989 has spawned 'models/props_c17/fence04a.mdl'.
+[15:20:46]	D8.MPF-BLADE.57989 has spawned 'models/props_c17/fence03a.mdl'.
+[15:20:50]	D8.MPF-BLADE.57989 exited observer at their location.
+[15:20:51]	D8.MPF-BLADE.57989 entered observer.
+[15:20:52]	D8.MPF-BLADE.57989 exited observer at their location.
+[15:20:53]	D8.MPF-BLADE.57989 entered observer.
+[15:20:53]	D8.MPF-BLADE.57989 exited observer at their location.
+[15:20:57]	D8.MPF-BLADE.57989 entered observer.
+[15:20:58]	D8.MPF-BLADE.57989 exited observer at their location.
+[15:21:07]	D8.MPF-BLADE.57989 entered observer.
+[15:21:08]	D8.MPF-BLADE.57989 exited observer at their location.
+[15:21:09]	D8.MPF-BLADE.57989 entered observer.
+[15:21:09]	D8.MPF-BLADE.57989 exited observer at their location.
+[15:21:12]	D8.MPF-BLADE.57989 has spawned 'models/props_c17/fence01a.mdl'.
+[15:21:16]	D8.MPF-BLADE.57989 entered observer.
+[15:21:27]	D8.MPF-BLADE.57989 has spawned a 'Entity [245][npc_wall_pounding_zombie]'.
+[15:21:36]	D8.MPF-BLADE.57989 exited observer at their location.
+[15:21:38]	D8.MPF-BLADE.57989 entered observer.
+[15:22:03]	D8.MPF-BLADE.57989 has spawned 'models/props_combine/combine_citadelcloud001d.mdl'.
+[15:22:07]	D8.MPF-BLADE.57989 has spawned 'models/props_combine/combine_citadelcloud001d.mdl'.
+[15:22:10]	D8.MPF-BLADE.57989 has spawned 'models/props_combine/combine_citadelcloud001c.mdl'.
+[15:22:15]	D8.MPF-BLADE.57989 has spawned 'models/props_combine/combine_citadelcloudcenter.mdl'.
+[15:22:18]	D8.MPF-BLADE.57989 has spawned 'models/props_combine/combine_interface001a.mdl'.
+[15:22:23]	D8.MPF-BLADE.57989 has spawned 'models/props_combine/combine_interface001.mdl'.
+[15:22:54]	D8.MPF-BLADE.57989 has spawned 'models/combinecannon/cironwall.mdl'.
+[15:22:57]	D8.MPF-BLADE.57989 has spawned 'models/combinecannon/debris.mdl'.
+[15:23:01]	D8.MPF-BLADE.57989 has spawned 'models/combinecannon/debris.mdl'.
+[15:23:05]	D8.MPF-BLADE.57989 has spawned 'models/combinecannon/remnants.mdl'.
+[15:23:13]	Александр Климов used command '/ExitAct'.
+[15:23:16]	Александр Климов entered observer.
+[15:23:26]	D8.MPF-BLADE.57989 has spawned 'models/advisorpod_crash/advisor_pod_crash.mdl'.
+[15:23:29]	D8.MPF-BLADE.57989 has spawned 'models/citadeldestruction/citadelpart1.mdl'.
+[15:23:33]	D8.MPF-BLADE.57989 has spawned 'models/citadeldestruction/featuredebrispart1.mdl'.
+[15:23:34]	D8.MPF-BLADE.57989 has gained 300 tokens.
+[15:23:38]	D8.MPF-BLADE.57989 has spawned 'models/citadeldestruction/citadelpart7.mdl'.
+[15:23:41]	D8.MPF-BLADE.57989 has spawned 'models/citadeldestruction/citadelpart3.mdl'.
+[15:23:57]	Александр Климов exited observer at their location.
+[15:23:57]	D8.MPF-BLADE.57989 has spawned 'models/combine_turrets/combine_cannon.mdl'.
+[15:24:03]	D8.MPF-BLADE.57989 has spawned 'models/combine_turrets/combine_cannon_gun.mdl'.
+[15:24:03]	Александр Климов used command '/ActSitWall'.
+[15:24:05]	Александр Климов used command '/ActSitWall'.
+[15:24:21]	D8.MPF-BLADE.57989 has spawned 'models/props_trainstation/train_engine.mdl'.
+[15:24:36]	D8.MPF-BLADE.57989 has spawned 'models/props_trainstation/wrecked_train.mdl'.
+[15:24:41]	D8.MPF-BLADE.57989 has spawned 'models/props_trainstation/boxcar.mdl'.
+[15:24:45]	D8.MPF-BLADE.57989 exited observer at their location.
+[15:24:54]	D8.MPF-BLADE.57989 entered observer.
+[15:24:58]	D8.MPF-BLADE.57989 exited observer at their location.
+[15:25:01]	D8.MPF-BLADE.57989 entered observer.
+[15:25:02]	D8.MPF-BLADE.57989 exited observer at their location.
+[15:25:02]	D8.MPF-BLADE.57989 entered observer.
+[15:25:03]	D8.MPF-BLADE.57989 exited observer at their location.
+[15:25:04]	D8.MPF-BLADE.57989 has spawned 'models/props_trainstation/boxcar2.mdl'.
+[15:25:04]	D8.MPF-BLADE.57989 entered observer.
+[15:25:11]	D8.MPF-BLADE.57989 has spawned 'models/props_trainstation/flatcar.mdl'.
+[15:25:15]	Александр Климов used command '/ExitAct'.
+[15:25:15]	Александр Климов entered observer.
+[15:25:16]	D8.MPF-BLADE.57989 has spawned 'models/props_trainstation/wrecked_boxcar_panel01.mdl'.
+[15:25:19]	D8.MPF-BLADE.57989 has spawned 'models/props_trainstation/wrecked_boxcar_panel02.mdl'.
+[15:25:21]	Александр Климов exited observer at their location.
+[15:25:22]	D8.MPF-BLADE.57989 has spawned 'models/props_trainstation/wrecked_boxcar_jump.mdl'.
+[15:25:25]	Александр Климов has spawned a 'NPC [247][npc_breen]'.
+[15:25:26]	Александр Климов has spawned a 'NPC [246][npc_breen]'.
+[15:25:27]	D8.MPF-BLADE.57989 has spawned 'models/props_trainstation/wrecked_train_seat.mdl'.
+[15:25:27]	Александр Климов has spawned a 'NPC [249][npc_breen]'.
+[15:25:27]	Александр Климов has spawned a 'NPC [252][npc_breen]'.
+[15:25:30]	D8.MPF-BLADE.57989 has spawned 'models/props_trainstation/train_boxcar.mdl'.
+[15:25:37]	D8.MPF-BLADE.57989 has spawned 'models/props_trainstation/boxcar2a.mdl'.
+[15:25:38]	Александр Климов has spawned a 'NPC [253][npc_breen]'.
+[15:25:39]	Александр Климов has spawned a 'NPC [254][npc_breen]'.
+[15:25:40]	Александр Климов has spawned a 'NPC [253][npc_breen]'.
+[15:25:41]	D8.MPF-BLADE.57989 has spawned 'models/props_trainstation/boxcar2a.mdl'.
+[15:25:42]	Александр Климов has spawned a 'NPC [248][npc_breen]'.
+[15:25:44]	D8.MPF-BLADE.57989 exited observer at their location.
+[15:25:46]	D8.MPF-BLADE.57989 entered observer.
+[15:25:46]	Александр Климов has spawned a 'Entity [253][arccw_ammo_smg1_large]'.
+[15:25:47]	Александр Климов has spawned a 'Entity [255][arccw_ammo_pistol_large]'.
+[15:25:47]	Александр Климов has spawned a 'Entity [261][arccw_ammo_pistol_large]'.
+[15:25:47]	D8.MPF-BLADE.57989 exited observer at their location.
+[15:25:50]	D8.MPF-BLADE.57989 entered observer.
+[15:25:51]	D8.MPF-BLADE.57989 exited observer at their location.
+[15:25:52]	D8.MPF-BLADE.57989 entered observer.
+[15:26:08]	Александр Климов entered observer.
+[15:26:11]	Александр Климов exited observer at their location.
+[15:26:13]	Александр Климов has taken 107 damage from D8.MPF-BLADE.57989.
+[15:26:13]	D8.MPF-BLADE.57989 has killed Александр Климов with arccw_deagle357.
+[15:26:30]	Александр Климов entered observer.
+[15:26:32]	D8.MPF-BLADE.57989 exited observer at their location.
+[15:26:35]	Александр Климов exited observer at their location.
+[15:26:36]	D8.MPF-BLADE.57989 has spawned a 'Entity [93][npc_sitting_citizen]'.
+[15:26:38]	D8.MPF-BLADE.57989 has spawned a 'Entity [248][npc_sitting_citizen]'.
+[15:26:40]	D8.MPF-BLADE.57989 has spawned a 'Entity [93][npc_sitting_citizen]'.
+[15:26:44]	D8.MPF-BLADE.57989 has spawned a 'Entity [248][npc_sitting_citizen]'.
+[15:26:46]	D8.MPF-BLADE.57989 has spawned a 'Entity [253][npc_sitting_citizen]'.
+[15:26:52]	D8.MPF-BLADE.57989 entered observer.
+[15:26:53]	D8.MPF-BLADE.57989 exited observer at their location.
+[15:26:57]	Александр Климов used command '/BecomeClass Разведчик'.
+[15:26:58]	D8.MPF-BLADE.57989 has spawned a 'Entity [248][npc_arrest_citizen_wall]'.
+[15:26:59]	D8.MPF-BLADE.57989 has spawned a 'Entity [262][npc_arrest_citizen_wall]'.
+[15:27:04]	D8.MPF-BLADE.57989 entered observer.
+[15:27:07]	Александр Климов has taken 11 damage from D8.MPF-BLADE.57989.
+[15:27:07]	Александр Климов has taken 11 damage from D8.MPF-BLADE.57989.
+[15:27:07]	Александр Климов has taken 11 damage from D8.MPF-BLADE.57989.
+[15:27:07]	Александр Климов has taken 11 damage from D8.MPF-BLADE.57989.
+[15:27:07]	Александр Климов has taken 11 damage from D8.MPF-BLADE.57989.
+[15:27:07]	Александр Климов has taken 11 damage from D8.MPF-BLADE.57989.
+[15:27:08]	Александр Климов has taken 11 damage from D8.MPF-BLADE.57989.
+[15:27:08]	Александр Климов has taken 3 damage from D8.MPF-BLADE.57989.
+[15:27:08]	Александр Климов has taken 11 damage from D8.MPF-BLADE.57989.
+[15:27:08]	Александр Климов has taken 3 damage from D8.MPF-BLADE.57989.
+[15:27:08]	Александр Климов has taken 11 damage from D8.MPF-BLADE.57989.
+[15:27:08]	D8.MPF-BLADE.57989 has killed Александр Климов with weapon_ar2.
+[15:27:20]	D8.MPF-BLADE.57989 has spawned a 'Entity [90][npc_sitting_citizen]'.
+[15:27:20]	D8.MPF-BLADE.57989 exited observer at their location.
+[15:27:30]	D8.MPF-BLADE.57989 has spawned a 'Entity [87][npc_sitting_citizen]'.
+[15:27:34]	D8.MPF-BLADE.57989 has spawned a 'Entity [248][npc_sitting_citizen]'.
+[15:27:36]	D8.MPF-BLADE.57989 has spawned a 'Entity [268][npc_sitting_citizen]'.
+[15:27:38]	D8.MPF-BLADE.57989 has spawned a 'Entity [248][npc_sitting_citizen]'.
+[15:27:40]	D8.MPF-BLADE.57989 has spawned a 'Entity [268][npc_sitting_citizen]'.
+[15:27:42]	D8.MPF-BLADE.57989 has spawned a 'Entity [248][npc_sitting_citizen]'.
+[15:27:42]	Александр Климов has gained a 'Citizen ID' #70.
+[15:27:42]	Александр Климов used command '/CharGiveItem А cid'.
+[15:27:45]	D8.MPF-BLADE.57989 entered observer.
+[15:27:55]	D8.MPF-BLADE.57989 has spawned a 'NPC [268][npc_metropolice]'.
+[15:28:00]	D8.MPF-BLADE.57989 exited observer at their location.
+[15:28:00]	D8.MPF-BLADE.57989 entered observer.
+[15:28:19]	Александр Климов used command '/CharSetModel А models/Humans/Group01/Male_01.mdl'.
+[15:28:20]	Александр Климов entered observer.
+[15:28:25]	Александр Климов exited observer at their location.
+[15:28:34]	D8.MPF-BLADE.57989 exited observer at their location.
+[15:28:34]	D8.MPF-BLADE.57989 has gained 300 tokens.
+[15:28:34]	D8.MPF-BLADE.57989 entered observer.
+[15:28:35]	D8.MPF-BLADE.57989 exited observer at their location.
+[15:28:39]	D8.MPF-BLADE.57989 entered observer.
+[15:28:47]	Александр Климов used command '/ActSit'.
+[15:28:50]	D8.MPF-BLADE.57989 exited observer at their location.
+[15:28:56]	D8.MPF-BLADE.57989 entered observer.
+[15:28:57]	D8.MPF-BLADE.57989 exited observer at their location.
+[15:29:19]	Александр Климов set thirdperson to '[true]'.
+[15:30:09]	Александр Климов ran 'drop' on item 'Citizen ID' (#70)
+[15:30:09]	Александр Климов has lost a 'Citizen ID' #70.
+[15:30:14]	Александр Климов used command '/ExitAct'.
+[15:30:21]	Александр Климов has taken 11 damage from D8.MPF-BLADE.57989.
+[15:30:21]	Александр Климов has taken 11 damage from D8.MPF-BLADE.57989.
+[15:30:21]	Александр Климов has taken 11 damage from D8.MPF-BLADE.57989.
+[15:30:21]	Александр Климов has taken 3 damage from D8.MPF-BLADE.57989.
+[15:30:21]	Александр Климов has taken 3 damage from D8.MPF-BLADE.57989.
+[15:30:22]	Александр Климов has taken 3 damage from D8.MPF-BLADE.57989.
+[15:30:22]	Александр Климов has taken 3 damage from D8.MPF-BLADE.57989.
+[15:30:22]	Александр Климов has taken 3 damage from D8.MPF-BLADE.57989.
+[15:30:22]	Александр Климов has taken 11 damage from D8.MPF-BLADE.57989.
+[15:30:22]	Александр Климов has taken 11 damage from D8.MPF-BLADE.57989.
+[15:30:22]	Александр Климов has taken 11 damage from D8.MPF-BLADE.57989.
+[15:30:23]	Александр Климов has taken 11 damage from D8.MPF-BLADE.57989.
+[15:30:24]	Александр Климов has taken 22 damage from D8.MPF-BLADE.57989.
+[15:30:24]	D8.MPF-BLADE.57989 has killed Александр Климов with weapon_ar2.
+[15:30:41]	Александр Климов entered observer.
+[15:30:46]	Александр Климов exited observer at their location.
+[15:30:53]	D8.MPF-BLADE.57989 entered observer.
+[15:30:57]	D8.MPF-BLADE.57989 exited observer at their location.
+[15:30:57]	Александр Климов entered observer.
+[15:31:00]	D8.MPF-BLADE.57989 entered observer.
+[15:31:00]	Александр Климов exited observer at their location.
+[15:31:15]	D8.MPF-BLADE.57989 exited observer at their location.
+[15:31:21]	Александр Климов entered observer.
+[15:31:22]	D8.MPF-BLADE.57989 has spawned a 'Entity [120][item_ammo_ar2_large]'.
+[15:31:22]	Александр Климов exited observer at their location.
+[15:31:27]	Александр Климов used command '/CharSetModel А models/Humans/Group01/Male_01.mdl'.
+[15:31:33]	Александр Климов has gained a 'Citizen ID' #70.
+[15:31:33]	Александр Климов used command '/CharGiveItem А cid'.
+[15:32:29]	Александр Климов used command '/ActSitWall'.
+[15:32:33]	Александр Климов ran 'Equip' on item 'UMP-45' (#67)
+[15:32:40]	Александр Климов used command '/ExitAct'.
+[15:32:43]	Александр Климов used command '/ActSitWall'.
+[15:32:44]	Александр Климов used command '/ExitAct'.
+[15:32:47]	Александр Климов used command '/ActSitWall'.
+[15:32:52]	Александр Климов used command '/ActSitWall'.
+[15:32:54]	Александр Климов ran 'EquipUn' on item 'UMP-45' (#67)
+[15:32:55]	Александр Климов used command '/ExitAct'.
+[15:33:20]	Александр Климов has gained a 'Suitcase' #71.
+[15:33:20]	Александр Климов used command '/CharGiveItem А suitcase'.
+[15:33:34]	D8.MPF-BLADE.57989 has gained 300 tokens.
+[15:34:20]	Александр Климов used command '/CharDesc'.
+[15:34:30]	Александр Климов used command '/CharDesc  32 года : Вес 76 Кг : Рост 175 см'.
+[15:37:01]	Александр Климов has taken 5 damage from D8.MPF-BLADE.57989.
+[15:37:02]	Александр Климов has taken 5 damage from D8.MPF-BLADE.57989.
+[15:37:04]	Александр Климов has taken 5 damage from D8.MPF-BLADE.57989.
+[15:37:26]	Александр Климов has spawned a 'Entity [120][item_ammo_pistol_large]'.
+[15:37:38]	Александр Климов has taken 53 damage from D8.MPF-BLADE.57989.
+[15:38:01]	Александр Климов has taken 50 damage from D8.MPF-BLADE.57989.
+[15:38:01]	D8.MPF-BLADE.57989 has killed Александр Климов with arccw_deagle357.
+[15:38:07]	D8.MPF-BLADE.57989 entered observer.
+[15:38:15]	D8.MPF-BLADE.57989 exited observer at their location.
+[15:38:16]	D8.MPF-BLADE.57989 entered observer.
+[15:38:17]	D8.MPF-BLADE.57989 exited observer at their location.
+[15:38:22]	D8.MPF-BLADE.57989 entered observer.
+[15:38:23]	Александр Климов used command '/CharSetModel А models/Humans/Group01/Male_02.mdl'.
+[15:38:25]	D8.MPF-BLADE.57989 exited observer at their location.
+[15:38:31]	Александр Климов entered observer.
+[15:38:34]	D8.MPF-BLADE.57989 has gained 300 tokens.
+[15:38:36]	Александр Климов exited observer at their location.
+[15:38:54]	Александр Климов ran 'drop' on item 'Suitcase' (#71)
+[15:38:54]	Александр Климов has lost a 'Suitcase' #71.
+[15:38:54]	Александр Климов has lost a 'UMP-45' #67.
+[15:38:57]	Александр Климов ran 'take' on item 'Suitcase' (#71)
+[15:38:57]	Александр Климов has gained a 'Suitcase' #71.
+[15:38:57]	Александр Климов has gained a 'UMP-45' #67.
+[15:39:02]	Александр Климов ran 'drop' on item 'Suitcase' (#71)
+[15:39:02]	Александр Климов has lost a 'Suitcase' #71.
+[15:39:02]	Александр Климов has lost a 'UMP-45' #67.
+[15:40:06]	Александр Климов ran 'take' on item 'Suitcase' (#71)
+[15:40:06]	Александр Климов has gained a 'Suitcase' #71.
+[15:40:06]	Александр Климов has gained a 'UMP-45' #67.
+[15:41:33]	Александр Климов ran 'drop' on item 'Citizen ID' (#70)
+[15:41:33]	Александр Климов has lost a 'Citizen ID' #70.
+[15:41:45]	D8.MPF-BLADE.57989 entered observer.
+[15:41:51]	Александр Климов ran 'drop' on item 'Suitcase' (#71)
+[15:41:51]	Александр Климов has lost a 'Suitcase' #71.
+[15:41:51]	Александр Климов has lost a 'UMP-45' #67.
+[15:42:01]	D8.MPF-BLADE.57989 exited observer at their location.
+[15:42:06]	Александр Климов ran 'take' on item 'Citizen ID' (#70)
+[15:42:06]	Александр Климов has gained a 'Citizen ID' #70.
+[15:42:37]	Александр Климов ran 'take' on item 'Suitcase' (#71)
+[15:42:37]	Александр Климов has gained a 'Suitcase' #71.
+[15:42:37]	Александр Климов has gained a 'UMP-45' #67.
+[15:42:58]	Александр Климов ran 'drop' on item 'Citizen ID' (#70)
+[15:42:58]	Александр Климов has lost a 'Citizen ID' #70.
+[15:43:06]	Александр Климов ran 'take' on item 'Citizen ID' (#70)
+[15:43:06]	Александр Климов has gained a 'Citizen ID' #70.
+[15:43:34]	D8.MPF-BLADE.57989 has gained 300 tokens.
+[15:43:53]	Александр Климов ran 'drop' on item 'Suitcase' (#71)
+[15:43:53]	Александр Климов has lost a 'Suitcase' #71.
+[15:43:53]	Александр Климов has lost a 'UMP-45' #67.
+[15:44:04]	D8.MPF-BLADE.57989 entered observer.
+[15:44:04]	D8.MPF-BLADE.57989 exited observer at their location.
+[15:44:32]	Александр Климов has taken 13 damage from D8.MPF-BLADE.57989.
+[15:44:48]	Александр Климов entered observer.
+[15:44:49]	D8.MPF-BLADE.57989 entered observer.
+[15:44:49]	Александр Климов exited observer at their location.
+[15:44:59]	D8.MPF-BLADE.57989 exited observer at their location.
+[15:45:00]	֍ Aime-moi ֍ (STEAM_0:0:424879351) has disconnected.
+[15:45:02]	Александр Климов ran 'take' on item 'Suitcase' (#71)
+[15:45:02]	Александр Климов has gained a 'Suitcase' #71.
+[15:45:02]	Александр Климов has gained a 'UMP-45' #67.
+[15:45:42]	Александр Климов ran 'drop' on item 'Suitcase' (#71)
+[15:45:42]	Александр Климов has lost a 'Suitcase' #71.
+[15:45:42]	Александр Климов has lost a 'UMP-45' #67.
+[15:45:58]	Александр Климов used command '/ActLean'.
+[15:47:06]	Александр Климов used command '/ExitAct'.
+[15:47:09]	Александр Климов ran 'take' on item 'Suitcase' (#71)
+[15:47:09]	Александр Климов has gained a 'Suitcase' #71.
+[15:47:09]	Александр Климов has gained a 'UMP-45' #67.
+[15:48:58]	Г@H3NK has connected.
+[15:51:02]	Г@H3NK loaded the character 'Александр Климов'
+[15:56:24]	Александр Климов has spawned 'models/props_wasteland/controlroom_storagecloset001b.mdl'.
+[15:56:25]	Александр Климов has spawned 'models/props_wasteland/controlroom_storagecloset001a.mdl'.
+[15:56:29]	Александр Климов opened the 'Metal Cabinet' #31 container.
+[15:56:39]	Александр Климов closed the 'Metal Cabinet' #31 container.
+[16:16:17]	Александр Климов opened the 'Metal Cabinet' #31 container.
+[16:16:24]	Александр Климов closed the 'Metal Cabinet' #31 container.
+[16:17:55]	Александр Климов has spawned 'models/props_wasteland/controlroom_filecabinet002a.mdl'.
+[16:17:56]	Александр Климов opened the 'File Cabinet' #31 container.
+[16:17:58]	Александр Климов closed the 'File Cabinet' #31 container.
+[16:18:06]	Александр Климов has spawned 'models/props_junk/wood_crate002a.mdl'.
+[16:18:09]	Александр Климов has spawned 'models/props_junk/wood_crate001a_damaged.mdl'.
+[16:18:12]	Александр Климов has spawned 'models/props_junk/cardboard_box001a.mdl'.
+[16:18:47]	Александр Климов has spawned 'models/props_c17/SuitCase_Passenger_Physics.mdl'.
+[16:18:49]	Александр Климов has spawned 'models/props_c17/SuitCase001a.mdl'.
+[16:19:23]	Александр Климов has spawned 'models/props_junk/TrashDumpster01a.mdl'.
+[16:19:25]	Александр Климов opened the 'Dumpster' #31 container.
+[16:19:27]	Александр Климов closed the 'Dumpster' #31 container.
+[16:19:34]	Александр Климов has spawned 'models/props_junk/TrashDumpster01a.mdl'.
+[16:20:19]	Александр Климов has spawned 'models/props_junk/TrashDumpster01a.mdl'.
+[16:21:19]	Александр Климов has spawned 'models/props_junk/wood_pallet001a.mdl'.
+[16:22:11]	Александр Климов entered observer.
+[16:22:25]	Александр Климов exited observer at their location.
+[16:29:28]	Г@H3NK has connected.
+[16:30:09]	Г@H3NK loaded the character 'Александр Климов'
+[16:30:58]	Александр Климов has gained a 'M3 Super 90' #72.
+[16:30:58]	Александр Климов used command '/CharGiveItem а m3'.
+[16:39:40]	Александр Климов entered observer.
+[16:39:47]	Александр Климов exited observer at their location.
+[16:39:48]	Александр Климов entered observer.
+[16:39:49]	Александр Климов exited observer at their location.
+[16:41:35]	֍ Aime-moi ֍ has connected.
+[16:42:59]	֍ Aime-moi ֍ loaded the character 'D8.MPF-BLADE.57989'
+[16:43:02]	D8.MPF-BLADE.57989 entered observer.
+[16:43:08]	D8.MPF-BLADE.57989 exited observer at their location.
+[16:43:44]	Александр Климов entered observer.
+[16:43:49]	D8.MPF-BLADE.57989 entered observer.
+[16:43:49]	Александр Климов exited observer at their location.
+[16:43:50]	D8.MPF-BLADE.57989 exited observer at their location.
+[16:43:52]	D8.MPF-BLADE.57989 entered observer.
+[16:43:52]	D8.MPF-BLADE.57989 exited observer at their location.
+[16:43:54]	Александр Климов has taken 22 damage from D8.MPF-BLADE.57989.
+[16:43:59]	Александр Климов has spawned a 'Entity [92][item_healthkit]'.
+[16:44:00]	Александр Климов has spawned a 'Entity [93][item_healthkit]'.
+[16:44:09]	Александр Климов used command '/ActArrestWall'.
+[16:44:15]	[ME] D8.MPF-BLADE.57989: начал обыск гражданина
+[16:44:30]	[IT] D8.MPF-BLADE.57989: Был ли нелегал у гражданина?
+[16:44:44]	[IT] Александр Климов: НЕТ
+[16:44:45]	D8.MPF-BLADE.57989 entered observer.
+[16:44:46]	D8.MPF-BLADE.57989 exited observer at their location.
+[16:44:54]	Александр Климов has taken 11 damage from D8.MPF-BLADE.57989.
+[16:44:54]	Александр Климов has taken 11 damage from D8.MPF-BLADE.57989.
+[16:44:54]	Александр Климов has taken 11 damage from D8.MPF-BLADE.57989.
+[16:44:54]	Александр Климов has taken 11 damage from D8.MPF-BLADE.57989.
+[16:44:54]	Александр Климов used command '/ExitAct'.
+[16:44:55]	Александр Климов has taken 11 damage from D8.MPF-BLADE.57989.
+[16:44:55]	Александр Климов has taken 11 damage from D8.MPF-BLADE.57989.
+[16:44:55]	Александр Климов has taken 11 damage from D8.MPF-BLADE.57989.
+[16:44:55]	Александр Климов entered observer.
+[16:44:56]	D8.MPF-BLADE.57989 entered observer.
+[16:45:22]	Александр Климов exited observer at their location.
+[16:45:22]	Александр Климов has spawned a 'Entity [92][item_healthkit]'.
+[16:45:23]	Александр Климов has spawned a 'Entity [93][item_healthkit]'.
+[16:45:24]	Александр Климов has spawned a 'Entity [92][item_healthkit]'.
+[16:45:24]	Александр Климов has spawned a 'Entity [93][item_healthkit]'.
+[16:45:35]	D8.MPF-BLADE.57989 exited observer at their location.
+[16:45:36]	Александр Климов has taken 11 damage from D8.MPF-BLADE.57989.
+[16:45:36]	Александр Климов has taken 22 damage from D8.MPF-BLADE.57989.
+[16:45:36]	Александр Климов has taken 11 damage from D8.MPF-BLADE.57989.
+[16:45:36]	Александр Климов has taken 11 damage from D8.MPF-BLADE.57989.
+[16:45:36]	Александр Климов has taken 11 damage from D8.MPF-BLADE.57989.
+[16:45:36]	Александр Климов has taken 11 damage from D8.MPF-BLADE.57989.
+[16:45:37]	Александр Климов has taken 11 damage from D8.MPF-BLADE.57989.
+[16:45:37]	Александр Климов has taken 11 damage from D8.MPF-BLADE.57989.
+[16:45:37]	Александр Климов entered observer.
+[16:45:38]	D8.MPF-BLADE.57989 entered observer.
+[16:45:49]	Александр Климов exited observer at their location.
+[16:45:50]	Александр Климов has spawned a 'Entity [92][item_healthkit]'.
+[16:45:51]	Александр Климов has spawned a 'Entity [93][item_healthkit]'.
+[16:45:51]	Александр Климов has spawned a 'Entity [94][item_healthkit]'.
+[16:45:51]	Александр Климов has spawned a 'Entity [95][item_healthkit]'.
+[16:45:54]	D8.MPF-BLADE.57989 exited observer at their location.
+[16:46:00]	Александр Климов ran 'Equip' on item 'UMP-45' (#67)
+[16:46:02]	D8.MPF-BLADE.57989 entered observer.
+[16:46:05]	D8.MPF-BLADE.57989 exited observer at their location.
+[16:46:06]	Александр Климов has taken 13 damage from D8.MPF-BLADE.57989.
+[16:46:06]	Александр Климов has taken 13 damage from D8.MPF-BLADE.57989.
+[16:46:06]	Александр Климов has taken 13 damage from D8.MPF-BLADE.57989.
+[16:46:07]	Александр Климов entered observer.
+[16:46:07]	D8.MPF-BLADE.57989 entered observer.
+[16:46:09]	Александр Климов ran 'EquipUn' on item 'UMP-45' (#67)
+[16:46:11]	Александр Климов exited observer at their location.
+[16:46:13]	D8.MPF-BLADE.57989 exited observer at their location.
+[16:46:13]	Александр Климов ran 'drop' on item 'UMP-45' (#67)
+[16:46:13]	Александр Климов has lost a 'UMP-45' #67.
+[16:46:14]	Александр Климов has taken 52 damage from D8.MPF-BLADE.57989.
+[16:46:14]	Александр Климов has taken 52 damage from D8.MPF-BLADE.57989.
+[16:46:14]	D8.MPF-BLADE.57989 has killed Александр Климов with arccw_deagle357.
+[16:46:15]	Александр Климов entered observer.
+[16:46:31]	Александр Климов entered observer.
+[16:46:35]	Александр Климов exited observer at their location.
+[16:46:37]	D8.MPF-BLADE.57989 entered observer.
+[16:46:46]	D8.MPF-BLADE.57989 exited observer at their location.
+[16:46:48]	Александр Климов has taken 5 damage from D8.MPF-BLADE.57989.
+[16:46:49]	Александр Климов has taken 5 damage from D8.MPF-BLADE.57989.
+[16:46:51]	Александр Климов has taken 5 damage from D8.MPF-BLADE.57989.
+[16:46:57]	D8.MPF-BLADE.57989 entered observer.
+[16:46:58]	Александр Климов has taken 50 damage from worldspawn.
+[16:47:01]	Александр Климов has taken 50 damage from gate5.
+[16:47:01]	gate5 has killed Александр Климов.
+[16:47:18]	Александр Климов entered observer.
+[16:47:21]	Александр Климов exited observer at their location.
+[16:47:23]	Александр Климов has taken 218 damage from worldspawn.
+[16:47:23]	worldspawn has killed Александр Климов.
+[16:47:51]	Александр Климов entered observer.
+[16:47:55]	Александр Климов exited observer at their location.
+[16:47:59]	D8.MPF-BLADE.57989 has gained 300 tokens.
+[16:48:13]	Александр Климов entered observer.
+[16:48:18]	Александр Климов exited observer at their location.
+[16:48:23]	Александр Климов ran 'drop' on item 'Suitcase' (#71)
+[16:48:23]	Александр Климов has lost a 'Suitcase' #71.
+[16:48:23]	Александр Климов has lost a 'M3 Super 90' #72.
+[16:48:56]	D8.MPF-BLADE.57989 exited observer at their location.
+[16:48:58]	D8.MPF-BLADE.57989 ran 'take' on item 'Suitcase' (#71)
+[16:48:58]	D8.MPF-BLADE.57989 has gained a 'Suitcase' #71.
+[16:48:58]	D8.MPF-BLADE.57989 has gained a 'M3 Super 90' #72.
+[16:49:02]	D8.MPF-BLADE.57989 ran 'drop' on item 'Suitcase' (#71)
+[16:49:02]	D8.MPF-BLADE.57989 has lost a 'Suitcase' #71.
+[16:49:02]	D8.MPF-BLADE.57989 has lost a 'M3 Super 90' #72.
+[16:49:02]	D8.MPF-BLADE.57989 entered observer.
+[16:49:05]	Александр Климов entered observer.
+[16:49:06]	Александр Климов exited observer at their location.
+[16:50:07]	Александр Климов entered observer.
+[16:50:26]	Александр Климов exited observer at their location.
+[16:50:27]	Александр Климов entered observer.
+[16:50:30]	Александр Климов exited observer at their location.
+[16:50:31]	Александр Климов entered observer.
+[16:50:37]	Александр Климов exited observer at their location.
+[16:50:42]	Александр Климов entered observer.
+[16:50:46]	Александр Климов exited observer at their location.
+[16:50:48]	Александр Климов entered observer.
+[16:50:49]	Александр Климов exited observer at their location.
+[16:50:52]	Александр Климов ran 'take' on item 'Suitcase' (#71)
+[16:50:52]	Александр Климов has gained a 'Suitcase' #71.
+[16:50:52]	Александр Климов has gained a 'M3 Super 90' #72.
+[16:51:11]	Александр Климов ran 'drop' on item 'Suitcase' (#71)
+[16:51:11]	Александр Климов has lost a 'Suitcase' #71.
+[16:51:11]	Александр Климов has lost a 'M3 Super 90' #72.
+[16:51:33]	Александр Климов entered observer.
+[16:51:34]	Александр Климов exited observer at their location.
+[16:53:00]	D8.MPF-BLADE.57989 has gained 300 tokens.
+[16:53:30]	John Quick has connected.
+[16:54:11]	Александр Климов opened the '' #31 container.
+[16:54:14]	Александр Климов closed the '' #31 container.
+[16:54:40]	Александр Климов opened the '' #32 container.
+[16:54:42]	Александр Климов closed the '' #32 container.
+[16:55:09]	D8.MPF-BLADE.57989 has spawned a 'Entity [120][gw_hunter]'.
+[16:55:10]	D8.MPF-BLADE.57989 exited observer at their location.
+[16:55:14]	D8.MPF-BLADE.57989 entered observer.
+[16:55:15]	Александр Климов has spawned a 'Entity [120][item_healthvial]'.
+[16:55:16]	Александр Климов has spawned a 'Entity [121][item_box_buckshot]'.
+[16:55:16]	Александр Климов has spawned a 'Entity [122][item_box_buckshot]'.
+[16:55:16]	Александр Климов has spawned a 'Entity [123][item_box_buckshot]'.
+[16:55:16]	Александр Климов has spawned a 'Entity [124][item_box_buckshot]'.
+[16:55:16]	Александр Климов has spawned a 'Entity [142][item_box_buckshot]'.
+[16:56:20]	John Quick (STEAM_0:1:88209282) has disconnected.
+[16:56:40]	Александр Климов entered observer.
+[16:56:46]	John Quick has connected.
+[16:56:51]	Александр Климов exited observer at their location.
+[16:57:34]	John Quick created the character 'Может'
+[16:57:34]	Может has gained a 'Suitcase' #73.
+[16:57:34]	Может has gained a 'Citizen ID' #74.
+[16:57:34]	John Quick loaded the character 'Может'
+[16:58:00]	D8.MPF-BLADE.57989 has gained 300 tokens.
+[16:59:40]	Г@H3NK has connected.
+[17:00:25]	Г@H3NK loaded the character 'Alexander Klimov'
+[17:02:42]	Alexander Klimov used command '/CharSetModel A models/Humans/Group01/male_08.mdl'.
+[17:03:10]	֍ Aime-moi ֍ has connected.
+[17:04:12]	Alexander Klimov has gained a 'Suitcase' #75.
+[17:04:12]	Alexander Klimov used command '/CharGiveItem A suitcase'.
+[17:04:18]	Alexander Klimov has gained a 'AK-47' #76.
+[17:04:18]	Alexander Klimov used command '/CharGiveItem A ak'.
+[17:04:30]	Alexander Klimov ran 'Equip' on item 'AK-47' (#76)
+[17:04:47]	Alexander Klimov ran 'EquipUn' on item 'AK-47' (#76)
+[17:04:50]	Alexander Klimov ran 'drop' on item 'AK-47' (#76)
+[17:04:50]	Alexander Klimov has lost a 'AK-47' #76.
+[17:04:55]	Alexander Klimov has gained a 'M3 Super 90' #76.
+[17:04:55]	Alexander Klimov used command '/CharGiveItem A m3'.
+[17:04:59]	Alexander Klimov has spawned a 'Entity [683][arccw_ammo_buckshot_large]'.
+[17:05:01]	Alexander Klimov has spawned a 'Entity [683][arccw_ammo_buckshot_large]'.
+[17:05:07]	Alexander Klimov ran 'drop' on item 'M3 Super 90' (#76)
+[17:05:07]	Alexander Klimov has lost a 'M3 Super 90' #76.
+[17:05:12]	Alexander Klimov ran 'take' on item 'M3 Super 90' (#76)
+[17:05:12]	Alexander Klimov has gained a 'M3 Super 90' #76.
+[17:05:13]	Alexander Klimov ran 'Equip' on item 'M3 Super 90' (#76)
+[17:05:54]	Alexander Klimov ran 'EquipUn' on item 'M3 Super 90' (#76)
+[17:05:57]	֍ Aime-moi ֍ loaded the character 'D8.MPF-BLADE.57989'
+[17:06:02]	D8.MPF-BLADE.57989 entered observer.
+[17:06:07]	Alexander Klimov entered observer.
+[17:06:11]	D8.MPF-BLADE.57989 exited observer at their location.
+[17:06:13]	Alexander Klimov exited observer at their location.
+[17:06:17]	D8.MPF-BLADE.57989 entered observer.
+[17:06:19]	D8.MPF-BLADE.57989 has spawned 'models/props_c17/fence01a.mdl'.
+[17:06:20]	D8.MPF-BLADE.57989 exited observer at their location.
+[17:06:26]	D8.MPF-BLADE.57989 entered observer.
+[17:06:27]	D8.MPF-BLADE.57989 exited observer at their location.
+[17:06:43]	D8.MPF-BLADE.57989 has spawned a 'Entity [691][npc_stalker_working_atconsole]'.
+[17:06:44]	D8.MPF-BLADE.57989 entered observer.
+[17:06:45]	D8.MPF-BLADE.57989 exited observer at their location.
+[17:06:47]	Alexander Klimov has taken 50 damage from worldspawn.
+[17:06:50]	D8.MPF-BLADE.57989 has spawned a 'Entity [691][npc_stalker_working_atconsole]'.
+[17:06:52]	D8.MPF-BLADE.57989 has spawned a 'Entity [691][npc_stalker_working_atconsole]'.
+[17:06:53]	D8.MPF-BLADE.57989 has spawned a 'Entity [694][npc_stalker_working_atconsole]'.
+[17:06:54]	D8.MPF-BLADE.57989 entered observer.
+[17:06:56]	D8.MPF-BLADE.57989 has spawned a 'Entity [690][npc_stalker_working_atconsole]'.
+[17:07:00]	D8.MPF-BLADE.57989 has spawned a 'Entity [690][npc_stalker_working_atconsole]'.
+[17:07:01]	D8.MPF-BLADE.57989 exited observer at their location.
+[17:07:03]	D8.MPF-BLADE.57989 has spawned a 'Entity [689][npc_stalker_working_atconsole]'.
+[17:07:04]	D8.MPF-BLADE.57989 entered observer.
+[17:07:05]	D8.MPF-BLADE.57989 exited observer at their location.
+[17:07:09]	D8.MPF-BLADE.57989 has spawned a 'Entity [689][npc_stalker_working_atconsole]'.
+[17:07:10]	D8.MPF-BLADE.57989 entered observer.
+[17:07:11]	D8.MPF-BLADE.57989 exited observer at their location.
+[17:07:15]	D8.MPF-BLADE.57989 has spawned a 'Entity [689][npc_stalker_working_atconsole]'.
+[17:07:16]	D8.MPF-BLADE.57989 entered observer.
+[17:07:17]	D8.MPF-BLADE.57989 exited observer at their location.
+[17:07:18]	D8.MPF-BLADE.57989 entered observer.
+[17:07:21]	D8.MPF-BLADE.57989 has spawned 'models/props_c17/fence01a.mdl'.
+[17:07:22]	D8.MPF-BLADE.57989 exited observer at their location.
+[17:07:37]	D8.MPF-BLADE.57989 has spawned 'models/props_c17/fence01a.mdl'.
+[17:07:53]	D8.MPF-BLADE.57989 has spawned 'models/props_wasteland/controlroom_desk001b.mdl'.
+[17:08:05]	Alexander Klimov entered observer.
+[17:08:06]	Alexander Klimov exited observer at their location.
+[17:08:09]	D8.MPF-BLADE.57989 entered observer.
+[17:08:11]	D8.MPF-BLADE.57989 exited observer at their location.
+[17:08:12]	Alexander Klimov used command '/AreaEdit'.
+[17:08:14]	Alexander Klimov entered observer.
+[17:08:43]	D8.MPF-BLADE.57989 has spawned a 'Entity [769][npc_entrance_blocker_cop]'.
+[17:08:59]	D8.MPF-BLADE.57989 entered observer.
+[17:09:00]	Alexander Klimov has added area "Контрольно Пропускной Пункт".
+[17:09:01]	D8.MPF-BLADE.57989 exited observer at their location.
+[17:09:10]	D8.MPF-BLADE.57989 has spawned a 'NPC [833][npc_metropolice]'.
+[17:09:33]	D8.MPF-BLADE.57989 has spawned a 'NPC [833][npc_metropolice]'.
+[17:09:39]	D8.MPF-BLADE.57989 has spawned a 'NPC [833][npc_metropolice]'.
+[17:09:40]	Alexander Klimov has added area "Вокзал".
+[17:09:54]	D8.MPF-BLADE.57989 entered observer.
+[17:09:58]	D8.MPF-BLADE.57989 exited observer at their location.
+[17:10:00]	D8.MPF-BLADE.57989 has spawned a 'NPC [833][npc_metropolice]'.
+[17:10:03]	D8.MPF-BLADE.57989 entered observer.
+[17:10:06]	D8.MPF-BLADE.57989 exited observer at their location.
+[17:10:17]	D8.MPF-BLADE.57989 entered observer.
+[17:10:20]	D8.MPF-BLADE.57989 exited observer at their location.
+[17:10:24]	D8.MPF-BLADE.57989 entered observer.
+[17:10:37]	D8.MPF-BLADE.57989 used command '/AreaEdit'.
+[17:10:57]	D8.MPF-BLADE.57989 has gained 300 tokens.
+[17:11:12]	D8.MPF-BLADE.57989 has added area "Главная площадь".
+[17:11:19]	D8.MPF-BLADE.57989 exited observer at their location.
+[17:11:27]	D8.MPF-BLADE.57989 entered observer.
+[17:11:28]	Alexander Klimov has added area "Железно Дорожная станция".
+[17:11:33]	D8.MPF-BLADE.57989 exited observer at their location.
+[17:11:38]	D8.MPF-BLADE.57989 entered observer.
+[17:11:40]	Alexander Klimov used command '/AreaEdit'.
+[17:11:46]	D8.MPF-BLADE.57989 exited observer at their location.
+[17:11:47]	Alexander Klimov has removed area "Железно Дорожная станция".
+[17:11:49]	D8.MPF-BLADE.57989 entered observer.
+[17:11:52]	Alexander Klimov exited observer at their location.
+[17:11:52]	Alexander Klimov entered observer.
+[17:11:58]	D8.MPF-BLADE.57989 used command '/AreaEdit'.
+[17:12:25]	Alexander Klimov has removed area "Главная площадь".
+[17:12:26]	D8.MPF-BLADE.57989 has added area "Жилой блок А".
+[17:12:43]	D8.MPF-BLADE.57989 has removed area "Жилой блок А".
+[17:13:01]	D8.MPF-BLADE.57989 exited observer at their location.
+[17:13:03]	D8.MPF-BLADE.57989 entered observer.
+[17:13:08]	D8.MPF-BLADE.57989 exited observer at their location.
+[17:13:10]	D8.MPF-BLADE.57989 entered observer.
+[17:13:18]	D8.MPF-BLADE.57989 has spawned a 'Entity [771][gw_strider]'.
+[17:13:19]	D8.MPF-BLADE.57989 exited observer at their location.
+[17:13:37]	D8.MPF-BLADE.57989 entered observer.
+[17:14:12]	D8.MPF-BLADE.57989 exited observer at their location.
+[17:14:15]	D8.MPF-BLADE.57989 entered observer.
+[17:14:40]	Alexander Klimov has added area "Главная Площадь".
+[17:15:57]	D8.MPF-BLADE.57989 has gained 300 tokens.
+[17:19:04]	Alexander Klimov used command '/AreaEdit'.
+[17:19:10]	Alexander Klimov exited observer at their location.
+[17:19:11]	Alexander Klimov entered observer.
+[17:19:14]	Alexander Klimov used command '/AreaEdit'.
+[17:19:19]	Alexander Klimov has removed area "Главная Площадь".
+[17:19:27]	D8.MPF-BLADE.57989 used command '/AreaEdit'.
+[17:19:59]	D8.MPF-BLADE.57989 has added area "Двор Нексус Надзора".
+[17:20:56]	John Quick has connected.
+[17:20:56]	D8.MPF-BLADE.57989 has added area "Жилой блок "Б"".
+[17:20:57]	D8.MPF-BLADE.57989 has gained 300 tokens.
+[17:21:30]	D8.MPF-BLADE.57989 has removed area "Двор Нексус Надзора".
+[17:21:56]	D8.MPF-BLADE.57989 has added area "Двор Нексус Надзора".
+[17:22:19]	John Quick created the character 'ты пидор'
+[17:22:19]	ты пидор has gained a 'Suitcase' #77.
+[17:22:19]	ты пидор has gained a 'Citizen ID' #78.
+[17:22:19]	John Quick loaded the character 'ты пидор'
+[17:22:32]	D8.MPF-BLADE.57989 has added area "Промзона".
+[17:22:53]	Alexander Klimov exited observer at their location.
+[17:22:53]	D8.MPF-BLADE.57989 exited observer at their location.
+[17:22:59]	D8.MPF-BLADE.57989 entered observer.
+[17:23:02]	D8.MPF-BLADE.57989 exited observer at their location.
+[17:24:07]	ты пидор has taken 11 damage from D8.MPF-BLADE.57989.
+[17:24:08]	ты пидор has taken 3 damage from D8.MPF-BLADE.57989.
+[17:24:08]	ты пидор has taken 11 damage from D8.MPF-BLADE.57989.
+[17:24:08]	ты пидор has taken 11 damage from D8.MPF-BLADE.57989.
+[17:24:09]	ты пидор has taken 11 damage from D8.MPF-BLADE.57989.
+[17:24:14]	ты пидор has taken 11 damage from D8.MPF-BLADE.57989.
+[17:24:15]	ты пидор has taken 22 damage from D8.MPF-BLADE.57989.
+[17:24:15]	ты пидор has taken 3 damage from D8.MPF-BLADE.57989.
+[17:24:15]	ты пидор has taken 11 damage from D8.MPF-BLADE.57989.
+[17:24:16]	ты пидор has taken 11 damage from D8.MPF-BLADE.57989.
+[17:24:16]	D8.MPF-BLADE.57989 has killed ты пидор with weapon_ar2.
+[17:24:36]	Alexander Klimov ran 'drop' on item 'Citizen ID' (#2)
+[17:24:36]	Alexander Klimov has lost a 'Citizen ID' #2.
+[17:24:48]	Alexander Klimov ran 'take' on item 'Citizen ID' (#2)
+[17:24:48]	Alexander Klimov has gained a 'Citizen ID' #2.
+[17:25:57]	D8.MPF-BLADE.57989 has gained 300 tokens.
+[17:26:06]	Alexander Klimov ran 'drop' on item 'Suitcase' (#75)
+[17:26:06]	Alexander Klimov has lost a 'Suitcase' #75.
+[17:26:06]	Alexander Klimov has lost a 'M3 Super 90' #76.
+[17:26:26]	[ME] D8.MPF-BLADE.57989: осматривает содержимое чемодана
+[17:26:39]	Alexander Klimov used command '/CharDesc'.
+[17:26:43]	Alexander Klimov used command '/CharDesc Гражданская форма | Возраст 67 | Рост 175 | Вес 80 Кг | Седые волосы | Сидая борода | Морщинистая кожа'.
+[17:26:50]	Alexander Klimov ran 'take' on item 'Suitcase' (#75)
+[17:26:50]	Alexander Klimov has gained a 'Suitcase' #75.
+[17:26:50]	Alexander Klimov has gained a 'M3 Super 90' #76.
+[17:27:20]	ты пидор ran 'drop' on item 'Suitcase' (#77)
+[17:27:20]	ты пидор has lost a 'Suitcase' #77.
+[17:27:28]	[ME] D8.MPF-BLADE.57989: осматривает содержимое чемодана
+[17:27:54]	D8.MPF-BLADE.57989 entered observer.
+[17:28:07]	D8.MPF-BLADE.57989 exited observer at their location.
+[17:28:12]	D8.MPF-BLADE.57989 has spawned 'models/props_junk/PopCan01a.mdl'.
+[17:28:14]	D8.MPF-BLADE.57989 has spawned 'models/props_junk/PopCan01a.mdl'.
+[17:28:15]	D8.MPF-BLADE.57989 has spawned 'models/props_junk/PopCan01a.mdl'.
+[17:28:18]	D8.MPF-BLADE.57989 has spawned 'models/props_junk/PopCan01a.mdl'.
+[17:28:20]	Alexander Klimov ran 'drop' on item 'Suitcase' (#75)
+[17:28:20]	Alexander Klimov has lost a 'Suitcase' #75.
+[17:28:20]	Alexander Klimov has lost a 'M3 Super 90' #76.
+[17:28:25]	Alexander Klimov ran 'take' on item 'Suitcase' (#75)
+[17:28:25]	Alexander Klimov has gained a 'Suitcase' #75.
+[17:28:25]	Alexander Klimov has gained a 'M3 Super 90' #76.
+[17:29:12]	D8.MPF-BLADE.57989 has spawned 'models/props_junk/PopCan01a.mdl'.
+[17:29:25]	ты пидор has taken 5 damage from D8.MPF-BLADE.57989.
+[17:29:28]	ты пидор has taken 5 damage from D8.MPF-BLADE.57989.
+[17:29:29]	ты пидор has taken 5 damage from D8.MPF-BLADE.57989.
+[17:29:32]	ты пидор used command '/CharGetUp'.
+[17:29:36]	ты пидор used command '/CharGetUp'.
+[17:29:50]	ты пидор used command '/CharGetUp'.
+[17:29:53]	ты пидор used command '/CharGetUp'.
+[17:29:54]	ты пидор used command '/CharGetUp'.
+[17:29:54]	ты пидор used command '/CharGetUp'.
+[17:29:56]	ты пидор used command '/CharGetUp'.
+[17:29:57]	ты пидор used command '/CharGetUp'.
+[17:29:58]	ты пидор used command '/CharGetUp'.
+[17:29:59]	D8.MPF-BLADE.57989 entered observer.
+[17:30:02]	D8.MPF-BLADE.57989 exited observer at their location.
+[17:30:12]	D8.MPF-BLADE.57989 entered observer.
+[17:30:14]	D8.MPF-BLADE.57989 exited observer at their location.
+[17:30:15]	D8.MPF-BLADE.57989 entered observer.
+[17:30:22]	Alexander Klimov entered observer.
+[17:30:23]	Alexander Klimov exited observer at their location.
+[17:30:24]	D8.MPF-BLADE.57989 exited observer at their location.
+[17:30:29]	֍ Aime-moi ֍ loaded the character 'OTA-ECHO.OWS-34096'
+[17:30:30]	OTA-ECHO.OWS-34096 entered observer.
+[17:30:31]	Alexander Klimov ran 'drop' on item 'M3 Super 90' (#76)
+[17:30:31]	Alexander Klimov has lost a 'M3 Super 90' #76.
+[17:30:33]	Alexander Klimov ran 'take' on item 'M3 Super 90' (#76)
+[17:30:33]	Alexander Klimov has gained a 'M3 Super 90' #76.
+[17:30:38]	OTA-ECHO.OWS-34096 exited observer at their location.
+[17:30:45]	Alexander Klimov ran 'drop' on item 'Suitcase' (#75)
+[17:30:45]	Alexander Klimov has lost a 'Suitcase' #75.
+[17:30:45]	Alexander Klimov has lost a 'M3 Super 90' #76.
+[17:30:55]	OTA-ECHO.OWS-34096 entered observer.
+[17:30:59]	֍ Aime-moi ֍ loaded the character 'Антон Миронов'
+[17:31:01]	Антон Миронов entered observer.
+[17:31:06]	Alexander Klimov used command '/CharGiveItem A buck'.
+[17:31:09]	Антон Миронов exited observer at their location.
+[17:31:14]	Антон Миронов entered observer.
+[17:31:14]	Антон Миронов exited observer at their location.
+[17:31:16]	Антон Миронов entered observer.
+[17:31:17]	Антон Миронов exited observer at their location.
+[17:31:20]	Антон Миронов entered observer.
+[17:31:21]	Антон Миронов exited observer at their location.
+[17:31:23]	ты пидор ran 'take' on item 'Suitcase' (#75)
+[17:31:23]	ты пидор has gained a 'Suitcase' #75.
+[17:31:23]	ты пидор has gained a 'M3 Super 90' #76.
+[17:31:36]	Антон Миронов entered observer.
+[17:31:39]	Антон Миронов exited observer at their location.
+[17:31:40]	Антон Миронов entered observer.
+[17:32:01]	Alexander Klimov has taken 10 damage from terminal_side_props.
+[17:32:01]	Alexander Klimov has taken 5 damage from terminal_side_props.
+[17:32:04]	ты пидор has taken 5 damage from terminal_side_props.
+[17:32:04]	ты пидор has taken 5 damage from terminal_side_props.
+[17:32:04]	ты пидор has taken 5 damage from terminal_side_props.
+[17:32:04]	ты пидор has taken 10 damage from terminal_side_props.
+[17:32:04]	ты пидор has taken 10 damage from terminal_side_props.
+[17:32:04]	ты пидор has taken 10 damage from terminal_side_props.
+[17:32:04]	ты пидор has taken 5 damage from terminal_side_props.
+[17:32:16]	Антон Миронов exited observer at their location.
+[17:32:27]	ты пидор ran 'drop' on item 'M3 Super 90' (#76)
+[17:32:27]	ты пидор has lost a 'M3 Super 90' #76.
+[17:32:29]	ты пидор ran 'drop' on item 'Suitcase' (#75)
+[17:32:29]	ты пидор has lost a 'Suitcase' #75.
+[17:32:30]	Alexander Klimov ran 'take' on item 'M3 Super 90' (#76)
+[17:32:30]	Alexander Klimov has gained a 'M3 Super 90' #76.
+[17:32:32]	Alexander Klimov ran 'take' on item 'Suitcase' (#75)
+[17:32:32]	Alexander Klimov has gained a 'Suitcase' #75.
+[17:32:42]	֍ Aime-moi ֍ created the character 'MPF-RCT.50266'
+[17:32:42]	MPF-RCT.50266 has gained a '.9mm Pistol' #79.
+[17:32:42]	MPF-RCT.50266 has gained a '.9mm Патроны' #80.
+[17:32:42]	MPF-RCT.50266 has gained a '.9mm Патроны' #81.
+[17:32:43]	Alexander Klimov has spawned a 'Entity [695][arccw_ammo_buckshot_large]'.
+[17:32:46]	֍ Aime-moi ֍ loaded the character 'MPF-RCT.50266'
+[17:32:47]	Alexander Klimov ran 'Equip' on item 'M3 Super 90' (#76)
+[17:32:49]	ты пидор has taken 125 damage from Alexander Klimov.
+[17:32:49]	Alexander Klimov has killed ты пидор with arccw_shorty.
+[17:33:09]	MPF-I4.50266 used command '/CharSetName MPF MPF-I4.50266'.
+[17:33:18]	ты пидор has taken 19 damage from MPF-I4.50266.
+[17:33:18]	Alexander Klimov ran 'EquipUn' on item 'M3 Super 90' (#76)
+[17:33:19]	ты пидор has taken 19 damage from MPF-I4.50266.
+[17:33:21]	Alexander Klimov entered observer.
+[17:33:24]	Alexander Klimov exited observer at their location.
+[17:33:26]	ты пидор has taken 5 damage from MPF-I4.50266.
+[17:33:27]	ты пидор has taken 5 damage from MPF-I4.50266.
+[17:33:30]	ты пидор has taken 5 damage from MPF-I4.50266.
+[17:33:33]	MPF-I4.50266 entered observer.
+[17:33:33]	MPF-I4.50266 exited observer at their location.
+[17:33:46]	MPF-I4.50266 entered observer.
+[17:33:48]	MPF-I4.50266 exited observer at their location.
+[17:33:49]	Alexander Klimov has taken 22 damage from MPF-I4.50266.
+[17:33:49]	Alexander Klimov has taken 5 damage from MPF-I4.50266.
+[17:33:52]	Alexander Klimov has taken 21 damage from MPF-I4.50266.
+[17:33:52]	MPF-I4.50266 has killed Alexander Klimov with arccw_makarov.
+[17:33:55]	MPF-I4.50266 entered observer.
+[17:33:57]	MPF-I4.50266 exited observer at their location.
+[17:34:02]	MPF-I4.50266 entered observer.
+[17:34:26]	MPF-I4.50266 exited observer at their location.
+[17:34:30]	ты пидор used command '/CharGetUp'.
+[17:34:37]	Alexander Klimov used the 'Валерий' vendor.
+[17:34:41]	Alexander Klimov has lost 10 tokens.
+[17:34:41]	Alexander Klimov has gained a 'Breen's Water' #82.
+[17:34:49]	Alexander Klimov used command '/CharDesc'.
+[17:34:55]	ты пидор has taken 5 damage from prop_physics.
+[17:35:03]	Alexander Klimov used command '/CharDesc'.
+[17:35:07]	Alexander Klimov used command '/CharDesc Гражданская форма | Возраст 67 | Рост 175 | Вес 80 Кг | Седые волосы | Седая борода | Морщинистая кожа'.
+[17:35:29]	Alexander Klimov ran 'drop' on item 'Citizen ID' (#2)
+[17:35:29]	Alexander Klimov has lost a 'Citizen ID' #2.
+[17:35:36]	Alexander Klimov ran 'take' on item 'Citizen ID' (#2)
+[17:35:36]	Alexander Klimov has gained a 'Citizen ID' #2.
+[17:35:51]	Alexander Klimov has taken 5 damage from MPF-I4.50266.
+[17:36:02]	Alexander Klimov has taken 5 damage from MPF-I4.50266.
+[17:36:07]	ты пидор has taken 12 damage from MPF-I4.50266.
+[17:36:07]	ты пидор has taken 12 damage from MPF-I4.50266.
+[17:36:08]	ты пидор has taken 12 damage from MPF-I4.50266.
+[17:36:09]	ты пидор has taken 24 damage from MPF-I4.50266.
+[17:36:09]	MPF-I4.50266 has killed ты пидор with weapon_pistol.
+[17:36:15]	MPF-I4.50266 has spawned a 'Entity [598][item_ammo_pistol_large]'.
+[17:36:18]	MPF-I4.50266 has spawned a 'Entity [598][item_ammo_smg1_large]'.
+[17:36:36]	Alexander Klimov used command '/ActArrestWall'.
+[17:36:47]	ты пидор has taken 24 damage from MPF-I4.50266.
+[17:36:48]	ты пидор has taken 3 damage from MPF-I4.50266.
+[17:36:48]	ты пидор has taken 3 damage from MPF-I4.50266.
+[17:36:48]	ты пидор has taken 3 damage from MPF-I4.50266.
+[17:36:48]	ты пидор has taken 12 damage from MPF-I4.50266.
+[17:36:49]	ты пидор has taken 12 damage from MPF-I4.50266.
+[17:36:51]	ты пидор has taken 3 damage from MPF-I4.50266.
+[17:36:51]	ты пидор has taken 3 damage from MPF-I4.50266.
+[17:36:51]	ты пидор has taken 12 damage from MPF-I4.50266.
+[17:37:00]	Alexander Klimov used command '/ExitAct'.
+[17:37:01]	ты пидор has taken 12 damage from MPF-I4.50266.
+[17:37:01]	ты пидор has taken 3 damage from MPF-I4.50266.
+[17:37:01]	ты пидор has taken 12 damage from MPF-I4.50266.
+[17:37:01]	MPF-I4.50266 has killed ты пидор with weapon_smg1.
+[17:37:03]	MPF-I4.50266 entered observer.
+[17:37:05]	MPF-I4.50266 exited observer at their location.
+[17:37:46]	MPF-I4.50266 has gained 300 tokens.
+[17:37:52]	Alexander Klimov used command '/PlyWhitelist ты rebels'.
+[17:37:54]	Alexander Klimov used command '/PlyWhitelist ты rebel'.
+[17:39:11]	Alexander Klimov ran 'take' on item 'Suitcase' (#77)
+[17:39:11]	Alexander Klimov has gained a 'Suitcase' #77.
+[17:39:23]	Alexander Klimov ran 'Equip' on item 'M3 Super 90' (#76)
+[17:39:25]	Alexander Klimov ran 'drop' on item 'Suitcase' (#77)
+[17:39:25]	Alexander Klimov has lost a 'Suitcase' #77.
+[17:39:27]	ты пидор has taken 5 damage from MPF-I4.50266.
+[17:39:29]	Alexander Klimov ran 'Drink' on item 'Breen's Water' (#82)
+[17:39:29]	ты пидор has taken 5 damage from MPF-I4.50266.
+[17:39:30]	ты пидор has taken 5 damage from MPF-I4.50266.
+[17:39:49]	Alexander Klimov has taken 3 damage from MPF-I4.50266.
+[17:39:49]	Alexander Klimov has taken 3 damage from MPF-I4.50266.
+[17:39:49]	Alexander Klimov has taken 12 damage from MPF-I4.50266.
+[17:39:49]	Alexander Klimov has taken 12 damage from MPF-I4.50266.
+[17:39:50]	MPF-I4.50266 has taken 126 damage from Alexander Klimov.
+[17:39:50]	MPF-I4.50266 has taken 125 damage from Alexander Klimov.
+[17:39:50]	Alexander Klimov has killed MPF-I4.50266 with arccw_shorty.
+[17:40:00]	Alexander Klimov ran 'EquipUn' on item 'M3 Super 90' (#76)
+[17:40:01]	Alexander Klimov ran 'Equip' on item 'M3 Super 90' (#76)
+[17:40:02]	Alexander Klimov ran 'EquipUn' on item 'M3 Super 90' (#76)
+[17:40:07]	MPF-I4.50266 entered observer.
+[17:40:08]	Alexander Klimov entered observer.
+[17:40:10]	Alexander Klimov exited observer at their location.
+[17:40:14]	Alexander Klimov ran 'drop' on item 'M3 Super 90' (#76)
+[17:40:14]	Alexander Klimov has lost a 'M3 Super 90' #76.
+[17:40:16]	MPF-I4.50266 used command '/CharGiveFlag MPF CVcenrtpv'.
+[17:40:20]	MPF-I4.50266 has spawned a 'NPC [855][npc_metropolice]'.
+[17:40:22]	MPF-I4.50266 has spawned a 'NPC [854][npc_metropolice]'.
+[17:40:23]	MPF-I4.50266 has spawned a 'NPC [860][npc_metropolice]'.
+[17:40:25]	MPF-I4.50266 has spawned a 'NPC [883][npc_metropolice]'.
+[17:40:25]	MPF-I4.50266 has spawned a 'NPC [886][npc_metropolice]'.
+[17:40:29]	MPF-I4.50266 has spawned a 'NPC [888][npc_metropolice]'.
+[17:40:29]	MPF-I4.50266 has spawned a 'NPC [889][npc_metropolice]'.
+[17:40:31]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[17:40:31]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[17:40:31]	Alexander Klimov has taken 12 damage from npc_metropolice.
+[17:40:31]	Alexander Klimov has taken 12 damage from npc_metropolice.
+[17:40:31]	Alexander Klimov has taken 24 damage from npc_metropolice.
+[17:40:32]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[17:40:32]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[17:40:35]	Alexander Klimov has taken 11 damage from npc_metropolice.
+[17:40:35]	npc_metropolice has killed Alexander Klimov.
+[17:40:54]	ты пидор has taken 65 damage from MPF-I4.50266.
+[17:40:55]	ты пидор has taken 33 damage from MPF-I4.50266.
+[17:40:55]	MPF-I4.50266 has killed ты пидор with arccw_ak47.
+[17:40:56]	Г@H3NK loaded the character 'Александр Климов'
+[17:41:02]	֍ Aime-moi ֍ loaded the character 'Альберт Кольм'
+[17:41:16]	ты пидор used the 'Валерий' vendor.
+[17:41:20]	ты пидор has lost 10 tokens.
+[17:41:20]	ты пидор has gained a 'Breen's Water' #82.
+[17:41:24]	Альберт Кольм has spawned 'models/barnes/refugee/male_55.mdl'.
+[17:42:13]	Альберт Кольм has spawned 'models/barnes/refugee/male_60.mdl'.
+[17:42:16]	Альберт Кольм entered observer.
+[17:42:19]	Альберт Кольм exited observer at their location.
+[17:42:27]	Альберт Кольм has spawned 'models/humans/group03/male_33.mdl'.
+[17:42:40]	Альберт Кольм used command '/CharSetModel Альберт models/humans/group03/male_33.mdl'.
+[17:42:55]	Альберт Кольм has spawned 'models/humans/group03m/female_26.mdl'.
+[17:42:56]	Альберт Кольм entered observer.
+[17:43:00]	Альберт Кольм exited observer at their location.
+[17:43:18]	Александр Климов used command '/BecomeClass Разведчик'.
+[17:43:20]	Альберт Кольм used command '/CharSetModel Альберт models/humans/group03m/male_61.mdl'.
+[17:43:40]	Альберт Кольм used command '/BecomeClass Разведчик'.
+[17:43:50]	Александр Климов entered observer.
+[17:43:56]	Альберт Кольм used command '/CharSetModel Альберт models/humans/group03m/male_61.mdl'.
+[17:44:13]	Альберт Кольм has spawned 'models/humans/group03m/male_89.mdl'.
+[17:44:20]	Альберт Кольм entered observer.
+[17:44:24]	Альберт Кольм exited observer at their location.
+[17:44:31]	John Quick created the character 'Kirushka'
+[17:44:31]	Kirushka has gained a 'UMP-45' #83.
+[17:44:31]	Kirushka has gained a '.9mm Патроны' #84.
+[17:44:31]	Kirushka has gained a '.9mm Патроны' #85.
+[17:44:38]	John Quick loaded the character 'Kirushka'
+[17:44:54]	Альберт Кольм used command '/BecomeClass Rebel_soldier'.
+[17:45:00]	Александр Климов exited observer at their location.
+[17:45:08]	Альберт Кольм used command '/CharSetModel Альберт models/humans/group03m/male_89.mdl'.
+[17:45:31]	Kirushka has taken 25 damage from Альберт Кольм.
+[17:45:32]	Александр Климов has taken 6 damage from Альберт Кольм.
+[17:45:45]	Kirushka has taken 52 damage from Альберт Кольм.
+[17:45:46]	Kirushka has taken 51 damage from Альберт Кольм.
+[17:45:46]	Альберт Кольм has killed Kirushka with arccw_galil556.
+[17:45:51]	Альберт Кольм has spawned a 'Entity [698][arccw_ammo_ar2_large]'.
+[17:45:52]	Альберт Кольм has spawned a 'Entity [698][arccw_ammo_smg1_large]'.
+[17:45:53]	Альберт Кольм has spawned a 'Entity [711][arccw_ammo_smg1_large]'.
+[17:46:10]	Kirushka has taken 52 damage from Альберт Кольм.
+[17:46:10]	Kirushka has taken 6 damage from Альберт Кольм.
+[17:46:12]	Kirushka has taken 6 damage from Альберт Кольм.
+[17:46:14]	Kirushka has taken 26 damage from Альберт Кольм.
+[17:46:14]	Kirushka has taken 26 damage from Альберт Кольм.
+[17:46:14]	Альберт Кольм has killed Kirushka with arccw_galil556.
+[17:46:20]	Альберт Кольм entered observer.
+[17:46:23]	Альберт Кольм exited observer at their location.
+[17:46:53]	Александр Климов has taken 51 damage from Альберт Кольм.
+[17:46:59]	Александр Климов has taken 109 damage from Альберт Кольм.
+[17:46:59]	Альберт Кольм has killed Александр Климов with arccw_deagle357.
+[17:47:04]	֍ Aime-moi ֍ (STEAM_0:0:424879351) has disconnected.
+[17:47:11]	John Quick (STEAM_0:1:88209282) has disconnected.
+[17:48:54]	Александр Климов has gained a 'UMP-45' #86.
+[17:48:54]	Александр Климов used command '/CharGiveItem А ump45'.
+[17:48:57]	Александр Климов ran 'Equip' on item 'UMP-45' (#86)
+[17:49:19]	Александр Климов has gained a 'P90' #87.
+[17:49:19]	Александр Климов used command '/CharGiveItem А p90'.
+[17:49:20]	Александр Климов ran 'Equip' on item 'P90' (#87)
+[17:49:22]	Александр Климов ran 'EquipUn' on item 'UMP-45' (#86)
+[17:49:22]	Александр Климов ran 'Equip' on item 'P90' (#87)
+[17:49:29]	Александр Климов has spawned a 'Entity [675][arccw_ammo_pistol_large]'.
+[17:49:30]	Александр Климов has spawned a 'Entity [682][arccw_ammo_smg1_large]'.
+[17:49:30]	Александр Климов has spawned a 'Entity [675][arccw_ammo_smg1_large]'.
+[17:49:30]	Александр Климов has spawned a 'Entity [705][arccw_ammo_smg1_large]'.
+[17:49:30]	Александр Климов has spawned a 'Entity [711][arccw_ammo_smg1_large]'.
+[17:49:31]	Александр Климов has spawned a 'Entity [771][arccw_ammo_smg1_large]'.
+[17:49:31]	Александр Климов has spawned a 'Entity [682][arccw_ammo_smg1_large]'.
+[17:49:31]	Александр Климов has spawned a 'Entity [840][arccw_ammo_smg1_large]'.
+[17:49:31]	Александр Климов has spawned a 'Entity [841][arccw_ammo_smg1_large]'.
+[17:49:31]	Александр Климов has spawned a 'Entity [675][arccw_ammo_smg1_large]'.
+[17:49:32]	Александр Климов has spawned a 'Entity [705][arccw_ammo_smg1_large]'.
+[17:49:32]	Александр Климов has spawned a 'Entity [711][arccw_ammo_smg1_large]'.
+[17:49:32]	Александр Климов has spawned a 'Entity [771][arccw_ammo_smg1_large]'.
+[17:49:32]	Александр Климов has spawned a 'Entity [840][arccw_ammo_smg1_large]'.
+[17:49:32]	Александр Климов has spawned a 'Entity [675][arccw_ammo_smg1_large]'.
+[17:49:32]	Александр Климов has spawned a 'Entity [682][arccw_ammo_smg1_large]'.
+[17:49:33]	Александр Климов has spawned a 'Entity [841][arccw_ammo_smg1_large]'.
+[17:49:33]	Александр Климов has spawned a 'Entity [843][arccw_ammo_smg1_large]'.
+[17:49:33]	Александр Климов has spawned a 'Entity [844][arccw_ammo_smg1_large]'.
+[17:50:45]	Александр Климов has spawned a 'NPC [675][npc_zombie]'.
+[17:50:51]	Александр Климов has spawned a 'NPC [675][npc_antlion]'.
+[17:50:54]	Александр Климов has spawned a 'NPC [675][npc_zombine]'.
+[17:50:58]	Александр Климов has spawned a 'NPC [675][npc_headcrab_fast]'.
+[17:51:00]	Александр Климов has spawned a 'NPC [675][npc_antlionguard]'.
+[17:51:04]	Александр Климов has taken 10 damage from npc_antlionguard.
+[17:51:04]	Александр Климов has taken 10 damage from npc_antlionguard.
+[17:51:06]	Александр Климов has taken 10 damage from npc_antlionguard.
+[17:51:06]	Александр Климов has taken 10 damage from npc_antlionguard.
+[17:53:19]	Александр Климов entered observer.
+[17:53:26]	Александр Климов exited observer at their location.
+[17:57:59]	[OOC] Александр Климов: :
+[17:58:21]	[OOC] Александр Климов: :
+[17:58:40]	[OOC] Александр Климов: :
+[17:58:54]	[OOC] Александр Климов: :
+[18:11:41]	Александр Климов ran 'drop' on item 'UMP-45' (#86)
+[18:11:41]	Александр Климов has lost a 'UMP-45' #86.
+[18:12:26]	Александр Климов has gained 0 tokens.
+[18:12:26]	Александр Климов ordered a shipment
+[18:12:32]	Александр Климов took 'P90' from the shipment
+[18:12:34]	Александр Климов has gained a 'P90' #89.
+[18:12:34]	Александр Климов took 'P90' from the shipment
+[18:12:39]	Александр Климов ran 'drop' on item 'P90' (#89)
+[18:12:39]	Александр Климов has lost a 'P90' #89.
+[18:13:11]	Александр Климов took 'P90' from the shipment
+[18:13:11]	Александр Климов took 'P90' from the shipment
+[18:13:11]	Александр Климов took 'P90' from the shipment
+[18:13:11]	Александр Климов took 'P90' from the shipment
+[18:13:12]	Александр Климов took 'P90' from the shipment
+[18:13:12]	Александр Климов took 'P90' from the shipment
+[18:13:12]	Александр Климов took 'P90' from the shipment
+[18:13:13]	Александр Климов took 'P90' from the shipment
+[18:13:13]	Александр Климов took 'P90' from the shipment
+[18:13:13]	Александр Климов took 'P90' from the shipment
+[18:13:13]	Александр Климов took 'P90' from the shipment
+[18:13:14]	Александр Климов took 'P90' from the shipment
+[18:13:14]	Александр Климов took 'P90' from the shipment
+[18:13:14]	Александр Климов took 'P90' from the shipment
+[18:13:15]	Александр Климов took 'P90' from the shipment
+[18:13:15]	Александр Климов took 'P90' from the shipment
+[18:13:15]	Александр Климов took 'P90' from the shipment
+[18:13:16]	Александр Климов took 'P90' from the shipment
+[18:13:45]	Александр Климов entered observer.
+[18:14:34]	Александр Климов exited observer at their location.

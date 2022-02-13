@@ -1,0 +1,357 @@
+[01:27:22]	Г@H3NK has connected.
+[01:33:34]	Г@H3NK loaded the character 'D47.MPF-DvL.514'
+[01:36:06]	D47.MPF-DvL.514 has spawned a 'NPC [1377][npc_combine_s]'.
+[01:36:08]	D47.MPF-DvL.514 has taken 14 damage from npc_combine_s.
+[01:36:08]	D47.MPF-DvL.514 has taken 14 damage from npc_combine_s.
+[01:36:12]	D47.MPF-DvL.514 has spawned a 'NPC [508][npc_combine_s]'.
+[01:36:14]	D47.MPF-DvL.514 has taken 14 damage from npc_combine_s.
+[01:36:17]	D47.MPF-DvL.514 has taken 14 damage from npc_combine_s.
+[01:36:50]	D47.MPF-DvL.514 has spawned a 'NPC [1378][npc_metropolice]'.
+[01:36:52]	D47.MPF-DvL.514 has taken 15 damage from npc_metropolice.
+[01:38:34]	D47.MPF-DvL.514 has gained 50 tokens.
+[01:43:34]	D47.MPF-DvL.514 has gained 50 tokens.
+[01:48:39]	D47.MPF-DvL.514 has gained 50 tokens.
+[01:49:41]	Г@H3NK loaded the character 'Александр Климов'
+[01:50:44]	Александр Климов ran 'EquipUn' on item 'Форма сопротивления' (#403)
+[01:50:52]	Александр Климов ran 'Equip' on item 'Форма сопротивления' (#403)
+[02:02:42]	Г@H3NK loaded the character 'D47.MPF-DvL.514'
+[02:02:44]	D47.MPF-DvL.514 ran 'Equip' on item 'Броня ГО' (#415)
+[02:02:48]	D47.MPF-DvL.514 ran 'EquipUn' on item 'Броня ГО' (#415)
+[02:02:50]	D47.MPF-DvL.514 ran 'Equip' on item 'Броня ГО' (#415)
+[02:02:53]	D47.MPF-DvL.514 ran 'EquipUn' on item 'Броня ГО' (#415)
+[02:02:54]	D47.MPF-DvL.514 ran 'Equip' on item 'Броня ГО' (#415)
+[02:02:58]	D47.MPF-DvL.514 ran 'EquipUn' on item 'Броня ГО' (#415)
+[02:03:21]	D47.MPF-DvL.514 ran 'Equip' on item 'Броня ГО' (#415)
+[02:03:22]	D47.MPF-DvL.514 ran 'EquipUn' on item 'Броня ГО' (#415)
+[02:04:46]	D47.MPF-DvL.514 used command '/PlyWhitelist D47 administrator'.
+[02:04:54]	D47.MPF-DvL.514 used command '/PlyWhitelist D47 vortigonts'.
+[02:05:01]	D47.MPF-DvL.514 ran 'drop' on item 'Картонная коробка' (#366)
+[02:05:01]	D47.MPF-DvL.514 has lost a 'Картонная коробка' #366.
+[02:05:01]	D47.MPF-DvL.514 has lost a 'Граната' #411.
+[02:05:03]	D47.MPF-DvL.514 ran 'take' on item 'Картонная коробка' (#366)
+[02:05:03]	D47.MPF-DvL.514 has gained a 'Картонная коробка' #366.
+[02:05:03]	D47.MPF-DvL.514 has gained a 'Граната' #411.
+[02:08:56]	D47.MPF-DvL.514 has spawned 'models/player/labcoats/male_02.mdl'.
+[02:08:59]	D47.MPF-DvL.514 has spawned 'models/humans/labcoats/male_09.mdl'.
+[02:09:04]	D47.MPF-DvL.514 has spawned 'models/player/labcoats/male_04.mdl'.
+[02:09:06]	D47.MPF-DvL.514 entered observer.
+[02:09:07]	D47.MPF-DvL.514 exited observer at their location.
+[02:11:08]	Г@H3NK loaded the character 'Александр Климов'
+[02:11:14]	Александр Климов has spawned 'models\Humans/Group03m/Male_01.mdl'.
+[02:11:25]	Александр Климов has spawned 'models\Humans/Group03/Male_04.mdl'.
+[02:11:41]	Александр Климов has spawned 'models/player/group03/male_07.mdl'.
+[02:15:05]	Александр Климов used command '/Dispatch ANTI-CITIZEN'.
+[02:15:11]	Александр Климов entered observer.
+[02:15:28]	Александр Климов exited observer at their location.
+[02:15:36]	Александр Климов entered observer.
+[02:15:38]	Александр Климов exited observer at their location.
+[02:16:23]	Александр Климов entered observer.
+[02:16:25]	Александр Климов exited observer at their location.
+[02:16:33]	Александр Климов entered observer.
+[02:16:35]	Александр Климов exited observer at their location.
+[02:18:21]	Александр Климов has spawned a 'Entity [1377][ent_jack_gmod_ezammo]'.
+[02:18:28]	Александр Климов entered observer.
+[02:18:31]	Александр Климов exited observer at their location.
+[02:18:34]	Александр Климов entered observer.
+[02:18:36]	Александр Климов exited observer at their location.
+[02:18:38]	Александр Климов has spawned a 'Entity [1377][entity_tank_editable]'.
+[02:18:40]	Александр Климов entered observer.
+[02:18:43]	Александр Климов has spawned a 'Entity [1377][entity_tank_editable]'.
+[02:18:44]	Александр Климов exited observer at their location.
+[02:18:55]	Александр Климов entered observer.
+[02:18:55]	Александр Климов exited observer at their location.
+[02:21:35]	Александр Климов entered observer.
+[02:21:54]	Александр Климов exited observer at their location.
+[02:21:57]	Александр Климов entered observer.
+[02:21:58]	Александр Климов exited observer at their location.
+[02:22:20]	Александр Климов entered observer.
+[02:22:25]	Александр Климов exited observer at their location.
+[02:24:17]	Александр Климов has taken 30 damage from Александр Климов.
+[02:24:26]	Александр Климов has taken 8 damage from Александр Климов.
+[02:24:26]	Александр Климов has taken 8 damage from Александр Климов.
+[02:24:26]	Александр Климов has taken 8 damage from Александр Климов.
+[02:24:26]	Александр Климов has taken 8 damage from Александр Климов.
+[02:24:26]	Александр Климов has taken 8 damage from Александр Климов.
+[02:24:29]	Александр Климов has taken 8 damage from Александр Климов.
+[02:24:29]	Александр Климов has taken 8 damage from Александр Климов.
+[02:24:29]	Александр Климов has taken 30 damage from Александр Климов.
+[02:24:29]	Александр Климов has killed Александр Климов.
+[02:24:31]	Александр Климов entered observer.
+[02:24:39]	Александр Климов exited observer at their location.
+[02:27:27]	Александр Климов ran 'Equip' on item 'M9' (#307)
+[02:27:57]	Александр Климов entered observer.
+[02:28:00]	Александр Климов exited observer at their location.
+[02:28:20]	Александр Климов entered observer.
+[02:28:30]	Александр Климов exited observer at their location.
+[02:28:53]	Александр Климов entered observer.
+[02:29:01]	Александр Климов exited observer at their location.
+[02:29:52]	Александр Климов entered observer.
+[02:30:00]	Александр Климов has spawned a 'Entity [1395][ix_forcefield]'.
+[02:30:02]	Александр Климов has spawned a 'Entity [507][ix_forcefield]'.
+[02:30:06]	Александр Климов has spawned a 'Entity [507][ix_forcefield]'.
+[02:30:10]	Александр Климов has spawned a 'Entity [1395][ix_forcefield]'.
+[02:30:13]	Александр Климов has spawned a 'Entity [1395][ix_forcefield]'.
+[02:30:27]	Александр Климов exited observer at their location.
+[02:30:32]	Г@H3NK loaded the character 'D47.MPF-DvL.514'
+[02:30:32]	D47.MPF-DvL.514 entered observer.
+[02:30:39]	D47.MPF-DvL.514 exited observer at their location.
+[02:30:43]	D47.MPF-DvL.514 entered observer.
+[02:31:11]	D47.MPF-DvL.514 exited observer at their location.
+[02:31:12]	D47.MPF-DvL.514 has spawned a 'Entity [34][ix_combinelock]'.
+[02:31:13]	D47.MPF-DvL.514 entered observer.
+[02:31:15]	D47.MPF-DvL.514 exited observer at their location.
+[02:31:16]	D47.MPF-DvL.514 has spawned a 'Entity [508][ix_combinelock]'.
+[02:31:17]	D47.MPF-DvL.514 entered observer.
+[02:31:35]	D47.MPF-DvL.514 exited observer at their location.
+[02:31:36]	D47.MPF-DvL.514 has spawned a 'Entity [34][ix_combinelock]'.
+[02:31:38]	D47.MPF-DvL.514 entered observer.
+[02:31:39]	D47.MPF-DvL.514 exited observer at their location.
+[02:31:39]	D47.MPF-DvL.514 has spawned a 'Entity [34][ix_combinelock]'.
+[02:31:42]	D47.MPF-DvL.514 entered observer.
+[02:31:59]	D47.MPF-DvL.514 exited observer at their location.
+[02:31:59]	D47.MPF-DvL.514 has spawned a 'Entity [508][ix_combinelock]'.
+[02:32:00]	D47.MPF-DvL.514 entered observer.
+[02:32:02]	D47.MPF-DvL.514 exited observer at their location.
+[02:32:02]	D47.MPF-DvL.514 has spawned a 'Entity [508][ix_combinelock]'.
+[02:32:05]	D47.MPF-DvL.514 entered observer.
+[02:32:06]	D47.MPF-DvL.514 exited observer at their location.
+[02:32:06]	D47.MPF-DvL.514 has spawned a 'Entity [508][ix_combinelock]'.
+[02:32:09]	D47.MPF-DvL.514 has spawned a 'Entity [508][ix_combinelock]'.
+[02:32:11]	D47.MPF-DvL.514 entered observer.
+[02:32:14]	D47.MPF-DvL.514 exited observer at their location.
+[02:32:16]	D47.MPF-DvL.514 entered observer.
+[02:32:44]	D47.MPF-DvL.514 exited observer at their location.
+[02:32:46]	D47.MPF-DvL.514 has spawned a 'Entity [1062][ix_combinelock]'.
+[02:32:47]	D47.MPF-DvL.514 entered observer.
+[02:32:49]	D47.MPF-DvL.514 exited observer at their location.
+[02:32:50]	D47.MPF-DvL.514 has spawned a 'Entity [1376][ix_combinelock]'.
+[02:32:50]	D47.MPF-DvL.514 entered observer.
+[02:32:54]	D47.MPF-DvL.514 exited observer at their location.
+[02:32:55]	D47.MPF-DvL.514 has spawned a 'Entity [34][ix_combinelock]'.
+[02:32:55]	D47.MPF-DvL.514 entered observer.
+[02:35:08]	D47.MPF-DvL.514 exited observer at their location.
+[02:35:11]	D47.MPF-DvL.514 entered observer.
+[02:35:12]	D47.MPF-DvL.514 exited observer at their location.
+[02:35:15]	D47.MPF-DvL.514 entered observer.
+[02:35:32]	D47.MPF-DvL.514 has gained 50 tokens.
+[02:35:48]	D47.MPF-DvL.514 exited observer at their location.
+[02:36:00]	D47.MPF-DvL.514 used command '/TextAdd ГСР 1.5'.
+[02:36:01]	D47.MPF-DvL.514 entered observer.
+[02:36:03]	D47.MPF-DvL.514 exited observer at their location.
+[02:36:11]	D47.MPF-DvL.514 used command '/TextRemove'.
+[02:37:11]	D47.MPF-DvL.514 used command '/TextAdd Гражданский Союз Рабочих'.
+[02:37:25]	D47.MPF-DvL.514 used command '/DoorSetFaction cwu'.
+[02:37:41]	D47.MPF-DvL.514 used command '/DoorSetFaction citizen'.
+[02:38:02]	D47.MPF-DvL.514 used command '/DoorSetClass cwu'.
+[02:38:23]	D47.MPF-DvL.514 used command '/DoorSetClass civil work union'.
+[02:38:39]	D47.MPF-DvL.514 used command '/DoorSetClass Гражданский Союз Рабочих'.
+[02:38:48]	D47.MPF-DvL.514 entered observer.
+[02:38:57]	D47.MPF-DvL.514 exited observer at their location.
+[02:38:58]	D47.MPF-DvL.514 has spawned a 'Entity [1389][ix_combinelock]'.
+[02:38:59]	D47.MPF-DvL.514 entered observer.
+[02:39:01]	D47.MPF-DvL.514 exited observer at their location.
+[02:39:02]	D47.MPF-DvL.514 has spawned a 'Entity [1389][ix_combinelock]'.
+[02:39:03]	D47.MPF-DvL.514 entered observer.
+[02:39:05]	D47.MPF-DvL.514 exited observer at their location.
+[02:39:06]	D47.MPF-DvL.514 has spawned a 'Entity [507][ix_combinelock]'.
+[02:39:07]	D47.MPF-DvL.514 entered observer.
+[02:39:14]	D47.MPF-DvL.514 exited observer at their location.
+[02:39:15]	D47.MPF-DvL.514 has spawned a 'Entity [1392][ix_combinelock]'.
+[02:39:17]	D47.MPF-DvL.514 entered observer.
+[02:39:21]	D47.MPF-DvL.514 exited observer at their location.
+[02:39:33]	D47.MPF-DvL.514 has spawned 'models/props_trainstation/BenchOutdoor01a.mdl'.
+[02:39:40]	D47.MPF-DvL.514 has spawned 'models/props_trainstation/bench_indoor001a.mdl'.
+[02:39:56]	D47.MPF-DvL.514 has spawned 'models/props_trainstation/traincar_seats001.mdl'.
+[02:40:17]	D47.MPF-DvL.514 has spawned 'models/props_trainstation/traincar_seats001.mdl'.
+[02:40:32]	D47.MPF-DvL.514 has gained 50 tokens.
+[02:40:57]	D47.MPF-DvL.514 has spawned 'models/props_canal/canalmap001.mdl'.
+[02:41:09]	D47.MPF-DvL.514 has spawned 'models/props_canal/canalmap001.mdl'.
+[02:41:57]	D47.MPF-DvL.514 has spawned 'models/props_wasteland/controlroom_chair001a.mdl'.
+[02:42:13]	D47.MPF-DvL.514 has spawned 'models/props_interiors/Furniture_chair03a.mdl'.
+[02:42:32]	D47.MPF-DvL.514 has spawned 'models/props_interiors/Furniture_Couch02a.mdl'.
+[02:42:50]	D47.MPF-DvL.514 has spawned 'models/props_interiors/Furniture_Desk01a.mdl'.
+[02:43:14]	D47.MPF-DvL.514 has spawned 'models/props_lab/cactus.mdl'.
+[02:43:41]	D47.MPF-DvL.514 has spawned 'models/hunter/plates/plate075x1.mdl'.
+[02:43:46]	D47.MPF-DvL.514 has spawned 'models/hunter/plates/plate075x105.mdl'.
+[02:45:32]	D47.MPF-DvL.514 has gained 50 tokens.
+[02:45:42]	D47.MPF-DvL.514 has spawned 'models/props_interiors/SinkKitchen01a.mdl'.
+[02:46:41]	D47.MPF-DvL.514 has spawned 'models/props_lab/clipboard.mdl'.
+[02:46:49]	D47.MPF-DvL.514 has spawned 'models/props_lab/corkboard002.mdl'.
+[02:46:57]	D47.MPF-DvL.514 entered observer.
+[02:46:59]	D47.MPF-DvL.514 exited observer at their location.
+[02:47:28]	D47.MPF-DvL.514 entered observer.
+[02:47:30]	D47.MPF-DvL.514 exited observer at their location.
+[02:47:45]	D47.MPF-DvL.514 has spawned 'models/hunter/blocks/cube1x3x025.mdl'.
+[02:47:46]	D47.MPF-DvL.514 has spawned 'models/hunter/blocks/cube1x2x025.mdl'.
+[02:48:16]	D47.MPF-DvL.514 entered observer.
+[02:48:22]	D47.MPF-DvL.514 exited observer at their location.
+[02:48:32]	D47.MPF-DvL.514 entered observer.
+[02:48:42]	D47.MPF-DvL.514 exited observer at their location.
+[02:48:43]	D47.MPF-DvL.514 entered observer.
+[02:48:45]	D47.MPF-DvL.514 exited observer at their location.
+[02:48:57]	D47.MPF-DvL.514 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[02:49:18]	D47.MPF-DvL.514 entered observer.
+[02:49:33]	D47.MPF-DvL.514 exited observer at their location.
+[02:49:54]	D47.MPF-DvL.514 entered observer.
+[02:49:56]	D47.MPF-DvL.514 exited observer at their location.
+[02:50:04]	D47.MPF-DvL.514 entered observer.
+[02:50:22]	D47.MPF-DvL.514 exited observer at their location.
+[02:50:30]	D47.MPF-DvL.514 entered observer.
+[02:50:31]	D47.MPF-DvL.514 exited observer at their location.
+[02:50:32]	D47.MPF-DvL.514 has gained 50 tokens.
+[02:50:43]	D47.MPF-DvL.514 entered observer.
+[02:50:45]	D47.MPF-DvL.514 exited observer at their location.
+[02:50:51]	D47.MPF-DvL.514 entered observer.
+[02:51:00]	D47.MPF-DvL.514 exited observer at their location.
+[02:51:04]	D47.MPF-DvL.514 used command '/AreaEdit'.
+[02:51:05]	D47.MPF-DvL.514 entered observer.
+[02:51:41]	D47.MPF-DvL.514 has added area "ГСР".
+[02:51:51]	D47.MPF-DvL.514 exited observer at their location.
+[02:51:53]	D47.MPF-DvL.514 entered observer.
+[02:51:54]	D47.MPF-DvL.514 exited observer at their location.
+[02:51:55]	D47.MPF-DvL.514 entered observer.
+[02:51:55]	D47.MPF-DvL.514 exited observer at their location.
+[02:55:32]	D47.MPF-DvL.514 has gained 50 tokens.
+[02:57:32]	D47.MPF-DvL.514 has spawned 'models/props_interiors/Furniture_chair03a.mdl'.
+[02:57:52]	D47.MPF-DvL.514 has spawned 'models/props_combine/breenchair.mdl'.
+[02:58:30]	D47.MPF-DvL.514 has spawned 'models/props_interiors/Furniture_chair03a.mdl'.
+[02:58:32]	D47.MPF-DvL.514 has spawned 'models/props_interiors/Furniture_chair01a.mdl'.
+[02:59:09]	D47.MPF-DvL.514 has spawned 'models/props_lab/chess.mdl'.
+[03:00:04]	D47.MPF-DvL.514 has spawned 'models/props_lab/partsbin01.mdl'.
+[03:00:32]	D47.MPF-DvL.514 has gained 50 tokens.
+[03:01:53]	D47.MPF-DvL.514 has spawned 'models/props_lab/huladoll.mdl'.
+[03:03:49]	D47.MPF-DvL.514 has spawned 'models/props_wasteland/controlroom_chair001a.mdl'.
+[03:04:00]	D47.MPF-DvL.514 has spawned 'models/props_c17/oildrum001.mdl'.
+[03:04:10]	D47.MPF-DvL.514 has spawned 'models/props_wasteland/controlroom_chair001a.mdl'.
+[03:04:29]	D47.MPF-DvL.514 has spawned 'models/props_wasteland/dockplank01b.mdl'.
+[03:04:43]	D47.MPF-DvL.514 has spawned 'models/props_trainstation/trainstation_clock001.mdl'.
+[03:04:54]	D47.MPF-DvL.514 has spawned 'models/props_junk/PopCan01a.mdl'.
+[03:04:55]	D47.MPF-DvL.514 has spawned 'models/props_junk/PopCan01a.mdl'.
+[03:04:56]	D47.MPF-DvL.514 has spawned 'models/props_junk/PopCan01a.mdl'.
+[03:05:08]	D47.MPF-DvL.514 has spawned 'models/props_junk/cardboard_box004a.mdl'.
+[03:05:12]	D47.MPF-DvL.514 has spawned 'models/props_junk/cardboard_box004a.mdl'.
+[03:05:22]	D47.MPF-DvL.514 has spawned 'models/props_c17/FurnitureChair001a.mdl'.
+[03:05:32]	D47.MPF-DvL.514 has gained 50 tokens.
+[03:05:42]	D47.MPF-DvL.514 has spawned 'models/props_wasteland/controlroom_filecabinet001a.mdl'.
+[03:05:45]	D47.MPF-DvL.514 opened the 'File Cabinet' #100 container.
+[03:05:50]	D47.MPF-DvL.514 closed the 'File Cabinet' #100 container.
+[03:07:14]	D47.MPF-DvL.514 has set container 100 name to 'Полка'.
+[03:07:26]	D47.MPF-DvL.514 has set the password for 'Полка'.
+[03:07:43]	D47.MPF-DvL.514 opened the 'Полка' #100 container.
+[03:07:53]	D47.MPF-DvL.514 has gained a 'Броня ГО' #415.
+[03:08:32]	D47.MPF-DvL.514 has given 50000 tokens to 'Полка' #100 (50000 tokens left).
+[03:08:42]	D47.MPF-DvL.514 has given 6700 tokens to 'Полка' #100 (56700 tokens left).
+[03:08:47]	D47.MPF-DvL.514 has given 3000 tokens to 'Полка' #100 (59700 tokens left).
+[03:08:53]	D47.MPF-DvL.514 closed the 'Полка' #100 container.
+[03:09:10]	D47.MPF-DvL.514 ran 'EquipUn' on item 'M4' (#398)
+[03:09:14]	D47.MPF-DvL.514 ran 'Equip' on item 'M4' (#398)
+[03:09:37]	D47.MPF-DvL.514 has gained a 'Desert Eagle' #416.
+[03:09:37]	D47.MPF-DvL.514 used command '/CharGiveItem D47 de50ae'.
+[03:09:40]	D47.MPF-DvL.514 opened the 'Полка' #100 container.
+[03:09:49]	D47.MPF-DvL.514 closed the 'Полка' #100 container.
+[03:09:51]	D47.MPF-DvL.514 opened the 'Полка' #100 container.
+[03:09:53]	D47.MPF-DvL.514 closed the 'Полка' #100 container.
+[03:10:00]	D47.MPF-DvL.514 has gained a '.357 Magnum Bullets' #417.
+[03:10:00]	D47.MPF-DvL.514 used command '/CharGiveItem D47 357ammo'.
+[03:10:04]	D47.MPF-DvL.514 ran 'use' on item '.357 Magnum Bullets' (#417)
+[03:10:08]	D47.MPF-DvL.514 has gained a '.357 Magnum Bullets' #417.
+[03:10:08]	D47.MPF-DvL.514 has gained a '.357 Magnum Bullets' #418.
+[03:10:08]	D47.MPF-DvL.514 has gained a '.357 Magnum Bullets' #419.
+[03:10:08]	D47.MPF-DvL.514 has gained a '.357 Magnum Bullets' #420.
+[03:10:08]	D47.MPF-DvL.514 used command '/CharGiveItem D47 357ammo 4'.
+[03:10:08]	D47.MPF-DvL.514 opened the 'Полка' #100 container.
+[03:10:29]	D47.MPF-DvL.514 has given 97 tokens to 'Полка' #100 (59797 tokens left).
+[03:10:30]	D47.MPF-DvL.514 closed the 'Полка' #100 container.
+[03:10:32]	D47.MPF-DvL.514 has gained 50 tokens.
+[03:11:02]	D47.MPF-DvL.514 has spawned 'models/props_interiors/Furniture_chair01a.mdl'.
+[03:11:58]	D47.MPF-DvL.514 has spawned 'models/nova/chair_office01.mdl'.
+[03:11:59]	D47.MPF-DvL.514 has spawned 'models/props_c17/chair_office01a.mdl'.
+[03:12:01]	D47.MPF-DvL.514 has spawned 'models/nova/chair_office01.mdl'.
+[03:13:29]	D47.MPF-DvL.514 entered observer.
+[03:13:35]	D47.MPF-DvL.514 exited observer at their location.
+[03:13:36]	D47.MPF-DvL.514 has spawned a 'Entity [1398][ix_vendingmachine]'.
+[03:13:49]	D47.MPF-DvL.514 entered observer.
+[03:13:50]	D47.MPF-DvL.514 exited observer at their location.
+[03:14:00]	D47.MPF-DvL.514 has spawned a 'Entity [1398][ix_forcefield]'.
+[03:14:04]	D47.MPF-DvL.514 has spawned a 'Entity [1487][ix_forcefield]'.
+[03:14:05]	D47.MPF-DvL.514 entered observer.
+[03:14:06]	D47.MPF-DvL.514 exited observer at their location.
+[03:14:13]	D47.MPF-DvL.514 entered observer.
+[03:14:14]	D47.MPF-DvL.514 exited observer at their location.
+[03:14:15]	D47.MPF-DvL.514 has spawned a 'Entity [1392][ix_combinelock]'.
+[03:14:16]	D47.MPF-DvL.514 entered observer.
+[03:14:20]	D47.MPF-DvL.514 exited observer at their location.
+[03:15:11]	D47.MPF-DvL.514 used command '/DoorSetTitle ГСР'.
+[03:15:32]	D47.MPF-DvL.514 has gained 50 tokens.
+[03:15:34]	D47.MPF-DvL.514 used command '/DoorSetHidden false'.
+[03:20:04]	D47.MPF-DvL.514 used command '/AreaEdit'.
+[03:20:05]	D47.MPF-DvL.514 entered observer.
+[03:20:13]	D47.MPF-DvL.514 exited observer at their location.
+[03:21:34]	D47.MPF-DvL.514 entered observer.
+[03:21:36]	D47.MPF-DvL.514 exited observer at their location.
+[03:22:19]	D47.MPF-DvL.514 entered observer.
+[03:22:21]	D47.MPF-DvL.514 exited observer at their location.
+[03:22:22]	D47.MPF-DvL.514 entered observer.
+[03:22:25]	D47.MPF-DvL.514 exited observer at their location.
+[03:22:28]	D47.MPF-DvL.514 entered observer.
+[03:22:30]	D47.MPF-DvL.514 exited observer at their location.
+[03:22:39]	D47.MPF-DvL.514 entered observer.
+[03:22:45]	D47.MPF-DvL.514 exited observer at their location.
+[03:22:55]	D47.MPF-DvL.514 entered observer.
+[03:23:05]	D47.MPF-DvL.514 exited observer at their location.
+[03:24:16]	D47.MPF-DvL.514 entered observer.
+[03:24:17]	D47.MPF-DvL.514 exited observer at their location.
+[03:24:24]	D47.MPF-DvL.514 entered observer.
+[03:24:32]	D47.MPF-DvL.514 exited observer at their location.
+[03:24:37]	D47.MPF-DvL.514 entered observer.
+[03:24:57]	D47.MPF-DvL.514 exited observer at their location.
+[03:25:33]	D47.MPF-DvL.514 used command '/TextAdd Стазис камеры'.
+[03:26:07]	D47.MPF-DvL.514 has spawned 'models/weapons/w_pist_glock18.mdl'.
+[03:26:16]	D47.MPF-DvL.514 has spawned 'models/weapons/w_irifle.mdl'.
+[03:26:57]	D47.MPF-DvL.514 has spawned 'models/props_combine/tprotato2.mdl'.
+[03:28:46]	D47.MPF-DvL.514 entered observer.
+[03:28:51]	D47.MPF-DvL.514 exited observer at their location.
+[03:28:56]	D47.MPF-DvL.514 entered observer.
+[03:28:58]	D47.MPF-DvL.514 exited observer at their location.
+[03:29:09]	D47.MPF-DvL.514 entered observer.
+[03:29:15]	D47.MPF-DvL.514 has gained 50 tokens.
+[03:29:32]	D47.MPF-DvL.514 exited observer at their location.
+[03:29:41]	D47.MPF-DvL.514 entered observer.
+[03:29:59]	D47.MPF-DvL.514 exited observer at their location.
+[03:30:02]	D47.MPF-DvL.514 has spawned a 'Entity [1398][ix_combinelock]'.
+[03:30:03]	D47.MPF-DvL.514 entered observer.
+[03:30:04]	D47.MPF-DvL.514 exited observer at their location.
+[03:30:05]	D47.MPF-DvL.514 has spawned a 'Entity [1433][ix_combinelock]'.
+[03:30:11]	D47.MPF-DvL.514 entered observer.
+[03:30:34]	D47.MPF-DvL.514 exited observer at their location.
+[03:30:38]	D47.MPF-DvL.514 entered observer.
+[03:31:03]	D47.MPF-DvL.514 exited observer at their location.
+[03:31:04]	D47.MPF-DvL.514 entered observer.
+[03:31:07]	D47.MPF-DvL.514 used command '/TextAdd Стазис камеры'.
+[03:31:08]	D47.MPF-DvL.514 exited observer at their location.
+[03:31:09]	D47.MPF-DvL.514 entered observer.
+[03:31:09]	D47.MPF-DvL.514 exited observer at their location.
+[03:31:11]	D47.MPF-DvL.514 has removed their last 3D text.
+[03:31:12]	D47.MPF-DvL.514 entered observer.
+[03:31:20]	D47.MPF-DvL.514 used command '/TextRemove'.
+[03:31:24]	D47.MPF-DvL.514 exited observer at their location.
+[03:31:31]	D47.MPF-DvL.514 used command '/TextAdd Стазис камеры'.
+[03:31:34]	D47.MPF-DvL.514 has removed their last 3D text.
+[03:31:41]	D47.MPF-DvL.514 used command '/TextAdd Стазис камеры'.
+[03:31:49]	D47.MPF-DvL.514 entered observer.
+[03:31:51]	D47.MPF-DvL.514 exited observer at their location.
+[03:31:53]	D47.MPF-DvL.514 entered observer.
+[03:32:15]	D47.MPF-DvL.514 exited observer at their location.
+[03:34:57]	Г@H3NK loaded the character 'Алекс Климов'
+[03:35:24]	Алекс Климов has spawned 'models/player/fall_winter/female_06.mdl'.
+[03:35:39]	Алекс Климов used command '/CharSetModel А models/player/fall_winter/male_04.mdl'.
+[03:38:58]	Алекс Климов used command '/BecomeClass cwu'.
+[03:39:11]	Алекс Климов used command '/CharSetClass А cwu'.
+[03:40:34]	Алекс Климов entered observer.
+[03:40:36]	Алекс Климов exited observer at their location.
+[03:40:39]	Алекс Климов entered observer.
+[03:40:41]	Алекс Климов exited observer at their location.
+[03:41:01]	Алекс Климов entered observer.
+[03:41:02]	Алекс Климов exited observer at their location.
+[03:42:42]	Алекс Климов has spawned a 'NPC [1378][npc_citizen]'.
+[03:42:48]	Алекс Климов has spawned a 'NPC [1265][npc_citizen]'.

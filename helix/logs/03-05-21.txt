@@ -1,0 +1,378 @@
+[00:00:46]	D47.MPF-RL.51774 exited observer at their location.
+[00:01:01]	D47.MPF-RL.51774 has gained 100 tokens.
+[00:01:08]	D47.MPF-RL.51774 entered observer.
+[00:01:22]	D47.MPF-RL.51774 has spawned 'models/hunter/plates/plate2x5.mdl'.
+[00:01:30]	D47.MPF-RL.51774 has spawned 'models/hunter/plates/plate2x3.mdl'.
+[00:01:35]	D47.MPF-RL.51774 has spawned 'models/hunter/plates/plate2x3.mdl'.
+[00:01:45]	D47.MPF-RL.51774 has spawned 'models/hunter/plates/plate2x4.mdl'.
+[00:02:25]	D47.MPF-RL.51774 exited observer at their location.
+[00:02:30]	D47.MPF-RL.51774 entered observer.
+[00:02:54]	D47.MPF-RL.51774 has spawned 'models/props/foundation_64x128.mdl'.
+[00:02:58]	D47.MPF-RL.51774 has spawned 'models/props/foundation02.mdl'.
+[00:02:59]	D47.MPF-RL.51774 has spawned 'models/props/foundation02.mdl'.
+[00:03:01]	D47.MPF-RL.51774 has spawned 'models/props/foundation9.mdl'.
+[00:04:32]	D47.MPF-RL.51774 has spawned 'models/props/railing2.mdl'.
+[00:06:02]	D47.MPF-RL.51774 has gained 100 tokens.
+[00:11:02]	D47.MPF-RL.51774 has gained 100 tokens.
+[00:11:55]	D47.MPF-RL.51774 has spawned 'models/props/floor3.mdl'.
+[00:12:01]	D47.MPF-RL.51774 has spawned 'models/props/fence7.mdl'.
+[00:12:03]	D47.MPF-RL.51774 has spawned 'models/props/fence6.mdl'.
+[00:12:06]	D47.MPF-RL.51774 has spawned 'models/props/fence4.mdl'.
+[00:12:07]	D47.MPF-RL.51774 has spawned 'models/props/fence4.mdl'.
+[00:12:09]	D47.MPF-RL.51774 has spawned 'models/props/fence3.mdl'.
+[00:12:12]	D47.MPF-RL.51774 has spawned 'models/military/railing64.mdl'.
+[00:12:14]	D47.MPF-RL.51774 has spawned 'models/military/railing128.mdl'.
+[00:12:28]	D47.MPF-RL.51774 has spawned 'models/military/stairset.mdl'.
+[00:12:34]	D47.MPF-RL.51774 has spawned 'models/military/glasspane.mdl'.
+[00:12:37]	D47.MPF-RL.51774 has spawned 'models/decoration/mason_jar.mdl'.
+[00:12:40]	D47.MPF-RL.51774 has spawned 'models/barn/barn_railing128.mdl'.
+[00:13:26]	D47.MPF-RL.51774 has spawned 'models/props/wood_grate2.mdl'.
+[00:13:58]	D47.MPF-RL.51774 exited observer at their location.
+[00:14:32]	D47.MPF-RL.51774 entered observer.
+[00:15:00]	D47.MPF-RL.51774 has spawned 'models/props/wall9.mdl'.
+[00:15:05]	D47.MPF-RL.51774 has spawned 'models/props/wall7.mdl'.
+[00:16:02]	D47.MPF-RL.51774 has gained 100 tokens.
+[00:16:04]	D47.MPF-RL.51774 exited observer at their location.
+[00:17:03]	D47.MPF-RL.51774 entered observer.
+[00:17:17]	D47.MPF-RL.51774 used command '/AreaEdit'.
+[00:18:47]	D47.MPF-RL.51774 has added area "Заброшенное подземное шоссе".
+[00:19:49]	D47.MPF-RL.51774 exited observer at their location.
+[00:20:02]	D47.MPF-RL.51774 used command '/DoorSetFaction metro'.
+[00:20:09]	D47.MPF-RL.51774 used command '/DoorSetHidden false'.
+[00:20:29]	D47.MPF-RL.51774 used command '/DoorSetTitle Зона 404'.
+[00:20:30]	D47.MPF-RL.51774 entered observer.
+[00:20:46]	D47.MPF-RL.51774 exited observer at their location.
+[00:20:47]	D47.MPF-RL.51774 entered observer.
+[00:21:01]	D47.MPF-RL.51774 exited observer at their location.
+[00:21:02]	D47.MPF-RL.51774 has gained 100 tokens.
+[00:21:30]	D47.MPF-RL.51774 entered observer.
+[00:21:59]	D47.MPF-RL.51774 exited observer at their location.
+[00:22:00]	D47.MPF-RL.51774 entered observer.
+[00:22:04]	D47.MPF-RL.51774 exited observer at their location.
+[00:22:05]	D47.MPF-RL.51774 entered observer.
+[00:22:33]	D47.MPF-RL.51774 has spawned 'models/hl2signs/posters/combineposter_colossal.mdl'.
+[00:22:35]	D47.MPF-RL.51774 has spawned 'models/hl2signs/posters/combineposter_colossal.mdl'.
+[00:23:10]	D47.MPF-RL.51774 exited observer at their location.
+[00:23:11]	D47.MPF-RL.51774 has spawned 'models/hl2signs/posters/combine_poster2.mdl'.
+[00:23:12]	D47.MPF-RL.51774 entered observer.
+[00:23:13]	D47.MPF-RL.51774 has spawned 'models/hl2signs/posters/combine_poster2.mdl'.
+[00:24:00]	D47.MPF-RL.51774 exited observer at their location.
+[00:24:30]	D47.MPF-RL.51774 has gained 0 tokens.
+[00:24:30]	D47.MPF-RL.51774 ordered a shipment
+[00:24:34]	D47.MPF-RL.51774 has gained a 'Minimal Tier Ration Unit' #322.
+[00:24:34]	D47.MPF-RL.51774 took 'Minimal Tier Ration Unit' from the shipment
+[00:24:34]	D47.MPF-RL.51774 has gained a 'Minimal Tier Ration Unit' #323.
+[00:24:34]	D47.MPF-RL.51774 took 'Minimal Tier Ration Unit' from the shipment
+[00:24:34]	D47.MPF-RL.51774 has gained a 'Minimal Tier Ration Unit' #324.
+[00:24:34]	D47.MPF-RL.51774 took 'Minimal Tier Ration Unit' from the shipment
+[00:24:35]	D47.MPF-RL.51774 has gained a 'Minimal Tier Ration Unit' #325.
+[00:24:35]	D47.MPF-RL.51774 took 'Minimal Tier Ration Unit' from the shipment
+[00:24:35]	D47.MPF-RL.51774 has gained a 'Minimal Tier Ration Unit' #326.
+[00:24:35]	D47.MPF-RL.51774 took 'Minimal Tier Ration Unit' from the shipment
+[00:24:35]	D47.MPF-RL.51774 has gained a 'Офицерские пищевые добавки' #327.
+[00:24:35]	D47.MPF-RL.51774 took 'Офицерские пищевые добавки' from the shipment
+[00:24:36]	D47.MPF-RL.51774 has gained a 'Офицерские пищевые добавки' #328.
+[00:24:36]	D47.MPF-RL.51774 took 'Офицерские пищевые добавки' from the shipment
+[00:24:38]	D47.MPF-RL.51774 ran 'Open' on item 'Minimal Tier Ration Unit' (#322)
+[00:24:38]	D47.MPF-RL.51774 has gained a 'Minimal Survival Supplement' #329.
+[00:24:39]	D47.MPF-RL.51774 ran 'Open' on item 'Minimal Tier Ration Unit' (#323)
+[00:24:39]	D47.MPF-RL.51774 has gained a 'Minimal Survival Supplement' #330.
+[00:24:39]	D47.MPF-RL.51774 ran 'Open' on item 'Minimal Tier Ration Unit' (#324)
+[00:24:39]	D47.MPF-RL.51774 has gained a 'Minimal Survival Supplement' #331.
+[00:24:40]	D47.MPF-RL.51774 ran 'Open' on item 'Minimal Tier Ration Unit' (#326)
+[00:24:40]	D47.MPF-RL.51774 has gained a 'Minimal Survival Supplement' #332.
+[00:24:41]	D47.MPF-RL.51774 ran 'Open' on item 'Minimal Tier Ration Unit' (#325)
+[00:24:41]	D47.MPF-RL.51774 has gained a 'Minimal Survival Supplement' #333.
+[00:24:41]	D47.MPF-RL.51774 ran 'Consume' on item 'Minimal Survival Supplement' (#330)
+[00:24:42]	D47.MPF-RL.51774 ran 'Consume' on item 'Minimal Survival Supplement' (#331)
+[00:24:42]	D47.MPF-RL.51774 ran 'Consume' on item 'Minimal Survival Supplement' (#332)
+[00:24:43]	D47.MPF-RL.51774 ran 'Consume' on item 'Minimal Survival Supplement' (#333)
+[00:24:43]	D47.MPF-RL.51774 ran 'Consume' on item 'Minimal Survival Supplement' (#329)
+[00:24:44]	D47.MPF-RL.51774 ran 'Eat' on item 'Офицерские пищевые добавки' (#327)
+[00:24:45]	D47.MPF-RL.51774 ran 'Eat' on item 'Офицерские пищевые добавки' (#328)
+[00:24:54]	D47.MPF-RL.51774 has spawned 'models/hl2signs/signs/sign_laida.mdl'.
+[00:24:55]	D47.MPF-RL.51774 entered observer.
+[00:24:57]	D47.MPF-RL.51774 has spawned 'models/hl2signs/z_novaprospekt/novaprospekt_blocka3.mdl'.
+[00:25:01]	D47.MPF-RL.51774 has spawned 'models/hl2signs/z_novaprospekt/novaprospekt_blockd8.mdl'.
+[00:25:06]	D47.MPF-RL.51774 has spawned 'models/hl2signs/signs/caution_apparatus.mdl'.
+[00:25:08]	D47.MPF-RL.51774 has spawned 'models/hl2signs/signs/caution_equipment.mdl'.
+[00:25:10]	D47.MPF-RL.51774 has spawned 'models/hl2signs/signs/caution_gateoverride01.mdl'.
+[00:25:13]	D47.MPF-RL.51774 has spawned 'models/hl2signs/signs/caution_gateoverride02.mdl'.
+[00:25:15]	D47.MPF-RL.51774 has spawned 'models/hl2signs/signs/caution_respirator.mdl'.
+[00:25:18]	D47.MPF-RL.51774 has spawned 'models/hl2signs/signs/danger_contaminated.mdl'.
+[00:25:19]	D47.MPF-RL.51774 has spawned 'models/hl2signs/signs/danger_contaminated.mdl'.
+[00:25:20]	D47.MPF-RL.51774 has spawned 'models/hl2signs/signs/danger_crane.mdl'.
+[00:25:22]	D47.MPF-RL.51774 has spawned 'models/hl2signs/signs/danger_explosives.mdl'.
+[00:25:23]	D47.MPF-RL.51774 has spawned 'models/hl2signs/signs/danger_flammable.mdl'.
+[00:25:25]	D47.MPF-RL.51774 has spawned 'models/hl2signs/signs/danger_personnel.mdl'.
+[00:25:27]	D47.MPF-RL.51774 has spawned 'models/hl2signs/signs/danger_voltage.mdl'.
+[00:25:28]	D47.MPF-RL.51774 has spawned 'models/hl2signs/signs/danger_voltage.mdl'.
+[00:25:29]	D47.MPF-RL.51774 has spawned 'models/hl2signs/signs/danger_personnel.mdl'.
+[00:25:40]	D47.MPF-RL.51774 has spawned 'models/hl2signs/graffiti/graffiti_m5b.mdl'.
+[00:26:02]	D47.MPF-RL.51774 has gained 100 tokens.
+[00:26:23]	D47.MPF-RL.51774 exited observer at their location.
+[00:26:33]	D47.MPF-RL.51774 entered observer.
+[00:26:37]	D47.MPF-RL.51774 has spawned 'models/hl2signs/graffiti/graffiti_solve.mdl'.
+[00:26:38]	D47.MPF-RL.51774 has spawned 'models/hl2signs/graffiti/graffiti_solve.mdl'.
+[00:26:42]	D47.MPF-RL.51774 has spawned 'models/hl2signs/graffiti/graffiti_padila.mdl'.
+[00:26:53]	D47.MPF-RL.51774 has spawned 'models/hl2signs/signs/freeway_thru.mdl'.
+[00:26:54]	D47.MPF-RL.51774 has spawned 'models/hl2signs/signs/identification_administrative.mdl'.
+[00:26:56]	D47.MPF-RL.51774 has spawned 'models/hl2signs/signs/identification_administrative.mdl'.
+[00:26:59]	D47.MPF-RL.51774 has spawned 'models/hl2signs/signs/identification_industrial.mdl'.
+[00:28:39]	D47.MPF-RL.51774 exited observer at their location.
+[00:31:02]	D47.MPF-RL.51774 has gained 100 tokens.
+[00:36:02]	D47.MPF-RL.51774 has gained 100 tokens.
+[00:37:53]	D47.MPF-RL.51774 has taken 5000 damage from rebeltrain_hurt.
+[00:37:53]	rebeltrain_hurt has killed D47.MPF-RL.51774.
+[00:39:24]	D47.MPF-RL.51774 entered observer.
+[00:39:30]	D47.MPF-RL.51774 has spawned 'models/props_wasteland/interior_fence003b.mdl'.
+[00:40:20]	D47.MPF-RL.51774 has spawned 'models/props_wasteland/interior_fence001c.mdl'.
+[00:40:22]	D47.MPF-RL.51774 has spawned 'models/props_wasteland/interior_fence001c.mdl'.
+[00:40:24]	D47.MPF-RL.51774 has spawned 'models/props_wasteland/interior_fence001c.mdl'.
+[00:40:45]	D47.MPF-RL.51774 has spawned 'models/props_wasteland/interior_fence003b.mdl'.
+[00:40:55]	D47.MPF-RL.51774 has spawned 'models/props_wasteland/interior_fence002c.mdl'.
+[00:41:04]	D47.MPF-RL.51774 has gained 100 tokens.
+[00:41:18]	D47.MPF-RL.51774 exited observer at their location.
+[00:41:24]	D47.MPF-RL.51774 entered observer.
+[00:42:01]	D47.MPF-RL.51774 has spawned 'models/props_wasteland/interior_fence002b.mdl'.
+[00:42:06]	D47.MPF-RL.51774 has spawned 'models/props_wasteland/interior_fence003d.mdl'.
+[00:42:16]	D47.MPF-RL.51774 has spawned 'models/props_wasteland/interior_fence003d.mdl'.
+[00:42:52]	D47.MPF-RL.51774 exited observer at their location.
+[00:43:02]	D47.MPF-RL.51774 entered observer.
+[00:43:22]	D47.MPF-RL.51774 has spawned 'models/props_wasteland/interior_fence002e.mdl'.
+[00:43:42]	D47.MPF-RL.51774 has spawned 'models/props_wasteland/exterior_fence003b.mdl'.
+[00:43:45]	D47.MPF-RL.51774 has spawned 'models/props_wasteland/interior_fence001g.mdl'.
+[00:44:13]	D47.MPF-RL.51774 has spawned 'models/props_wasteland/interior_fence003b.mdl'.
+[00:44:24]	D47.MPF-RL.51774 has spawned 'models/props_wasteland/interior_fence003b.mdl'.
+[00:44:58]	D47.MPF-RL.51774 has spawned 'models/props_wasteland/interior_fence002e.mdl'.
+[00:45:04]	D47.MPF-RL.51774 has spawned 'models/props_wasteland/exterior_fence003a.mdl'.
+[00:45:07]	D47.MPF-RL.51774 has spawned 'models/props_wasteland/interior_fence003e.mdl'.
+[00:45:11]	D47.MPF-RL.51774 has spawned 'models/props_wasteland/interior_fence003e.mdl'.
+[00:45:15]	D47.MPF-RL.51774 has spawned 'models/props_wasteland/interior_fence003f.mdl'.
+[00:45:18]	D47.MPF-RL.51774 has spawned 'models/props_wasteland/interior_fence003e.mdl'.
+[00:45:35]	D47.MPF-RL.51774 has spawned 'models/props_wasteland/interior_fence002d.mdl'.
+[00:45:40]	D47.MPF-RL.51774 has spawned 'models/props_wasteland/interior_fence002c.mdl'.
+[00:45:53]	D47.MPF-RL.51774 has spawned 'models/props_wasteland/interior_fence003b.mdl'.
+[00:46:04]	D47.MPF-RL.51774 has gained 100 tokens.
+[00:46:58]	D47.MPF-RL.51774 has spawned 'models/props_wasteland/interior_fence002b.mdl'.
+[00:47:07]	D47.MPF-RL.51774 has spawned 'models/props_wasteland/interior_fence003d.mdl'.
+[00:47:09]	D47.MPF-RL.51774 has spawned 'models/props_wasteland/interior_fence003d.mdl'.
+[00:47:37]	D47.MPF-RL.51774 exited observer at their location.
+[00:48:48]	Bot04 has connected.
+[00:48:48]	Bot04 loaded the character 'Bot04'
+[00:50:08]	D47.MPF-RL.51774 entered observer.
+[00:50:15]	D47.MPF-RL.51774 exited observer at their location.
+[00:50:36]	D47.MPF-RL.51774 ran 'Equip' on item 'Five-seveN' (#124)
+[00:50:40]	Bot04 has taken 118 damage from D47.MPF-RL.51774.
+[00:50:45]	Bot04 has taken 117 damage from D47.MPF-RL.51774.
+[00:50:46]	Bot04 has taken 115 damage from D47.MPF-RL.51774.
+[00:50:46]	D47.MPF-RL.51774 has killed Bot04 with arccw_fiveseven.
+[00:51:04]	D47.MPF-RL.51774 has gained 100 tokens.
+[00:51:18]	Bot04 (BOT) has disconnected.
+[00:51:23]	Bot05 has connected.
+[00:51:23]	Bot05 loaded the character 'Bot05'
+[00:52:01]	Bot05 has taken 5 damage from D47.MPF-RL.51774.
+[00:52:02]	Bot05 has taken 5 damage from D47.MPF-RL.51774.
+[00:52:03]	Bot05 has taken 5 damage from D47.MPF-RL.51774.
+[00:52:07]	Bot05 has taken 2 damage from D47.MPF-RL.51774.
+[00:52:09]	Bot05 has taken 2 damage from D47.MPF-RL.51774.
+[00:52:11]	Bot05 has taken 2 damage from D47.MPF-RL.51774.
+[00:52:12]	Bot05 has taken 2 damage from D47.MPF-RL.51774.
+[00:52:16]	Bot05 has taken 10 damage from D47.MPF-RL.51774.
+[00:52:17]	Bot05 has taken 10 damage from D47.MPF-RL.51774.
+[00:52:31]	Bot05 has taken 59 damage from D47.MPF-RL.51774.
+[00:52:35]	Bot05 has taken 59 damage from D47.MPF-RL.51774.
+[00:52:35]	Bot05 has taken 59 damage from D47.MPF-RL.51774.
+[00:52:35]	D47.MPF-RL.51774 has killed Bot05 with arccw_fiveseven.
+[00:52:53]	Bot05 has taken 59 damage from D47.MPF-RL.51774.
+[00:52:53]	Bot05 has taken 58 damage from D47.MPF-RL.51774.
+[00:52:53]	Bot05 has taken 58 damage from D47.MPF-RL.51774.
+[00:52:53]	Bot05 has taken 58 damage from D47.MPF-RL.51774.
+[00:52:53]	D47.MPF-RL.51774 has killed Bot05 with arccw_fiveseven.
+[00:53:15]	Bot05 has taken 56 damage from D47.MPF-RL.51774.
+[00:53:15]	Bot05 has taken 56 damage from D47.MPF-RL.51774.
+[00:53:16]	Bot05 has taken 56 damage from D47.MPF-RL.51774.
+[00:53:16]	Bot05 has taken 56 damage from D47.MPF-RL.51774.
+[00:53:16]	D47.MPF-RL.51774 has killed Bot05 with arccw_fiveseven.
+[00:53:50]	D47.MPF-RL.51774 ran 'Equip' on item 'HK UMP-9' (#318)
+[00:53:55]	Bot05 has taken 60 damage from D47.MPF-RL.51774.
+[00:53:55]	Bot05 has taken 60 damage from D47.MPF-RL.51774.
+[00:53:55]	Bot05 has taken 60 damage from D47.MPF-RL.51774.
+[00:53:56]	Bot05 has taken 60 damage from D47.MPF-RL.51774.
+[00:53:56]	D47.MPF-RL.51774 has killed Bot05 with arccw_ump9.
+[00:54:32]	Bot05 has taken 61 damage from D47.MPF-RL.51774.
+[00:54:32]	Bot05 has taken 61 damage from D47.MPF-RL.51774.
+[00:54:32]	Bot05 has taken 61 damage from D47.MPF-RL.51774.
+[00:54:32]	Bot05 has taken 61 damage from D47.MPF-RL.51774.
+[00:54:32]	D47.MPF-RL.51774 has killed Bot05 with arccw_ump9.
+[00:55:39]	Bot05 has taken 61 damage from D47.MPF-RL.51774.
+[00:55:39]	Bot05 has taken 61 damage from D47.MPF-RL.51774.
+[00:55:44]	Bot05 has taken 61 damage from D47.MPF-RL.51774.
+[00:55:44]	Bot05 has taken 61 damage from D47.MPF-RL.51774.
+[00:55:44]	D47.MPF-RL.51774 has killed Bot05 with arccw_ump9.
+[00:55:46]	D47.MPF-RL.51774 entered observer.
+[00:55:58]	D47.MPF-RL.51774 exited observer at their location.
+[00:56:04]	D47.MPF-RL.51774 has gained 100 tokens.
+[00:56:11]	D47.MPF-RL.51774 entered observer.
+[00:56:11]	D47.MPF-RL.51774 exited observer at their location.
+[00:56:36]	D47.MPF-RL.51774 has spawned 'models/props_trainstation/handrail_64decoration001a.mdl'.
+[00:56:45]	D47.MPF-RL.51774 has spawned 'models/props_trainstation/handrail_64decoration001a.mdl'.
+[00:57:07]	D47.MPF-RL.51774 entered observer.
+[00:57:08]	D47.MPF-RL.51774 exited observer at their location.
+[00:57:25]	D47.MPF-RL.51774 used command '/AreaEdit'.
+[00:57:30]	D47.MPF-RL.51774 entered observer.
+[00:58:06]	D47.MPF-RL.51774 has added area "Рационы".
+[00:58:10]	D47.MPF-RL.51774 exited observer at their location.
+[00:58:33]	D47.MPF-RL.51774 used command '/DoorSetTitle Рационы'.
+[00:58:34]	D47.MPF-RL.51774 used command '/DoorSetTitle Рационы'.
+[00:58:42]	D47.MPF-RL.51774 used command '/DoorSetTitle Рационы'.
+[00:58:43]	D47.MPF-RL.51774 used command '/DoorSetTitle Рационы'.
+[00:58:45]	D47.MPF-RL.51774 entered observer.
+[01:00:32]	Г@H3NK has connected.
+[01:01:25]	Г@H3NK loaded the character 'D47.MPF-RL.51774'
+[01:01:34]	D47.MPF-RL.51774 entered observer.
+[01:01:40]	D47.MPF-RL.51774 exited observer at their location.
+[01:03:43]	D47.MPF-RL.51774 entered observer.
+[01:04:40]	D47.MPF-RL.51774 exited observer at their location.
+[01:04:50]	D47.MPF-RL.51774 has spawned 'models/humans/group03/male_01_tact.mdl'.
+[01:05:08]	D47.MPF-RL.51774 used command '/Radio models/player/tac_op9.mdl'.
+[01:05:12]	D47.MPF-RL.51774 ran 'Frequency' on item 'Портативная рация' (#39)
+[01:05:15]	D47.MPF-RL.51774 ran 'Toggle' on item 'Портативная рация' (#39)
+[01:05:17]	D47.MPF-RL.51774 used command '/Radio models/player/tac_op9.mdl'.
+[01:05:28]	D47.MPF-RL.51774 has spawned 'models/player/combine_qrat_unit.mdl'.
+[01:05:37]	D47.MPF-RL.51774 has spawned 'models/npc/combine_specialforce_1.mdl'.
+[01:05:55]	D47.MPF-RL.51774 used command '/CharSetModel D47 models/npc/combine_specialforce_1.mdl'.
+[01:06:22]	D47.MPF-RL.51774 used command '/CharSetModel D47 models/humans/group03/male_02_tact.mdl'.
+[01:06:32]	D47.MPF-RL.51774 has gained 100 tokens.
+[01:07:01]	Г@H3NK loaded the character 'Александр Климов'
+[01:09:31]	Александр Климов entered observer.
+[01:09:40]	Александр Климов exited observer at their location.
+[01:11:07]	Александр Климов entered observer.
+[01:11:27]	Александр Климов exited observer at their location.
+[01:16:06]	Bot06 has connected.
+[01:16:06]	Bot06 loaded the character 'Bot06'
+[01:16:11]	Bot06 has taken 25 damage from Александр Климов.
+[01:16:11]	Bot06 has taken 25 damage from Александр Климов.
+[01:16:12]	Bot06 has taken 25 damage from Александр Климов.
+[01:16:12]	Bot06 has taken 25 damage from Александр Климов.
+[01:16:12]	Александр Климов has killed Bot06 with arccw_mifl_fas2_m4a1.
+[01:17:35]	Bot06 has taken 7 damage from Александр Климов.
+[01:17:35]	Bot06 has taken 7 damage from Александр Климов.
+[01:17:36]	Bot06 has taken 7 damage from Александр Климов.
+[01:17:36]	Bot06 has taken 28 damage from Александр Климов.
+[01:17:39]	Bot06 has taken 7 damage from Александр Климов.
+[01:17:39]	Bot06 has taken 7 damage from Александр Климов.
+[01:17:40]	Bot06 has taken 27 damage from Александр Климов.
+[01:17:41]	Bot06 has taken 54 damage from Александр Климов.
+[01:17:41]	Александр Климов has killed Bot06 with arccw_shorty.
+[01:17:51]	Bot06 has taken 63 damage from Александр Климов.
+[01:17:51]	Bot06 has taken 63 damage from Александр Климов.
+[01:17:51]	Александр Климов has killed Bot06 with arccw_shorty.
+[01:19:27]	Bot06 has taken 387 damage from Александр Климов.
+[01:19:27]	Александр Климов has killed Bot06 with arccw_shorty.
+[01:22:39]	Александр Климов entered observer.
+[01:22:42]	Александр Климов exited observer at their location.
+[01:23:02]	Александр Климов entered observer.
+[01:23:05]	Александр Климов exited observer at their location.
+[01:27:58]	Г@H3NK loaded the character 'D47.MPF-RL.51774'
+[01:28:02]	D47.MPF-RL.51774 entered observer.
+[01:28:04]	D47.MPF-RL.51774 exited observer at their location.
+[01:28:04]	D47.MPF-RL.51774 has taken 48 damage from worldspawn.
+[01:30:50]	D47.MPF-RL.51774 entered observer.
+[01:30:51]	D47.MPF-RL.51774 exited observer at their location.
+[01:30:52]	D47.MPF-RL.51774 has taken 31 damage from worldspawn.
+[01:31:02]	D47.MPF-RL.51774 entered observer.
+[01:31:03]	D47.MPF-RL.51774 exited observer at their location.
+[01:31:03]	D47.MPF-RL.51774 has taken 3 damage from worldspawn.
+[01:31:04]	D47.MPF-RL.51774 entered observer.
+[01:31:05]	D47.MPF-RL.51774 exited observer at their location.
+[01:31:05]	D47.MPF-RL.51774 has taken 9 damage from worldspawn.
+[01:31:06]	D47.MPF-RL.51774 entered observer.
+[01:31:07]	D47.MPF-RL.51774 exited observer at their location.
+[01:31:07]	D47.MPF-RL.51774 has taken 6 damage from worldspawn.
+[01:31:13]	D47.MPF-RL.51774 entered observer.
+[01:31:15]	D47.MPF-RL.51774 exited observer at their location.
+[01:31:16]	D47.MPF-RL.51774 entered observer.
+[01:31:17]	D47.MPF-RL.51774 exited observer at their location.
+[01:31:17]	D47.MPF-RL.51774 has taken 30 damage from worldspawn.
+[01:31:17]	worldspawn has killed D47.MPF-RL.51774.
+[01:31:39]	D47.MPF-RL.51774 entered observer.
+[01:31:41]	D47.MPF-RL.51774 exited observer at their location.
+[01:32:25]	D47.MPF-RL.51774 entered observer.
+[01:33:00]	D47.MPF-RL.51774 exited observer at their location.
+[01:33:02]	D47.MPF-RL.51774 has taken 92 damage from worldspawn.
+[01:35:49]	D47.MPF-RL.51774 has gained 100 tokens.
+[01:39:04]	D47.MPF-RL.51774 entered observer.
+[01:39:04]	D47.MPF-RL.51774 exited observer at their location.
+[01:40:49]	D47.MPF-RL.51774 has gained 100 tokens.
+[17:25:49]	Г@H3NK has connected.
+[17:26:59]	Г@H3NK loaded the character 'Александр Климов'
+[17:28:15]	Александр Климов has spawned 'models/ma/hla/elitepolice.mdl'.
+[17:28:29]	Александр Климов has spawned 'models/ma/hla/metropolice.mdl'.
+[17:28:39]	Александр Климов entered observer.
+[17:28:42]	Александр Климов exited observer at their location.
+[17:28:48]	Г@H3NK loaded the character 'D47.MPF-RL.51774'
+[17:29:00]	D47.MPF-RL.51774 used command '/CharSetModel D47 models/ma/hla/elitepolice.mdl'.
+[17:29:06]	D47.MPF-RL.51774 ran 'Equip' on item 'HK UMP-9' (#318)
+[17:29:14]	D47.MPF-RL.51774 ran 'Equip' on item 'Five-seveN' (#124)
+[17:29:16]	D47.MPF-RL.51774 ran 'Equip' on item 'Five-seveN' (#124)
+[17:29:17]	D47.MPF-RL.51774 ran 'EquipUn' on item 'HK UMP-9' (#318)
+[17:29:17]	D47.MPF-RL.51774 ran 'Equip' on item 'Five-seveN' (#124)
+[17:29:18]	D47.MPF-RL.51774 ran 'Equip' on item 'HK UMP-9' (#318)
+[17:29:29]	D47.MPF-RL.51774 has spawned 'models/ma/hla/metropolice.mdl'.
+[17:29:37]	D47.MPF-RL.51774 used command '/CharSetModel D47 models/ma/hla/metropolice.mdl'.
+[17:29:55]	D47.MPF-RL.51774 has spawned 'models/props_d47/hospital_window3.mdl'.
+[17:29:59]	D47.MPF-RL.51774 has spawned 'models/props_d47/nexus_plat2.mdl'.
+[17:30:02]	D47.MPF-RL.51774 has spawned 'models/props_d47/subway_doorright.mdl'.
+[17:30:03]	D47.MPF-RL.51774 has spawned 'models/props_d47/subway_car3.mdl'.
+[17:30:04]	D47.MPF-RL.51774 entered observer.
+[17:30:10]	D47.MPF-RL.51774 has spawned 'models/props_d47/stairs20.mdl'.
+[17:30:13]	D47.MPF-RL.51774 exited observer at their location.
+[17:33:58]	D47.MPF-RL.51774 has gained 100 tokens.
+[17:38:58]	D47.MPF-RL.51774 has gained 100 tokens.
+[17:39:36]	D47.MPF-RL.51774 has spawned 'models/player/fall_winter/male_11.mdl'.
+[17:39:38]	D47.MPF-RL.51774 has spawned 'models/player/fall_winter/male_11.mdl'.
+[17:40:19]	D47.MPF-RL.51774 has spawned 'models/player/fall_winter/female_07_b.mdl'.
+[17:40:21]	D47.MPF-RL.51774 has spawned 'models/player/fall_winter/male_01.mdl'.
+[17:40:52]	D47.MPF-RL.51774 entered observer.
+[17:40:55]	D47.MPF-RL.51774 exited observer at their location.
+[17:41:08]	D47.MPF-RL.51774 used command '/CharSetModel D47 models/Police.mdl'.
+[17:41:57]	D47.MPF-RL.51774 has spawned 'models/Lamarr.mdl'.
+[17:42:03]	D47.MPF-RL.51774 has spawned 'models/headcrabclassic.mdl'.
+[17:42:06]	D47.MPF-RL.51774 has spawned 'models/Lamarr.mdl'.
+[17:42:10]	D47.MPF-RL.51774 has spawned 'models\Humans/Group02/Male_04.mdl'.
+[17:42:24]	D47.MPF-RL.51774 entered observer.
+[17:42:29]	D47.MPF-RL.51774 exited observer at their location.
+[17:42:40]	D47.MPF-RL.51774 has spawned 'models/summer_spring/items/shirt_citizen2.mdl'.
+[17:42:42]	D47.MPF-RL.51774 has spawned 'models/summer_spring/items/shirt_citizen1.mdl'.
+[17:42:43]	D47.MPF-RL.51774 has spawned 'models/summer_spring/items/shirt_rebel1.mdl'.
+[17:42:45]	D47.MPF-RL.51774 has spawned 'models/summer_spring/items/shirt_rebel_molle.mdl'.
+[17:42:47]	D47.MPF-RL.51774 has spawned 'models/summer_spring/items/shirt_rebelbag.mdl'.
+[17:42:48]	D47.MPF-RL.51774 has spawned 'models/summer_spring/items/shirt_rebelmetrocop.mdl'.
+[17:42:49]	D47.MPF-RL.51774 has spawned 'models/summer_spring/items/shirt_rebeloverwatch.mdl'.
+[17:42:51]	D47.MPF-RL.51774 has spawned 'models/summer_spring/items/gasmask.mdl'.
+[17:42:53]	D47.MPF-RL.51774 has spawned 'models/summer_spring/items/trenchcoat.mdl'.
+[17:42:54]	D47.MPF-RL.51774 has spawned 'models/summer_spring/items/wintercoat.mdl'.
+[17:42:55]	D47.MPF-RL.51774 has spawned 'models/summer_spring/items/trenchcoat.mdl'.
+[17:42:56]	D47.MPF-RL.51774 has spawned 'models/summer_spring/items/wintercoat.mdl'.
+[17:42:57]	D47.MPF-RL.51774 has spawned 'models/summer_spring/items/pants_citizen.mdl'.
+[17:42:59]	D47.MPF-RL.51774 has spawned 'models/summer_spring/items/shirt_citizen1.mdl'.
+[17:43:02]	D47.MPF-RL.51774 has spawned 'models/summer_spring/items/shirt_medic1.mdl'.
+[17:43:18]	D47.MPF-RL.51774 has spawned 'models/summer_spring/items/shirt_rebel1.mdl'.
+[17:43:58]	D47.MPF-RL.51774 has gained 100 tokens.
+[17:48:58]	D47.MPF-RL.51774 has gained 100 tokens.
+[17:52:27]	D47.MPF-RL.51774 has spawned 'models/props_junk/cardboard_box003a.mdl'.
+[17:52:50]	D47.MPF-RL.51774 has gained a 'Production Box' #323.
+[17:52:50]	D47.MPF-RL.51774 used command '/CharGiveItem D47 box'.
+[17:52:56]	D47.MPF-RL.51774 ran 'drop' on item 'Production Box' (#323)
+[17:52:56]	D47.MPF-RL.51774 has lost a 'Production Box' #323.
+[17:53:59]	D47.MPF-RL.51774 has gained 100 tokens.
+[17:54:45]	D47.MPF-RL.51774 entered observer.
+[17:54:47]	D47.MPF-RL.51774 exited observer at their location.
+[17:58:39]	D47.MPF-RL.51774 entered observer.
+[17:58:49]	D47.MPF-RL.51774 exited observer at their location.
+[17:58:58]	D47.MPF-RL.51774 has gained 100 tokens.
+[18:01:00]	D47.MPF-RL.51774 entered observer.
+[18:01:01]	D47.MPF-RL.51774 exited observer at their location.
+[18:01:03]	D47.MPF-RL.51774 has taken 100 damage from worldspawn.
+[18:01:03]	worldspawn has killed D47.MPF-RL.51774.

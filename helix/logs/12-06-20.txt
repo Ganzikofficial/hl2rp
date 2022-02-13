@@ -1,0 +1,1662 @@
+[00:00:11]	MPF-I4.51977 has spawned 'models/props_combine/combine_barricade_bracket01a.mdl'.
+[00:00:29]	MPF-I4.51977 entered observer.
+[00:00:31]	MPF-I4.51977 exited observer at their location.
+[00:00:51]	MPF-I4.51977 has spawned 'models/props_combine/combine_barricade_bracket01a.mdl'.
+[00:01:02]	MPF-I4.51977 entered observer.
+[00:01:09]	MPF-I4.51977 exited observer at their location.
+[00:01:13]	MPF-I4.51977 has enabled persistence for 'models/props_combine/combine_barricade_bracket01a.mdl'.
+[00:01:14]	MPF-I4.51977 has enabled persistence for 'models/props_combine/combine_barricade_bracket01a.mdl'.
+[00:01:50]	MPF-I4.51977 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[00:02:30]	MPF-I4.51977 has enabled persistence for 'models/hunter/plates/plate1x2.mdl'.
+[00:02:35]	MPF-I4.51977 has disabled persistence for 'models/hunter/plates/plate1x2.mdl'.
+[00:02:47]	MPF-I4.51977 has spawned 'models/hunter/plates/plate075x3.mdl'.
+[00:02:48]	MPF-I4.51977 has spawned 'models/hunter/plates/plate075x2.mdl'.
+[00:04:22]	MPF-I4.51977 has gained 100 tokens.
+[00:04:40]	MPF-I4.51977 has spawned 'models/hunter/plates/plate3x4.mdl'.
+[00:04:44]	MPF-I4.51977 has spawned 'models/hunter/plates/plate2x3.mdl'.
+[00:04:47]	MPF-I4.51977 has spawned 'models/hunter/plates/plate1x3.mdl'.
+[00:04:50]	MPF-I4.51977 has spawned 'models/hunter/plates/plate2x3.mdl'.
+[00:05:16]	MPF-I4.51977 entered observer.
+[00:05:19]	MPF-I4.51977 exited observer at their location.
+[00:05:21]	MPF-I4.51977 entered observer.
+[00:05:23]	MPF-I4.51977 exited observer at their location.
+[00:05:29]	MPF-I4.51977 has spawned 'models/hunter/plates/plate075x1.mdl'.
+[00:05:33]	MPF-I4.51977 has spawned 'models/hunter/plates/plate1x1.mdl'.
+[00:05:47]	MPF-I4.51977 has spawned 'models/hunter/triangles/1x1mirrored.mdl'.
+[00:05:48]	MPF-I4.51977 has taken 5 damage from MPF-I4.51977.
+[00:05:49]	MPF-I4.51977 has spawned 'models/hunter/triangles/075x075.mdl'.
+[00:07:14]	MPF-I4.51977 has spawned 'models/hunter/plates/plate1x4x2trap1.mdl'.
+[00:07:18]	MPF-I4.51977 has spawned 'models/hunter/plates/plate1x3x1trap.mdl'.
+[00:07:47]	MPF-I4.51977 entered observer.
+[00:07:49]	MPF-I4.51977 exited observer at their location.
+[00:07:54]	MPF-I4.51977 entered observer.
+[00:07:57]	MPF-I4.51977 exited observer at their location.
+[00:08:08]	MPF-I4.51977 has enabled persistence for 'models/hunter/plates/plate075x2.mdl'.
+[00:08:11]	MPF-I4.51977 has enabled persistence for 'models/hunter/plates/plate1x1.mdl'.
+[00:08:12]	MPF-I4.51977 has enabled persistence for 'models/hunter/triangles/075x075.mdl'.
+[00:08:14]	MPF-I4.51977 has enabled persistence for 'models/hunter/plates/plate1x3x1trap.mdl'.
+[00:08:32]	MPF-I4.51977 has spawned 'models/hunter/triangles/05x05.mdl'.
+[00:08:33]	MPF-I4.51977 has spawned 'models/hunter/triangles/05x05.mdl'.
+[00:08:56]	MPF-I4.51977 entered observer.
+[00:09:07]	MPF-I4.51977 exited observer at their location.
+[00:09:10]	MPF-I4.51977 has enabled persistence for 'models/hunter/triangles/05x05.mdl'.
+[00:09:22]	MPF-I4.51977 has gained 100 tokens.
+[00:09:36]	MPF-I4.51977 entered observer.
+[00:09:47]	MPF-I4.51977 has enabled persistence for 'models/hunter/triangles/05x05.mdl'.
+[00:09:50]	MPF-I4.51977 exited observer at their location.
+[00:10:00]	MPF-I4.51977 entered observer.
+[00:10:05]	MPF-I4.51977 exited observer at their location.
+[00:10:18]	MPF-I4.51977 has spawned 'models/props_combine/combine_intwallunit.mdl'.
+[00:10:28]	MPF-I4.51977 has spawned 'models/props_combine/health_charger001.mdl'.
+[00:10:42]	MPF-I4.51977 has spawned 'models/props_combine/combine_barricade_bracket01b.mdl'.
+[00:10:43]	MPF-I4.51977 has spawned 'models/props_combine/combine_barricade_bracket01a.mdl'.
+[00:10:45]	MPF-I4.51977 has spawned 'models/props_combine/combine_barricade_bracket01b.mdl'.
+[00:10:49]	MPF-I4.51977 has spawned 'models/props_combine/combine_barricade_bracket02a.mdl'.
+[00:10:50]	MPF-I4.51977 has spawned 'models/props_combine/combine_barricade_bracket02b.mdl'.
+[00:12:16]	MPF-I4.51977 has spawned 'models/props_combine/combine_generator01.mdl'.
+[00:12:40]	MPF-I4.51977 has enabled persistence for 'models/props_combine/combine_generator01.mdl'.
+[00:12:43]	MPF-I4.51977 entered observer.
+[00:12:46]	MPF-I4.51977 exited observer at their location.
+[00:12:54]	MPF-I4.51977 entered observer.
+[00:12:56]	MPF-I4.51977 exited observer at their location.
+[00:13:09]	MPF-I4.51977 ran 'Equip' on item 'Five-seveN' (#124)
+[00:14:22]	MPF-I4.51977 has gained 100 tokens.
+[00:18:25]	MPF-I4.51977 has disabled the chatter plugin for next restart.
+[00:19:22]	MPF-I4.51977 has gained 100 tokens.
+[00:19:27]	MPF-I4.51977 entered observer.
+[00:19:33]	MPF-I4.51977 exited observer at their location.
+[00:19:44]	MPF-I4.51977 used command '/ItemSpawnAdd'.
+[00:19:50]	MPF-I4.51977 used command '/ItemSpawnRemove'.
+[00:19:52]	MPF-I4.51977 entered observer.
+[00:20:01]	MPF-I4.51977 exited observer at their location.
+[00:20:19]	MPF-I4.51977 has spawned 'models/hunter/plates/plate2x2.mdl'.
+[00:20:19]	MPF-I4.51977 has taken 10 damage from prop_physics.
+[00:21:10]	MPF-I4.51977 entered observer.
+[00:21:13]	MPF-I4.51977 exited observer at their location.
+[00:22:17]	MPF-I4.51977 has spawned 'models/hunter/plates/plate075x3.mdl'.
+[00:22:19]	MPF-I4.51977 has spawned 'models/hunter/plates/plate075x2.mdl'.
+[00:22:52]	MPF-I4.51977 has spawned 'models/hunter/plates/plate075x2.mdl'.
+[00:24:04]	MPF-I4.51977 entered observer.
+[00:24:08]	MPF-I4.51977 exited observer at their location.
+[00:24:08]	MPF-I4.51977 entered observer.
+[00:24:14]	MPF-I4.51977 exited observer at their location.
+[00:24:16]	MPF-I4.51977 entered observer.
+[00:24:22]	MPF-I4.51977 has gained 100 tokens.
+[00:24:23]	MPF-I4.51977 exited observer at their location.
+[00:24:24]	MPF-I4.51977 entered observer.
+[00:24:38]	MPF-I4.51977 exited observer at their location.
+[00:24:39]	MPF-I4.51977 entered observer.
+[00:24:40]	MPF-I4.51977 exited observer at their location.
+[00:24:43]	MPF-I4.51977 entered observer.
+[00:24:44]	MPF-I4.51977 exited observer at their location.
+[00:24:54]	MPF-I4.51977 has spawned 'models/hunter/triangles/2x2.mdl'.
+[00:25:32]	MPF-I4.51977 has enabled persistence for 'models/hunter/triangles/2x2.mdl'.
+[00:25:33]	MPF-I4.51977 has enabled persistence for 'models/hunter/plates/plate075x2.mdl'.
+[00:25:34]	MPF-I4.51977 has enabled persistence for 'models/hunter/plates/plate075x2.mdl'.
+[00:25:42]	MPF-I4.51977 has enabled persistence for 'models/hunter/plates/plate2x2.mdl'.
+[00:26:10]	MPF-I4.51977 has spawned 'models/hunter/triangles/025x025.mdl'.
+[00:26:20]	MPF-I4.51977 entered observer.
+[00:26:33]	MPF-I4.51977 exited observer at their location.
+[00:26:38]	MPF-I4.51977 has spawned 'models/hunter/triangles/05x05mirrored.mdl'.
+[00:26:50]	MPF-I4.51977 entered observer.
+[00:26:52]	MPF-I4.51977 exited observer at their location.
+[00:27:04]	MPF-I4.51977 has spawned 'models/hunter/triangles/025x025mirrored.mdl'.
+[00:27:24]	MPF-I4.51977 entered observer.
+[00:27:32]	MPF-I4.51977 exited observer at their location.
+[00:27:36]	MPF-I4.51977 entered observer.
+[00:27:45]	MPF-I4.51977 exited observer at their location.
+[00:28:04]	MPF-I4.51977 has spawned 'models/hunter/triangles/05x05.mdl'.
+[00:28:14]	MPF-I4.51977 entered observer.
+[00:28:19]	MPF-I4.51977 exited observer at their location.
+[00:28:27]	MPF-I4.51977 has spawned 'models/hunter/triangles/2x2mirrored.mdl'.
+[00:28:28]	MPF-I4.51977 has spawned 'models/hunter/triangles/2x2.mdl'.
+[00:28:41]	MPF-I4.51977 has spawned 'models/hunter/triangles/1x1.mdl'.
+[00:28:49]	MPF-I4.51977 has spawned 'models/hunter/plates/tri2x1.mdl'.
+[00:29:11]	MPF-I4.51977 has spawned 'models/hunter/plates/plate05x2.mdl'.
+[00:29:12]	MPF-I4.51977 has spawned 'models/hunter/plates/plate05x3.mdl'.
+[00:29:15]	MPF-I4.51977 has spawned 'models/hunter/plates/plate05x2.mdl'.
+[00:29:22]	MPF-I4.51977 has gained 100 tokens.
+[00:30:03]	MPF-I4.51977 entered observer.
+[00:30:05]	MPF-I4.51977 exited observer at their location.
+[00:30:38]	MPF-I4.51977 has spawned 'models/hunter/triangles/1x1x1carved025.mdl'.
+[00:30:51]	MPF-I4.51977 has spawned 'models/hunter/tubes/tube1x1x3.mdl'.
+[00:30:55]	MPF-I4.51977 entered observer.
+[00:30:58]	MPF-I4.51977 has spawned 'models/hunter/tubes/tube1x1x4.mdl'.
+[00:31:03]	MPF-I4.51977 has spawned 'models/hunter/tubes/tube1x1x8.mdl'.
+[00:31:20]	MPF-I4.51977 exited observer at their location.
+[00:31:21]	MPF-I4.51977 entered observer.
+[00:31:23]	MPF-I4.51977 exited observer at their location.
+[00:31:28]	MPF-I4.51977 has enabled persistence for 'models/hunter/triangles/025x025.mdl'.
+[00:31:29]	MPF-I4.51977 has enabled persistence for 'models/hunter/plates/plate05x2.mdl'.
+[00:31:30]	MPF-I4.51977 has enabled persistence for 'models/hunter/triangles/05x05.mdl'.
+[00:31:33]	MPF-I4.51977 has enabled persistence for 'models/hunter/plates/tri2x1.mdl'.
+[00:32:24]	MPF-I4.51977 has spawned 'models/hunter/plates/tri2x1.mdl'.
+[00:33:19]	MPF-I4.51977 has spawned 'models/hunter/plates/plate6x32.mdl'.
+[00:33:20]	MPF-I4.51977 entered observer.
+[00:33:22]	MPF-I4.51977 exited observer at their location.
+[00:33:25]	MPF-I4.51977 has spawned 'models/hunter/plates/plate075x5.mdl'.
+[00:33:32]	MPF-I4.51977 entered observer.
+[00:33:33]	MPF-I4.51977 exited observer at their location.
+[00:33:36]	MPF-I4.51977 has spawned 'models/hunter/plates/plate075x4.mdl'.
+[00:34:10]	MPF-I4.51977 has enabled persistence for 'models/hunter/tubes/tube1x1x8.mdl'.
+[00:34:22]	MPF-I4.51977 has gained 100 tokens.
+[00:34:33]	MPF-I4.51977 has disabled persistence for 'models/hunter/plates/plate075x105.mdl'.
+[00:34:40]	MPF-I4.51977 entered observer.
+[00:34:51]	MPF-I4.51977 exited observer at their location.
+[00:35:21]	MPF-I4.51977 entered observer.
+[00:35:58]	MPF-I4.51977 exited observer at their location.
+[00:36:00]	MPF-I4.51977 entered observer.
+[00:36:01]	MPF-I4.51977 exited observer at their location.
+[00:36:03]	MPF-I4.51977 entered observer.
+[00:36:21]	MPF-I4.51977 exited observer at their location.
+[00:37:18]	MPF-I4.51977 entered observer.
+[00:37:19]	MPF-I4.51977 exited observer at their location.
+[00:37:23]	MPF-I4.51977 entered observer.
+[00:37:29]	MPF-I4.51977 has spawned 'models/hunter/blocks/cube075x3x1.mdl'.
+[00:37:33]	MPF-I4.51977 exited observer at their location.
+[00:38:06]	MPF-I4.51977 entered observer.
+[00:38:09]	MPF-I4.51977 exited observer at their location.
+[00:38:25]	MPF-I4.51977 entered observer.
+[00:38:27]	MPF-I4.51977 exited observer at their location.
+[00:38:32]	MPF-I4.51977 entered observer.
+[00:38:40]	MPF-I4.51977 exited observer at their location.
+[00:38:42]	MPF-I4.51977 entered observer.
+[00:38:43]	MPF-I4.51977 exited observer at their location.
+[00:39:12]	MPF-I4.51977 has enabled persistence for 'models/hunter/blocks/cube075x3x1.mdl'.
+[00:39:22]	MPF-I4.51977 has gained 100 tokens.
+[00:39:33]	MPF-I4.51977 has enabled persistence for 'models/hunter/plates/tri2x1.mdl'.
+[00:39:37]	MPF-I4.51977 entered observer.
+[00:39:42]	MPF-I4.51977 exited observer at their location.
+[00:39:56]	MPF-I4.51977 has spawned 'models/props_c17/door01_left.mdl'.
+[00:40:38]	MPF-I4.51977 entered observer.
+[00:40:39]	MPF-I4.51977 exited observer at their location.
+[00:40:57]	MPF-I4.51977 entered observer.
+[00:41:00]	MPF-I4.51977 exited observer at their location.
+[00:41:10]	MPF-I4.51977 entered observer.
+[00:41:12]	MPF-I4.51977 has enabled persistence for 'models/props_c17/door01_left.mdl'.
+[00:41:13]	MPF-I4.51977 exited observer at their location.
+[00:41:24]	MPF-I4.51977 has disabled persistence for 'models/props_c17/door01_left.mdl'.
+[00:41:29]	MPF-I4.51977 entered observer.
+[00:42:04]	MPF-I4.51977 exited observer at their location.
+[00:42:04]	MPF-I4.51977 entered observer.
+[00:42:04]	MPF-I4.51977 exited observer at their location.
+[00:44:16]	MPF-I4.51977 has enabled persistence for 'models/props_c17/door01_left.mdl'.
+[00:44:22]	MPF-I4.51977 has gained 100 tokens.
+[00:44:47]	MPF-I4.51977 has spawned 'models/props_lab/filecabinet02.mdl'.
+[00:45:24]	MPF-I4.51977 entered observer.
+[00:45:25]	MPF-I4.51977 exited observer at their location.
+[00:45:26]	MPF-I4.51977 entered observer.
+[00:45:26]	MPF-I4.51977 exited observer at their location.
+[00:45:33]	MPF-I4.51977 entered observer.
+[00:45:36]	MPF-I4.51977 exited observer at their location.
+[00:46:58]	MPF-I4.51977 has disabled persistence for 'models/props_c17/door01_left.mdl'.
+[00:47:01]	MPF-I4.51977 has enabled persistence for 'models/props_c17/door01_left.mdl'.
+[00:47:13]	MPF-I4.51977 has disabled persistence for 'models/props_c17/door01_left.mdl'.
+[00:48:27]	MPF-I4.51977 has spawned 'models/hunter/plates/plate.mdl'.
+[00:49:22]	MPF-I4.51977 has gained 100 tokens.
+[00:49:27]	MPF-I4.51977 has enabled persistence for 'models/hunter/plates/plate.mdl'.
+[00:50:04]	MPF-I4.51977 entered observer.
+[00:50:05]	MPF-I4.51977 entered observer.
+[00:54:22]	MPF-I4.51977 has gained 100 tokens.
+[00:57:54]	MPF-I4.51977 entered observer.
+[00:57:55]	MPF-I4.51977 entered observer.
+[00:57:56]	MPF-I4.51977 entered observer.
+[00:58:16]	MPF-I4.51977 entered observer.
+[00:58:16]	MPF-I4.51977 exited observer at their location.
+[00:58:52]	MPF-I4.51977 entered observer.
+[00:59:03]	MPF-I4.51977 exited observer at their location.
+[00:59:12]	MPF-I4.51977 entered observer.
+[00:59:17]	MPF-I4.51977 exited observer at their location.
+[00:59:18]	MPF-I4.51977 entered observer.
+[00:59:22]	MPF-I4.51977 has gained 100 tokens.
+[01:00:43]	MPF-I4.51977 has enabled persistence for 'models/props_combine/combine_smallmonitor001.mdl'.
+[01:00:48]	MPF-I4.51977 exited observer at their location.
+[01:00:54]	MPF-I4.51977 has spawned 'models/hunter/blocks/cube1x1x1.mdl'.
+[01:01:05]	MPF-I4.51977 entered observer.
+[01:01:09]	MPF-I4.51977 exited observer at their location.
+[01:01:52]	MPF-I4.51977 has spawned 'models/hunter/plates/plate025x150.mdl'.
+[01:03:03]	MPF-I4.51977 entered observer.
+[01:03:07]	MPF-I4.51977 has spawned 'models/hunter/blocks/cube2x4x025.mdl'.
+[01:03:18]	MPF-I4.51977 has spawned 'models/hunter/blocks/cube3x4x025.mdl'.
+[01:03:20]	MPF-I4.51977 has spawned 'models/hunter/blocks/cube3x6x025.mdl'.
+[01:04:01]	MPF-I4.51977 has enabled persistence for 'models/hunter/blocks/cube3x6x025.mdl'.
+[01:04:10]	MPF-I4.51977 exited observer at their location.
+[01:04:22]	MPF-I4.51977 has gained 100 tokens.
+[01:04:31]	MPF-I4.51977 entered observer.
+[01:04:32]	MPF-I4.51977 exited observer at their location.
+[01:04:43]	MPF-I4.51977 has spawned 'models/hunter/plates/plate025x4.mdl'.
+[01:04:45]	MPF-I4.51977 has spawned 'models/hunter/plates/plate025x5.mdl'.
+[01:04:48]	MPF-I4.51977 has spawned 'models/hunter/plates/plate025x4.mdl'.
+[01:04:54]	MPF-I4.51977 has spawned 'models/hunter/plates/plate025x5.mdl'.
+[01:05:11]	MPF-I4.51977 has enabled persistence for 'models/hunter/plates/plate025x5.mdl'.
+[01:05:13]	MPF-I4.51977 has disabled persistence for 'models/hunter/plates/plate025x5.mdl'.
+[01:05:24]	MPF-I4.51977 entered observer.
+[01:05:30]	MPF-I4.51977 has enabled persistence for 'models/hunter/plates/plate025x5.mdl'.
+[01:05:31]	MPF-I4.51977 exited observer at their location.
+[01:05:32]	MPF-I4.51977 entered observer.
+[01:05:34]	MPF-I4.51977 exited observer at their location.
+[01:05:37]	MPF-I4.51977 entered observer.
+[01:05:39]	MPF-I4.51977 exited observer at their location.
+[01:05:46]	MPF-I4.51977 entered observer.
+[01:05:48]	MPF-I4.51977 exited observer at their location.
+[01:06:03]	MPF-I4.51977 has spawned 'models/hunter/plates/plate025x150.mdl'.
+[01:06:55]	MPF-I4.51977 has spawned 'models/hunter/triangles/025x025.mdl'.
+[01:07:49]	MPF-I4.51977 has spawned 'models/hunter/plates/plate025x3.mdl'.
+[01:07:50]	MPF-I4.51977 has spawned 'models/hunter/plates/plate025x4.mdl'.
+[01:07:53]	MPF-I4.51977 has spawned 'models/hunter/plates/plate025x5.mdl'.
+[01:08:28]	MPF-I4.51977 has enabled persistence for 'models/hunter/plates/plate025x5.mdl'.
+[01:08:29]	MPF-I4.51977 entered observer.
+[01:08:32]	MPF-I4.51977 exited observer at their location.
+[01:08:43]	MPF-I4.51977 entered observer.
+[01:09:09]	MPF-I4.51977 exited observer at their location.
+[01:09:18]	MPF-I4.51977 has spawned 'models/hunter/plates/plate1x1.mdl'.
+[01:09:22]	MPF-I4.51977 has gained 100 tokens.
+[01:10:11]	MPF-I4.51977 entered observer.
+[01:10:15]	MPF-I4.51977 exited observer at their location.
+[01:10:20]	MPF-I4.51977 entered observer.
+[01:10:22]	MPF-I4.51977 exited observer at their location.
+[01:10:31]	MPF-I4.51977 has spawned 'models/hunter/triangles/1x1.mdl'.
+[01:10:49]	MPF-I4.51977 entered observer.
+[01:11:10]	MPF-I4.51977 exited observer at their location.
+[01:11:12]	MPF-I4.51977 entered observer.
+[01:11:18]	MPF-I4.51977 has enabled persistence for 'models/hunter/triangles/1x1.mdl'.
+[01:11:19]	MPF-I4.51977 exited observer at their location.
+[01:11:21]	MPF-I4.51977 entered observer.
+[01:11:25]	MPF-I4.51977 exited observer at their location.
+[01:11:32]	MPF-I4.51977 entered observer.
+[01:11:37]	MPF-I4.51977 exited observer at their location.
+[01:13:05]	MPF-I4.51977 entered observer.
+[01:13:07]	MPF-I4.51977 exited observer at their location.
+[01:13:16]	MPF-I4.51977 has spawned 'models/hunter/plates/plate025x175.mdl'.
+[01:13:32]	MPF-I4.51977 entered observer.
+[01:13:58]	MPF-I4.51977 exited observer at their location.
+[01:14:17]	MPF-I4.51977 has spawned 'models/hunter/plates/plate025x150.mdl'.
+[01:14:22]	MPF-I4.51977 has gained 100 tokens.
+[01:14:58]	MPF-I4.51977 has enabled persistence for 'models/hunter/plates/plate025x150.mdl'.
+[01:14:58]	MPF-I4.51977 entered observer.
+[01:14:59]	MPF-I4.51977 exited observer at their location.
+[01:15:02]	MPF-I4.51977 has enabled persistence for 'models/hunter/plates/plate025x150.mdl'.
+[01:15:27]	MPF-I4.51977 has spawned 'models/hunter/plates/plate05x3.mdl'.
+[01:15:28]	MPF-I4.51977 has spawned 'models/hunter/plates/plate05x2.mdl'.
+[01:15:34]	MPF-I4.51977 has spawned 'models/hunter/plates/plate05x1.mdl'.
+[01:15:38]	MPF-I4.51977 has spawned 'models/hunter/plates/plate025x175.mdl'.
+[01:15:42]	MPF-I4.51977 has spawned 'models/hunter/plates/plate025x150.mdl'.
+[01:15:53]	MPF-I4.51977 entered observer.
+[01:17:08]	MPF-I4.51977 exited observer at their location.
+[01:17:10]	MPF-I4.51977 entered observer.
+[01:17:11]	MPF-I4.51977 exited observer at their location.
+[01:17:41]	MPF-I4.51977 has enabled persistence for 'models/hunter/plates/plate025x150.mdl'.
+[01:17:50]	MPF-I4.51977 entered observer.
+[01:17:52]	MPF-I4.51977 exited observer at their location.
+[01:18:06]	MPF-I4.51977 has spawned 'models/Items/item_item_crate_dynamic.mdl'.
+[01:18:08]	MPF-I4.51977 has spawned 'models/Items/item_item_crate.mdl'.
+[01:18:17]	MPF-I4.51977 has spawned 'models/Items/ammocrate_ar2.mdl'.
+[01:18:20]	MPF-I4.51977 has spawned 'models/Items/ammocrate_smg1.mdl'.
+[01:18:35]	MPF-I4.51977 has spawned 'models/props_c17/Lockers001a.mdl'.
+[01:18:36]	MPF-I4.51977 opened the 'Locker' #64 container.
+[01:18:48]	MPF-I4.51977 closed the 'Locker' #64 container.
+[01:18:58]	MPF-I4.51977 opened the 'File Cabinet' #63 container.
+[01:19:01]	MPF-I4.51977 closed the 'File Cabinet' #63 container.
+[01:19:08]	MPF-I4.51977 ran 'drop' on item 'M3 Super 90' (#201)
+[01:19:08]	MPF-I4.51977 has lost a 'M3 Super 90' #201.
+[01:19:22]	MPF-I4.51977 has gained 100 tokens.
+[01:19:53]	MPF-I4.51977 has set container 63 name to 'Кабинет'.
+[01:20:02]	MPF-I4.51977 has set the password for 'Кабинет'.
+[01:20:09]	MPF-I4.51977 opened the 'Кабинет' #63 container.
+[01:20:11]	MPF-I4.51977 closed the 'Кабинет' #63 container.
+[01:20:50]	MPF-I4.51977 has gained a 'Коробочка мелкокалиберных патронов' #202.
+[01:20:50]	MPF-I4.51977 has gained a 'Коробочка мелкокалиберных патронов' #203.
+[01:20:50]	MPF-I4.51977 has gained a 'Коробочка мелкокалиберных патронов' #204.
+[01:20:50]	MPF-I4.51977 has gained a 'Коробочка мелкокалиберных патронов' #205.
+[01:20:50]	MPF-I4.51977 has gained a 'Коробочка мелкокалиберных патронов' #206.
+[01:20:50]	MPF-I4.51977 used command '/CharGiveItem MPF spistolammo 5'.
+[01:21:09]	MPF-I4.51977 has gained a 'Коробочка среднекалиберных патрон' #207.
+[01:21:09]	MPF-I4.51977 has gained a 'Коробочка среднекалиберных патрон' #208.
+[01:21:09]	MPF-I4.51977 has gained a 'Коробочка среднекалиберных патрон' #209.
+[01:21:09]	MPF-I4.51977 has gained a 'Коробочка среднекалиберных патрон' #210.
+[01:21:09]	MPF-I4.51977 has gained a 'Коробочка среднекалиберных патрон' #211.
+[01:21:09]	MPF-I4.51977 used command '/CharGiveItem MPF ssmg1ammo 5'.
+[01:21:35]	MPF-I4.51977 opened the 'Кабинет' #63 container.
+[01:21:52]	MPF-I4.51977 ran 'EquipUn' on item 'Five-seveN' (#124)
+[01:22:28]	MPF-I4.51977 has given 2000 tokens to 'Кабинет' #63 (2000 tokens left).
+[01:22:31]	MPF-I4.51977 closed the 'Кабинет' #63 container.
+[01:22:36]	MPF-I4.51977 opened the 'Кабинет' #63 container.
+[01:23:06]	MPF-I4.51977 has gained a 'Five-seveN' #124.
+[01:23:08]	MPF-I4.51977 has gained a 'Коробочка среднекалиберных патрон' #211.
+[01:23:09]	MPF-I4.51977 has gained a 'Коробочка среднекалиберных патрон' #210.
+[01:23:16]	MPF-I4.51977 closed the 'Кабинет' #63 container.
+[01:23:18]	MPF-I4.51977 ran 'use' on item 'Коробочка среднекалиберных патрон' (#211)
+[01:23:19]	MPF-I4.51977 ran 'use' on item 'Коробочка среднекалиберных патрон' (#210)
+[01:23:20]	MPF-I4.51977 ran 'Equip' on item 'Five-seveN' (#124)
+[01:24:22]	MPF-I4.51977 has gained 100 tokens.
+[01:28:02]	MPF-I4.51977 has gained 0 tokens.
+[01:28:02]	MPF-I4.51977 ordered a shipment
+[01:28:11]	MPF-I4.51977 has gained a 'Коробочка мелкокалиберных патронов' #210.
+[01:28:11]	MPF-I4.51977 took 'Коробочка мелкокалиберных патронов' from the shipment
+[01:28:11]	MPF-I4.51977 has gained a 'Коробочка мелкокалиберных патронов' #211.
+[01:28:11]	MPF-I4.51977 took 'Коробочка мелкокалиберных патронов' from the shipment
+[01:28:11]	MPF-I4.51977 has gained a 'Коробочка мелкокалиберных патронов' #212.
+[01:28:11]	MPF-I4.51977 took 'Коробочка мелкокалиберных патронов' from the shipment
+[01:28:12]	MPF-I4.51977 has gained a 'Коробочка мелкокалиберных патронов' #213.
+[01:28:12]	MPF-I4.51977 took 'Коробочка мелкокалиберных патронов' from the shipment
+[01:28:12]	MPF-I4.51977 has gained a 'Коробочка мелкокалиберных патронов' #214.
+[01:28:12]	MPF-I4.51977 took 'Коробочка мелкокалиберных патронов' from the shipment
+[01:28:12]	MPF-I4.51977 has gained a 'Коробочка мелкокалиберных патронов' #215.
+[01:28:12]	MPF-I4.51977 took 'Коробочка мелкокалиберных патронов' from the shipment
+[01:28:13]	MPF-I4.51977 has gained a 'Коробочка мелкокалиберных патронов' #216.
+[01:28:13]	MPF-I4.51977 took 'Коробочка мелкокалиберных патронов' from the shipment
+[01:28:13]	MPF-I4.51977 has gained a 'Коробочка мелкокалиберных патронов' #217.
+[01:28:13]	MPF-I4.51977 took 'Коробочка мелкокалиберных патронов' from the shipment
+[01:28:13]	MPF-I4.51977 has gained a 'Коробочка мелкокалиберных патронов' #218.
+[01:28:13]	MPF-I4.51977 took 'Коробочка мелкокалиберных патронов' from the shipment
+[01:28:13]	MPF-I4.51977 has gained a 'Коробочка мелкокалиберных патронов' #219.
+[01:28:13]	MPF-I4.51977 took 'Коробочка мелкокалиберных патронов' from the shipment
+[01:28:22]	MPF-I4.51977 has gained 0 tokens.
+[01:28:22]	MPF-I4.51977 ordered a shipment
+[01:28:33]	MPF-I4.51977 has gained a 'Коробочка среднекалиберных патрон' #220.
+[01:28:33]	MPF-I4.51977 took 'Коробочка среднекалиберных патрон' from the shipment
+[01:28:34]	MPF-I4.51977 has gained a 'Коробочка среднекалиберных патрон' #221.
+[01:28:34]	MPF-I4.51977 took 'Коробочка среднекалиберных патрон' from the shipment
+[01:28:34]	MPF-I4.51977 has gained a 'Коробочка среднекалиберных патрон' #222.
+[01:28:34]	MPF-I4.51977 took 'Коробочка среднекалиберных патрон' from the shipment
+[01:28:34]	MPF-I4.51977 has gained a 'Коробочка среднекалиберных патрон' #223.
+[01:28:34]	MPF-I4.51977 took 'Коробочка среднекалиберных патрон' from the shipment
+[01:28:35]	MPF-I4.51977 has gained a 'Коробочка среднекалиберных патрон' #224.
+[01:28:35]	MPF-I4.51977 took 'Коробочка среднекалиберных патрон' from the shipment
+[01:28:35]	MPF-I4.51977 has gained a 'Коробочка среднекалиберных патрон' #225.
+[01:28:35]	MPF-I4.51977 took 'Коробочка среднекалиберных патрон' from the shipment
+[01:28:35]	MPF-I4.51977 has gained a 'Коробочка среднекалиберных патрон' #226.
+[01:28:35]	MPF-I4.51977 took 'Коробочка среднекалиберных патрон' from the shipment
+[01:28:36]	MPF-I4.51977 has gained a 'Коробочка среднекалиберных патрон' #227.
+[01:28:36]	MPF-I4.51977 took 'Коробочка среднекалиберных патрон' from the shipment
+[01:28:36]	MPF-I4.51977 has gained a 'Коробочка среднекалиберных патрон' #228.
+[01:28:36]	MPF-I4.51977 took 'Коробочка среднекалиберных патрон' from the shipment
+[01:28:40]	MPF-I4.51977 opened the 'Кабинет' #63 container.
+[01:28:48]	MPF-I4.51977 has gained a 'Коробочка среднекалиберных патрон' #209.
+[01:28:49]	MPF-I4.51977 has gained a 'Коробочка среднекалиберных патрон' #208.
+[01:28:52]	MPF-I4.51977 has gained a 'Коробочка среднекалиберных патрон' #207.
+[01:29:06]	MPF-I4.51977 ran 'drop' on item 'Коробочка мелкокалиберных патронов' (#219)
+[01:29:06]	MPF-I4.51977 has lost a 'Коробочка мелкокалиберных патронов' #219.
+[01:29:07]	MPF-I4.51977 ran 'drop' on item 'Коробочка мелкокалиберных патронов' (#217)
+[01:29:07]	MPF-I4.51977 has lost a 'Коробочка мелкокалиберных патронов' #217.
+[01:29:20]	MPF-I4.51977 closed the 'Кабинет' #63 container.
+[01:30:26]	MPF-I4.51977 has gained 0 tokens.
+[01:30:26]	MPF-I4.51977 ordered a shipment
+[01:30:30]	MPF-I4.51977 took 'Коробочка с гильзами' from the shipment
+[01:31:28]	Bot01 has connected.
+[01:31:29]	Bot01 loaded the character 'Bot01'
+[01:31:56]	Bot01 has taken 8 damage from MPF-I4.51977.
+[01:32:07]	MPF-I4.51977 ran 'Use' on item 'Наручники' (#200)
+[01:32:45]	MPF-I4.51977 used command '/CharSetModel Bot models/breen.mdl'.
+[01:32:55]	Bot01 has taken 24 damage from MPF-I4.51977.
+[01:32:57]	Bot01 has taken 49 damage from MPF-I4.51977.
+[01:33:02]	Bot01 has taken 6 damage from MPF-I4.51977.
+[01:33:08]	Bot01 has taken 24 damage from MPF-I4.51977.
+[01:33:08]	MPF-I4.51977 has killed Bot01 with arccw_fiveseven.
+[01:33:44]	MPF-I4.51977 ran 'Frequency' on item 'Портативная рация' (#39)
+[01:33:54]	MPF-I4.51977 ran 'Frequency' on item 'Портативная рация' (#39)
+[01:33:56]	MPF-I4.51977 ran 'Toggle' on item 'Портативная рация' (#39)
+[01:33:57]	MPF-I4.51977 ran 'Frequency' on item 'Портативная рация' (#39)
+[01:34:14]	Bot01 has taken 25 damage from MPF-I4.51977.
+[01:34:14]	Bot01 has taken 6 damage from MPF-I4.51977.
+[01:34:21]	MPF-I4.51977 ran 'Toggle' on item 'Портативная рация' (#39)
+[01:35:03]	MPF-I4.51977 has gained a 'Наручники' #230.
+[01:35:03]	MPF-I4.51977 has gained a 'Наручники' #231.
+[01:35:03]	MPF-I4.51977 has gained a 'Наручники' #232.
+[01:35:03]	MPF-I4.51977 used command '/CharGiveItem MPF zip_tie 3'.
+[01:35:17]	MPF-I4.51977 ran 'Use' on item 'Наручники' (#230)
+[01:35:20]	MPF-I4.51977 has gained 100 tokens.
+[01:36:19]	MPF-I4.51977 ran 'use' on item 'Коробочка среднекалиберных патрон' (#221)
+[01:36:19]	MPF-I4.51977 ran 'use' on item 'Коробочка среднекалиберных патрон' (#223)
+[01:36:20]	MPF-I4.51977 ran 'use' on item 'Коробочка среднекалиберных патрон' (#209)
+[01:36:21]	MPF-I4.51977 ran 'use' on item 'Коробочка среднекалиберных патрон' (#207)
+[01:36:21]	MPF-I4.51977 ran 'use' on item 'Коробочка среднекалиберных патрон' (#224)
+[01:36:22]	MPF-I4.51977 ran 'use' on item 'Коробочка среднекалиберных патрон' (#222)
+[01:36:33]	Bot01 has taken 25 damage from MPF-I4.51977.
+[01:36:33]	Bot01 has taken 25 damage from MPF-I4.51977.
+[01:36:34]	Bot01 has taken 25 damage from MPF-I4.51977.
+[01:36:34]	MPF-I4.51977 has killed Bot01 with arccw_fiveseven.
+[01:37:15]	MPF-I4.51977 has spawned a 'Entity [1567][ix_cidterminal]'.
+[01:39:10]	MPF-I4.51977 has lost 12 tokens.
+[01:39:10]	MPF-I4.51977 ordered a shipment
+[01:39:14]	MPF-I4.51977 has gained a 'Standard Supplements' #233.
+[01:39:14]	MPF-I4.51977 took 'Standard Supplements' from the shipment
+[01:39:14]	MPF-I4.51977 has gained a 'Standard Supplements' #234.
+[01:39:14]	MPF-I4.51977 took 'Standard Supplements' from the shipment
+[01:39:15]	MPF-I4.51977 has gained a 'Особая вода Брина' #235.
+[01:39:15]	MPF-I4.51977 took 'Особая вода Брина' from the shipment
+[01:39:15]	MPF-I4.51977 has gained a 'Особая вода Брина' #236.
+[01:39:15]	MPF-I4.51977 took 'Особая вода Брина' from the shipment
+[01:39:18]	MPF-I4.51977 ran 'drop' on item 'Особая вода Брина' (#236)
+[01:39:18]	MPF-I4.51977 has lost a 'Особая вода Брина' #236.
+[01:39:21]	MPF-I4.51977 ran 'take' on item 'Особая вода Брина' (#236)
+[01:39:21]	MPF-I4.51977 has gained a 'Особая вода Брина' #236.
+[01:39:24]	MPF-I4.51977 ran 'Consume' on item 'Standard Supplements' (#233)
+[01:39:25]	MPF-I4.51977 ran 'Consume' on item 'Standard Supplements' (#234)
+[01:39:28]	MPF-I4.51977 ran 'drop' on item 'Особая вода Брина' (#235)
+[01:39:28]	MPF-I4.51977 has lost a 'Особая вода Брина' #235.
+[01:39:29]	MPF-I4.51977 ran 'drop' on item 'Особая вода Брина' (#236)
+[01:39:29]	MPF-I4.51977 has lost a 'Особая вода Брина' #236.
+[01:39:43]	MPF-I4.51977 has lost 12 tokens.
+[01:39:43]	MPF-I4.51977 ordered a shipment
+[01:39:46]	MPF-I4.51977 has gained a 'Газированная вода Брина' #233.
+[01:39:46]	MPF-I4.51977 took 'Газированная вода Брина' from the shipment
+[01:39:46]	MPF-I4.51977 has gained a 'Газированная вода Брина' #234.
+[01:39:46]	MPF-I4.51977 took 'Газированная вода Брина' from the shipment
+[01:39:47]	MPF-I4.51977 has gained a 'Газированная вода Брина' #235.
+[01:39:47]	MPF-I4.51977 took 'Газированная вода Брина' from the shipment
+[01:39:47]	MPF-I4.51977 has gained a 'Газированная вода Брина' #236.
+[01:39:47]	MPF-I4.51977 took 'Газированная вода Брина' from the shipment
+[01:40:20]	MPF-I4.51977 has gained 100 tokens.
+[01:40:26]	MPF-I4.51977 has spawned a 'Entity [1567][ix_cidterminal]'.
+[01:41:05]	MPF-I4.51977 entered observer.
+[01:41:08]	MPF-I4.51977 exited observer at their location.
+[01:41:09]	MPF-I4.51977 entered observer.
+[01:41:10]	MPF-I4.51977 exited observer at their location.
+[01:41:23]	MPF-I4.51977 has spawned a 'Entity [1567][ix_cidterminal]'.
+[01:41:27]	MPF-I4.51977 entered observer.
+[01:41:27]	MPF-I4.51977 exited observer at their location.
+[01:41:33]	MPF-I4.51977 has spawned a 'Entity [1567][ix_cidterminal]'.
+[01:41:34]	MPF-I4.51977 entered observer.
+[01:41:35]	MPF-I4.51977 has spawned a 'Entity [1567][ix_cidterminal]'.
+[01:41:38]	MPF-I4.51977 has spawned a 'Entity [1567][ix_cidterminal]'.
+[01:41:41]	MPF-I4.51977 exited observer at their location.
+[01:41:50]	MPF-I4.51977 has spawned a 'Entity [1573][ix_cidterminal]'.
+[01:42:42]	MPF-I4.51977 entered observer.
+[01:42:44]	MPF-I4.51977 exited observer at their location.
+[01:43:24]	MPF-I4.51977 entered observer.
+[01:43:26]	MPF-I4.51977 has spawned a 'Entity [1567][ix_vendor]'.
+[01:43:28]	MPF-I4.51977 has spawned a 'Entity [1573][ix_cidterminal]'.
+[01:43:32]	MPF-I4.51977 exited observer at their location.
+[01:43:38]	MPF-I4.51977 entered observer.
+[01:43:44]	MPF-I4.51977 exited observer at their location.
+[01:44:05]	MPF-I4.51977 entered observer.
+[01:44:06]	MPF-I4.51977 exited observer at their location.
+[01:44:08]	MPF-I4.51977 entered observer.
+[01:44:09]	MPF-I4.51977 exited observer at their location.
+[01:44:33]	MPF-I4.51977 entered observer.
+[01:44:42]	MPF-I4.51977 exited observer at their location.
+[01:44:46]	Bot01 has taken 6 damage from MPF-I4.51977.
+[01:44:46]	Bot01 has taken 24 damage from MPF-I4.51977.
+[01:44:46]	Bot01 has taken 24 damage from MPF-I4.51977.
+[01:44:46]	Bot01 has taken 47 damage from MPF-I4.51977.
+[01:44:46]	MPF-I4.51977 has killed Bot01 with arccw_fiveseven.
+[01:44:47]	MPF-I4.51977 entered observer.
+[01:44:53]	MPF-I4.51977 exited observer at their location.
+[01:45:05]	MPF-I4.51977 entered observer.
+[01:45:13]	MPF-I4.51977 exited observer at their location.
+[01:45:20]	MPF-I4.51977 has gained 100 tokens.
+[01:46:37]	MPF-I4.51977 entered observer.
+[01:46:39]	MPF-I4.51977 exited observer at their location.
+[01:47:11]	MPF-I4.51977 entered observer.
+[01:47:17]	MPF-I4.51977 exited observer at their location.
+[01:47:25]	MPF-I4.51977 entered observer.
+[01:47:28]	MPF-I4.51977 exited observer at their location.
+[01:47:29]	MPF-I4.51977 entered observer.
+[01:47:31]	MPF-I4.51977 exited observer at their location.
+[01:47:52]	MPF-I4.51977 entered observer.
+[01:47:59]	MPF-I4.51977 exited observer at their location.
+[01:48:11]	MPF-I4.51977 entered observer.
+[01:48:11]	MPF-I4.51977 exited observer at their location.
+[01:48:46]	MPF-I4.51977 entered observer.
+[01:48:50]	MPF-I4.51977 exited observer at their location.
+[01:49:59]	MPF-I4.51977 has enabled persistence for 'Entity [1573][ix_cidterminal]'.
+[01:50:07]	MPF-I4.51977 has enabled persistence for 'models/hunter/plates/plate025x150.mdl'.
+[01:50:11]	MPF-I4.51977 has enabled persistence for 'models/hunter/triangles/025x025.mdl'.
+[01:50:20]	MPF-I4.51977 has gained 100 tokens.
+[01:50:34]	MPF-I4.51977 opened the 'Кабинет' #63 container.
+[01:50:40]	MPF-I4.51977 closed the 'Кабинет' #63 container.
+[01:50:43]	MPF-I4.51977 has removed the password for 'Кабинет'.
+[01:50:44]	MPF-I4.51977 opened the 'Кабинет' #63 container.
+[01:50:49]	MPF-I4.51977 closed the 'Кабинет' #63 container.
+[01:51:12]	MPF-I4.51977 entered observer.
+[01:51:20]	MPF-I4.51977 exited observer at their location.
+[01:51:37]	MPF-I4.51977 has spawned 'models/props_wasteland/interior_fence001g.mdl'.
+[01:51:43]	MPF-I4.51977 has spawned 'models/props_wasteland/interior_fence001g.mdl'.
+[01:51:54]	MPF-I4.51977 has spawned 'models/props_wasteland/interior_fence003d.mdl'.
+[01:51:57]	MPF-I4.51977 has spawned 'models/props_wasteland/interior_fence001g.mdl'.
+[01:52:01]	MPF-I4.51977 has spawned 'models/props_wasteland/exterior_fence003b.mdl'.
+[01:52:03]	MPF-I4.51977 has spawned 'models/props_wasteland/exterior_fence003b.mdl'.
+[01:52:20]	MPF-I4.51977 entered observer.
+[01:52:27]	MPF-I4.51977 exited observer at their location.
+[01:52:31]	MPF-I4.51977 entered observer.
+[01:52:32]	MPF-I4.51977 exited observer at their location.
+[01:52:39]	MPF-I4.51977 has enabled persistence for 'models/props_wasteland/exterior_fence003b.mdl'.
+[01:52:39]	MPF-I4.51977 entered observer.
+[01:52:40]	MPF-I4.51977 exited observer at their location.
+[01:52:43]	MPF-I4.51977 entered observer.
+[01:52:50]	MPF-I4.51977 exited observer at their location.
+[01:52:56]	MPF-I4.51977 entered observer.
+[01:52:57]	MPF-I4.51977 exited observer at their location.
+[01:53:04]	MPF-I4.51977 entered observer.
+[01:53:08]	MPF-I4.51977 exited observer at their location.
+[01:53:10]	MPF-I4.51977 entered observer.
+[01:53:52]	MPF-I4.51977 exited observer at their location.
+[01:53:53]	MPF-I4.51977 entered observer.
+[01:54:04]	MPF-I4.51977 has spawned 'models/hunter/blocks/cube2x4x1.mdl'.
+[01:54:17]	MPF-I4.51977 has spawned 'models/hunter/blocks/cube2x4x025.mdl'.
+[01:54:21]	MPF-I4.51977 has spawned 'models/hunter/blocks/cube3x6x025.mdl'.
+[01:54:22]	MPF-I4.51977 has spawned 'models/hunter/blocks/cube3x4x025.mdl'.
+[01:55:00]	MPF-I4.51977 has enabled persistence for 'models/hunter/blocks/cube3x4x025.mdl'.
+[01:55:01]	MPF-I4.51977 exited observer at their location.
+[01:55:04]	MPF-I4.51977 entered observer.
+[01:55:06]	MPF-I4.51977 exited observer at their location.
+[01:55:20]	MPF-I4.51977 has gained 100 tokens.
+[01:55:25]	MPF-I4.51977 ran 'EquipUn' on item 'Five-seveN' (#124)
+[01:55:26]	MPF-I4.51977 ran 'drop' on item 'Five-seveN' (#124)
+[01:55:26]	MPF-I4.51977 has lost a 'Five-seveN' #124.
+[01:55:47]	MPF-I4.51977 ran 'take' on item 'Five-seveN' (#124)
+[01:55:47]	MPF-I4.51977 has gained a 'Five-seveN' #124.
+[02:00:20]	MPF-I4.51977 has gained 100 tokens.
+[02:03:53]	MPF-I4.51977 used command '/Dispatch EEEE'.
+[02:03:54]	MPF-I4.51977 entered observer.
+[02:04:04]	MPF-I4.51977 exited observer at their location.
+[02:04:12]	MPF-I4.51977 entered observer.
+[02:04:19]	MPF-I4.51977 used command '/AreaEdit'.
+[02:05:20]	MPF-I4.51977 has gained 100 tokens.
+[02:06:37]	MPF-I4.51977 has added area "ВХОД".
+[02:06:51]	MPF-I4.51977 has added area "ВЫХОД".
+[02:06:52]	MPF-I4.51977 exited observer at their location.
+[02:07:08]	MPF-I4.51977 used command '/AreaEdit'.
+[02:07:10]	MPF-I4.51977 entered observer.
+[02:07:19]	MPF-I4.51977 has removed area "ВХОД".
+[02:07:23]	MPF-I4.51977 has removed area "ВЫХОД".
+[02:07:24]	MPF-I4.51977 exited observer at their location.
+[02:07:26]	MPF-I4.51977 entered observer.
+[02:07:32]	MPF-I4.51977 used command '/AreaEdit'.
+[02:07:47]	MPF-I4.51977 exited observer at their location.
+[02:08:26]	MPF-I4.51977 has gained a 'ID Гражданина' #237.
+[02:08:26]	MPF-I4.51977 has created a new CID with the name Илай Венс
+[02:19:15]	MPF-I4.51977 ran 'drop' on item 'ID Карточка' (#237)
+[02:19:15]	MPF-I4.51977 has lost a 'ID Карточка' #237.
+[02:20:23]	MPF-I4.51977 has disabled the itemspawner plugin for next restart.
+[02:20:24]	MPF-I4.51977 has disabled the populate_items plugin for next restart.
+[02:20:38]	MPF-I4.51977 has enabled the itemspawner plugin for next restart.
+[02:20:43]	MPF-I4.51977 has enabled the populate_items plugin for next restart.
+[02:20:50]	MPF-I4.51977 has disabled the itemspawner plugin for next restart.
+[02:20:50]	MPF-I4.51977 has disabled the populate_items plugin for next restart.
+[02:20:56]	MPF-I4.51977 has enabled the populate_items plugin for next restart.
+[02:21:15]	MPF-I4.51977 has disabled the combine_display_messages plugin for next restart.
+[02:22:22]	MPF-I4.51977 has gained 100 tokens.
+[02:22:32]	MPF-I4.51977 entered observer.
+[02:22:33]	MPF-I4.51977 exited observer at their location.
+[02:22:38]	MPF-I4.51977 entered observer.
+[02:22:53]	MPF-I4.51977 exited observer at their location.
+[02:22:56]	MPF-I4.51977 entered observer.
+[02:22:57]	MPF-I4.51977 exited observer at their location.
+[02:22:58]	MPF-I4.51977 entered observer.
+[02:22:58]	MPF-I4.51977 exited observer at their location.
+[02:23:25]	MPF-I4.51977 has lost 52 tokens.
+[02:23:25]	MPF-I4.51977 ordered a shipment
+[02:23:29]	MPF-I4.51977 has gained a 'Арбуз' #238.
+[02:23:29]	MPF-I4.51977 took 'Арбуз' from the shipment
+[02:23:29]	MPF-I4.51977 has gained a 'Арбуз' #239.
+[02:23:29]	MPF-I4.51977 took 'Арбуз' from the shipment
+[02:23:35]	MPF-I4.51977 ran 'Eat' on item 'Арбуз' (#238)
+[02:23:36]	MPF-I4.51977 ran 'Eat' on item 'Арбуз' (#239)
+[02:25:02]	MPF-I4.51977 has lost 18 tokens.
+[02:25:02]	MPF-I4.51977 ordered a shipment
+[02:25:05]	MPF-I4.51977 has gained a 'Бандаж' #238.
+[02:25:05]	MPF-I4.51977 took 'Бандаж' from the shipment
+[02:25:06]	MPF-I4.51977 has gained a '2L Water' #239.
+[02:25:06]	MPF-I4.51977 took '2L Water' from the shipment
+[02:25:06]	MPF-I4.51977 has gained a '2L Water' #240.
+[02:25:06]	MPF-I4.51977 took '2L Water' from the shipment
+[02:25:07]	MPF-I4.51977 has gained a '2L Water' #241.
+[02:25:07]	MPF-I4.51977 took '2L Water' from the shipment
+[02:25:11]	MPF-I4.51977 ran 'Consume' on item '2L Water' (#241)
+[02:25:11]	MPF-I4.51977 ran 'Consume' on item '2L Water' (#240)
+[02:25:12]	MPF-I4.51977 ran 'drop' on item '2L Water' (#239)
+[02:25:12]	MPF-I4.51977 has lost a '2L Water' #239.
+[02:25:13]	MPF-I4.51977 ran 'Apply' on item 'Бандаж' (#238)
+[02:25:17]	MPF-I4.51977 ran 'take' on item '2L Water' (#239)
+[02:25:17]	MPF-I4.51977 has gained a '2L Water' #239.
+[02:25:22]	MPF-I4.51977 entered observer.
+[02:25:22]	MPF-I4.51977 exited observer at their location.
+[02:25:57]	MPF-I4.51977 entered observer.
+[02:26:16]	MPF-I4.51977 exited observer at their location.
+[02:26:32]	MPF-I4.51977 entered observer.
+[02:26:39]	MPF-I4.51977 exited observer at their location.
+[02:26:42]	MPF-I4.51977 entered observer.
+[02:27:16]	MPF-I4.51977 exited observer at their location.
+[02:27:17]	MPF-I4.51977 entered observer.
+[02:27:19]	MPF-I4.51977 exited observer at their location.
+[02:27:21]	MPF-I4.51977 entered observer.
+[02:27:22]	MPF-I4.51977 has gained 100 tokens.
+[02:27:24]	MPF-I4.51977 exited observer at their location.
+[02:27:45]	MPF-I4.51977 entered observer.
+[02:27:48]	MPF-I4.51977 exited observer at their location.
+[02:28:31]	MPF-I4.51977 entered observer.
+[02:28:39]	MPF-I4.51977 exited observer at their location.
+[02:28:43]	MPF-I4.51977 has taken 20 damage from electric_chair_trigger_10.
+[02:28:43]	MPF-I4.51977 has taken 20 damage from electric_chair_trigger_10.
+[02:28:44]	MPF-I4.51977 has taken 20 damage from electric_chair_trigger_10.
+[02:30:23]	Bot01 (BOT) has disconnected.
+[02:30:28]	Bot02 has connected.
+[02:30:29]	Bot02 loaded the character 'Bot02'
+[02:30:31]	Bot03 has connected.
+[02:30:31]	Bot03 loaded the character 'Bot03'
+[02:30:36]	Bot02 (BOT) has disconnected.
+[02:30:39]	Bot03 (BOT) has disconnected.
+[02:30:41]	Bot04 has connected.
+[02:30:41]	Bot04 loaded the character 'Bot04'
+[02:30:44]	Bot05 has connected.
+[02:30:44]	Bot05 loaded the character 'Bot05'
+[02:30:54]	Bot04 (BOT) has disconnected.
+[02:30:58]	Bot06 has connected.
+[02:30:58]	Bot06 loaded the character 'Bot06'
+[02:31:04]	MPF-I4.51977 entered observer.
+[02:31:12]	MPF-I4.51977 exited observer at their location.
+[02:31:19]	Bot06 has taken 5 damage from MPF-I4.51977.
+[02:31:20]	Bot06 has taken 5 damage from MPF-I4.51977.
+[02:31:21]	Bot06 has taken 5 damage from MPF-I4.51977.
+[02:31:24]	Bot06 has taken 2 damage from MPF-I4.51977.
+[02:31:26]	Bot06 has taken 2 damage from MPF-I4.51977.
+[02:31:29]	Bot06 has taken 2 damage from MPF-I4.51977.
+[02:31:31]	Bot06 has taken 2 damage from MPF-I4.51977.
+[02:31:33]	Bot06 has taken 2 damage from MPF-I4.51977.
+[02:31:34]	Bot06 has taken 2 damage from MPF-I4.51977.
+[02:31:37]	Bot06 has taken 2 damage from MPF-I4.51977.
+[02:31:39]	Bot06 has taken 10 damage from MPF-I4.51977.
+[02:31:40]	Bot06 has taken 10 damage from MPF-I4.51977.
+[02:31:41]	Bot06 has taken 10 damage from MPF-I4.51977.
+[02:31:41]	Bot06 has taken 10 damage from MPF-I4.51977.
+[02:31:42]	Bot06 has taken 10 damage from MPF-I4.51977.
+[02:31:43]	Bot06 has taken 10 damage from MPF-I4.51977.
+[02:31:44]	Bot06 has taken 10 damage from MPF-I4.51977.
+[02:31:45]	Bot06 has taken 10 damage from MPF-I4.51977.
+[02:31:45]	Bot06 has taken 50 damage from worldspawn.
+[02:31:45]	Bot06 has taken 10 damage from MPF-I4.51977.
+[02:31:46]	Bot06 has taken 10 damage from MPF-I4.51977.
+[02:31:47]	Bot06 has taken 10 damage from MPF-I4.51977.
+[02:31:49]	Bot06 has taken 10 damage from MPF-I4.51977.
+[02:31:50]	Bot06 has taken 10 damage from MPF-I4.51977.
+[02:31:50]	Bot06 has taken 10 damage from MPF-I4.51977.
+[02:31:51]	Bot06 has taken 10 damage from MPF-I4.51977.
+[02:31:52]	Bot06 has taken 10 damage from MPF-I4.51977.
+[02:31:53]	Bot06 has taken 10 damage from MPF-I4.51977.
+[02:31:54]	Bot06 has taken 10 damage from MPF-I4.51977.
+[02:31:55]	Bot06 has taken 10 damage from MPF-I4.51977.
+[02:31:56]	Bot06 has taken 10 damage from MPF-I4.51977.
+[02:31:56]	Bot06 has taken 10 damage from MPF-I4.51977.
+[02:31:56]	MPF-I4.51977 has killed Bot06 with ix_stunstick.
+[02:31:58]	MPF-I4.51977 entered observer.
+[02:31:59]	MPF-I4.51977 exited observer at their location.
+[02:32:11]	MPF-I4.51977 ran 'Equip' on item 'Five-seveN' (#124)
+[02:32:19]	MPF-I4.51977 entered observer.
+[02:32:22]	MPF-I4.51977 exited observer at their location.
+[02:32:22]	MPF-I4.51977 has gained 100 tokens.
+[02:32:44]	Bot06 has taken 6 damage from MPF-I4.51977.
+[02:32:44]	Bot06 has taken 24 damage from MPF-I4.51977.
+[02:32:44]	Bot06 has taken 24 damage from MPF-I4.51977.
+[02:32:44]	Bot06 has taken 6 damage from MPF-I4.51977.
+[02:32:45]	Bot06 has taken 24 damage from MPF-I4.51977.
+[02:32:45]	Bot06 has taken 24 damage from MPF-I4.51977.
+[02:32:45]	Bot06 has taken 24 damage from MPF-I4.51977.
+[02:32:45]	Bot06 has taken 6 damage from MPF-I4.51977.
+[02:32:46]	Bot06 has taken 6 damage from MPF-I4.51977.
+[02:32:46]	Bot06 has taken 6 damage from MPF-I4.51977.
+[02:32:46]	Bot06 has taken 24 damage from MPF-I4.51977.
+[02:32:46]	Bot06 has taken 6 damage from MPF-I4.51977.
+[02:32:47]	Bot06 has taken 6 damage from MPF-I4.51977.
+[02:32:47]	Bot06 has taken 6 damage from MPF-I4.51977.
+[02:32:47]	Bot06 has taken 6 damage from MPF-I4.51977.
+[02:32:47]	Bot06 has taken 6 damage from MPF-I4.51977.
+[02:32:49]	Bot06 has taken 24 damage from MPF-I4.51977.
+[02:32:49]	Bot06 has taken 24 damage from MPF-I4.51977.
+[02:32:49]	Bot06 has taken 24 damage from MPF-I4.51977.
+[02:32:49]	Bot06 has taken 24 damage from MPF-I4.51977.
+[02:32:49]	MPF-I4.51977 has killed Bot06 with arccw_fiveseven.
+[02:33:57]	Bot06 has taken 23 damage from MPF-I4.51977.
+[02:33:57]	Bot06 has taken 6 damage from MPF-I4.51977.
+[02:33:57]	Bot06 has taken 6 damage from MPF-I4.51977.
+[02:33:58]	Bot06 has taken 23 damage from MPF-I4.51977.
+[02:33:58]	Bot06 has taken 6 damage from MPF-I4.51977.
+[02:33:58]	Bot06 has taken 23 damage from MPF-I4.51977.
+[02:33:58]	Bot06 has taken 23 damage from MPF-I4.51977.
+[02:33:59]	Bot06 has taken 47 damage from MPF-I4.51977.
+[02:34:00]	Bot06 has taken 48 damage from MPF-I4.51977.
+[02:34:00]	Bot06 has taken 48 damage from MPF-I4.51977.
+[02:34:01]	Bot06 has taken 48 damage from MPF-I4.51977.
+[02:34:01]	MPF-I4.51977 has killed Bot06 with arccw_fiveseven.
+[02:34:19]	MPF-I4.51977 entered observer.
+[02:34:37]	MPF-I4.51977 exited observer at their location.
+[02:34:38]	MPF-I4.51977 entered observer.
+[02:35:10]	MPF-I4.51977 exited observer at their location.
+[02:35:27]	MPF-I4.51977 used command '/SpawnAdd Metropolice'.
+[02:35:32]	MPF-I4.51977 entered observer.
+[02:38:04]	MPF-I4.51977 exited observer at their location.
+[02:38:51]	MPF-I4.51977 entered observer.
+[02:38:55]	MPF-I4.51977 has gained 100 tokens.
+[02:39:10]	MPF-I4.51977 exited observer at their location.
+[02:39:28]	MPF-I4.51977 has spawned 'models/props_lab/hev_case.mdl'.
+[02:40:15]	MPF-I4.51977 has spawned 'models/props_lab/hev_case.mdl'.
+[02:40:16]	MPF-I4.51977 has spawned 'models/props_lab/hev_case.mdl'.
+[02:40:17]	MPF-I4.51977 has spawned 'models/props_lab/hev_case.mdl'.
+[02:40:20]	MPF-I4.51977 has spawned 'models/props_lab/hev_case.mdl'.
+[02:40:21]	MPF-I4.51977 has spawned 'models/props_lab/hev_case.mdl'.
+[02:40:28]	MPF-I4.51977 entered observer.
+[02:40:34]	MPF-I4.51977 exited observer at their location.
+[02:40:36]	MPF-I4.51977 entered observer.
+[02:40:43]	MPF-I4.51977 exited observer at their location.
+[02:40:51]	MPF-I4.51977 entered observer.
+[02:41:00]	MPF-I4.51977 exited observer at their location.
+[02:41:33]	MPF-I4.51977 has spawned 'models/props_lab/pipesystem03a.mdl'.
+[02:41:41]	MPF-I4.51977 has spawned 'models/props_lab/labturret.mdl'.
+[02:41:48]	MPF-I4.51977 has spawned 'models/props_lab/teleportframe.mdl'.
+[02:42:08]	MPF-I4.51977 has spawned 'models/props_lab/miniteleport.mdl'.
+[02:42:10]	MPF-I4.51977 has spawned 'models/props_lab/hev_case.mdl'.
+[02:42:27]	MPF-I4.51977 has spawned 'models/props_lab/hev_case.mdl'.
+[02:42:28]	MPF-I4.51977 has spawned 'models/props_lab/hev_case.mdl'.
+[02:42:28]	MPF-I4.51977 has spawned 'models/props_lab/hev_case.mdl'.
+[02:42:29]	MPF-I4.51977 has spawned 'models/props_lab/hev_case.mdl'.
+[02:42:29]	MPF-I4.51977 has spawned 'models/props_lab/hev_case.mdl'.
+[02:43:34]	MPF-I4.51977 entered observer.
+[02:43:36]	MPF-I4.51977 exited observer at their location.
+[02:43:37]	MPF-I4.51977 has enabled persistence for 'models/props_lab/hev_case.mdl'.
+[02:43:38]	MPF-I4.51977 has enabled persistence for 'models/props_lab/hev_case.mdl'.
+[02:43:38]	MPF-I4.51977 has enabled persistence for 'models/props_lab/hev_case.mdl'.
+[02:43:39]	MPF-I4.51977 has enabled persistence for 'models/props_lab/hev_case.mdl'.
+[02:43:39]	MPF-I4.51977 has enabled persistence for 'models/props_lab/hev_case.mdl'.
+[02:43:40]	MPF-I4.51977 has enabled persistence for 'models/props_lab/hev_case.mdl'.
+[02:43:47]	MPF-I4.51977 entered observer.
+[02:43:50]	MPF-I4.51977 exited observer at their location.
+[02:43:55]	MPF-I4.51977 has gained 100 tokens.
+[02:45:19]	MPF-I4.51977 used command '/TextAdd Камеры Сверхчеловеческого Патруля'.
+[02:45:21]	MPF-I4.51977 entered observer.
+[02:45:26]	MPF-I4.51977 exited observer at their location.
+[02:46:06]	MPF-I4.51977 used command '/TextAdd Коммандный Центр'.
+[02:46:11]	MPF-I4.51977 used command '/TextRemove'.
+[02:46:33]	MPF-I4.51977 used command '/TextAdd Коммандный Центр'.
+[02:46:42]	MPF-I4.51977 entered observer.
+[02:46:44]	MPF-I4.51977 exited observer at their location.
+[02:47:49]	MPF-I4.51977 used command '/SpawnAdd metropolice EMP'.
+[02:47:52]	MPF-I4.51977 used command '/SpawnAdd metropolice EMP'.
+[02:48:04]	MPF-I4.51977 used command '/SpawnAdd metropolice Elite'.
+[02:48:10]	MPF-I4.51977 entered observer.
+[02:48:28]	MPF-I4.51977 exited observer at their location.
+[02:48:53]	MPF-I4.51977 used command '/SpawnAdd Ota'.
+[02:48:55]	MPF-I4.51977 has gained 100 tokens.
+[02:49:02]	MPF-I4.51977 used command '/SpawnAdd Ota'.
+[02:49:11]	MPF-I4.51977 used command '/SpawnAdd Ota'.
+[02:49:16]	MPF-I4.51977 used command '/SpawnAdd Ota'.
+[02:49:23]	MPF-I4.51977 used command '/SpawnAdd Ota'.
+[02:49:32]	MPF-I4.51977 used command '/SpawnAdd Ota'.
+[02:49:42]	MPF-I4.51977 entered observer.
+[02:49:44]	MPF-I4.51977 exited observer at their location.
+[02:50:04]	MPF-I4.51977 entered observer.
+[02:50:04]	MPF-I4.51977 exited observer at their location.
+[02:50:20]	MPF-I4.51977 entered observer.
+[02:50:22]	MPF-I4.51977 exited observer at their location.
+[02:50:22]	MPF-I4.51977 entered observer.
+[02:50:23]	MPF-I4.51977 exited observer at their location.
+[02:50:29]	MPF-I4.51977 entered observer.
+[02:50:30]	MPF-I4.51977 exited observer at their location.
+[02:50:33]	MPF-I4.51977 entered observer.
+[02:50:35]	MPF-I4.51977 exited observer at their location.
+[02:50:35]	MPF-I4.51977 entered observer.
+[02:50:42]	MPF-I4.51977 exited observer at their location.
+[02:51:12]	Bot05 has taken 6 damage from MPF-I4.51977.
+[02:51:12]	Bot05 has taken 6 damage from MPF-I4.51977.
+[02:51:12]	Bot05 has taken 24 damage from MPF-I4.51977.
+[02:51:12]	Bot05 has taken 24 damage from MPF-I4.51977.
+[02:51:13]	Bot05 has taken 24 damage from MPF-I4.51977.
+[02:51:20]	Bot05 has taken 49 damage from MPF-I4.51977.
+[02:51:20]	MPF-I4.51977 has killed Bot05 with arccw_fiveseven.
+[02:51:27]	MPF-I4.51977 entered observer.
+[02:51:44]	MPF-I4.51977 exited observer at their location.
+[02:51:59]	Bot06 has taken 25 damage from MPF-I4.51977.
+[02:52:00]	Bot06 has taken 49 damage from MPF-I4.51977.
+[02:52:00]	Bot06 has taken 49 damage from MPF-I4.51977.
+[02:52:00]	Bot06 has taken 49 damage from MPF-I4.51977.
+[02:52:00]	Bot06 has taken 48 damage from MPF-I4.51977.
+[02:52:00]	Bot06 has taken 24 damage from MPF-I4.51977.
+[02:52:00]	Bot06 has taken 24 damage from MPF-I4.51977.
+[02:52:01]	Bot06 has taken 24 damage from MPF-I4.51977.
+[02:52:01]	Bot06 has taken 24 damage from MPF-I4.51977.
+[02:52:01]	MPF-I4.51977 has killed Bot06 with arccw_fiveseven.
+[02:52:25]	MPF-I4.51977 entered observer.
+[02:52:27]	MPF-I4.51977 exited observer at their location.
+[02:52:29]	MPF-I4.51977 entered observer.
+[02:52:30]	MPF-I4.51977 exited observer at their location.
+[02:52:37]	Bot06 has taken 49 damage from MPF-I4.51977.
+[02:52:37]	Bot06 has taken 49 damage from MPF-I4.51977.
+[02:52:38]	Bot06 has taken 48 damage from MPF-I4.51977.
+[02:52:39]	Bot06 has taken 48 damage from MPF-I4.51977.
+[02:52:39]	Bot06 has taken 6 damage from MPF-I4.51977.
+[02:52:39]	Bot06 has taken 24 damage from MPF-I4.51977.
+[02:52:39]	Bot06 has taken 48 damage from MPF-I4.51977.
+[02:52:39]	Bot06 has taken 24 damage from MPF-I4.51977.
+[02:52:39]	MPF-I4.51977 has killed Bot06 with arccw_fiveseven.
+[02:53:55]	MPF-I4.51977 has gained 100 tokens.
+[02:58:55]	MPF-I4.51977 has gained 100 tokens.
+[03:03:55]	MPF-I4.51977 has gained 100 tokens.
+[03:08:55]	MPF-I4.51977 has gained 100 tokens.
+[03:13:55]	MPF-I4.51977 has gained 100 tokens.
+[03:18:55]	MPF-I4.51977 has gained 100 tokens.
+[03:19:05]	MPF-I4.51977 entered observer.
+[03:19:58]	MPF-I4.51977 exited observer at their location.
+[03:21:33]	MPF-I4.51977 has spawned 'models/Police.mdl'.
+[03:21:35]	MPF-I4.51977 entered observer.
+[03:21:37]	MPF-I4.51977 exited observer at their location.
+[03:23:55]	MPF-I4.51977 has gained 100 tokens.
+[03:25:24]	MPF-I4.51977 has spawned 'models/police_cheaple.mdl'.
+[03:25:26]	MPF-I4.51977 has spawned 'models/police.mdl'.
+[03:25:28]	MPF-I4.51977 has spawned 'models/police_cheaple.mdl'.
+[03:25:39]	MPF-I4.51977 used command '/CharSetModel MPF models/police_cheaple.mdl'.
+[03:26:13]	MPF-I4.51977 used command '/ActSit'.
+[03:26:27]	MPF-I4.51977 used command '/CharSetModel MPF models/police.mdl'.
+[03:26:36]	MPF-I4.51977 used command '/ActStand'.
+[03:26:39]	MPF-I4.51977 used command '/ExitAct'.
+[03:28:55]	MPF-I4.51977 has gained 100 tokens.
+[03:33:55]	MPF-I4.51977 has gained 100 tokens.
+[03:38:55]	MPF-I4.51977 has gained 100 tokens.
+[03:43:55]	MPF-I4.51977 has gained 100 tokens.
+[03:48:55]	MPF-I4.51977 has gained 100 tokens.
+[03:53:55]	MPF-I4.51977 has gained 100 tokens.
+[03:58:55]	MPF-I4.51977 has gained 100 tokens.
+[04:03:55]	MPF-I4.51977 has gained 100 tokens.
+[04:06:30]	MPF-I4.51977 used command '/ActLean'.
+[04:06:31]	MPF-I4.51977 used command '/ExitAct'.
+[04:11:40]	MPF-I4.51977 has gained 100 tokens.
+[04:16:40]	MPF-I4.51977 has gained 100 tokens.
+[04:21:40]	MPF-I4.51977 has gained 100 tokens.
+[04:26:40]	MPF-I4.51977 has gained 100 tokens.
+[04:31:40]	MPF-I4.51977 has gained 100 tokens.
+[04:36:40]	MPF-I4.51977 has gained 100 tokens.
+[04:41:40]	MPF-I4.51977 has gained 100 tokens.
+[04:45:24]	Bot05 has taken 24 damage from MPF-I4.51977.
+[04:45:55]	Bot05 has taken 49 damage from MPF-I4.51977.
+[04:45:56]	Bot05 has taken 49 damage from MPF-I4.51977.
+[04:45:56]	MPF-I4.51977 has killed Bot05 with arccw_fiveseven.
+[04:46:23]	MPF-I4.51977 used command '/ActLean'.
+[04:46:26]	MPF-I4.51977 used command '/ActLean'.
+[04:46:31]	MPF-I4.51977 used command '/ExitAct'.
+[04:46:40]	MPF-I4.51977 has gained 100 tokens.
+[04:46:44]	MPF-I4.51977 used command '/ActThreat'.
+[04:46:46]	MPF-I4.51977 used command '/ExitAct'.
+[04:46:47]	MPF-I4.51977 used command '/ExitAct'.
+[04:46:47]	MPF-I4.51977 used command '/ExitAct'.
+[04:50:06]	MPF-I4.51977 entered observer.
+[04:50:09]	MPF-I4.51977 exited observer at their location.
+[04:51:40]	MPF-I4.51977 has gained 100 tokens.
+[04:56:40]	MPF-I4.51977 has gained 100 tokens.
+[04:57:54]	Bot05 has taken 29 damage from MPF-I4.51977.
+[04:57:54]	Bot05 has taken 29 damage from MPF-I4.51977.
+[04:57:54]	Bot05 has taken 29 damage from MPF-I4.51977.
+[04:57:54]	Bot05 has taken 7 damage from MPF-I4.51977.
+[04:57:55]	Bot05 has taken 29 damage from MPF-I4.51977.
+[04:57:55]	MPF-I4.51977 has killed Bot05 with arccw_fiveseven.
+[04:58:33]	MPF-I4.51977 has gained 0 tokens.
+[04:58:33]	MPF-I4.51977 ordered a shipment
+[04:58:37]	MPF-I4.51977 ran 'Consume' on item '2L Water' (#239)
+[04:58:40]	MPF-I4.51977 has gained a '2L Water' #238.
+[04:58:40]	MPF-I4.51977 took '2L Water' from the shipment
+[04:58:40]	MPF-I4.51977 has gained a '2L Water' #239.
+[04:58:40]	MPF-I4.51977 took '2L Water' from the shipment
+[04:58:40]	MPF-I4.51977 has gained a 'Standard Supplements' #240.
+[04:58:40]	MPF-I4.51977 took 'Standard Supplements' from the shipment
+[04:58:41]	MPF-I4.51977 has gained a 'Standard Supplements' #241.
+[04:58:41]	MPF-I4.51977 took 'Standard Supplements' from the shipment
+[04:58:41]	MPF-I4.51977 has gained a 'Standard Supplements' #242.
+[04:58:41]	MPF-I4.51977 took 'Standard Supplements' from the shipment
+[04:58:42]	MPF-I4.51977 ran 'Consume' on item 'Standard Supplements' (#240)
+[04:58:43]	MPF-I4.51977 ran 'Consume' on item 'Standard Supplements' (#241)
+[04:58:44]	MPF-I4.51977 ran 'Consume' on item 'Standard Supplements' (#242)
+[04:58:44]	MPF-I4.51977 ran 'Consume' on item '2L Water' (#238)
+[04:58:49]	MPF-I4.51977 ran 'drop' on item '2L Water' (#239)
+[04:58:49]	MPF-I4.51977 has lost a '2L Water' #239.
+[04:58:58]	MPF-I4.51977 has gained 0 tokens.
+[04:58:58]	MPF-I4.51977 ordered a shipment
+[04:59:01]	MPF-I4.51977 has gained a 'Standard Supplements' #238.
+[04:59:01]	MPF-I4.51977 took 'Standard Supplements' from the shipment
+[04:59:01]	MPF-I4.51977 has gained a 'Standard Supplements' #239.
+[04:59:01]	MPF-I4.51977 took 'Standard Supplements' from the shipment
+[04:59:04]	MPF-I4.51977 ran 'Consume' on item 'Standard Supplements' (#239)
+[05:00:37]	MPF-I4.51977 entered observer.
+[05:00:38]	MPF-I4.51977 exited observer at their location.
+[05:01:02]	MPF-I4.51977 ran 'use' on item 'Коробочка среднекалиберных патрон' (#220)
+[05:01:11]	MPF-I4.51977 ran 'drop' on item 'Газированная вода Брина' (#234)
+[05:01:11]	MPF-I4.51977 has lost a 'Газированная вода Брина' #234.
+[05:01:11]	MPF-I4.51977 ran 'drop' on item 'Газированная вода Брина' (#233)
+[05:01:11]	MPF-I4.51977 has lost a 'Газированная вода Брина' #233.
+[05:01:12]	MPF-I4.51977 ran 'drop' on item 'Газированная вода Брина' (#236)
+[05:01:12]	MPF-I4.51977 has lost a 'Газированная вода Брина' #236.
+[05:01:12]	MPF-I4.51977 ran 'drop' on item 'Газированная вода Брина' (#235)
+[05:01:12]	MPF-I4.51977 has lost a 'Газированная вода Брина' #235.
+[05:01:25]	MPF-I4.51977 has gained 0 tokens.
+[05:01:25]	MPF-I4.51977 ordered a shipment
+[05:01:29]	MPF-I4.51977 has gained a 'Коробочка мелкокалиберных патронов' #239.
+[05:01:29]	MPF-I4.51977 took 'Коробочка мелкокалиберных патронов' from the shipment
+[05:01:29]	MPF-I4.51977 has gained a 'Коробочка мелкокалиберных патронов' #240.
+[05:01:29]	MPF-I4.51977 took 'Коробочка мелкокалиберных патронов' from the shipment
+[05:01:32]	MPF-I4.51977 ran 'use' on item 'Коробочка мелкокалиберных патронов' (#240)
+[05:01:33]	MPF-I4.51977 ran 'use' on item 'Коробочка мелкокалиберных патронов' (#239)
+[05:01:41]	MPF-I4.51977 has gained 100 tokens.
+[05:05:35]	MPF-I4.51977 has gained 0 tokens.
+[05:05:35]	MPF-I4.51977 ordered a shipment
+[05:05:39]	MPF-I4.51977 has gained a 'Makarov' #239.
+[05:05:39]	MPF-I4.51977 took 'Makarov' from the shipment
+[05:05:43]	MPF-I4.51977 ran 'Equip' on item 'Makarov' (#239)
+[05:05:46]	MPF-I4.51977 ran 'EquipUn' on item 'Five-seveN' (#124)
+[05:05:47]	MPF-I4.51977 ran 'Equip' on item 'Makarov' (#239)
+[05:06:09]	MPF-I4.51977 ran 'EquipUn' on item 'Makarov' (#239)
+[05:06:10]	MPF-I4.51977 ran 'Equip' on item 'Five-seveN' (#124)
+[05:06:11]	MPF-I4.51977 ran 'drop' on item 'Makarov' (#239)
+[05:06:11]	MPF-I4.51977 has lost a 'Makarov' #239.
+[05:06:41]	MPF-I4.51977 has gained 100 tokens.
+[05:07:03]	MPF-I4.51977 has spawned a 'Entity [1569][arccw_ammo_pistol_large]'.
+[05:11:41]	MPF-I4.51977 has gained 100 tokens.
+[05:14:19]	Г@H3NK created the character 'MPF-RCT.61732'
+[05:14:19]	MPF-RCT.61732 has gained a 'Glock' #239.
+[05:14:19]	MPF-RCT.61732 has gained a 'Коробочка мелкокалиберных патронов' #240.
+[05:14:19]	MPF-RCT.61732 has gained a 'Коробочка мелкокалиберных патронов' #241.
+[05:14:19]	MPF-RCT.61732 has gained a 'Коробочка мелкокалиберных патронов' #242.
+[05:14:19]	MPF-RCT.61732 has gained a 'Коробочка мелкокалиберных патронов' #243.
+[05:14:19]	MPF-RCT.61732 has gained a 'Наручники' #244.
+[05:14:25]	Г@H3NK loaded the character 'MPF-RCT.61732'
+[05:14:37]	MPF-RCT.61732 ran 'Equip' on item 'Glock' (#239)
+[05:14:41]	MPF-RCT.61732 ran 'use' on item 'Коробочка мелкокалиберных патронов' (#240)
+[05:15:26]	MPF-RCT.61732 has taken 3 damage from template_npc.
+[05:15:28]	MPF-RCT.61732 has taken 3 damage from template_npc.
+[05:15:28]	MPF-RCT.61732 has taken 3 damage from template_npc.
+[05:15:29]	MPF-RCT.61732 has taken 3 damage from template_npc.
+[05:15:30]	MPF-RCT.61732 has taken 3 damage from template_npc.
+[05:15:34]	MPF-RCT.61732 has taken 3 damage from template_npc.
+[05:15:36]	MPF-RCT.61732 ran 'use' on item 'Коробочка мелкокалиберных патронов' (#241)
+[05:15:42]	MPF-RCT.61732 has taken 3 damage from template_npc.
+[05:15:46]	MPF-RCT.61732 has taken 3 damage from template_npc.
+[05:15:47]	MPF-RCT.61732 has taken 3 damage from template_npc.
+[05:15:48]	MPF-RCT.61732 has taken 3 damage from template_npc.
+[05:15:53]	MPF-RCT.61732 has taken 3 damage from template_npc.
+[05:15:56]	MPF-RCT.61732 has taken 3 damage from template_npc.
+[05:15:57]	MPF-RCT.61732 ran 'use' on item 'Коробочка мелкокалиберных патронов' (#242)
+[05:15:57]	MPF-RCT.61732 ran 'use' on item 'Коробочка мелкокалиберных патронов' (#243)
+[05:16:02]	MPF-RCT.61732 has taken 3 damage from template_npc.
+[05:16:03]	MPF-RCT.61732 has taken 3 damage from template_npc.
+[05:16:03]	MPF-RCT.61732 has taken 3 damage from template_npc.
+[05:16:03]	MPF-RCT.61732 has taken 3 damage from template_npc.
+[05:16:03]	MPF-RCT.61732 has taken 3 damage from template_npc.
+[05:16:03]	MPF-RCT.61732 has taken 3 damage from template_npc.
+[05:16:04]	MPF-RCT.61732 has taken 3 damage from template_npc.
+[05:16:04]	MPF-RCT.61732 has taken 3 damage from template_npc.
+[05:16:04]	MPF-RCT.61732 has taken 3 damage from template_npc.
+[05:16:04]	MPF-RCT.61732 has taken 3 damage from template_npc.
+[05:16:07]	MPF-RCT.61732 has taken 3 damage from template_npc.
+[05:16:07]	MPF-RCT.61732 has taken 3 damage from template_npc.
+[05:16:07]	MPF-RCT.61732 has taken 3 damage from template_npc.
+[05:16:08]	MPF-RCT.61732 has taken 3 damage from template_npc.
+[05:16:08]	MPF-RCT.61732 has taken 3 damage from template_npc.
+[05:16:09]	MPF-RCT.61732 has taken 3 damage from template_npc.
+[05:16:09]	MPF-RCT.61732 has taken 3 damage from template_npc.
+[05:16:10]	MPF-RCT.61732 has taken 3 damage from template_npc.
+[05:16:10]	MPF-RCT.61732 has taken 3 damage from template_npc.
+[05:16:13]	MPF-RCT.61732 has taken 3 damage from template_npc.
+[05:16:13]	MPF-RCT.61732 has taken 3 damage from template_npc.
+[05:16:13]	MPF-RCT.61732 has taken 3 damage from template_npc.
+[05:16:14]	MPF-RCT.61732 has taken 3 damage from template_npc.
+[05:17:43]	MPF-RCT.61732 has spawned 'models/props_c17/Lockers001a.mdl'.
+[05:19:03]	MPF-RCT.61732 has set container 65 name to 'Патроны'.
+[05:19:07]	MPF-RCT.61732 opened the 'Патроны' #65 container.
+[05:19:10]	MPF-RCT.61732 closed the 'Патроны' #65 container.
+[05:19:25]	MPF-RCT.61732 has gained 100 tokens.
+[05:19:55]	MPF-RCT.61732 has gained a 'Ящик мелкокалиберных патронов' #245.
+[05:19:55]	MPF-RCT.61732 has gained a 'Ящик мелкокалиберных патронов' #246.
+[05:19:55]	MPF-RCT.61732 has gained a 'Ящик мелкокалиберных патронов' #247.
+[05:19:55]	MPF-RCT.61732 has gained a 'Ящик мелкокалиберных патронов' #248.
+[05:19:55]	MPF-RCT.61732 has gained a 'Ящик мелкокалиберных патронов' #249.
+[05:19:55]	MPF-RCT.61732 used command '/CharGiveItem MPF pistolammo 5'.
+[05:20:06]	MPF-RCT.61732 ran 'use' on item 'Ящик мелкокалиберных патронов' (#245)
+[05:20:06]	MPF-RCT.61732 ran 'use' on item 'Ящик мелкокалиберных патронов' (#246)
+[05:20:07]	MPF-RCT.61732 ran 'use' on item 'Ящик мелкокалиберных патронов' (#249)
+[05:20:07]	MPF-RCT.61732 ran 'use' on item 'Ящик мелкокалиберных патронов' (#248)
+[05:20:08]	MPF-RCT.61732 ran 'use' on item 'Ящик мелкокалиберных патронов' (#247)
+[05:21:13]	MPF-RCT.61732 has enabled the itemspawner plugin for next restart.
+[05:21:54]	MPF-RCT.61732 used command '/ItemSpawnAdd spistolammo'.
+[05:21:56]	MPF-RCT.61732 opened the 'Патроны' #65 container.
+[05:21:59]	MPF-RCT.61732 closed the 'Патроны' #65 container.
+[05:22:02]	MPF-RCT.61732 used command '/ItemSpawnAdd spistolammo'.
+[05:22:05]	MPF-RCT.61732 used command '/ItemSpawnAdd'.
+[05:22:40]	MPF-RCT.61732 opened the 'Патроны' #65 container.
+[05:22:43]	MPF-RCT.61732 closed the 'Патроны' #65 container.
+[05:22:51]	MPF-RCT.61732 entered observer.
+[05:23:07]	MPF-RCT.61732 exited observer at their location.
+[05:23:10]	Bot06 has taken 33 damage from MPF-RCT.61732.
+[05:23:10]	Bot06 has taken 33 damage from MPF-RCT.61732.
+[05:23:10]	Bot06 has taken 33 damage from MPF-RCT.61732.
+[05:23:10]	Bot06 has taken 8 damage from MPF-RCT.61732.
+[05:23:10]	Bot06 has taken 33 damage from MPF-RCT.61732.
+[05:23:10]	Bot06 has taken 8 damage from MPF-RCT.61732.
+[05:23:10]	Bot06 has taken 33 damage from MPF-RCT.61732.
+[05:23:11]	Bot06 has taken 32 damage from MPF-RCT.61732.
+[05:23:11]	Bot06 has taken 32 damage from MPF-RCT.61732.
+[05:23:11]	Bot06 has taken 32 damage from MPF-RCT.61732.
+[05:23:12]	Bot06 has taken 8 damage from MPF-RCT.61732.
+[05:23:15]	Bot06 has taken 33 damage from MPF-RCT.61732.
+[05:23:15]	MPF-RCT.61732 has killed Bot06 with arccw_g18.
+[05:23:21]	MPF-RCT.61732 entered observer.
+[05:23:30]	MPF-RCT.61732 exited observer at their location.
+[05:23:35]	MPF-RCT.61732 opened the 'Патроны' #65 container.
+[05:23:37]	MPF-RCT.61732 closed the 'Патроны' #65 container.
+[05:23:49]	MPF-RCT.61732 used command '/ItemSpawnAdd'.
+[05:23:51]	MPF-RCT.61732 used command '/ItemSpawnAdd f'.
+[05:24:02]	MPF-RCT.61732 used command '/ItemSpawnForce 1'.
+[05:24:22]	MPF-RCT.61732 used command '/ItemSpawnForce 2'.
+[05:24:25]	MPF-RCT.61732 has gained 100 tokens.
+[05:24:38]	MPF-RCT.61732 set item_spawn_interval to '10'.
+[05:24:54]	MPF-RCT.61732 opened the 'Патроны' #65 container.
+[05:24:56]	MPF-RCT.61732 closed the 'Патроны' #65 container.
+[05:25:14]	MPF-RCT.61732 opened the 'Патроны' #65 container.
+[05:25:19]	MPF-RCT.61732 closed the 'Патроны' #65 container.
+[05:27:27]	MPF-RCT.61732 used command '/ItemSpawnRemove'.
+[05:27:30]	MPF-RCT.61732 used command '/ItemSpawnRemoveItems'.
+[05:27:32]	MPF-RCT.61732 used command '/ItemSpawnRemove'.
+[05:27:35]	MPF-RCT.61732 used command '/ItemSpawnRemove'.
+[05:27:40]	MPF-RCT.61732 opened the 'Патроны' #65 container.
+[05:27:42]	MPF-RCT.61732 closed the 'Патроны' #65 container.
+[05:29:00]	MPF-RCT.61732 used command '/ItemSpawnResetTimer'.
+[05:29:14]	MPF-RCT.61732 used command '/ItemSpawnAdd 1'.
+[05:29:25]	MPF-RCT.61732 has gained 100 tokens.
+[05:29:30]	MPF-RCT.61732 used command '/ItemSpawnRemove'.
+[05:29:32]	MPF-RCT.61732 used command '/ItemSpawnRemove'.
+[05:34:27]	MPF-RCT.61732 has gained 100 tokens.
+[05:37:51]	MPF-RCT.61732 opened the 'Патроны' #65 container.
+[05:37:59]	MPF-RCT.61732 closed the 'Патроны' #65 container.
+[05:38:23]	MPF-RCT.61732 has gained a 'Ящик мелкокалиберных патронов' #245.
+[05:38:23]	MPF-RCT.61732 has gained a 'Ящик мелкокалиберных патронов' #246.
+[05:38:23]	MPF-RCT.61732 has gained a 'Ящик мелкокалиберных патронов' #247.
+[05:38:23]	MPF-RCT.61732 has gained a 'Ящик мелкокалиберных патронов' #248.
+[05:38:23]	MPF-RCT.61732 used command '/CharGiveItem MPF pistolammo 5'.
+[05:38:28]	MPF-RCT.61732 opened the 'Патроны' #65 container.
+[05:39:00]	MPF-RCT.61732 closed the 'Патроны' #65 container.
+[05:39:15]	MPF-RCT.61732 has spawned a 'Entity [1107][ix_vendor]'.
+[05:39:27]	MPF-RCT.61732 has gained 100 tokens.
+[05:42:22]	MPF-RCT.61732 used the 'Арсенал' vendor.
+[05:42:28]	MPF-RCT.61732 has gained 0 tokens.
+[05:42:28]	MPF-RCT.61732 has gained a 'Ящик мелкокалиберных патронов' #245.
+[05:42:36]	MPF-RCT.61732 ran 'use' on item 'Ящик мелкокалиберных патронов' (#245)
+[05:42:38]	MPF-RCT.61732 used the 'Арсенал' vendor.
+[05:42:42]	MPF-RCT.61732 has gained 0 tokens.
+[05:42:42]	MPF-RCT.61732 has gained a 'Ящик мелкокалиберных патронов' #245.
+[05:42:47]	MPF-RCT.61732 ran 'use' on item 'Ящик мелкокалиберных патронов' (#245)
+[05:43:02]	MPF-RCT.61732 used the 'Арсенал' vendor.
+[05:44:45]	MPF-RCT.61732 used the 'Арсенал' vendor.
+[05:47:52]	MPF-RCT.61732 used the 'Арсенал' vendor.
+[05:47:54]	MPF-RCT.61732 has gained 0 tokens.
+[05:47:54]	MPF-RCT.61732 has gained a 'Grenade' #245.
+[05:47:57]	MPF-RCT.61732 ran 'Equip' on item 'Grenade' (#245)
+[05:48:57]	MPF-RCT.61732 has gained 100 tokens.
+[05:49:44]	MPF-RCT.61732 used the 'Арсенал' vendor.
+[05:49:46]	MPF-RCT.61732 has gained 0 tokens.
+[05:49:46]	MPF-RCT.61732 has gained a 'Граната' #245.
+[05:49:46]	MPF-RCT.61732 has gained 0 tokens.
+[05:49:46]	MPF-RCT.61732 has gained a 'Граната' #246.
+[05:49:47]	MPF-RCT.61732 has gained 0 tokens.
+[05:49:47]	MPF-RCT.61732 has gained a 'Граната' #247.
+[05:49:47]	MPF-RCT.61732 has gained 0 tokens.
+[05:49:47]	MPF-RCT.61732 has gained a 'Граната' #248.
+[05:49:48]	MPF-RCT.61732 has gained 0 tokens.
+[05:49:48]	MPF-RCT.61732 has gained a 'Граната' #249.
+[05:49:48]	MPF-RCT.61732 has gained 0 tokens.
+[05:49:48]	MPF-RCT.61732 has gained a 'Граната' #250.
+[05:49:49]	MPF-RCT.61732 has gained 0 tokens.
+[05:49:49]	MPF-RCT.61732 has gained a 'Граната' #251.
+[05:49:49]	MPF-RCT.61732 has gained 0 tokens.
+[05:49:49]	MPF-RCT.61732 has gained a 'Граната' #252.
+[05:49:50]	MPF-RCT.61732 has gained 0 tokens.
+[05:49:50]	MPF-RCT.61732 has gained a 'Граната' #253.
+[05:49:52]	MPF-RCT.61732 ran 'Equip' on item 'Граната' (#245)
+[05:49:59]	MPF-RCT.61732 has taken 52 damage from MPF-RCT.61732.
+[05:49:59]	MPF-RCT.61732 has killed MPF-RCT.61732.
+[05:50:29]	MPF-RCT.61732 used the 'Арсенал' vendor.
+[05:50:43]	MPF-RCT.61732 used the 'Арсенал' vendor.
+[05:51:53]	MPF-RCT.61732 used the 'Арсенал' vendor.
+[05:51:55]	MPF-RCT.61732 has gained 0 tokens.
+[05:51:55]	MPF-RCT.61732 has gained a 'Граната' #254.
+[05:52:03]	MPF-RCT.61732 ran 'Equip' on item 'Граната' (#254)
+[05:52:10]	MPF-RCT.61732 has taken 91 damage from MPF-RCT.61732.
+[05:52:14]	MPF-RCT.61732 ran 'Equip' on item 'Граната' (#246)
+[05:52:21]	MPF-RCT.61732 has taken 82 damage from MPF-RCT.61732.
+[05:52:21]	MPF-RCT.61732 has killed MPF-RCT.61732.
+[05:52:38]	MPF-RCT.61732 used the 'Арсенал' vendor.
+[05:53:01]	MPF-RCT.61732 used the 'Арсенал' vendor.
+[05:53:03]	MPF-RCT.61732 has gained 0 tokens.
+[05:53:03]	MPF-RCT.61732 has gained a 'Граната' #254.
+[05:53:10]	MPF-RCT.61732 ran 'Equip' on item 'Граната' (#254)
+[05:53:15]	MPF-RCT.61732 ran 'Equip' on item 'Граната' (#247)
+[05:53:16]	MPF-RCT.61732 has taken 30 damage from MPF-RCT.61732.
+[05:53:21]	MPF-RCT.61732 has taken 111 damage from MPF-RCT.61732.
+[05:53:23]	MPF-RCT.61732 ran 'Equip' on item 'Граната' (#248)
+[05:53:28]	MPF-RCT.61732 has taken 110 damage from MPF-RCT.61732.
+[05:53:28]	MPF-RCT.61732 has killed MPF-RCT.61732.
+[05:53:47]	MPF-RCT.61732 used the 'Арсенал' vendor.
+[05:54:33]	MPF-RCT.61732 has gained 100 tokens.
+[05:55:11]	MPF-RCT.61732 used the 'Арсенал' vendor.
+[05:59:05]	MPF-RCT.61732 ran 'Equip' on item 'Граната' (#249)
+[05:59:11]	MPF-RCT.61732 has taken 70 damage from MPF-RCT.61732.
+[05:59:13]	MPF-RCT.61732 ran 'Equip' on item 'Граната' (#250)
+[06:00:20]	MPF-RCT.61732 used command '/CharFallOver'.
+[06:00:20]	MPF-RCT.61732 has taken 107 damage from MPF-RCT.61732.
+[06:00:20]	MPF-RCT.61732 has killed MPF-RCT.61732.
+[06:00:43]	MPF-RCT.61732 entered observer.
+[06:01:12]	MPF-RCT.61732 used command '/AreaEdit'.
+[06:02:59]	MPF-RCT.61732 has added area "Нексус Надзор".
+[06:03:08]	MPF-RCT.61732 exited observer at their location.
+[06:03:15]	MPF-RCT.61732 entered observer.
+[06:03:19]	MPF-RCT.61732 exited observer at their location.
+[06:03:57]	MPF-RCT.61732 has gained 100 tokens.
+[06:04:07]	MPF-RCT.61732 entered observer.
+[06:04:31]	MPF-RCT.61732 exited observer at their location.
+[06:07:44]	MPF-RCT.61732 entered observer.
+[06:07:50]	MPF-RCT.61732 exited observer at their location.
+[06:07:57]	MPF-RCT.61732 ran 'Equip' on item 'Glock' (#239)
+[06:08:02]	MPF-RCT.61732 ran 'Equip' on item 'Граната' (#251)
+[06:08:08]	MPF-RCT.61732 has taken 18 damage from MPF-RCT.61732.
+[06:08:08]	Bot06 has taken 146 damage from MPF-RCT.61732.
+[06:08:12]	MPF-RCT.61732 ran 'Equip' on item 'Граната' (#252)
+[06:08:18]	Bot06 has taken 145 damage from MPF-RCT.61732.
+[06:08:20]	MPF-RCT.61732 ran 'Equip' on item 'Граната' (#253)
+[06:08:26]	MPF-RCT.61732 has taken 22 damage from MPF-RCT.61732.
+[06:08:26]	Bot06 has taken 125 damage from MPF-RCT.61732.
+[06:08:26]	MPF-RCT.61732 has killed Bot06 with ix_hands.
+[06:08:57]	MPF-RCT.61732 has gained 100 tokens.
+[06:13:57]	MPF-RCT.61732 has gained 100 tokens.
+[06:15:25]	MPF-RCT.61732 entered observer.
+[06:18:57]	MPF-RCT.61732 has gained 100 tokens.
+[06:20:04]	MPF-RCT.61732 exited observer at their location.
+[06:20:40]	MPF-RCT.61732 entered observer.
+[06:20:48]	MPF-RCT.61732 exited observer at their location.
+[06:21:02]	MPF-RCT.61732 entered observer.
+[06:21:20]	MPF-RCT.61732 exited observer at their location.
+[06:21:21]	MPF-RCT.61732 used the 'Арсенал' vendor.
+[06:21:25]	MPF-RCT.61732 has gained 0 tokens.
+[06:21:25]	MPF-RCT.61732 has gained a 'Ящик мелкокалиберных патронов' #245.
+[06:21:28]	MPF-RCT.61732 ran 'use' on item 'Ящик мелкокалиберных патронов' (#245)
+[06:21:30]	MPF-RCT.61732 entered observer.
+[06:21:43]	MPF-RCT.61732 exited observer at their location.
+[06:21:50]	MPF-RCT.61732 entered observer.
+[06:22:27]	MPF-RCT.61732 has spawned 'models/props_c17/oildrum001.mdl'.
+[06:22:30]	MPF-RCT.61732 has spawned 'models/props_junk/PopCan01a.mdl'.
+[06:22:31]	MPF-RCT.61732 has spawned 'models/props_junk/PopCan01a.mdl'.
+[06:22:36]	MPF-RCT.61732 has spawned 'models/props_junk/PropaneCanister001a.mdl'.
+[06:22:40]	MPF-RCT.61732 has spawned 'models/props_junk/metal_paintcan001a.mdl'.
+[06:22:55]	MPF-RCT.61732 has spawned 'models/props_junk/GlassBottle01a.mdl'.
+[06:22:56]	MPF-RCT.61732 has spawned 'models/props_junk/glassjug01.mdl'.
+[06:22:57]	MPF-RCT.61732 exited observer at their location.
+[06:23:01]	MPF-RCT.61732 has spawned 'models/props_junk/glassjug01.mdl'.
+[06:23:03]	MPF-RCT.61732 has spawned 'models/props_junk/glassjug01.mdl'.
+[06:23:05]	MPF-RCT.61732 entered observer.
+[06:23:14]	MPF-RCT.61732 has spawned 'models/props_c17/oildrum001.mdl'.
+[06:23:17]	MPF-RCT.61732 has spawned 'models/props_junk/glassjug01.mdl'.
+[06:23:18]	MPF-RCT.61732 has spawned 'models/props_junk/glassjug01.mdl'.
+[06:23:19]	MPF-RCT.61732 has spawned 'models/props_junk/glassjug01.mdl'.
+[06:23:21]	MPF-RCT.61732 exited observer at their location.
+[06:23:22]	MPF-RCT.61732 entered observer.
+[06:23:26]	MPF-RCT.61732 exited observer at their location.
+[06:23:36]	MPF-RCT.61732 has spawned 'models/props_c17/Frame002a.mdl'.
+[06:23:57]	MPF-RCT.61732 has spawned 'models/props_c17/oildrum001.mdl'.
+[06:23:57]	MPF-RCT.61732 has gained 100 tokens.
+[06:24:02]	MPF-RCT.61732 has spawned 'models/props_junk/glassjug01.mdl'.
+[06:24:03]	MPF-RCT.61732 has spawned 'models/props_junk/glassjug01.mdl'.
+[06:24:04]	MPF-RCT.61732 has spawned 'models/props_junk/glassjug01.mdl'.
+[06:24:45]	MPF-RCT.61732 entered observer.
+[06:24:47]	MPF-RCT.61732 exited observer at their location.
+[06:26:00]	MPF-RCT.61732 entered observer.
+[06:26:03]	MPF-RCT.61732 exited observer at their location.
+[06:27:11]	Bot05 has taken 8 damage from MPF-RCT.61732.
+[06:27:11]	Bot05 has taken 8 damage from MPF-RCT.61732.
+[06:27:11]	Bot05 has taken 31 damage from MPF-RCT.61732.
+[06:27:11]	Bot05 has taken 31 damage from MPF-RCT.61732.
+[06:27:12]	Bot05 has taken 31 damage from MPF-RCT.61732.
+[06:27:12]	MPF-RCT.61732 has killed Bot05 with arccw_g18.
+[06:27:28]	Bot05 has taken 30 damage from MPF-RCT.61732.
+[06:27:29]	Bot05 has taken 30 damage from MPF-RCT.61732.
+[06:27:29]	Bot05 has taken 8 damage from MPF-RCT.61732.
+[06:27:33]	Bot05 has taken 30 damage from MPF-RCT.61732.
+[06:27:34]	Bot05 has taken 60 damage from MPF-RCT.61732.
+[06:27:34]	MPF-RCT.61732 has killed Bot05 with arccw_g18.
+[06:27:37]	MPF-RCT.61732 entered observer.
+[06:27:38]	MPF-RCT.61732 exited observer at their location.
+[06:27:50]	MPF-RCT.61732 entered observer.
+[06:27:51]	MPF-RCT.61732 exited observer at their location.
+[06:27:56]	Bot05 has taken 60 damage from MPF-RCT.61732.
+[06:27:57]	Bot05 has taken 7 damage from MPF-RCT.61732.
+[06:27:59]	Bot05 has taken 7 damage from MPF-RCT.61732.
+[06:28:00]	Bot05 has taken 30 damage from MPF-RCT.61732.
+[06:28:00]	MPF-RCT.61732 has killed Bot05 with arccw_g18.
+[06:28:10]	MPF-RCT.61732 has spawned a 'NPC [1596][npc_pigeon]'.
+[06:28:30]	MPF-RCT.61732 has spawned a 'NPC [1596][npc_pigeon]'.
+[06:28:57]	MPF-RCT.61732 has gained 100 tokens.
+[06:28:57]	Bot05 has taken 7 damage from MPF-RCT.61732.
+[06:28:58]	Bot05 has taken 7 damage from MPF-RCT.61732.
+[06:29:24]	Bot05 has taken 60 damage from MPF-RCT.61732.
+[06:29:26]	Bot05 has taken 59 damage from MPF-RCT.61732.
+[06:29:26]	MPF-RCT.61732 has killed Bot05 with arccw_g18.
+[06:30:00]	Bot05 has taken 63 damage from MPF-RCT.61732.
+[06:30:01]	Bot05 has taken 31 damage from MPF-RCT.61732.
+[06:30:02]	Bot05 has taken 62 damage from MPF-RCT.61732.
+[06:30:02]	MPF-RCT.61732 has killed Bot05 with arccw_g18.
+[06:30:23]	MPF-RCT.61732 has gained a 'MP5A3' #245.
+[06:30:23]	MPF-RCT.61732 used command '/CharGiveItem mPF mp5'.
+[06:30:27]	MPF-RCT.61732 ran 'drop' on item 'MP5A3' (#245)
+[06:30:27]	MPF-RCT.61732 has lost a 'MP5A3' #245.
+[06:30:34]	MPF-RCT.61732 destroyed a 'MP5A3' #245.
+[06:30:55]	Bot05 has taken 58 damage from MPF-RCT.61732.
+[06:30:56]	Bot05 has taken 29 damage from MPF-RCT.61732.
+[06:30:59]	Bot05 has taken 58 damage from MPF-RCT.61732.
+[06:30:59]	MPF-RCT.61732 has killed Bot05 with arccw_g18.
+[06:31:16]	MPF-RCT.61732 entered observer.
+[06:31:19]	MPF-RCT.61732 exited observer at their location.
+[06:31:28]	Bot05 has taken 29 damage from MPF-RCT.61732.
+[06:31:32]	Bot05 has taken 29 damage from MPF-RCT.61732.
+[06:31:33]	Bot05 has taken 29 damage from MPF-RCT.61732.
+[06:31:34]	Bot05 has taken 7 damage from MPF-RCT.61732.
+[06:31:35]	Bot05 has taken 29 damage from MPF-RCT.61732.
+[06:31:35]	MPF-RCT.61732 has killed Bot05 with arccw_g18.
+[06:32:23]	MPF-RCT.61732 entered observer.
+[06:32:25]	MPF-RCT.61732 exited observer at their location.
+[06:33:57]	MPF-RCT.61732 has gained 100 tokens.
+[06:34:54]	MPF-RCT.61732 entered observer.
+[06:35:35]	MPF-RCT.61732 exited observer at their location.
+[06:35:35]	MPF-RCT.61732 used the 'Арсенал' vendor.
+[06:35:42]	MPF-RCT.61732 has gained 0 tokens.
+[06:35:42]	MPF-RCT.61732 has gained a 'Ящик среднекалиберных патрон' #245.
+[06:35:43]	MPF-RCT.61732 has gained 0 tokens.
+[06:35:43]	MPF-RCT.61732 has gained a 'Ящик среднекалиберных патрон' #246.
+[06:35:45]	MPF-RCT.61732 ran 'use' on item 'Ящик среднекалиберных патрон' (#245)
+[06:35:46]	MPF-RCT.61732 ran 'use' on item 'Ящик среднекалиберных патрон' (#246)
+[06:36:09]	MPF-RCT.61732 entered observer.
+[06:36:10]	MPF-RCT.61732 exited observer at their location.
+[06:36:52]	MPF-RCT.61732 entered observer.
+[06:37:09]	MPF-RCT.61732 exited observer at their location.
+[06:38:57]	MPF-RCT.61732 has gained 100 tokens.
+[06:39:04]	Г@H3NK created the character 'OTA-ECHO.OWS-55309'
+[06:39:04]	OTA-ECHO.OWS-55309 has gained a 'FAMAS' #245.
+[06:39:04]	OTA-ECHO.OWS-55309 has gained a 'Five-seveN' #246.
+[06:39:04]	OTA-ECHO.OWS-55309 has gained a 'Ящик среднекалиберных патрон' #247.
+[06:39:04]	OTA-ECHO.OWS-55309 has gained a 'Ящик среднекалиберных патрон' #248.
+[06:39:04]	OTA-ECHO.OWS-55309 has gained a 'Ящик среднекалиберных патрон' #249.
+[06:39:09]	Г@H3NK loaded the character 'OTA-ECHO.OWS-55309'
+[06:39:42]	OTA-ECHO.OWS-55309 ran 'drop' on item 'Ящик среднекалиберных патрон' (#247)
+[06:39:42]	OTA-ECHO.OWS-55309 has lost a 'Ящик среднекалиберных патрон' #247.
+[06:39:44]	OTA-ECHO.OWS-55309 ran 'take' on item 'Ящик среднекалиберных патрон' (#247)
+[06:39:44]	OTA-ECHO.OWS-55309 has gained a 'Ящик среднекалиберных патрон' #247.
+[06:39:46]	OTA-ECHO.OWS-55309 ran 'use' on item 'Ящик среднекалиберных патрон' (#247)
+[06:39:46]	OTA-ECHO.OWS-55309 ran 'use' on item 'Ящик среднекалиберных патрон' (#249)
+[06:39:47]	OTA-ECHO.OWS-55309 ran 'use' on item 'Ящик среднекалиберных патрон' (#248)
+[06:39:48]	OTA-ECHO.OWS-55309 ran 'Equip' on item 'FAMAS' (#245)
+[06:39:48]	OTA-ECHO.OWS-55309 ran 'EquipUn' on item 'FAMAS' (#245)
+[06:39:50]	OTA-ECHO.OWS-55309 ran 'Equip' on item 'Five-seveN' (#246)
+[06:39:51]	OTA-ECHO.OWS-55309 ran 'Equip' on item 'FAMAS' (#245)
+[06:40:18]	OTA-ECHO.OWS-55309 entered observer.
+[06:40:24]	OTA-ECHO.OWS-55309 exited observer at their location.
+[06:44:09]	OTA-ECHO.OWS-55309 has gained 40 tokens.
+[06:49:09]	OTA-ECHO.OWS-55309 has gained 40 tokens.
+[06:54:09]	OTA-ECHO.OWS-55309 has gained 40 tokens.
+[06:59:09]	OTA-ECHO.OWS-55309 has gained 40 tokens.
+[06:59:45]	Г@H3NK loaded the character 'MPF-RCT.61732'
+[07:04:45]	MPF-RCT.61732 has gained 100 tokens.
+[07:09:45]	MPF-RCT.61732 has gained 100 tokens.
+[07:14:45]	MPF-RCT.61732 has gained 100 tokens.
+[07:19:47]	MPF-RCT.61732 has gained 100 tokens.
+[07:24:48]	MPF-RCT.61732 has gained 100 tokens.
+[07:30:13]	Г@H3NK has connected.
+[07:32:01]	Г@H3NK loaded the character 'MPF-RCT.61732'
+[07:32:14]	MPF-RCT.61732 has gained a 'MP5A3' #247.
+[07:32:14]	MPF-RCT.61732 used command '/CharGiveItem MPF mp5'.
+[07:32:19]	MPF-RCT.61732 ran 'Equip' on item 'MP5A3' (#247)
+[07:32:21]	MPF-RCT.61732 ran 'EquipUn' on item 'MP5A3' (#247)
+[07:32:41]	MPF-RCT.61732 ran 'drop' on item 'MP5A3' (#247)
+[07:32:41]	MPF-RCT.61732 has lost a 'MP5A3' #247.
+[07:33:05]	MPF-RCT.61732 has gained a 'Фонарик' #248.
+[07:33:05]	MPF-RCT.61732 used command '/CharGiveItem MPF flashlight'.
+[07:33:12]	MPF-RCT.61732 ran 'Equip' on item 'Фонарик' (#248)
+[07:33:15]	MPF-RCT.61732 ran 'Equip' on item 'Фонарик' (#248)
+[07:33:22]	MPF-RCT.61732 ran 'Equip' on item 'Фонарик' (#248)
+[07:33:24]	MPF-RCT.61732 ran 'drop' on item 'Фонарик' (#248)
+[07:33:24]	MPF-RCT.61732 has lost a 'Фонарик' #248.
+[07:33:29]	MPF-RCT.61732 ran 'take' on item 'Фонарик' (#248)
+[07:33:29]	MPF-RCT.61732 has gained a 'Фонарик' #248.
+[07:33:30]	MPF-RCT.61732 ran 'Equip' on item 'Фонарик' (#248)
+[07:33:31]	MPF-RCT.61732 ran 'Equip' on item 'Фонарик' (#248)
+[07:33:33]	MPF-RCT.61732 ran 'drop' on item 'Наручники' (#244)
+[07:33:33]	MPF-RCT.61732 has lost a 'Наручники' #244.
+[07:33:35]	MPF-RCT.61732 ran 'take' on item 'Наручники' (#244)
+[07:33:36]	MPF-RCT.61732 has gained a 'Наручники' #244.
+[07:33:37]	MPF-RCT.61732 ran 'Equip' on item 'Фонарик' (#248)
+[07:33:38]	MPF-RCT.61732 ran 'EquipUn' on item 'Glock' (#239)
+[07:33:39]	MPF-RCT.61732 ran 'Equip' on item 'Фонарик' (#248)
+[07:33:43]	MPF-RCT.61732 ran 'Equip' on item 'Фонарик' (#248)
+[07:37:14]	MPF-RCT.61732 ran 'take' on item 'MP5A3' (#247)
+[07:37:14]	MPF-RCT.61732 has gained a 'MP5A3' #247.
+[07:37:40]	Г@H3NK has connected.
+[07:38:23]	Г@H3NK loaded the character 'MPF-RCT.61732'
+[07:38:52]	MPF-RCT.61732 used command '/CharGiveItem MPF m4a1'.
+[07:39:03]	MPF-RCT.61732 has gained a 'M4A1' #249.
+[07:39:03]	MPF-RCT.61732 used command '/CharGiveItem MPF m4a1'.
+[07:40:53]	Г@H3NK has connected.
+[07:41:42]	Г@H3NK loaded the character 'MPF-RCT.61732'
+[07:44:35]	Г@H3NK has connected.
+[07:45:26]	Г@H3NK loaded the character 'MPF-RCT.61732'
+[07:46:21]	Г@H3NK has connected.
+[07:47:01]	Г@H3NK loaded the character 'MPF-RCT.61732'
+[07:48:10]	Г@H3NK has connected.
+[07:58:57]	Г@H3NK loaded the character 'Александр Климов'
+[07:59:48]	Александр Климов has disabled persistence for 'models/hunter/tubes/tube1x1x8.mdl'.
+[07:59:56]	Г@H3NK loaded the character 'MPF-RCT.61732'
+[08:00:05]	MPF-RCT.61732 ran 'Equip' on item 'Фонарик' (#248)
+[08:00:13]	MPF-RCT.61732 ran 'Equip' on item 'Glock' (#239)
+[15:51:33]	Г@H3NK has connected.
+[15:52:08]	Г@H3NK loaded the character 'MPF-RCT.61732'
+[15:52:09]	MPF-RCT.61732 entered observer.
+[15:52:18]	MPF-RCT.61732 exited observer at their location.
+[15:52:44]	MPF-RCT.61732 entered observer.
+[15:52:58]	MPF-RCT.61732 exited observer at their location.
+[15:53:20]	MPF-RCT.61732 entered observer.
+[15:53:51]	MPF-RCT.61732 exited observer at their location.
+[15:54:20]	MPF-RCT.61732 entered observer.
+[15:54:22]	MPF-RCT.61732 exited observer at their location.
+[15:54:24]	MPF-RCT.61732 entered observer.
+[15:54:27]	MPF-RCT.61732 exited observer at their location.
+[15:55:32]	MPF-RCT.61732 entered observer.
+[15:55:34]	MPF-RCT.61732 exited observer at their location.
+[15:56:12]	MPF-RCT.61732 entered observer.
+[15:56:13]	MPF-RCT.61732 exited observer at their location.
+[15:56:27]	MPF-RCT.61732 has disabled persistence for 'models/hunter/plates/plate075x1.mdl'.
+[15:56:47]	MPF-RCT.61732 entered observer.
+[15:56:48]	MPF-RCT.61732 exited observer at their location.
+[15:57:06]	MPF-RCT.61732 entered observer.
+[15:57:09]	MPF-RCT.61732 has gained 100 tokens.
+[15:57:34]	MPF-RCT.61732 exited observer at their location.
+[15:59:18]	MPF-RCT.61732 has spawned 'models/props_combine/combine_binocular01.mdl'.
+[15:59:37]	MPF-RCT.61732 has spawned 'models/props_combine/cell_array_01.mdl'.
+[16:00:53]	MPF-RCT.61732 entered observer.
+[16:00:54]	MPF-RCT.61732 exited observer at their location.
+[16:02:09]	MPF-RCT.61732 has gained 100 tokens.
+[16:02:54]	MPF-RCT.61732 entered observer.
+[16:02:56]	MPF-RCT.61732 exited observer at their location.
+[16:04:43]	MPF-RCT.61732 entered observer.
+[16:04:44]	MPF-RCT.61732 exited observer at their location.
+[16:05:49]	MPF-RCT.61732 entered observer.
+[16:05:50]	MPF-RCT.61732 exited observer at their location.
+[16:07:09]	MPF-RCT.61732 has gained 100 tokens.
+[16:08:19]	MPF-RCT.61732 entered observer.
+[16:08:26]	MPF-RCT.61732 exited observer at their location.
+[16:08:53]	MPF-RCT.61732 has spawned a 'Entity [998][ix_combinelock]'.
+[16:08:55]	֍ Aime-moi ֍ has connected.
+[16:08:56]	MPF-RCT.61732 entered observer.
+[16:09:04]	MPF-RCT.61732 exited observer at their location.
+[16:09:04]	MPF-RCT.61732 entered observer.
+[16:09:05]	MPF-RCT.61732 exited observer at their location.
+[16:09:28]	֍ Aime-moi ֍ loaded the character 'C17.MPF-OBS-20021'
+[16:09:33]	C17.MPF-OBS-20021 entered observer.
+[16:09:41]	C17.MPF-OBS-20021 exited observer at their location.
+[16:09:44]	MPF-RCT.61732 entered observer.
+[16:09:46]	MPF-RCT.61732 exited observer at their location.
+[16:09:50]	C17.MPF-OBS-20021 entered observer.
+[16:09:51]	C17.MPF-OBS-20021 exited observer at their location.
+[16:10:22]	C17.MPF-OBS-20021 entered observer.
+[16:10:25]	C17.MPF-OBS-20021 exited observer at their location.
+[16:10:33]	C17.MPF-OBS-20021 entered observer.
+[16:10:48]	C17.MPF-OBS-20021 exited observer at their location.
+[16:10:51]	C17.MPF-OBS-20021 entered observer.
+[16:10:52]	C17.MPF-OBS-20021 exited observer at their location.
+[16:14:04]	Г@H3NK has connected.
+[16:14:28]	Г@H3NK loaded the character 'MPF-RCT.61732'
+[16:17:20]	MPF-RCT.61732 entered observer.
+[16:17:26]	MPF-RCT.61732 exited observer at their location.
+[16:19:34]	MPF-RCT.61732 has gained 100 tokens.
+[16:21:31]	֍ Aime-moi ֍ has connected.
+[16:23:30]	MPF-RCT.61732 entered observer.
+[16:23:33]	MPF-RCT.61732 exited observer at their location.
+[16:23:45]	MPF-RCT.61732 entered observer.
+[16:23:46]	MPF-RCT.61732 exited observer at their location.
+[16:24:34]	MPF-RCT.61732 has gained 100 tokens.
+[16:26:22]	֍ Aime-moi ֍ loaded the character 'C17.MPF-OBS-20021'
+[16:26:28]	Г@H3NK loaded the character 'Александр Климов'
+[16:26:42]	Александр Климов used command '/BecomeClass Ветеран'.
+[16:28:13]	Александр Климов used command '/BecomeClass Разведчик'.
+[16:28:31]	Александр Климов has taken 30 damage from C17.MPF-OBS-20021.
+[16:28:35]	Александр Климов has taken 7 damage from C17.MPF-OBS-20021.
+[16:28:43]	Александр Климов has taken 8 damage from C17.MPF-OBS-20021.
+[16:28:43]	C17.MPF-OBS-20021 has killed Александр Климов with arccw_g18.
+[16:28:44]	Александр Климов used command '/ActArrest'.
+[16:29:13]	C17.MPF-OBS-20021 entered observer.
+[16:29:16]	Александр Климов entered observer.
+[16:29:23]	Александр Климов exited observer at their location.
+[16:29:50]	C17.MPF-OBS-20021 exited observer at their location.
+[16:29:59]	Александр Климов has taken 146 damage from C17.MPF-OBS-20021.
+[16:29:59]	C17.MPF-OBS-20021 has killed Александр Климов with arccw_g3a3.
+[16:30:15]	C17.MPF-OBS-20021 entered observer.
+[16:30:18]	Александр Климов entered observer.
+[16:30:20]	C17.MPF-OBS-20021 exited observer at their location.
+[16:30:22]	C17.MPF-OBS-20021 entered observer.
+[16:30:24]	֍ Aime-moi ֍ (STEAM_0:0:424879351) has disconnected.
+[16:30:27]	Александр Климов exited observer at their location.
+[17:53:33]	Г@H3NK has connected.
+[18:03:15]	Г@H3NK loaded the character 'MPF-I4.51977'
+[18:03:20]	MPF-I4.51977 entered observer.
+[18:03:28]	MPF-I4.51977 exited observer at their location.
+[18:04:04]	MPF-I4.51977 entered observer.
+[18:04:06]	MPF-I4.51977 exited observer at their location.
+[18:06:28]	MPF-I4.51977 entered observer.
+[18:06:34]	MPF-I4.51977 exited observer at their location.
+[18:07:12]	֍ Aime-moi ֍ has connected.
+[18:08:16]	MPF-I4.51977 has gained 100 tokens.
+[18:08:46]	֍ Aime-moi ֍ loaded the character 'C17.MPF-OBS-20021'
+[18:08:48]	C17.MPF-OBS-20021 has taken 23 damage from worldspawn.
+[18:08:50]	C17.MPF-OBS-20021 entered observer.
+[18:09:01]	C17.MPF-OBS-20021 exited observer at their location.
+[18:09:02]	C17.MPF-OBS-20021 has spawned a 'Entity [1568][item_healthkit]'.
+[18:09:02]	C17.MPF-OBS-20021 has spawned a 'Entity [1569][item_healthkit]'.
+[18:09:04]	C17.MPF-OBS-20021 entered observer.
+[18:09:06]	C17.MPF-OBS-20021 exited observer at their location.
+[18:12:03]	MPF-I4.51977 has gained a 'ID Карточка' #250.
+[18:12:03]	MPF-I4.51977 has created a new CID with the name MPF-I4.51977
+[18:12:20]	MPF-I4.51977 ran 'ViewRecord' on item 'ID Карточка' (#250)
+[18:14:29]	MPF-I4.51977 has gained 100 tokens.
+[18:14:29]	C17.MPF-OBS-20021 has gained 100 tokens.
+[18:16:25]	C17.MPF-OBS-20021 used command '/CharGiveFlag OBS CVcnerptv'.
+[18:16:57]	MPF-I4.51977 ran 'ViewRecord' on item 'ID Карточка' (#250)
+[18:17:12]	MPF-I4.51977 ran 'drop' on item 'ID Карточка' (#250)
+[18:17:12]	MPF-I4.51977 has lost a 'ID Карточка' #250.
+[18:18:06]	MPF-I4.51977 has gained 0 tokens.
+[18:18:06]	MPF-I4.51977 ordered a shipment
+[18:18:12]	MPF-I4.51977 has gained a 'Transfer Card' #250.
+[18:18:12]	MPF-I4.51977 took 'Transfer Card' from the shipment
+[18:19:26]	MPF-I4.51977 has gained a 'ID Карточка' #251.
+[18:19:26]	MPF-I4.51977 has created a new CID with the name no name?????
+[18:19:29]	MPF-I4.51977 has gained 100 tokens.
+[18:19:29]	C17.MPF-OBS-20021 has gained 100 tokens.
+[18:19:32]	MPF-I4.51977 ran 'drop' on item 'Transfer Card' (#250)
+[18:19:32]	MPF-I4.51977 has lost a 'Transfer Card' #250.
+[18:20:41]	MPF-I4.51977 ran 'ViewRecord' on item 'ID Карточка' (#251)
+[18:20:52]	MPF-I4.51977 ran 'drop' on item 'ID Карточка' (#251)
+[18:20:52]	MPF-I4.51977 has lost a 'ID Карточка' #251.
+[18:21:08]	MPF-I4.51977 has gained a 'ID Карточка' #250.
+[18:21:08]	MPF-I4.51977 has created a new CID with the name MPF-I4.51977
+[18:21:30]	MPF-I4.51977 ran 'ViewRecord' on item 'ID Карточка' (#250)
+[18:21:56]	MPF-I4.51977 has added a record to ID 250
+[18:22:12]	MPF-I4.51977 ran 'drop' on item 'ID Карточка' (#250)
+[18:22:12]	MPF-I4.51977 has lost a 'ID Карточка' #250.
+[18:24:29]	MPF-I4.51977 has gained 100 tokens.
+[18:24:29]	C17.MPF-OBS-20021 has gained 100 tokens.
+[18:26:05]	C17.MPF-OBS-20021 entered observer.
+[18:26:06]	MPF-I4.51977 has spawned a 'Entity [1591][st_radio_cuban_n]'.
+[18:26:17]	MPF-I4.51977 has spawned a 'Entity [1593][ix_loyaltykiosk]'.
+[18:26:19]	C17.MPF-OBS-20021 has spawned 'models/combine_apc.mdl'.
+[18:26:29]	MPF-I4.51977 has spawned a 'Entity [1593][ix_loyaltykiosk]'.
+[18:26:58]	MPF-I4.51977 has gained a 'ID Карточка' #250.
+[18:26:58]	MPF-I4.51977 has created a new CID with the name Александр Климов
+[18:27:17]	MPF-I4.51977 has obtained metropolice_ration from a kiosk.
+[18:27:20]	C17.MPF-OBS-20021 exited observer at their location.
+[18:27:55]	C17.MPF-OBS-20021 ran 'Use' on item 'Наручники' (#199)
+[18:28:07]	C17.MPF-OBS-20021 entered observer.
+[18:28:08]	C17.MPF-OBS-20021 exited observer at their location.
+[18:28:31]	MPF-I4.51977 has taken 107 damage from C17.MPF-OBS-20021.
+[18:28:35]	C17.MPF-OBS-20021 entered observer.
+[18:28:38]	C17.MPF-OBS-20021 exited observer at their location.
+[18:28:38]	MPF-I4.51977 has taken 109 damage from C17.MPF-OBS-20021.
+[18:28:38]	C17.MPF-OBS-20021 has killed MPF-I4.51977 with arccw_db.
+[18:28:44]	C17.MPF-OBS-20021 entered observer.
+[18:28:55]	MPF-I4.51977 entered observer.
+[18:29:07]	MPF-I4.51977 exited observer at their location.
+[18:29:29]	MPF-I4.51977 has gained 100 tokens.
+[18:29:29]	C17.MPF-OBS-20021 has gained 100 tokens.
+[18:29:34]	C17.MPF-OBS-20021 exited observer at their location.
+[18:29:38]	MPF-I4.51977 has taken 13 damage from C17.MPF-OBS-20021.
+[18:29:39]	C17.MPF-OBS-20021 entered observer.
+[18:29:41]	C17.MPF-OBS-20021 exited observer at their location.
+[18:29:43]	C17.MPF-OBS-20021 entered observer.
+[18:30:16]	C17.MPF-OBS-20021 has spawned a 'Entity [1577][ix_craftingtable]'.
+[18:30:19]	C17.MPF-OBS-20021 exited observer at their location.
+[18:30:23]	C17.MPF-OBS-20021 has spawned a 'Entity [1577][ix_loadingtable]'.
+[18:30:25]	C17.MPF-OBS-20021 has spawned a 'Entity [1593][ix_loadingtable]'.
+[18:30:30]	C17.MPF-OBS-20021 entered observer.
+[18:30:41]	MPF-I4.51977 has spawned a 'Entity [1577][ix_questgiver]'.
+[18:30:42]	C17.MPF-OBS-20021 has spawned a 'Entity [1593][st_radio_classics_n]'.
+[18:30:44]	C17.MPF-OBS-20021 exited observer at their location.
+[18:30:45]	C17.MPF-OBS-20021 entered observer.
+[18:30:52]	MPF-I4.51977 has spawned a 'Entity [1577][ix_vendor]'.
+[18:30:52]	C17.MPF-OBS-20021 has spawned a 'Entity [1593][st_radio_middleeast_n]'.
+[18:30:53]	C17.MPF-OBS-20021 exited observer at their location.
+[18:30:53]	MPF-I4.51977 used the 'John Doe' vendor.
+[18:30:56]	C17.MPF-OBS-20021 entered observer.
+[18:31:04]	C17.MPF-OBS-20021 exited observer at their location.
+[18:31:06]	C17.MPF-OBS-20021 has spawned a 'Entity [1593][st_radio_jams_n]'.
+[18:31:13]	C17.MPF-OBS-20021 has spawned a 'Entity [1593][st_radio_desert_n]'.
+[18:31:21]	C17.MPF-OBS-20021 entered observer.
+[18:31:42]	C17.MPF-OBS-20021 exited observer at their location.
+[18:31:43]	C17.MPF-OBS-20021 has spawned a 'Entity [1594][ix_questgiver]'.
+[18:31:53]	MPF-I4.51977 entered observer.
+[18:31:57]	MPF-I4.51977 exited observer at their location.
+[18:31:57]	C17.MPF-OBS-20021 has spawned a 'Entity [1577][ix_loyaltykiosk]'.
+[18:32:00]	MPF-I4.51977 entered observer.
+[18:32:00]	C17.MPF-OBS-20021 entered observer.
+[18:32:02]	MPF-I4.51977 exited observer at their location.
+[18:32:05]	MPF-I4.51977 entered observer.
+[18:32:05]	C17.MPF-OBS-20021 exited observer at their location.
+[18:32:07]	MPF-I4.51977 exited observer at their location.
+[18:32:17]	MPF-I4.51977 entered observer.
+[18:32:18]	MPF-I4.51977 exited observer at their location.
+[18:32:22]	C17.MPF-OBS-20021 entered observer.
+[18:32:28]	C17.MPF-OBS-20021 exited observer at their location.
+[18:33:36]	C17.MPF-OBS-20021 entered observer.
+[18:33:57]	MPF-I4.51977 ran 'drop' on item 'ID Карточка' (#250)
+[18:33:57]	MPF-I4.51977 has lost a 'ID Карточка' #250.
+[18:34:29]	MPF-I4.51977 has gained 100 tokens.
+[18:34:29]	C17.MPF-OBS-20021 has gained 100 tokens.
+[18:35:19]	MPF-I4.51977 used command '/CharGiveItem MPF-I4.51977 metpolice cad'.
+[18:35:23]	MPF-I4.51977 used command '/CharGiveItem MPF-I4.51977 metpolice card'.
+[18:35:35]	MPF-I4.51977 entered observer.
+[18:35:37]	MPF-I4.51977 exited observer at their location.
+[18:39:01]	C17.MPF-OBS-20021 exited observer at their location.
+[18:39:03]	C17.MPF-OBS-20021 entered observer.
+[18:39:04]	C17.MPF-OBS-20021 exited observer at their location.
+[18:39:04]	C17.MPF-OBS-20021 entered observer.
+[18:39:04]	C17.MPF-OBS-20021 exited observer at their location.
+[18:39:05]	C17.MPF-OBS-20021 entered observer.
+[18:39:05]	C17.MPF-OBS-20021 exited observer at their location.
+[18:39:08]	C17.MPF-OBS-20021 entered observer.
+[18:39:11]	MPF-I4.51977 has spawned 'models/props_combine/combine_intmonitor001.mdl'.
+[18:39:19]	MPF-I4.51977 has enabled persistence for 'models/props_combine/combine_intmonitor001.mdl'.
+[18:39:33]	MPF-I4.51977 has gained 100 tokens.
+[18:39:33]	C17.MPF-OBS-20021 has gained 100 tokens.
+[18:41:03]	C17.MPF-OBS-20021 has spawned 'models/props_borealis/bluebarrel001.mdl'.
+[18:42:40]	MPF-I4.51977 has gained a 'ID Карточка' #250.
+[18:42:40]	MPF-I4.51977 has created a new CID with the name C17.MPF-OBS-20021
+[18:42:51]	MPF-I4.51977 ran 'drop' on item 'ID Карточка' (#250)
+[18:42:51]	MPF-I4.51977 has lost a 'ID Карточка' #250.
+[18:42:55]	C17.MPF-OBS-20021 exited observer at their location.
+[18:43:03]	C17.MPF-OBS-20021 ran 'take' on item 'ID Карточка' (#250)
+[18:43:03]	C17.MPF-OBS-20021 has gained a 'ID Карточка' #250.
+[18:43:10]	C17.MPF-OBS-20021 ran 'ViewRecord' on item 'ID Карточка' (#250)
+[18:43:22]	C17.MPF-OBS-20021 ran 'drop' on item 'ID Карточка' (#250)
+[18:43:22]	C17.MPF-OBS-20021 has lost a 'ID Карточка' #250.
+[18:43:28]	C17.MPF-OBS-20021 entered observer.
+[18:44:33]	MPF-I4.51977 has gained 100 tokens.
+[18:44:33]	C17.MPF-OBS-20021 has gained 100 tokens.
+[18:45:01]	C17.MPF-OBS-20021 has spawned a 'Entity [1596][gmod_sent_vehicle_fphysics_base]'.
+[18:45:05]	C17.MPF-OBS-20021 exited observer at their location.
+[18:45:15]	C17.MPF-OBS-20021 entered observer.
+[18:45:16]	C17.MPF-OBS-20021 exited observer at their location.
+[18:45:18]	C17.MPF-OBS-20021 entered observer.
+[18:45:21]	C17.MPF-OBS-20021 exited observer at their location.
+[18:45:22]	C17.MPF-OBS-20021 entered observer.
+[18:45:27]	C17.MPF-OBS-20021 exited observer at their location.
+[18:45:28]	C17.MPF-OBS-20021 entered observer.
+[18:45:29]	C17.MPF-OBS-20021 exited observer at their location.
+[18:45:30]	C17.MPF-OBS-20021 entered observer.
+[18:45:31]	C17.MPF-OBS-20021 exited observer at their location.
+[18:45:31]	C17.MPF-OBS-20021 entered observer.
+[18:46:15]	MPF-I4.51977 ran 'Consume' on item 'Standard Supplements' (#238)
+[18:47:12]	Г@H3NK created the character 'MPF-RCT.92199'
+[18:47:12]	MPF-RCT.92199 has gained a 'Glock' #251.
+[18:47:12]	MPF-RCT.92199 has gained a 'Коробочка мелкокалиберных патронов' #252.
+[18:47:12]	MPF-RCT.92199 has gained a 'Коробочка мелкокалиберных патронов' #253.
+[18:47:12]	MPF-RCT.92199 has gained a 'Коробочка мелкокалиберных патронов' #254.
+[18:47:12]	MPF-RCT.92199 has gained a 'Коробочка мелкокалиберных патронов' #255.
+[18:47:12]	MPF-RCT.92199 has gained a 'Наручники' #256.
+[18:47:12]	MPF-RCT.92199 has gained a 'ID Карточка' #257.
+[18:47:16]	Г@H3NK (STEAM_0:0:65326356) deleted character 'MPF-RCT.92199'
+[18:47:18]	Г@H3NK loaded the character 'MPF-RCT.61732'
+[18:47:28]	Г@H3NK (STEAM_0:0:65326356) deleted character 'MPF-RCT.61732'
+[18:47:41]	Г@H3NK created the character 'MPF-RCT.76375'
+[18:47:41]	MPF-RCT.76375 has gained a 'Glock' #251.
+[18:47:41]	MPF-RCT.76375 has gained a 'Коробочка мелкокалиберных патронов' #252.
+[18:47:41]	MPF-RCT.76375 has gained a 'Коробочка мелкокалиберных патронов' #253.
+[18:47:41]	MPF-RCT.76375 has gained a 'Коробочка мелкокалиберных патронов' #254.
+[18:47:41]	MPF-RCT.76375 has gained a 'Коробочка мелкокалиберных патронов' #255.
+[18:47:41]	MPF-RCT.76375 has gained a 'Наручники' #256.
+[18:47:41]	MPF-RCT.76375 has gained a 'ID Карточка' #257.
+[18:47:41]	Г@H3NK loaded the character 'MPF-RCT.76375'
+[18:48:35]	MPF-RCT.76375 entered observer.
+[18:48:42]	MPF-RCT.76375 exited observer at their location.
+[18:49:02]	MPF-RCT.76375 has lost 100 tokens.
+[18:49:02]	MPF-RCT.76375 ordered a shipment
+[18:49:07]	MPF-RCT.76375 has gained a 'Manufacturing Ticket' #258.
+[18:49:07]	MPF-RCT.76375 took 'Manufacturing Ticket' from the shipment
+[18:49:11]	MPF-RCT.76375 ran 'Reigster' on item 'Manufacturing Ticket' (#258)
+[18:49:11]	MPF-RCT.76375 has gained 20 tokens.
+[18:49:20]	MPF-RCT.76375 ran 'drop' on item 'ID Карточка' (#257)
+[18:49:20]	MPF-RCT.76375 has lost a 'ID Карточка' #257.
+[18:49:27]	MPF-RCT.76375 ran 'take' on item 'ID Карточка' (#257)
+[18:49:27]	MPF-RCT.76375 has gained a 'ID Карточка' #257.
+[18:49:30]	MPF-RCT.76375 ran 'ViewRecord' on item 'ID Карточка' (#257)
+[18:49:38]	MPF-RCT.76375 ran 'drop' on item 'ID Карточка' (#257)
+[18:49:38]	MPF-RCT.76375 has lost a 'ID Карточка' #257.
+[18:50:14]	MPF-RCT.76375 has gained a 'ID Карточка' #257.
+[18:50:14]	MPF-RCT.76375 has created a new CID with the name MPF-RCT.76375
+[18:51:59]	C17.MPF-OBS-20021 has gained 100 tokens.
+[18:52:14]	MPF-RCT.76375 used command '/CharSetTokens MPF-RCT 9999'.
+[18:52:19]	MPF-RCT.76375 has lost 100 tokens.
+[18:52:19]	MPF-RCT.76375 ordered a shipment
+[18:52:23]	MPF-RCT.76375 has gained a 'ID Карточка' #258.
+[18:52:23]	MPF-RCT.76375 took 'ID Карточка' from the shipment
+[18:52:23]	MPF-RCT.76375 has gained a 'Minimal Tier Ration Unit' #259.
+[18:52:23]	MPF-RCT.76375 took 'Minimal Tier Ration Unit' from the shipment
+[18:52:24]	MPF-RCT.76375 has gained a 'Manufacturing Ticket' #260.
+[18:52:24]	MPF-RCT.76375 took 'Manufacturing Ticket' from the shipment
+[18:52:24]	MPF-RCT.76375 has gained a 'Transfer Card' #261.
+[18:52:24]	MPF-RCT.76375 took 'Transfer Card' from the shipment
+[18:52:29]	MPF-RCT.76375 ran 'Open' on item 'Minimal Tier Ration Unit' (#259)
+[18:52:29]	MPF-RCT.76375 has gained a 'Minimal Survival Supplement' #262.
+[18:52:31]	MPF-RCT.76375 ran 'Consume' on item 'Minimal Survival Supplement' (#262)
+[18:52:41]	MPF-RCT.76375 has gained 100 tokens.
+[18:53:13]	MPF-RCT.76375 has gained a 'ID Карточка' #262.
+[18:53:13]	MPF-RCT.76375 has created a new CID with the name no name?????
+[18:53:38]	MPF-RCT.76375 has gained a 'ID Карточка' #263.
+[18:53:38]	MPF-RCT.76375 has created a new CID with the name no name?????
+[18:54:06]	MPF-RCT.76375 has gained a 'ID Карточка' #264.
+[18:54:06]	MPF-RCT.76375 has created a new CID with the name MPF-RCT.76575
+[18:54:16]	MPF-RCT.76375 ran 'ViewRecord' on item 'ID Карточка' (#263)
+[18:54:39]	MPF-RCT.76375 ran 'ViewRecord' on item 'ID Карточка' (#262)
+[18:54:44]	MPF-RCT.76375 ran 'ViewRecord' on item 'ID Карточка' (#264)
+[18:54:50]	MPF-RCT.76375 ran 'Reigster' on item 'Manufacturing Ticket' (#260)
+[18:54:50]	MPF-RCT.76375 has gained 20 tokens.
+[18:54:56]	MPF-RCT.76375 ran 'drop' on item 'Transfer Card' (#261)
+[18:54:56]	MPF-RCT.76375 has lost a 'Transfer Card' #261.
+[18:55:03]	MPF-RCT.76375 ran 'take' on item 'Transfer Card' (#261)
+[18:55:03]	MPF-RCT.76375 has gained a 'Transfer Card' #261.
+[18:56:59]	C17.MPF-OBS-20021 has gained 100 tokens.
+[18:57:41]	MPF-RCT.76375 has gained 100 tokens.

@@ -1,0 +1,118 @@
+[04:16:22]	Г@H3NK has connected.
+[04:16:42]	Г@H3NK loaded the character 'Александр Климов'
+[04:18:43]	Александр Климов ran 'EquipUn' on item 'P90' (#87)
+[04:18:48]	Александр Климов ran 'drop' on item 'P90' (#87)
+[04:18:48]	Александр Климов has lost a 'P90' #87.
+[04:19:14]	Александр Климов has gained a 'ДС Дробовик' #88.
+[04:19:14]	Александр Климов used command '/CharGiveItem А db'.
+[04:20:40]	Александр Климов ran 'drop' on item 'ДС Дробовик' (#88)
+[04:20:40]	Александр Климов has lost a 'ДС Дробовик' #88.
+[04:20:42]	Александр Климов ran 'take' on item 'ДС Дробовик' (#88)
+[04:20:42]	Александр Климов has gained a 'ДС Дробовик' #88.
+[04:21:11]	Александр Климов has spawned 'models/weapons/arccw/w_canin.mdl'.
+[04:25:04]	Александр Климов has gained a 'Glock' #89.
+[04:25:04]	Александр Климов used command '/CharGiveItem А gloc'.
+[04:26:02]	Александр Климов used command '/CharGiveItem А famas'.
+[04:26:19]	Александр Климов has gained a 'FAMAS' #90.
+[04:26:19]	Александр Климов used command '/CharGiveItem А famas'.
+[04:28:35]	Г@H3NK has connected.
+[04:28:52]	Г@H3NK loaded the character 'Александр Климов'
+[04:29:27]	Александр Климов has spawned 'models/weapons/w_rif_famas.mdl'.
+[04:31:35]	Г@H3NK has connected.
+[04:31:51]	Г@H3NK loaded the character 'Александр Климов'
+[04:32:59]	Александр Климов has spawned 'models/weapons/arccw/w_db.mdl'.
+[04:36:17]	Г@H3NK has connected.
+[04:36:36]	Г@H3NK loaded the character 'Александр Климов'
+[04:39:49]	Г@H3NK has connected.
+[04:40:04]	Г@H3NK loaded the character 'Александр Климов'
+[04:40:12]	Александр Климов ran 'Equip' on item 'Glock' (#89)
+[04:40:17]	Александр Климов entered observer.
+[04:40:18]	Александр Климов exited observer at their location.
+[04:42:25]	Г@H3NK has connected.
+[04:42:40]	Г@H3NK loaded the character 'Александр Климов'
+[04:42:57]	Александр Климов used command '/CharGiveItem а db'.
+[04:43:06]	Александр Климов has gained a 'ДС Дробовик' #91.
+[04:43:06]	Александр Климов used command '/CharGiveItem а db'.
+[04:45:17]	Г@H3NK has connected.
+[04:45:32]	Г@H3NK loaded the character 'Александр Климов'
+[04:48:04]	Г@H3NK has connected.
+[04:48:19]	Г@H3NK loaded the character 'Александр Климов'
+[04:49:43]	Г@H3NK has connected.
+[04:50:05]	Г@H3NK loaded the character 'Александр Климов'
+[04:50:39]	Александр Климов has spawned a 'NPC [678][npc_pigeon]'.
+[04:50:57]	Александр Климов ran 'Equip' on item 'FAMAS' (#90)
+[04:51:00]	Александр Климов ran 'drop' on item 'FAMAS' (#90)
+[04:51:00]	Александр Климов has lost a 'FAMAS' #90.
+[04:51:04]	Александр Климов ran 'take' on item 'FAMAS' (#90)
+[04:51:04]	Александр Климов has gained a 'FAMAS' #90.
+[04:51:56]	Г@H3NK has connected.
+[04:52:11]	Г@H3NK loaded the character 'Александр Климов'
+[04:52:40]	Г@H3NK has connected.
+[04:52:54]	Г@H3NK loaded the character 'Александр Климов'
+[04:54:30]	Г@H3NK has connected.
+[04:54:45]	Г@H3NK loaded the character 'Александр Климов'
+[04:55:31]	Г@H3NK has connected.
+[04:55:46]	Г@H3NK loaded the character 'Александр Климов'
+[04:56:40]	Г@H3NK has connected.
+[04:56:54]	Г@H3NK loaded the character 'Александр Климов'
+[04:57:03]	Александр Климов ran 'Equip' on item 'FAMAS' (#90)
+[04:57:09]	Александр Климов ran 'EquipUn' on item 'FAMAS' (#90)
+[04:58:14]	Г@H3NK has connected.
+[04:58:29]	Г@H3NK loaded the character 'Александр Климов'
+[04:59:40]	Г@H3NK has connected.
+[04:59:54]	Г@H3NK loaded the character 'Александр Климов'
+[05:00:35]	Г@H3NK has connected.
+[05:00:50]	Г@H3NK loaded the character 'Александр Климов'
+[05:01:48]	Александр Климов ran 'drop' on item 'ДС Дробовик' (#88)
+[05:01:48]	Александр Климов has lost a 'ДС Дробовик' #88.
+[05:02:43]	Г@H3NK has connected.
+[05:02:58]	Г@H3NK loaded the character 'Александр Климов'
+[05:03:50]	Г@H3NK has connected.
+[05:04:05]	Г@H3NK loaded the character 'Александр Климов'
+[05:04:47]	Г@H3NK has connected.
+[05:05:02]	Г@H3NK loaded the character 'Александр Климов'
+[05:05:32]	Г@H3NK has connected.
+[05:05:46]	Г@H3NK loaded the character 'Александр Климов'
+[05:07:27]	Г@H3NK has connected.
+[05:07:42]	Г@H3NK loaded the character 'Александр Климов'
+[05:08:14]	Г@H3NK has connected.
+[05:08:31]	Г@H3NK loaded the character 'Александр Климов'
+[05:09:13]	Г@H3NK has connected.
+[05:09:28]	Г@H3NK loaded the character 'Александр Климов'
+[05:09:37]	Александр Климов ran 'Equip' on item 'ДС Дробовик' (#91)
+[05:10:42]	Г@H3NK has connected.
+[05:10:56]	Г@H3NK loaded the character 'Александр Климов'
+[05:11:30]	Г@H3NK has connected.
+[05:11:45]	Г@H3NK loaded the character 'Александр Климов'
+[05:11:50]	Александр Климов ran 'EquipUn' on item 'ДС Дробовик' (#91)
+[05:11:53]	Александр Климов ran 'Equip' on item 'FAMAS' (#90)
+[05:12:40]	Г@H3NK loaded the character 'MPF-I4.51977'
+[05:12:44]	MPF-I4.51977 ran 'drop' on item '.9mm Pistol' (#42)
+[05:12:44]	MPF-I4.51977 has lost a '.9mm Pistol' #42.
+[05:13:04]	MPF-I4.51977 has gained a 'Glock' #92.
+[05:13:04]	MPF-I4.51977 used command '/CharGiveItem I4 glock'.
+[05:13:06]	MPF-I4.51977 ran 'Equip' on item 'Glock' (#92)
+[05:13:14]	MPF-I4.51977 has spawned a 'Entity [675][arccw_ammo_pistol_large]'.
+[05:17:39]	MPF-I4.51977 has spawned a 'NPC [675][npc_pigeon]'.
+[05:17:40]	MPF-I4.51977 has gained 300 tokens.
+[05:17:48]	MPF-I4.51977 has spawned a 'NPC [675][npc_crow]'.
+[05:17:50]	MPF-I4.51977 has spawned a 'NPC [688][npc_pigeon]'.
+[05:17:57]	MPF-I4.51977 entered observer.
+[05:18:12]	MPF-I4.51977 has spawned a 'NPC [675][npc_pigeon]'.
+[05:18:14]	MPF-I4.51977 exited observer at their location.
+[05:18:39]	MPF-I4.51977 entered observer.
+[05:18:41]	MPF-I4.51977 exited observer at their location.
+[05:18:42]	MPF-I4.51977 entered observer.
+[05:18:42]	MPF-I4.51977 exited observer at their location.
+[05:18:48]	MPF-I4.51977 has spawned a 'NPC [675][npc_pigeon]'.
+[05:18:59]	MPF-I4.51977 entered observer.
+[05:19:00]	MPF-I4.51977 exited observer at their location.
+[05:19:23]	MPF-I4.51977 has spawned a 'NPC [675][npc_pigeon]'.
+[05:19:45]	MPF-I4.51977 entered observer.
+[05:19:45]	MPF-I4.51977 exited observer at their location.
+[05:20:21]	MPF-I4.51977 has spawned a 'NPC [675][npc_pigeon]'.
+[05:20:25]	MPF-I4.51977 entered observer.
+[05:20:27]	MPF-I4.51977 has spawned a 'NPC [675][npc_pigeon]'.
+[05:20:29]	MPF-I4.51977 has spawned a 'NPC [691][npc_pigeon]'.
+[05:20:31]	MPF-I4.51977 exited observer at their location.
+[05:20:45]	MPF-I4.51977 has spawned a 'NPC [675][npc_pigeon]'.

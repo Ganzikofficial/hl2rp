@@ -1,0 +1,2546 @@
+[00:00:27]	Г@H3NK loaded the character 'D47.MPF-HELIX.514'
+[00:00:54]	D47.MPF-HELIX.514 has spawned 'models/summer_spring/items/trenchcoat.mdl'.
+[00:00:55]	D47.MPF-HELIX.514 has spawned 'models/summer_spring/items/shirt_rebelmetrocop.mdl'.
+[00:00:57]	D47.MPF-HELIX.514 has spawned 'models/summer_spring/items/shirt_rebelbag.mdl'.
+[00:00:58]	D47.MPF-HELIX.514 has spawned 'models/summer_spring/items/shirt_rebel_molle.mdl'.
+[00:01:00]	D47.MPF-HELIX.514 has spawned 'models/summer_spring/items/shirt_medic1.mdl'.
+[00:01:04]	D47.MPF-HELIX.514 has spawned 'models/summer_spring/items/shirt_citizen2.mdl'.
+[00:01:35]	D47.MPF-HELIX.514 has spawned 'models/cppackredux/trenchcoatunits/trench_shockjock.mdl'.
+[00:01:41]	D47.MPF-HELIX.514 has spawned 'models/elitepolice.mdl'.
+[00:01:42]	D47.MPF-HELIX.514 entered observer.
+[00:01:44]	D47.MPF-HELIX.514 exited observer at their location.
+[00:01:47]	D47.MPF-HELIX.514 has spawned 'models/cppackredux/trenchcoatunits/trench_shockjock.mdl'.
+[00:01:50]	D47.MPF-HELIX.514 entered observer.
+[00:01:55]	D47.MPF-HELIX.514 exited observer at their location.
+[00:01:57]	D47.MPF-HELIX.514 has spawned 'models/cppackredux/trenchcoatunits/trench_shockjock.mdl'.
+[00:02:08]	D47.MPF-HELIX.514 has spawned 'models/dpfilms/metropolice/playermodels/pm_rtb_police.mdl'.
+[00:02:09]	D47.MPF-HELIX.514 entered observer.
+[00:02:11]	D47.MPF-HELIX.514 exited observer at their location.
+[00:03:25]	D47.MPF-HELIX.514 has spawned 'models/nova/w_headgear.mdl'.
+[00:03:36]	D47.MPF-HELIX.514 has spawned 'models/props_phx/misc/egg.mdl'.
+[00:03:49]	D47.MPF-HELIX.514 has spawned 'models/props_phx/misc/potato.mdl'.
+[00:04:27]	Bot01 has connected.
+[00:04:27]	Bot01 loaded the character 'Bot01'
+[00:04:45]	Bot01 has taken 5 damage from D47.MPF-HELIX.514.
+[00:04:46]	Bot01 has taken 5 damage from D47.MPF-HELIX.514.
+[00:04:47]	Bot01 has taken 5 damage from D47.MPF-HELIX.514.
+[00:05:00]	Bot01 has taken 500 damage from prop_dynamic.
+[00:05:00]	prop_dynamic has killed Bot01.
+[00:05:29]	D47.MPF-HELIX.514 has gained 100 tokens.
+[00:10:29]	D47.MPF-HELIX.514 has gained 100 tokens.
+[00:15:29]	D47.MPF-HELIX.514 has gained 100 tokens.
+[00:18:04]	D47.MPF-HELIX.514 ran 'drop' on item 'Картонная Коробка' (#366)
+[00:18:04]	D47.MPF-HELIX.514 has lost a 'Картонная Коробка' #366.
+[00:18:06]	D47.MPF-HELIX.514 ran 'take' on item 'Картонная Коробка' (#366)
+[00:18:06]	D47.MPF-HELIX.514 has gained a 'Картонная Коробка' #366.
+[00:23:00]	D47.MPF-HELIX.514 has gained 100 tokens.
+[00:28:01]	D47.MPF-HELIX.514 has gained 100 tokens.
+[00:30:54]	D47.MPF-HELIX.514 ran 'drop' on item 'Картонная Коробка' (#366)
+[00:30:54]	D47.MPF-HELIX.514 has lost a 'Картонная Коробка' #366.
+[00:30:56]	D47.MPF-HELIX.514 ran 'take' on item 'Картонная Коробка' (#366)
+[00:30:57]	D47.MPF-HELIX.514 has gained a 'Картонная Коробка' #366.
+[00:31:01]	D47.MPF-HELIX.514 ran 'drop' on item 'Картонная Коробка' (#366)
+[00:31:01]	D47.MPF-HELIX.514 has lost a 'Картонная Коробка' #366.
+[00:31:03]	D47.MPF-HELIX.514 ran 'take' on item 'Картонная Коробка' (#366)
+[00:31:03]	D47.MPF-HELIX.514 has gained a 'Картонная Коробка' #366.
+[00:31:13]	D47.MPF-HELIX.514 ran 'drop' on item 'Картонная Коробка' (#366)
+[00:31:13]	D47.MPF-HELIX.514 has lost a 'Картонная Коробка' #366.
+[00:31:15]	D47.MPF-HELIX.514 ran 'take' on item 'Картонная Коробка' (#366)
+[00:31:15]	D47.MPF-HELIX.514 has gained a 'Картонная Коробка' #366.
+[00:31:16]	D47.MPF-HELIX.514 ran 'drop' on item 'Картонная Коробка' (#366)
+[00:31:16]	D47.MPF-HELIX.514 has lost a 'Картонная Коробка' #366.
+[00:31:18]	D47.MPF-HELIX.514 ran 'take' on item 'Картонная Коробка' (#366)
+[00:31:18]	D47.MPF-HELIX.514 has gained a 'Картонная Коробка' #366.
+[00:32:43]	D47.MPF-HELIX.514 ran 'drop' on item 'Картонная Коробка' (#366)
+[00:32:43]	D47.MPF-HELIX.514 has lost a 'Картонная Коробка' #366.
+[00:32:47]	D47.MPF-HELIX.514 ran 'take' on item 'Картонная Коробка' (#366)
+[00:32:47]	D47.MPF-HELIX.514 has gained a 'Картонная Коробка' #366.
+[00:36:18]	D47.MPF-HELIX.514 ran 'EquipUn' on item 'Five-seveN' (#124)
+[00:36:19]	D47.MPF-HELIX.514 ran 'Equip' on item 'Five-seveN' (#124)
+[00:36:23]	D47.MPF-HELIX.514 ran 'EquipUn' on item 'Five-seveN' (#124)
+[00:36:24]	D47.MPF-HELIX.514 ran 'Equip' on item 'Five-seveN' (#124)
+[00:36:25]	D47.MPF-HELIX.514 ran 'EquipUn' on item 'Five-seveN' (#124)
+[00:36:25]	D47.MPF-HELIX.514 ran 'Equip' on item 'Five-seveN' (#124)
+[00:36:26]	D47.MPF-HELIX.514 ran 'EquipUn' on item 'Five-seveN' (#124)
+[00:36:27]	D47.MPF-HELIX.514 ran 'Equip' on item 'Five-seveN' (#124)
+[00:36:34]	D47.MPF-HELIX.514 ran 'EquipUn' on item 'HK UMP-9' (#318)
+[00:36:35]	D47.MPF-HELIX.514 ran 'Equip' on item 'HK UMP-9' (#318)
+[00:40:11]	D47.MPF-HELIX.514 ran 'EquipUn' on item 'Five-seveN' (#124)
+[00:40:12]	D47.MPF-HELIX.514 ran 'Equip' on item 'Five-seveN' (#124)
+[00:41:24]	D47.MPF-HELIX.514 ran 'EquipUn' on item 'Five-seveN' (#124)
+[00:41:25]	D47.MPF-HELIX.514 ran 'Equip' on item 'Five-seveN' (#124)
+[00:41:27]	D47.MPF-HELIX.514 ran 'EquipUn' on item 'Five-seveN' (#124)
+[00:41:29]	D47.MPF-HELIX.514 ran 'Equip' on item 'Five-seveN' (#124)
+[00:42:36]	D47.MPF-HELIX.514 ran 'EquipUn' on item 'Five-seveN' (#124)
+[00:42:37]	D47.MPF-HELIX.514 ran 'Equip' on item 'Five-seveN' (#124)
+[00:47:17]	Г@H3NK has connected.
+[00:48:15]	Г@H3NK loaded the character 'D47.MPF-HELIX.514'
+[00:48:42]	D47.MPF-HELIX.514 ran 'EquipUn' on item 'Five-seveN' (#124)
+[00:48:43]	D47.MPF-HELIX.514 ran 'Equip' on item 'Five-seveN' (#124)
+[00:48:45]	D47.MPF-HELIX.514 ran 'EquipUn' on item 'HK UMP-9' (#318)
+[00:48:46]	D47.MPF-HELIX.514 ran 'Equip' on item 'HK UMP-9' (#318)
+[00:48:51]	D47.MPF-HELIX.514 ran 'EquipUn' on item 'HK UMP-9' (#318)
+[00:48:52]	D47.MPF-HELIX.514 ran 'Equip' on item 'HK UMP-9' (#318)
+[00:48:58]	D47.MPF-HELIX.514 ran 'EquipUn' on item 'HK UMP-9' (#318)
+[00:48:59]	D47.MPF-HELIX.514 ran 'Equip' on item 'HK UMP-9' (#318)
+[00:50:48]	D47.MPF-HELIX.514 has gained a 'Броня ГО' #376.
+[00:50:48]	D47.MPF-HELIX.514 used command '/CharGiveItem D47 emergency_armor'.
+[00:50:58]	D47.MPF-HELIX.514 ran 'drop' on item 'Броня ГО' (#376)
+[00:50:58]	D47.MPF-HELIX.514 has lost a 'Броня ГО' #376.
+[00:51:04]	D47.MPF-HELIX.514 ran 'take' on item 'Броня ГО' (#376)
+[00:51:04]	D47.MPF-HELIX.514 has gained a 'Броня ГО' #376.
+[00:51:07]	D47.MPF-HELIX.514 ran 'Equip' on item 'Броня ГО' (#376)
+[00:51:13]	D47.MPF-HELIX.514 ran 'EquipUn' on item 'Броня ГО' (#376)
+[00:51:15]	D47.MPF-HELIX.514 ran 'Equip' on item 'Броня ГО' (#376)
+[00:51:17]	D47.MPF-HELIX.514 ran 'EquipUn' on item 'Броня ГО' (#376)
+[00:51:31]	D47.MPF-HELIX.514 ran 'drop' on item 'Броня ГО' (#376)
+[00:51:31]	D47.MPF-HELIX.514 has lost a 'Броня ГО' #376.
+[00:51:34]	D47.MPF-HELIX.514 ran 'take' on item 'Броня ГО' (#376)
+[00:51:34]	D47.MPF-HELIX.514 has gained a 'Броня ГО' #376.
+[00:51:35]	D47.MPF-HELIX.514 ran 'drop' on item 'Броня ГО' (#376)
+[00:51:35]	D47.MPF-HELIX.514 has lost a 'Броня ГО' #376.
+[00:52:02]	env_entity_dissolver destroyed a 'Броня ГО' #376.
+[00:52:07]	D47.MPF-HELIX.514 has spawned a 'NPC [1393][npc_monk]'.
+[00:53:00]	D47.MPF-HELIX.514 has spawned a 'NPC [1393][npc_monk]'.
+[00:53:15]	D47.MPF-HELIX.514 has gained 100 tokens.
+[00:54:13]	D47.MPF-HELIX.514 has spawned 'models/props_c17/oildrum001.mdl'.
+[00:54:24]	D47.MPF-HELIX.514 has spawned a 'NPC [1395][npc_monk]'.
+[00:55:04]	D47.MPF-HELIX.514 has taken 35 damage from npc_monk.
+[00:55:04]	D47.MPF-HELIX.514 has taken 17 damage from npc_monk.
+[00:55:04]	D47.MPF-HELIX.514 has taken 17 damage from npc_monk.
+[00:55:04]	D47.MPF-HELIX.514 has taken 35 damage from npc_monk.
+[00:55:04]	npc_monk has killed D47.MPF-HELIX.514.
+[00:55:49]	D47.MPF-HELIX.514 used command '/BecomeClass metropolice_unit'.
+[00:56:15]	D47.MPF-HELIX.514 used command '/CharSetClass D47 metropolice_unit'.
+[00:56:19]	D47.MPF-HELIX.514 used the 'Аптечка' vendor.
+[00:56:29]	D47.MPF-HELIX.514 ran 'Equip' on item 'Five-seveN' (#124)
+[00:56:29]	D47.MPF-HELIX.514 ran 'Equip' on item 'HK UMP-9' (#318)
+[00:56:34]	D47.MPF-HELIX.514 used the 'Склад Боеприпасов' vendor.
+[00:56:37]	D47.MPF-HELIX.514 has gained 0 tokens.
+[00:56:37]	D47.MPF-HELIX.514 has gained a 'Ящик 9×19 мм патронов' #376.
+[00:56:40]	D47.MPF-HELIX.514 ran 'use' on item 'Ящик 9×19 мм патронов' (#376)
+[00:56:41]	D47.MPF-HELIX.514 used the 'Склад Боеприпасов' vendor.
+[00:56:43]	D47.MPF-HELIX.514 has gained 0 tokens.
+[00:56:43]	D47.MPF-HELIX.514 has gained a 'Коробочка 9×19 мм патронов' #376.
+[00:56:44]	D47.MPF-HELIX.514 has gained 0 tokens.
+[00:56:44]	D47.MPF-HELIX.514 has gained a 'Коробочка 9×19 мм патронов' #377.
+[00:56:51]	D47.MPF-HELIX.514 used the 'Склад Боеприпасов' vendor.
+[00:56:53]	D47.MPF-HELIX.514 has gained 0 tokens.
+[00:56:53]	D47.MPF-HELIX.514 has gained a 'Ящик 9×19 мм патронов' #378.
+[00:56:53]	D47.MPF-HELIX.514 has gained 0 tokens.
+[00:56:53]	D47.MPF-HELIX.514 has gained a 'Ящик 9×19 мм патронов' #379.
+[00:56:54]	D47.MPF-HELIX.514 has gained 0 tokens.
+[00:56:54]	D47.MPF-HELIX.514 has gained a 'Ящик 9×19 мм патронов' #380.
+[00:56:54]	D47.MPF-HELIX.514 has gained 0 tokens.
+[00:56:54]	D47.MPF-HELIX.514 has gained a 'Ящик 9×19 мм патронов' #381.
+[00:56:55]	D47.MPF-HELIX.514 has gained 0 tokens.
+[00:56:55]	D47.MPF-HELIX.514 has gained a 'Ящик 9×19 мм патронов' #382.
+[00:56:56]	D47.MPF-HELIX.514 has gained 0 tokens.
+[00:56:56]	D47.MPF-HELIX.514 has gained a 'Ящик 9×19 мм патронов' #383.
+[00:56:56]	D47.MPF-HELIX.514 has gained 0 tokens.
+[00:56:56]	D47.MPF-HELIX.514 has gained a 'Ящик 9×19 мм патронов' #384.
+[00:56:57]	D47.MPF-HELIX.514 has gained 0 tokens.
+[00:56:57]	D47.MPF-HELIX.514 has gained a 'Ящик 9×19 мм патронов' #385.
+[00:56:58]	D47.MPF-HELIX.514 has gained 0 tokens.
+[00:56:58]	D47.MPF-HELIX.514 has gained a 'Ящик 9×19 мм патронов' #386.
+[00:57:32]	D47.MPF-HELIX.514 entered observer.
+[00:57:51]	D47.MPF-HELIX.514 exited observer at their location.
+[00:57:52]	D47.MPF-HELIX.514 entered observer.
+[00:57:59]	D47.MPF-HELIX.514 exited observer at their location.
+[00:58:10]	D47.MPF-HELIX.514 entered observer.
+[00:58:15]	D47.MPF-HELIX.514 has gained 100 tokens.
+[00:58:26]	D47.MPF-HELIX.514 exited observer at their location.
+[00:59:17]	D47.MPF-HELIX.514 has spawned a 'NPC [1396][npc_monk]'.
+[01:00:00]	D47.MPF-HELIX.514 has taken 4 damage from npc_monk.
+[01:00:00]	D47.MPF-HELIX.514 has taken 4 damage from npc_monk.
+[01:00:09]	D47.MPF-HELIX.514 has taken 4 damage from npc_monk.
+[01:00:10]	D47.MPF-HELIX.514 has taken 4 damage from npc_monk.
+[01:00:10]	D47.MPF-HELIX.514 has taken 17 damage from npc_monk.
+[01:01:15]	D47.MPF-HELIX.514 has taken 4 damage from npc_monk.
+[01:01:15]	D47.MPF-HELIX.514 has taken 4 damage from npc_monk.
+[01:01:15]	D47.MPF-HELIX.514 has taken 4 damage from npc_monk.
+[01:01:15]	D47.MPF-HELIX.514 has taken 17 damage from npc_monk.
+[01:01:15]	D47.MPF-HELIX.514 has taken 34 damage from npc_monk.
+[01:01:16]	D47.MPF-HELIX.514 has taken 34 damage from npc_monk.
+[01:01:47]	D47.MPF-HELIX.514 has spawned a 'NPC [1400][npc_citizen]'.
+[01:01:54]	D47.MPF-HELIX.514 has spawned a 'NPC [1393][npc_citizen]'.
+[01:01:56]	D47.MPF-HELIX.514 has spawned a 'NPC [1399][npc_citizen]'.
+[01:01:57]	D47.MPF-HELIX.514 has spawned a 'NPC [1404][npc_citizen]'.
+[01:01:58]	D47.MPF-HELIX.514 has spawned a 'NPC [1399][npc_citizen]'.
+[01:02:29]	D47.MPF-HELIX.514 has taken 5 damage from npc_citizen.
+[01:02:29]	D47.MPF-HELIX.514 has taken 5 damage from npc_citizen.
+[01:02:48]	D47.MPF-HELIX.514 used command '/CharGiveItem D47 granade'.
+[01:02:57]	D47.MPF-HELIX.514 used command '/CharGiveItem D47 grenane'.
+[01:03:01]	D47.MPF-HELIX.514 used command '/CharGiveItem D47 granade'.
+[01:03:08]	D47.MPF-HELIX.514 used command '/CharGiveItem D47 granade'.
+[01:03:12]	D47.MPF-HELIX.514 used command '/CharGiveItem D47 granada'.
+[01:03:16]	D47.MPF-HELIX.514 has gained 100 tokens.
+[01:03:17]	D47.MPF-HELIX.514 used command '/CharGiveItem D47 granede'.
+[01:03:24]	D47.MPF-HELIX.514 used command '/CharGiveItem D47 grande'.
+[01:03:43]	D47.MPF-HELIX.514 has gained a 'Граната' #387.
+[01:03:43]	D47.MPF-HELIX.514 used command '/CharGiveItem D47 grenade'.
+[01:03:49]	D47.MPF-HELIX.514 ran 'Equip' on item 'Граната' (#387)
+[01:04:04]	D47.MPF-HELIX.514 has taken 19 damage from npc_citizen.
+[01:04:53]	D47.MPF-HELIX.514 entered observer.
+[01:04:56]	D47.MPF-HELIX.514 has spawned a 'NPC [1399][npc_citizen]'.
+[01:04:58]	D47.MPF-HELIX.514 has spawned a 'NPC [1404][npc_citizen]'.
+[01:05:00]	D47.MPF-HELIX.514 has spawned a 'NPC [1399][npc_citizen]'.
+[01:05:01]	D47.MPF-HELIX.514 has spawned a 'NPC [1404][npc_citizen]'.
+[01:05:02]	D47.MPF-HELIX.514 has spawned a 'NPC [1485][npc_citizen]'.
+[01:05:04]	D47.MPF-HELIX.514 has spawned a 'NPC [1393][npc_citizen]'.
+[01:05:08]	D47.MPF-HELIX.514 has spawned a 'NPC [1487][npc_barney]'.
+[01:05:22]	D47.MPF-HELIX.514 has spawned a 'NPC [1496][npc_barney]'.
+[01:05:59]	D47.MPF-HELIX.514 exited observer at their location.
+[01:06:03]	D47.MPF-HELIX.514 has taken 5 damage from npc_citizen.
+[01:06:03]	D47.MPF-HELIX.514 has taken 16 damage from npc_barney.
+[01:06:03]	D47.MPF-HELIX.514 has taken 38 damage from npc_citizen.
+[01:06:03]	npc_citizen has killed D47.MPF-HELIX.514.
+[01:06:08]	D47.MPF-HELIX.514 ran 'Equip' on item 'HK UMP-9' (#318)
+[01:06:09]	D47.MPF-HELIX.514 ran 'Equip' on item 'Five-seveN' (#124)
+[01:06:21]	D47.MPF-HELIX.514 ran 'use' on item 'Ящик 9×19 мм патронов' (#379)
+[01:06:47]	D47.MPF-HELIX.514 has taken 19 damage from npc_citizen.
+[01:06:52]	D47.MPF-HELIX.514 has taken 34 damage from npc_barney.
+[01:06:53]	D47.MPF-HELIX.514 has taken 17 damage from npc_barney.
+[01:06:53]	D47.MPF-HELIX.514 has taken 4 damage from npc_barney.
+[01:06:55]	D47.MPF-HELIX.514 has taken 17 damage from npc_barney.
+[01:06:55]	D47.MPF-HELIX.514 has taken 19 damage from npc_citizen.
+[01:06:55]	D47.MPF-HELIX.514 has taken 19 damage from npc_citizen.
+[01:06:55]	D47.MPF-HELIX.514 has taken 5 damage from npc_citizen.
+[01:06:55]	D47.MPF-HELIX.514 has taken 5 damage from npc_citizen.
+[01:07:01]	D47.MPF-HELIX.514 has taken 4 damage from npc_barney.
+[01:07:01]	D47.MPF-HELIX.514 has taken 4 damage from npc_barney.
+[01:07:02]	D47.MPF-HELIX.514 has taken 17 damage from npc_barney.
+[01:07:02]	D47.MPF-HELIX.514 has taken 4 damage from npc_barney.
+[01:07:02]	D47.MPF-HELIX.514 has taken 4 damage from npc_barney.
+[01:07:02]	D47.MPF-HELIX.514 has taken 4 damage from npc_barney.
+[01:07:05]	D47.MPF-HELIX.514 has taken 19 damage from npc_citizen.
+[01:07:05]	npc_citizen has killed D47.MPF-HELIX.514.
+[01:07:12]	D47.MPF-HELIX.514 entered observer.
+[01:07:21]	D47.MPF-HELIX.514 exited observer at their location.
+[01:07:23]	D47.MPF-HELIX.514 ran 'Equip' on item 'HK UMP-9' (#318)
+[01:07:23]	D47.MPF-HELIX.514 has taken 5 damage from npc_citizen.
+[01:07:24]	D47.MPF-HELIX.514 has taken 19 damage from npc_citizen.
+[01:07:24]	D47.MPF-HELIX.514 has taken 19 damage from npc_citizen.
+[01:07:24]	D47.MPF-HELIX.514 ran 'Equip' on item 'Five-seveN' (#124)
+[01:07:24]	D47.MPF-HELIX.514 has taken 4 damage from npc_citizen.
+[01:07:32]	D47.MPF-HELIX.514 has gained a 'Граната' #387.
+[01:07:32]	D47.MPF-HELIX.514 used command '/CharGiveItem D47 grenade'.
+[01:07:33]	D47.MPF-HELIX.514 has gained a 'Граната' #388.
+[01:07:33]	D47.MPF-HELIX.514 used command '/CharGiveItem D47 grenade'.
+[01:07:34]	D47.MPF-HELIX.514 has taken 5 damage from npc_citizen.
+[01:07:51]	D47.MPF-HELIX.514 ran 'Equip' on item 'Граната' (#387)
+[01:08:16]	D47.MPF-HELIX.514 has gained 100 tokens.
+[01:08:27]	D47.MPF-HELIX.514 has taken 39 damage from npc_citizen.
+[01:08:27]	D47.MPF-HELIX.514 has taken 39 damage from npc_citizen.
+[01:09:27]	D47.MPF-HELIX.514 has spawned 'models/props_c17/oildrum001.mdl'.
+[01:09:34]	D47.MPF-HELIX.514 has spawned 'models/props_c17/oildrum001.mdl'.
+[01:11:05]	D47.MPF-HELIX.514 entered observer.
+[01:11:10]	D47.MPF-HELIX.514 exited observer at their location.
+[01:11:36]	D47.MPF-HELIX.514 ran 'Equip' on item 'Граната' (#388)
+[01:11:48]	D47.MPF-HELIX.514 entered observer.
+[01:11:58]	D47.MPF-HELIX.514 exited observer at their location.
+[01:12:03]	D47.MPF-HELIX.514 used the 'Склад Боеприпасов' vendor.
+[01:12:06]	D47.MPF-HELIX.514 used the 'Склад Боеприпасов' vendor.
+[01:12:07]	D47.MPF-HELIX.514 has gained 0 tokens.
+[01:12:07]	D47.MPF-HELIX.514 has gained a 'Граната' #387.
+[01:12:14]	D47.MPF-HELIX.514 ran 'Equip' on item 'Граната' (#387)
+[01:12:22]	D47.MPF-HELIX.514 used the 'Склад Боеприпасов' vendor.
+[01:13:07]	D47.MPF-HELIX.514 used the 'Склад Боеприпасов' vendor.
+[01:13:09]	D47.MPF-HELIX.514 has gained 0 tokens.
+[01:13:09]	D47.MPF-HELIX.514 has gained a 'Граната' #387.
+[01:13:13]	D47.MPF-HELIX.514 used the 'Склад Боеприпасов' vendor.
+[01:13:16]	D47.MPF-HELIX.514 has gained 100 tokens.
+[01:14:08]	D47.MPF-HELIX.514 used the 'Склад Боеприпасов' vendor.
+[01:14:10]	D47.MPF-HELIX.514 has gained 0 tokens.
+[01:14:10]	D47.MPF-HELIX.514 has gained a 'Граната' #388.
+[01:14:12]	D47.MPF-HELIX.514 ran 'Equip' on item 'Граната' (#387)
+[01:14:17]	D47.MPF-HELIX.514 ran 'Equip' on item 'Граната' (#388)
+[01:14:23]	D47.MPF-HELIX.514 used the 'Склад Боеприпасов' vendor.
+[01:17:11]	D47.MPF-HELIX.514 used the 'Склад Снаряжения' vendor.
+[01:17:26]	D47.MPF-HELIX.514 used the 'Склад Снаряжения' vendor.
+[01:17:28]	D47.MPF-HELIX.514 has gained 0 tokens.
+[01:17:28]	D47.MPF-HELIX.514 has gained a 'Граната' #387.
+[01:17:29]	D47.MPF-HELIX.514 has gained 0 tokens.
+[01:17:29]	D47.MPF-HELIX.514 has gained a 'Граната' #388.
+[01:17:38]	D47.MPF-HELIX.514 used the 'Аптечка' vendor.
+[01:17:40]	D47.MPF-HELIX.514 has lost 40 tokens.
+[01:17:40]	D47.MPF-HELIX.514 has gained a 'Аптечка' #389.
+[01:17:45]	D47.MPF-HELIX.514 ran 'Apply' on item 'Аптечка' (#389)
+[01:17:48]	D47.MPF-HELIX.514 ran 'use' on item 'Коробочка 9×19 мм патронов' (#377)
+[01:17:48]	D47.MPF-HELIX.514 ran 'use' on item 'Коробочка 9×19 мм патронов' (#376)
+[01:18:16]	D47.MPF-HELIX.514 has gained 100 tokens.
+[01:18:27]	D47.MPF-HELIX.514 has spawned 'models/hunter/plates/plate025x075.mdl'.
+[01:18:28]	D47.MPF-HELIX.514 has spawned 'models/hunter/plates/plate025x05.mdl'.
+[01:18:49]	D47.MPF-HELIX.514 entered observer.
+[01:19:26]	D47.MPF-HELIX.514 has spawned 'models/hunter/plates/plate025x125.mdl'.
+[01:19:41]	D47.MPF-HELIX.514 has spawned 'models/hunter/plates/plate025x125.mdl'.
+[01:23:02]	D47.MPF-HELIX.514 has spawned 'models/hunter/plates/plate025x125.mdl'.
+[01:23:13]	D47.MPF-HELIX.514 exited observer at their location.
+[01:23:16]	D47.MPF-HELIX.514 has gained 100 tokens.
+[01:23:45]	D47.MPF-HELIX.514 has spawned 'models/Items/grenadeAmmo.mdl'.
+[01:23:47]	D47.MPF-HELIX.514 has spawned 'models/Items/grenadeAmmo.mdl'.
+[01:24:24]	D47.MPF-HELIX.514 has spawned 'models/weapons/w_smg_p90.mdl'.
+[01:24:36]	D47.MPF-HELIX.514 has spawned 'models/weapons/w_rif_m4a1.mdl'.
+[01:25:31]	D47.MPF-HELIX.514 has spawned 'models/weapons/w_shot_m3super90.mdl'.
+[01:26:23]	D47.MPF-HELIX.514 has spawned 'models/weapons/w_shot_m3super90.mdl'.
+[01:26:42]	D47.MPF-HELIX.514 has spawned 'models/weapons/w_shot_m3super90.mdl'.
+[01:26:53]	D47.MPF-HELIX.514 has spawned 'models/weapons/w_shot_m3super90.mdl'.
+[01:27:09]	D47.MPF-HELIX.514 has spawned 'models/weapons/w_rif_m4a1.mdl'.
+[01:27:14]	D47.MPF-HELIX.514 has spawned 'models/weapons/w_rif_m4a1.mdl'.
+[01:27:22]	D47.MPF-HELIX.514 has spawned 'models/weapons/w_rif_m4a1.mdl'.
+[01:27:35]	D47.MPF-HELIX.514 has spawned 'models/hunter/plates/plate025x4.mdl'.
+[01:27:38]	D47.MPF-HELIX.514 has spawned 'models/hunter/plates/plate025x3.mdl'.
+[01:28:02]	D47.MPF-HELIX.514 has spawned 'models/Items/grenadeAmmo.mdl'.
+[01:28:10]	D47.MPF-HELIX.514 has spawned 'models/Items/battery.mdl'.
+[01:28:13]	D47.MPF-HELIX.514 has spawned 'models/Items/battery.mdl'.
+[01:28:16]	D47.MPF-HELIX.514 has gained 100 tokens.
+[01:29:55]	D47.MPF-HELIX.514 has spawned 'models/hunter/plates/plate025x05.mdl'.
+[01:30:04]	D47.MPF-HELIX.514 has spawned 'models/hunter/plates/plate025x05.mdl'.
+[01:30:27]	D47.MPF-HELIX.514 has spawned 'models/hunter/plates/plate025x125.mdl'.
+[01:30:53]	D47.MPF-HELIX.514 has spawned 'models/weapons/arccw/w_mpk1.mdl'.
+[01:31:30]	D47.MPF-HELIX.514 entered observer.
+[01:31:33]	D47.MPF-HELIX.514 exited observer at their location.
+[01:31:34]	D47.MPF-HELIX.514 entered observer.
+[01:31:38]	D47.MPF-HELIX.514 exited observer at their location.
+[01:31:58]	D47.MPF-HELIX.514 has spawned 'models/weapons/arccw/w_mpk1.mdl'.
+[01:32:10]	D47.MPF-HELIX.514 has spawned 'models/weapons/arccw/w_mpk1.mdl'.
+[01:32:10]	D47.MPF-HELIX.514 has spawned 'models/weapons/arccw/w_mpk1.mdl'.
+[01:32:10]	D47.MPF-HELIX.514 has spawned 'models/weapons/arccw/w_mpk1.mdl'.
+[01:32:10]	D47.MPF-HELIX.514 has spawned 'models/weapons/arccw/w_mpk1.mdl'.
+[01:32:10]	D47.MPF-HELIX.514 has spawned 'models/weapons/arccw/w_mpk1.mdl'.
+[01:32:10]	D47.MPF-HELIX.514 has spawned 'models/weapons/arccw/w_mpk1.mdl'.
+[01:32:10]	D47.MPF-HELIX.514 has spawned 'models/weapons/arccw/w_mpk1.mdl'.
+[01:32:30]	D47.MPF-HELIX.514 has spawned 'models/weapons/arccw/w_mpk1.mdl'.
+[01:32:32]	D47.MPF-HELIX.514 has spawned 'models/weapons/arccw/w_mpk1.mdl'.
+[01:32:33]	D47.MPF-HELIX.514 has spawned 'models/weapons/arccw/w_mpk1.mdl'.
+[01:32:35]	D47.MPF-HELIX.514 has spawned 'models/weapons/arccw/w_mpk1.mdl'.
+[01:32:35]	D47.MPF-HELIX.514 has spawned 'models/weapons/arccw/w_mpk1.mdl'.
+[01:32:35]	D47.MPF-HELIX.514 has spawned 'models/weapons/arccw/w_mpk1.mdl'.
+[01:32:35]	D47.MPF-HELIX.514 has spawned 'models/weapons/arccw/w_mpk1.mdl'.
+[01:33:17]	D47.MPF-HELIX.514 has gained 100 tokens.
+[01:35:20]	D47.MPF-HELIX.514 has spawned 'models/hunter/plates/plate025x05.mdl'.
+[01:35:43]	D47.MPF-HELIX.514 has spawned 'models/hunter/plates/plate025x05.mdl'.
+[01:36:12]	D47.MPF-HELIX.514 has spawned 'models/hunter/plates/plate025x05.mdl'.
+[01:36:29]	D47.MPF-HELIX.514 has spawned 'models/weapons/w_pist_elite_single.mdl'.
+[01:37:25]	D47.MPF-HELIX.514 has spawned 'models/hunter/plates/plate025x05.mdl'.
+[01:37:34]	D47.MPF-HELIX.514 has spawned 'models/weapons/w_pist_usp.mdl'.
+[01:38:17]	D47.MPF-HELIX.514 has gained 100 tokens.
+[01:38:25]	D47.MPF-HELIX.514 has spawned 'models/weapons/w_pist_p228.mdl'.
+[01:38:29]	D47.MPF-HELIX.514 has spawned 'models/weapons/w_pist_glock18.mdl'.
+[01:38:32]	D47.MPF-HELIX.514 has spawned 'models/weapons/w_pist_elite_single.mdl'.
+[01:39:12]	D47.MPF-HELIX.514 has spawned 'models/weapons/w_pist_elite_single.mdl'.
+[01:39:12]	D47.MPF-HELIX.514 has spawned 'models/weapons/w_pist_elite_single.mdl'.
+[01:39:12]	D47.MPF-HELIX.514 has spawned 'models/weapons/w_pist_elite_single.mdl'.
+[01:39:12]	D47.MPF-HELIX.514 has spawned 'models/weapons/w_pist_elite_single.mdl'.
+[01:40:43]	D47.MPF-HELIX.514 has spawned a 'Entity [1515][ix_vendor]'.
+[01:42:10]	D47.MPF-HELIX.514 used the 'Стойка' vendor.
+[01:42:11]	D47.MPF-HELIX.514 has gained 0 tokens.
+[01:42:11]	D47.MPF-HELIX.514 has gained a 'HK UMP-9' #389.
+[01:42:20]	D47.MPF-HELIX.514 ran 'drop' on item 'Картонная Коробка' (#366)
+[01:42:20]	D47.MPF-HELIX.514 has lost a 'Картонная Коробка' #366.
+[01:42:20]	D47.MPF-HELIX.514 has lost a 'Ящик 9×19 мм патронов' #378.
+[01:42:20]	D47.MPF-HELIX.514 has lost a 'HK UMP-9' #389.
+[01:42:20]	D47.MPF-HELIX.514 has lost a 'Ящик 9×19 мм патронов' #384.
+[01:42:20]	D47.MPF-HELIX.514 has lost a 'Ящик 9×19 мм патронов' #385.
+[01:42:20]	D47.MPF-HELIX.514 has lost a 'Ящик 9×19 мм патронов' #381.
+[01:42:20]	D47.MPF-HELIX.514 has lost a 'Ящик 9×19 мм патронов' #380.
+[01:42:20]	D47.MPF-HELIX.514 has lost a 'Ящик 9×19 мм патронов' #383.
+[01:42:20]	D47.MPF-HELIX.514 has lost a 'Ящик 9×19 мм патронов' #382.
+[01:42:20]	D47.MPF-HELIX.514 has lost a 'Ящик 9×19 мм патронов' #386.
+[01:42:23]	D47.MPF-HELIX.514 ran 'take' on item 'Картонная Коробка' (#366)
+[01:42:23]	D47.MPF-HELIX.514 has gained a 'Картонная Коробка' #366.
+[01:42:23]	D47.MPF-HELIX.514 has gained a 'Ящик 9×19 мм патронов' #378.
+[01:42:23]	D47.MPF-HELIX.514 has gained a 'HK UMP-9' #389.
+[01:42:23]	D47.MPF-HELIX.514 has gained a 'Ящик 9×19 мм патронов' #384.
+[01:42:23]	D47.MPF-HELIX.514 has gained a 'Ящик 9×19 мм патронов' #385.
+[01:42:23]	D47.MPF-HELIX.514 has gained a 'Ящик 9×19 мм патронов' #381.
+[01:42:23]	D47.MPF-HELIX.514 has gained a 'Ящик 9×19 мм патронов' #380.
+[01:42:23]	D47.MPF-HELIX.514 has gained a 'Ящик 9×19 мм патронов' #383.
+[01:42:23]	D47.MPF-HELIX.514 has gained a 'Ящик 9×19 мм патронов' #382.
+[01:42:23]	D47.MPF-HELIX.514 has gained a 'Ящик 9×19 мм патронов' #386.
+[01:42:26]	D47.MPF-HELIX.514 ran 'drop' on item 'Граната' (#388)
+[01:42:26]	D47.MPF-HELIX.514 has lost a 'Граната' #388.
+[01:42:28]	D47.MPF-HELIX.514 ran 'take' on item 'Граната' (#388)
+[01:42:28]	D47.MPF-HELIX.514 has gained a 'Граната' #388.
+[01:42:31]	D47.MPF-HELIX.514 ran 'EquipUn' on item 'Five-seveN' (#124)
+[01:42:32]	D47.MPF-HELIX.514 ran 'Equip' on item 'Five-seveN' (#124)
+[01:42:40]	D47.MPF-HELIX.514 has spawned 'models/weapons/w_pist_elite_single.mdl'.
+[01:42:46]	D47.MPF-HELIX.514 has spawned a 'Entity [1621][ix_vendor]'.
+[01:43:17]	D47.MPF-HELIX.514 has gained 100 tokens.
+[01:45:13]	D47.MPF-HELIX.514 used the 'Стойка' vendor.
+[01:45:34]	D47.MPF-HELIX.514 used the 'Стойка' vendor.
+[01:45:35]	D47.MPF-HELIX.514 has gained 0 tokens.
+[01:45:35]	D47.MPF-HELIX.514 has gained a 'M9' #390.
+[01:50:50]	D47.MPF-HELIX.514 has spawned 'models/hunter/plates/plate025x05.mdl'.
+[01:51:18]	D47.MPF-HELIX.514 has spawned 'models/hunter/plates/plate025x125.mdl'.
+[01:52:03]	D47.MPF-HELIX.514 has gained 100 tokens.
+[01:53:04]	D47.MPF-HELIX.514 used command '/TextRemove'.
+[01:53:44]	D47.MPF-HELIX.514 used command '/TextAdd Снабжение 1.1'.
+[01:53:56]	D47.MPF-HELIX.514 entered observer.
+[01:54:15]	D47.MPF-HELIX.514 exited observer at their location.
+[01:54:32]	D47.MPF-HELIX.514 has spawned 'models/weapons/w_eq_eholster_elite.mdl'.
+[01:54:40]	D47.MPF-HELIX.514 has spawned 'models/weapons/w_eq_eholster.mdl'.
+[01:54:43]	D47.MPF-HELIX.514 has spawned 'models/weapons/w_eq_eholster.mdl'.
+[01:54:57]	D47.MPF-HELIX.514 has spawned 'models/weapons/w_defuser.mdl'.
+[01:55:07]	D47.MPF-HELIX.514 has spawned 'models/weapons/w_shot_xm1014.mdl'.
+[01:55:14]	D47.MPF-HELIX.514 has spawned 'models/weapons/w_snip_sg550.mdl'.
+[01:57:03]	D47.MPF-HELIX.514 has gained 100 tokens.
+[01:57:56]	D47.MPF-HELIX.514 has spawned a 'Entity [1627][ix_vendor]'.
+[01:59:23]	D47.MPF-HELIX.514 has spawned 'models/weapons/w_snip_scout.mdl'.
+[01:59:39]	D47.MPF-HELIX.514 has spawned 'models/weapons/w_pist_deagle.mdl'.
+[02:00:06]	D47.MPF-HELIX.514 ran 'Equip' on item 'Граната' (#388)
+[02:00:12]	D47.MPF-HELIX.514 has taken 93 damage from D47.MPF-HELIX.514.
+[02:00:17]	D47.MPF-HELIX.514 ran 'Equip' on item 'Граната' (#387)
+[02:00:24]	D47.MPF-HELIX.514 has taken 43 damage from D47.MPF-HELIX.514.
+[02:00:24]	D47.MPF-HELIX.514 has killed D47.MPF-HELIX.514.
+[02:00:35]	D47.MPF-HELIX.514 used the 'Стойка' vendor.
+[02:00:38]	D47.MPF-HELIX.514 ran 'Equip' on item 'HK UMP-9' (#318)
+[02:01:19]	D47.MPF-HELIX.514 ran 'use' on item 'Ящик 9×19 мм патронов' (#386)
+[02:02:03]	D47.MPF-HELIX.514 has gained 100 tokens.
+[02:06:14]	D47.MPF-HELIX.514 has spawned a 'NPC [1407][npc_barney]'.
+[02:06:28]	D47.MPF-HELIX.514 has taken 5 damage from npc_barney.
+[02:06:29]	D47.MPF-HELIX.514 has taken 5 damage from npc_barney.
+[02:06:49]	D47.MPF-HELIX.514 has taken 5 damage from npc_barney.
+[02:06:51]	D47.MPF-HELIX.514 has taken 5 damage from npc_barney.
+[02:06:51]	D47.MPF-HELIX.514 has taken 5 damage from npc_barney.
+[02:06:51]	D47.MPF-HELIX.514 has taken 19 damage from npc_barney.
+[02:06:55]	D47.MPF-HELIX.514 has taken 37 damage from npc_barney.
+[02:06:55]	D47.MPF-HELIX.514 has taken 37 damage from npc_barney.
+[02:06:59]	D47.MPF-HELIX.514 has taken 37 damage from npc_barney.
+[02:07:00]	D47.MPF-HELIX.514 has taken 19 damage from npc_barney.
+[02:07:00]	D47.MPF-HELIX.514 has taken 5 damage from npc_barney.
+[02:07:00]	D47.MPF-HELIX.514 has taken 5 damage from npc_barney.
+[02:07:01]	D47.MPF-HELIX.514 has taken 19 damage from npc_barney.
+[02:07:01]	npc_barney has killed D47.MPF-HELIX.514.
+[02:07:03]	D47.MPF-HELIX.514 has gained 100 tokens.
+[02:07:05]	D47.MPF-HELIX.514 entered observer.
+[02:07:16]	D47.MPF-HELIX.514 exited observer at their location.
+[02:07:18]	D47.MPF-HELIX.514 ran 'Equip' on item 'Five-seveN' (#124)
+[02:07:23]	D47.MPF-HELIX.514 has taken 5 damage from npc_barney.
+[02:07:23]	D47.MPF-HELIX.514 has taken 19 damage from npc_barney.
+[02:07:24]	D47.MPF-HELIX.514 has taken 37 damage from npc_barney.
+[02:07:24]	D47.MPF-HELIX.514 has taken 37 damage from npc_barney.
+[02:07:29]	D47.MPF-HELIX.514 ran 'Equip' on item 'HK UMP-9' (#318)
+[02:07:34]	D47.MPF-HELIX.514 ran 'use' on item 'Ящик 9×19 мм патронов' (#385)
+[02:07:35]	D47.MPF-HELIX.514 ran 'use' on item 'Ящик 9×19 мм патронов' (#384)
+[02:07:38]	D47.MPF-HELIX.514 has taken 38 damage from npc_barney.
+[02:07:38]	D47.MPF-HELIX.514 has taken 5 damage from npc_barney.
+[02:07:39]	D47.MPF-HELIX.514 has taken 5 damage from npc_barney.
+[02:07:39]	D47.MPF-HELIX.514 has taken 5 damage from npc_barney.
+[02:07:44]	D47.MPF-HELIX.514 entered observer.
+[02:07:46]	D47.MPF-HELIX.514 exited observer at their location.
+[02:07:49]	D47.MPF-HELIX.514 entered observer.
+[02:07:52]	D47.MPF-HELIX.514 exited observer at their location.
+[02:07:58]	D47.MPF-HELIX.514 has spawned a 'NPC [1407][npc_citizen]'.
+[02:08:30]	D47.MPF-HELIX.514 has taken 4 damage from npc_citizen.
+[02:08:32]	D47.MPF-HELIX.514 has taken 32 damage from npc_citizen.
+[02:08:36]	D47.MPF-HELIX.514 has taken 4 damage from npc_citizen.
+[02:08:37]	D47.MPF-HELIX.514 has taken 32 damage from npc_citizen.
+[02:08:37]	npc_citizen has killed D47.MPF-HELIX.514.
+[02:08:39]	D47.MPF-HELIX.514 entered observer.
+[02:08:39]	D47.MPF-HELIX.514 exited observer at their location.
+[02:08:40]	D47.MPF-HELIX.514 entered observer.
+[02:08:50]	D47.MPF-HELIX.514 exited observer at their location.
+[02:08:58]	D47.MPF-HELIX.514 ran 'Equip' on item 'HK UMP-9' (#318)
+[02:08:58]	D47.MPF-HELIX.514 ran 'Equip' on item 'Five-seveN' (#124)
+[02:09:00]	D47.MPF-HELIX.514 ran 'drop' on item 'M9' (#390)
+[02:09:00]	D47.MPF-HELIX.514 has lost a 'M9' #390.
+[02:09:03]	D47.MPF-HELIX.514 ran 'take' on item 'M9' (#390)
+[02:09:03]	D47.MPF-HELIX.514 has gained a 'M9' #390.
+[02:09:04]	D47.MPF-HELIX.514 ran 'EquipUn' on item 'Five-seveN' (#124)
+[02:09:05]	D47.MPF-HELIX.514 ran 'Equip' on item 'M9' (#390)
+[02:09:12]	D47.MPF-HELIX.514 has taken 32 damage from npc_citizen.
+[02:09:20]	D47.MPF-HELIX.514 has taken 4 damage from npc_citizen.
+[02:09:20]	D47.MPF-HELIX.514 has taken 4 damage from npc_citizen.
+[02:09:21]	D47.MPF-HELIX.514 has taken 16 damage from npc_citizen.
+[02:09:27]	D47.MPF-HELIX.514 entered observer.
+[02:09:33]	D47.MPF-HELIX.514 exited observer at their location.
+[02:09:35]	D47.MPF-HELIX.514 has spawned a 'NPC [617][npc_citizen]'.
+[02:09:41]	D47.MPF-HELIX.514 entered observer.
+[02:09:44]	D47.MPF-HELIX.514 exited observer at their location.
+[02:09:45]	D47.MPF-HELIX.514 has taken 5 damage from npc_citizen.
+[02:09:53]	D47.MPF-HELIX.514 has taken 19 damage from npc_citizen.
+[02:09:54]	D47.MPF-HELIX.514 has taken 19 damage from npc_citizen.
+[02:09:54]	D47.MPF-HELIX.514 has taken 5 damage from npc_citizen.
+[02:10:04]	D47.MPF-HELIX.514 has spawned a 'NPC [1497][npc_citizen]'.
+[02:10:09]	D47.MPF-HELIX.514 has taken 19 damage from npc_citizen.
+[02:10:11]	D47.MPF-HELIX.514 has taken 5 damage from npc_citizen.
+[02:10:11]	D47.MPF-HELIX.514 has taken 19 damage from npc_citizen.
+[02:10:13]	D47.MPF-HELIX.514 has taken 37 damage from npc_citizen.
+[02:10:13]	D47.MPF-HELIX.514 has taken 19 damage from npc_citizen.
+[02:10:13]	npc_citizen has killed D47.MPF-HELIX.514.
+[02:10:15]	D47.MPF-HELIX.514 entered observer.
+[02:10:27]	D47.MPF-HELIX.514 exited observer at their location.
+[02:10:34]	D47.MPF-HELIX.514 ran 'Equip' on item 'HK UMP-9' (#318)
+[02:10:36]	D47.MPF-HELIX.514 has taken 39 damage from npc_citizen.
+[02:10:36]	D47.MPF-HELIX.514 has taken 19 damage from npc_citizen.
+[02:10:36]	D47.MPF-HELIX.514 has taken 19 damage from npc_citizen.
+[02:10:40]	D47.MPF-HELIX.514 has taken 5 damage from npc_citizen.
+[02:10:41]	D47.MPF-HELIX.514 has taken 19 damage from npc_citizen.
+[02:10:47]	D47.MPF-HELIX.514 entered observer.
+[02:10:52]	D47.MPF-HELIX.514 has spawned a 'NPC [1398][npc_barney]'.
+[02:10:53]	D47.MPF-HELIX.514 has spawned a 'NPC [1619][npc_citizen]'.
+[02:10:54]	D47.MPF-HELIX.514 has spawned a 'NPC [1637][npc_citizen]'.
+[02:10:55]	D47.MPF-HELIX.514 has spawned a 'NPC [1640][npc_citizen]'.
+[02:10:56]	D47.MPF-HELIX.514 has spawned a 'NPC [616][npc_citizen]'.
+[02:11:28]	D47.MPF-HELIX.514 exited observer at their location.
+[02:11:46]	D47.MPF-HELIX.514 has taken 5 damage from npc_citizen.
+[02:11:50]	D47.MPF-HELIX.514 has taken 5 damage from npc_citizen.
+[02:11:51]	D47.MPF-HELIX.514 has taken 5 damage from npc_citizen.
+[02:11:51]	D47.MPF-HELIX.514 has taken 5 damage from npc_citizen.
+[02:11:51]	D47.MPF-HELIX.514 has taken 5 damage from npc_citizen.
+[02:11:51]	D47.MPF-HELIX.514 has taken 19 damage from npc_citizen.
+[02:11:51]	D47.MPF-HELIX.514 has taken 5 damage from npc_citizen.
+[02:11:51]	D47.MPF-HELIX.514 has taken 38 damage from npc_citizen.
+[02:11:51]	D47.MPF-HELIX.514 has taken 5 damage from npc_citizen.
+[02:11:51]	npc_citizen has killed D47.MPF-HELIX.514.
+[02:11:53]	D47.MPF-HELIX.514 entered observer.
+[02:12:04]	D47.MPF-HELIX.514 exited observer at their location.
+[02:12:05]	D47.MPF-HELIX.514 has gained 100 tokens.
+[02:12:06]	D47.MPF-HELIX.514 ran 'Equip' on item 'HK UMP-9' (#318)
+[02:12:12]	D47.MPF-HELIX.514 ran 'use' on item 'Ящик 9×19 мм патронов' (#382)
+[02:12:14]	D47.MPF-HELIX.514 has taken 19 damage from npc_barney.
+[02:12:14]	D47.MPF-HELIX.514 has taken 19 damage from npc_barney.
+[02:12:14]	D47.MPF-HELIX.514 has taken 5 damage from npc_barney.
+[02:12:17]	D47.MPF-HELIX.514 has taken 5 damage from npc_barney.
+[02:12:17]	D47.MPF-HELIX.514 has taken 19 damage from npc_barney.
+[02:12:17]	D47.MPF-HELIX.514 has taken 19 damage from npc_barney.
+[02:12:17]	D47.MPF-HELIX.514 has taken 5 damage from npc_barney.
+[02:12:31]	D47.MPF-HELIX.514 has taken 39 damage from npc_barney.
+[02:12:31]	D47.MPF-HELIX.514 has taken 5 damage from npc_barney.
+[02:12:31]	D47.MPF-HELIX.514 has taken 5 damage from npc_barney.
+[02:12:31]	D47.MPF-HELIX.514 has taken 19 damage from npc_barney.
+[02:12:35]	D47.MPF-HELIX.514 has taken 5 damage from npc_barney.
+[02:12:36]	D47.MPF-HELIX.514 has taken 39 damage from npc_barney.
+[02:12:36]	npc_barney has killed D47.MPF-HELIX.514.
+[02:12:38]	D47.MPF-HELIX.514 entered observer.
+[02:12:46]	D47.MPF-HELIX.514 exited observer at their location.
+[02:12:47]	D47.MPF-HELIX.514 ran 'Equip' on item 'HK UMP-9' (#318)
+[02:12:53]	D47.MPF-HELIX.514 has taken 5 damage from npc_barney.
+[02:12:53]	D47.MPF-HELIX.514 has taken 19 damage from npc_barney.
+[02:12:54]	D47.MPF-HELIX.514 has taken 5 damage from npc_barney.
+[02:12:54]	D47.MPF-HELIX.514 has taken 5 damage from npc_barney.
+[02:12:54]	D47.MPF-HELIX.514 has taken 39 damage from npc_barney.
+[02:12:56]	D47.MPF-HELIX.514 has taken 5 damage from npc_barney.
+[02:12:56]	D47.MPF-HELIX.514 has taken 5 damage from npc_barney.
+[02:12:59]	D47.MPF-HELIX.514 entered observer.
+[02:13:01]	D47.MPF-HELIX.514 exited observer at their location.
+[02:13:03]	D47.MPF-HELIX.514 has taken 19 damage from npc_citizen.
+[02:13:03]	D47.MPF-HELIX.514 has taken 19 damage from npc_citizen.
+[02:13:03]	D47.MPF-HELIX.514 has taken 19 damage from npc_citizen.
+[02:13:03]	D47.MPF-HELIX.514 has taken 38 damage from npc_citizen.
+[02:13:03]	D47.MPF-HELIX.514 has taken 5 damage from npc_citizen.
+[02:13:04]	D47.MPF-HELIX.514 has taken 38 damage from npc_citizen.
+[02:13:04]	npc_citizen has killed D47.MPF-HELIX.514.
+[02:13:06]	D47.MPF-HELIX.514 entered observer.
+[02:13:18]	D47.MPF-HELIX.514 exited observer at their location.
+[02:13:19]	D47.MPF-HELIX.514 ran 'Equip' on item 'HK UMP-9' (#318)
+[02:13:20]	D47.MPF-HELIX.514 has taken 19 damage from npc_citizen.
+[02:13:21]	D47.MPF-HELIX.514 has taken 19 damage from npc_citizen.
+[02:13:23]	D47.MPF-HELIX.514 has taken 5 damage from npc_citizen.
+[02:13:23]	D47.MPF-HELIX.514 has taken 5 damage from npc_citizen.
+[02:13:23]	D47.MPF-HELIX.514 has taken 38 damage from npc_citizen.
+[02:13:23]	D47.MPF-HELIX.514 has taken 38 damage from npc_citizen.
+[02:13:38]	D47.MPF-HELIX.514 ran 'use' on item 'Ящик 9×19 мм патронов' (#380)
+[14:48:25]	Г@H3NK has connected.
+[14:49:10]	Г@H3NK loaded the character 'D47.MPF-HELIX.514'
+[14:49:23]	D47.MPF-HELIX.514 ran 'EquipUn' on item 'HK UMP-9' (#318)
+[14:49:24]	D47.MPF-HELIX.514 ran 'Equip' on item 'HK UMP-9' (#318)
+[14:49:33]	D47.MPF-HELIX.514 ran 'Equip' on item 'Five-seveN' (#124)
+[14:49:59]	D47.MPF-HELIX.514 entered observer.
+[14:50:06]	D47.MPF-HELIX.514 exited observer at their location.
+[14:53:13]	D47.MPF-HELIX.514 has taken 4 damage from worldspawn.
+[14:54:10]	D47.MPF-HELIX.514 has gained 100 tokens.
+[14:59:33]	D47.MPF-OfC used command '/CharSetName D47 D47.MPF-OfC'.
+[14:59:55]	D47.MPF-OfC.514 used command '/CharSetName D47 D47.MPF-OfC.514'.
+[15:04:03]	D47.MPF-OfC.514 has gained 50 tokens.
+[15:09:03]	D47.MPF-OfC.514 has gained 50 tokens.
+[15:14:03]	D47.MPF-OfC.514 has gained 50 tokens.
+[15:17:30]	D47.MPF-OfC.514 used command '/BecomeClass metropolice_unit'.
+[15:17:36]	D47.MPF-OfC.514 used the 'Стойка' vendor.
+[15:17:38]	D47.MPF-OfC.514 used the 'Стойка' vendor.
+[15:17:47]	D47.MPF-OfC.514 used the 'Склад Снаряжения' vendor.
+[15:17:50]	D47.MPF-OfC.514 has gained 0 tokens.
+[15:17:50]	D47.MPF-OfC.514 has gained a 'Ящик 9×19 мм патронов' #391.
+[15:18:04]	D47.MPF-OfC.514 ran 'use' on item 'Ящик 9×19 мм патронов' (#391)
+[15:18:40]	D47.MPF-OfC.514 has gained a 'Desert Eagle' #391.
+[15:18:40]	D47.MPF-OfC.514 used command '/CharGiveItem D47 de50ae'.
+[15:18:45]	D47.MPF-OfC.514 ran 'Equip' on item 'Desert Eagle' (#391)
+[15:18:48]	D47.MPF-OfC.514 ran 'EquipUn' on item 'Five-seveN' (#124)
+[15:18:49]	D47.MPF-OfC.514 ran 'Equip' on item 'Desert Eagle' (#391)
+[15:19:03]	D47.MPF-OfC.514 has gained 50 tokens.
+[15:19:03]	D47.MPF-OfC.514 ran 'EquipUn' on item 'Desert Eagle' (#391)
+[15:19:24]	D47.MPF-OfC.514 used the 'Аптечка' vendor.
+[15:19:27]	D47.MPF-OfC.514 has lost 25 tokens.
+[15:19:27]	D47.MPF-OfC.514 has gained a 'Пузырек биохимического геля' #392.
+[15:19:31]	D47.MPF-OfC.514 ran 'Apply' on item 'Пузырек биохимического геля' (#392)
+[15:19:46]	D47.MPF-OfC.514 used the 'Аптечка' vendor.
+[15:19:50]	D47.MPF-OfC.514 has lost 40 tokens.
+[15:19:50]	D47.MPF-OfC.514 has gained a 'Аптечка' #392.
+[15:19:54]	D47.MPF-OfC.514 ran 'Apply' on item 'Аптечка' (#392)
+[15:19:56]	D47.MPF-OfC.514 used the 'Аптечка' vendor.
+[15:20:16]	D47.MPF-OfC.514 used the 'Аптечка' vendor.
+[15:20:18]	D47.MPF-OfC.514 has lost 40 tokens.
+[15:20:18]	D47.MPF-OfC.514 has gained a 'Аптечка' #392.
+[15:21:23]	D47.MPF-OfC.514 ran 'Equip' on item 'Desert Eagle' (#391)
+[15:23:29]	D47.MPF-OfC.514 has spawned a 'Entity [1639][npcgs_rebel_hostile]'.
+[15:23:37]	D47.MPF-OfC.514 entered observer.
+[15:23:38]	D47.MPF-OfC.514 exited observer at their location.
+[15:24:04]	D47.MPF-OfC.514 has gained 50 tokens.
+[15:24:07]	D47.MPF-OfC.514 has spawned a 'Entity [702][npcg_rebft_hostile]'.
+[15:24:18]	D47.MPF-OfC.514 has spawned a 'Entity [1639][npcg_partisan_hostile]'.
+[15:24:24]	D47.MPF-OfC.514 has taken 6 damage from npc_citizen.
+[15:24:28]	D47.MPF-OfC.514 has taken 6 damage from npc_citizen.
+[15:24:39]	D47.MPF-OfC.514 has taken 6 damage from npc_citizen.
+[15:25:23]	D47.MPF-OfC.514 has gained a 'Ящик 9×19 мм патронов' #393.
+[15:25:23]	D47.MPF-OfC.514 has gained a 'Ящик 9×19 мм патронов' #394.
+[15:25:23]	D47.MPF-OfC.514 has gained a 'Ящик 9×19 мм патронов' #395.
+[15:25:23]	D47.MPF-OfC.514 has gained a 'Ящик 9×19 мм патронов' #396.
+[15:25:23]	D47.MPF-OfC.514 has gained a 'Ящик 9×19 мм патронов' #397.
+[15:25:23]	D47.MPF-OfC.514 has gained a 'Ящик 9×19 мм патронов' #398.
+[15:25:23]	D47.MPF-OfC.514 used command '/CharGiveItem D47 pistolammo 6'.
+[15:25:27]	D47.MPF-OfC.514 ran 'use' on item 'Ящик 9×19 мм патронов' (#393)
+[15:29:10]	D47.MPF-OfC.514 has gained 50 tokens.
+[15:33:09]	D47.MPF-OfC.514 has spawned a 'Entity [1639][npcg_rebft_hostile]'.
+[15:33:16]	D47.MPF-OfC.514 has taken 42 damage from npc_citizen.
+[15:33:19]	D47.MPF-OfC.514 has taken 21 damage from npc_citizen.
+[15:33:26]	D47.MPF-OfC.514 has taken 36 damage from npc_citizen.
+[15:34:08]	D47.MPF-OfC.514 has spawned a 'Entity [1639][npcgs_rebel_xbow_hostile]'.
+[15:34:13]	D47.MPF-OfC.514 has gained 50 tokens.
+[15:34:26]	D47.MPF-OfC.514 has spawned a 'Entity [702][npcgs_rebel_hostile]'.
+[15:34:29]	D47.MPF-OfC.514 has taken 3 damage from npc_citizen.
+[15:34:29]	D47.MPF-OfC.514 has taken 25 damage from npc_citizen.
+[15:34:30]	D47.MPF-OfC.514 has taken 3 damage from npc_citizen.
+[15:34:30]	D47.MPF-OfC.514 has taken 25 damage from npc_citizen.
+[15:34:42]	Bot01 has connected.
+[15:34:42]	Bot01 loaded the character 'Bot01'
+[15:41:49]	D47.MPF-OfC.514 has gained 50 tokens.
+[15:46:49]	D47.MPF-OfC.514 has gained 50 tokens.
+[15:50:03]	D47.MPF-OfC.514 has spawned a 'Entity [1625][npcg_rebft_hostile]'.
+[15:50:06]	D47.MPF-OfC.514 has taken 34 damage from npc_citizen.
+[15:50:06]	npc_citizen has killed D47.MPF-OfC.514.
+[15:50:25]	D47.MPF-OfC.514 ran 'Equip' on item 'HK UMP-9' (#318)
+[15:50:53]	D47.MPF-OfC.514 has taken 29 damage from npc_citizen.
+[15:50:54]	D47.MPF-OfC.514 has taken 7 damage from npc_citizen.
+[15:50:54]	D47.MPF-OfC.514 has taken 4 damage from npc_citizen.
+[15:51:16]	D47.MPF-OfC.514 has spawned a 'Entity [1637][npcgs_rebel_hostile]'.
+[15:51:23]	D47.MPF-OfC.514 has spawned a 'Entity [1637][npcgs_partisan]'.
+[15:51:38]	D47.MPF-OfC.514 has spawned a 'Entity [1637][npcg_cstm_civilian]'.
+[15:51:43]	Bot01 has taken 47 damage from D47.MPF-OfC.514.
+[15:51:43]	Bot01 has taken 47 damage from D47.MPF-OfC.514.
+[15:51:44]	Bot01 has taken 47 damage from D47.MPF-OfC.514.
+[15:51:44]	D47.MPF-OfC.514 has killed Bot01 with arccw_ump9.
+[15:51:51]	D47.MPF-OfC.514 has gained 50 tokens.
+[15:56:17]	D47.MPF-OfC.514 entered observer.
+[15:56:25]	D47.MPF-OfC.514 exited observer at their location.
+[15:56:28]	D47.MPF-OfC.514 entered observer.
+[15:56:36]	D47.MPF-OfC.514 exited observer at their location.
+[15:56:45]	D47.MPF-OfC.514 ran 'use' on item 'Ящик 9×19 мм патронов' (#398)
+[15:56:51]	D47.MPF-OfC.514 has gained 50 tokens.
+[15:57:01]	D47.MPF-OfC.514 entered observer.
+[15:57:09]	D47.MPF-OfC.514 exited observer at their location.
+[15:57:33]	D47.MPF-OfC.514 entered observer.
+[15:57:35]	D47.MPF-OfC.514 exited observer at their location.
+[15:57:43]	D47.MPF-OfC.514 has spawned 'models/squad/sf_plates/sf_plate1x1.mdl'.
+[15:58:57]	D47.MPF-OfC.514 has gained a 'M4' #398.
+[15:58:57]	D47.MPF-OfC.514 used command '/CharGiveItem D47 m4'.
+[15:59:04]	D47.MPF-OfC.514 ran 'Equip' on item 'M4' (#398)
+[15:59:06]	D47.MPF-OfC.514 ran 'EquipUn' on item 'HK UMP-9' (#318)
+[15:59:30]	D47.MPF-OfC.514 ran 'Apply' on item 'Аптечка' (#392)
+[15:59:32]	D47.MPF-OfC.514 ran 'Equip' on item 'M4' (#398)
+[15:59:33]	D47.MPF-OfC.514 ran 'Equip' on item 'Desert Eagle' (#391)
+[16:01:40]	D47.MPF-OfC.514 entered observer.
+[16:01:48]	D47.MPF-OfC.514 exited observer at their location.
+[16:01:52]	D47.MPF-OfC.514 has gained 50 tokens.
+[16:03:18]	Bot01 has taken 56 damage from D47.MPF-OfC.514.
+[16:03:18]	Bot01 has taken 56 damage from D47.MPF-OfC.514.
+[16:03:18]	D47.MPF-OfC.514 has killed Bot01 with arccw_m4a1.
+[16:04:12]	D47.MPF-OfC.514 ran 'use' on item 'Ящик 9×19 мм патронов' (#397)
+[16:04:26]	D47.MPF-OfC.514 has gained a 'MP7' #399.
+[16:04:26]	D47.MPF-OfC.514 has gained a 'MP7' #400.
+[16:04:26]	D47.MPF-OfC.514 has gained a 'MP7' #401.
+[16:04:26]	D47.MPF-OfC.514 used command '/CharGiveItem D47 smg1 3'.
+[16:04:31]	D47.MPF-OfC.514 ran 'drop' on item 'MP7' (#400)
+[16:04:31]	D47.MPF-OfC.514 has lost a 'MP7' #400.
+[16:04:32]	D47.MPF-OfC.514 ran 'drop' on item 'MP7' (#401)
+[16:04:32]	D47.MPF-OfC.514 has lost a 'MP7' #401.
+[16:04:33]	D47.MPF-OfC.514 ran 'drop' on item 'MP7' (#399)
+[16:04:33]	D47.MPF-OfC.514 has lost a 'MP7' #399.
+[16:04:46]	D47.MPF-OfC.514 has gained a 'Ящик 5,56×45 патрон' #402.
+[16:04:46]	D47.MPF-OfC.514 has gained a 'Ящик 5,56×45 патрон' #403.
+[16:04:46]	D47.MPF-OfC.514 has gained a 'Ящик 5,56×45 патрон' #404.
+[16:04:46]	D47.MPF-OfC.514 used command '/CharGiveItem D47 smg1ammo 3'.
+[16:04:48]	D47.MPF-OfC.514 ran 'use' on item 'Ящик 5,56×45 патрон' (#402)
+[16:04:50]	D47.MPF-OfC.514 ran 'use' on item 'Ящик 5,56×45 патрон' (#403)
+[16:05:05]	D47.MPF-OfC.514 ran 'use' on item 'Ящик 5,56×45 патрон' (#404)
+[16:06:52]	D47.MPF-OfC.514 has gained 50 tokens.
+[16:11:30]	D47.MPF-OfC.514 has spawned a 'Entity [693][item_ammo_smg1_grenade]'.
+[16:11:33]	D47.MPF-OfC.514 has spawned a 'Entity [693][item_ammo_smg1_grenade]'.
+[16:11:33]	D47.MPF-OfC.514 has spawned a 'Entity [1638][item_ammo_smg1_grenade]'.
+[16:11:33]	D47.MPF-OfC.514 has spawned a 'Entity [1652][item_ammo_smg1_grenade]'.
+[16:11:33]	D47.MPF-OfC.514 has spawned a 'Entity [1653][item_ammo_smg1_grenade]'.
+[16:11:33]	D47.MPF-OfC.514 has spawned a 'Entity [1654][item_ammo_smg1_grenade]'.
+[16:11:33]	D47.MPF-OfC.514 has spawned a 'Entity [1655][item_ammo_smg1_grenade]'.
+[16:11:33]	D47.MPF-OfC.514 has spawned a 'Entity [1656][item_ammo_smg1_grenade]'.
+[16:11:34]	D47.MPF-OfC.514 has spawned a 'Entity [1657][item_ammo_smg1_grenade]'.
+[16:11:34]	D47.MPF-OfC.514 has spawned a 'Entity [1658][item_ammo_smg1_grenade]'.
+[16:11:34]	D47.MPF-OfC.514 has spawned a 'Entity [693][item_ammo_smg1_grenade]'.
+[16:11:52]	D47.MPF-OfC.514 has gained 50 tokens.
+[16:12:51]	D47.MPF-OfC.514 has spawned 'models/weapons/arccw/w_roland.mdl'.
+[16:12:57]	D47.MPF-OfC.514 has spawned 'models/weapons/arccw/w_sg550.mdl'.
+[16:13:33]	D47.MPF-OfC.514 destroyed a 'MP7' #399.
+[16:16:53]	D47.MPF-OfC.514 has gained 50 tokens.
+[16:21:53]	D47.MPF-OfC.514 has gained 50 tokens.
+[16:26:53]	D47.MPF-OfC.514 has gained 50 tokens.
+[16:31:53]	D47.MPF-OfC.514 has gained 50 tokens.
+[16:36:08]	D47.MPF-OfC.514 has spawned 'models/weapons/arccw/w_nade_claymore.mdl'.
+[16:36:33]	D47.MPF-OfC.514 has spawned a 'Entity [1652][ent_jack_gmod_ezminimore]'.
+[16:36:47]	D47.MPF-OfC.514 has spawned a 'Entity [1638][ent_jack_gmod_ezminimore]'.
+[16:36:49]	D47.MPF-OfC.514 has spawned a 'Entity [1638][ent_jack_gmod_ezminimore]'.
+[16:36:53]	D47.MPF-OfC.514 has gained 50 tokens.
+[16:37:34]	D47.MPF-OfC.514 has taken 20 damage from D47.MPF-OfC.514.
+[16:37:34]	D47.MPF-OfC.514 has taken 20 damage from D47.MPF-OfC.514.
+[16:37:34]	D47.MPF-OfC.514 has taken 10 damage from D47.MPF-OfC.514.
+[16:37:34]	D47.MPF-OfC.514 has taken 2 damage from D47.MPF-OfC.514.
+[16:37:34]	D47.MPF-OfC.514 has taken 20 damage from D47.MPF-OfC.514.
+[16:37:34]	D47.MPF-OfC.514 has taken 20 damage from D47.MPF-OfC.514.
+[16:37:34]	D47.MPF-OfC.514 has taken 2 damage from D47.MPF-OfC.514.
+[16:37:34]	D47.MPF-OfC.514 has taken 2 damage from D47.MPF-OfC.514.
+[16:37:34]	D47.MPF-OfC.514 has taken 10 damage from D47.MPF-OfC.514.
+[16:37:34]	D47.MPF-OfC.514 has taken 2 damage from D47.MPF-OfC.514.
+[16:37:34]	D47.MPF-OfC.514 has taken 2 damage from D47.MPF-OfC.514.
+[16:37:34]	D47.MPF-OfC.514 has taken 20 damage from D47.MPF-OfC.514.
+[16:37:34]	D47.MPF-OfC.514 has taken 2 damage from D47.MPF-OfC.514.
+[16:37:34]	D47.MPF-OfC.514 has taken 20 damage from D47.MPF-OfC.514.
+[16:37:34]	D47.MPF-OfC.514 has taken 2 damage from D47.MPF-OfC.514.
+[16:37:34]	D47.MPF-OfC.514 has taken 10 damage from D47.MPF-OfC.514.
+[16:37:35]	D47.MPF-OfC.514 has killed D47.MPF-OfC.514.
+[16:37:37]	D47.MPF-OfC.514 entered observer.
+[16:37:49]	D47.MPF-OfC.514 exited observer at their location.
+[16:37:57]	D47.MPF-OfC.514 has spawned a 'Entity [1646][ent_jack_gmod_ezminimore]'.
+[16:37:59]	D47.MPF-OfC.514 has spawned a 'Entity [1646][ent_jack_gmod_ezminimore]'.
+[16:38:14]	D47.MPF-OfC.514 ran 'Equip' on item 'Desert Eagle' (#391)
+[16:38:19]	D47.MPF-OfC.514 has taken 2 damage from D47.MPF-OfC.514.
+[16:38:19]	D47.MPF-OfC.514 has taken 20 damage from D47.MPF-OfC.514.
+[16:38:19]	D47.MPF-OfC.514 has taken 2 damage from D47.MPF-OfC.514.
+[16:38:19]	D47.MPF-OfC.514 has taken 2 damage from D47.MPF-OfC.514.
+[16:38:19]	D47.MPF-OfC.514 has taken 10 damage from D47.MPF-OfC.514.
+[16:38:19]	D47.MPF-OfC.514 has taken 2 damage from D47.MPF-OfC.514.
+[16:38:19]	D47.MPF-OfC.514 has taken 2 damage from D47.MPF-OfC.514.
+[16:38:19]	D47.MPF-OfC.514 has taken 10 damage from D47.MPF-OfC.514.
+[16:38:19]	D47.MPF-OfC.514 has taken 20 damage from D47.MPF-OfC.514.
+[16:38:19]	D47.MPF-OfC.514 has taken 2 damage from D47.MPF-OfC.514.
+[16:38:19]	D47.MPF-OfC.514 has taken 20 damage from D47.MPF-OfC.514.
+[16:38:25]	D47.MPF-OfC.514 ran 'Equip' on item 'M4' (#398)
+[16:38:36]	D47.MPF-OfC.514 has spawned a 'Entity [1637][ent_jack_gmod_ezfragnade]'.
+[16:38:41]	D47.MPF-OfC.514 has taken 20 damage from D47.MPF-OfC.514.
+[16:38:55]	D47.MPF-OfC.514 has spawned a 'Entity [1658][ent_jack_gmod_eznade_impact]'.
+[16:39:02]	D47.MPF-OfC.514 has spawned a 'Entity [1652][ent_jack_gmod_ezfragnade]'.
+[16:39:15]	D47.MPF-OfC.514 has spawned a 'Entity [1637][ent_jack_gmod_ezfragnade]'.
+[16:39:38]	D47.MPF-OfC.514 has spawned a 'Entity [1637][ent_jack_gmod_ezfragnade]'.
+[16:39:48]	D47.MPF-OfC.514 has spawned a 'Entity [1637][ent_jack_gmod_ezfragnade]'.
+[16:39:55]	D47.MPF-OfC.514 has spawned a 'Entity [1645][ent_jack_gmod_ezfragnade]'.
+[16:40:34]	D47.MPF-OfC.514 has spawned a 'Entity [1653][npcg_cstm_rebft]'.
+[16:40:47]	D47.MPF-OfC.514 has spawned a 'Entity [1637][npcg_rebft_hostile]'.
+[16:40:52]	D47.MPF-OfC.514 entered observer.
+[16:40:57]	D47.MPF-OfC.514 has spawned a 'Entity [1637][npcg_rebft_hostile]'.
+[16:40:59]	D47.MPF-OfC.514 has spawned a 'Entity [1637][npcg_rebft_hostile]'.
+[16:41:02]	D47.MPF-OfC.514 has spawned a 'Entity [1637][npcg_rebft_hostile]'.
+[16:41:06]	D47.MPF-OfC.514 has spawned a 'Entity [1637][npcg_rebft_hostile]'.
+[16:41:29]	D47.MPF-OfC.514 has spawned a 'Entity [1637][npcg_cstm_rebft]'.
+[16:41:53]	D47.MPF-OfC.514 has gained 50 tokens.
+[16:41:58]	D47.MPF-OfC.514 has spawned a 'Weapon [1704][arccw_ak47]'.
+[16:42:28]	D47.MPF-OfC.514 exited observer at their location.
+[16:42:28]	D47.MPF-OfC.514 entered observer.
+[16:42:29]	D47.MPF-OfC.514 exited observer at their location.
+[16:42:48]	D47.MPF-OfC.514 entered observer.
+[16:43:14]	D47.MPF-OfC.514 has spawned a 'NPC [1704][npc_citizen]'.
+[16:43:14]	D47.MPF-OfC.514 has spawned a 'NPC [3692][npc_citizen]'.
+[16:43:14]	D47.MPF-OfC.514 has spawned a 'NPC [3693][npc_citizen]'.
+[16:43:14]	D47.MPF-OfC.514 has spawned a 'NPC [3695][npc_citizen]'.
+[16:43:14]	D47.MPF-OfC.514 has spawned a 'NPC [3696][npc_citizen]'.
+[16:43:24]	D47.MPF-OfC.514 has spawned a 'NPC [1704][npc_citizen]'.
+[16:43:24]	D47.MPF-OfC.514 has spawned a 'NPC [1705][npc_citizen]'.
+[16:43:24]	D47.MPF-OfC.514 has spawned a 'NPC [1709][npc_citizen]'.
+[16:43:24]	D47.MPF-OfC.514 has spawned a 'NPC [1890][npc_citizen]'.
+[16:43:24]	D47.MPF-OfC.514 has spawned a 'NPC [1907][npc_citizen]'.
+[16:43:34]	D47.MPF-OfC.514 has spawned a 'NPC [1671][npc_citizen]'.
+[16:43:34]	D47.MPF-OfC.514 has spawned a 'NPC [1705][npc_citizen]'.
+[16:43:34]	D47.MPF-OfC.514 has spawned a 'NPC [1709][npc_citizen]'.
+[16:43:34]	D47.MPF-OfC.514 has spawned a 'NPC [1907][npc_citizen]'.
+[16:43:34]	D47.MPF-OfC.514 has spawned a 'NPC [1909][npc_citizen]'.
+[16:43:36]	D47.MPF-OfC.514 has spawned a 'NPC [2450][npc_citizen]'.
+[16:43:36]	D47.MPF-OfC.514 has spawned a 'NPC [2452][npc_citizen]'.
+[16:43:36]	D47.MPF-OfC.514 has spawned a 'NPC [2453][npc_citizen]'.
+[16:43:36]	D47.MPF-OfC.514 has spawned a 'NPC [2455][npc_citizen]'.
+[16:43:36]	D47.MPF-OfC.514 has spawned a 'NPC [2479][npc_citizen]'.
+[16:43:43]	D47.MPF-OfC.514 exited observer at their location.
+[16:43:43]	D47.MPF-OfC.514 entered observer.
+[16:43:46]	D47.MPF-OfC.514 exited observer at their location.
+[16:43:56]	D47.MPF-OfC.514 entered observer.
+[16:44:45]	Г@H3NK loaded the character 'Александр Климов'
+[16:44:57]	Александр Климов has gained a 'AK-47' #402.
+[16:44:57]	Александр Климов used command '/CharGiveItem Ал ak'.
+[16:45:01]	Александр Климов ran 'Equip' on item 'AK-47' (#402)
+[16:45:07]	Александр Климов ran 'Equip' on item 'AK-47' (#402)
+[16:45:08]	Александр Климов ran 'EquipUn' on item 'M9' (#307)
+[16:45:08]	Александр Климов ran 'Equip' on item 'AK-47' (#402)
+[16:45:09]	Александр Климов ran 'Equip' on item 'M9' (#307)
+[16:45:53]	Александр Климов has taken 20 damage from npc_citizen.
+[16:45:53]	Александр Климов has taken 20 damage from npc_citizen.
+[16:45:54]	Александр Климов has taken 39 damage from npc_citizen.
+[16:45:54]	Александр Климов has taken 20 damage from npc_citizen.
+[16:45:54]	Александр Климов has taken 20 damage from npc_citizen.
+[16:45:54]	npc_citizen has killed Александр Климов.
+[16:45:54]	Александр Климов entered observer.
+[16:45:57]	Александр Климов ran 'Equip' on item 'AK-47' (#402)
+[16:45:58]	Александр Климов ran 'Equip' on item 'M9' (#307)
+[16:46:14]	Александр Климов entered observer.
+[16:46:15]	Александр Климов has spawned a 'Entity [1646][npcg_cpft]'.
+[16:46:18]	Александр Климов exited observer at their location.
+[16:46:27]	Александр Климов has spawned a 'Entity [1629][npcg_cpft]'.
+[16:46:53]	Александр Климов has spawned a 'Entity [1646][npcg_cpft_neutral]'.
+[16:46:59]	Александр Климов has spawned a 'Entity [1646][npcg_cstm_cmbft]'.
+[16:47:30]	Александр Климов has spawned a 'Entity [1629][npcgs_cmbsoldier_friendly]'.
+[16:47:39]	Александр Климов has spawned a 'NPC [1638][npc_metropolice_elite]'.
+[16:47:45]	Александр Климов has spawned a 'NPC [1638][npc_metropolice_elite]'.
+[16:47:46]	Александр Климов entered observer.
+[16:47:51]	Александр Климов exited observer at their location.
+[16:47:59]	Александр Климов has taken 6 damage from npc_metropolice_elite.
+[16:47:59]	Александр Климов has taken 6 damage from npc_metropolice_elite.
+[16:48:03]	Александр Климов has spawned a 'NPC [1638][npc_combine_s]'.
+[16:48:05]	Александр Климов has taken 5 damage from npc_combine_s.
+[16:48:27]	Александр Климов entered observer.
+[16:48:32]	Александр Климов exited observer at their location.
+[16:48:44]	Александр Климов entered observer.
+[16:48:46]	Александр Климов exited observer at their location.
+[16:49:30]	Александр Климов used command '/CharSetModel Ал models/player/group01/male_09.mdl'.
+[16:50:07]	Александр Климов used command '/CharGiveItem Ал resistance_outfit'.
+[16:50:25]	Александр Климов used command '/CharGiveItem Ал resistance_'.
+[16:50:30]	Александр Климов used command '/CharGiveItem Ал resistance_'.
+[16:50:38]	Александр Климов used command '/CharGiveItem Ал resistanc'.
+[16:50:59]	Александр Климов has gained a 'Форма сопротивления' #403.
+[16:50:59]	Александр Климов used command '/CharGiveItem Ал resistance_uniform'.
+[16:51:04]	Александр Климов ran 'Equip' on item 'Форма сопротивления' (#403)
+[16:51:08]	Александр Климов ran 'EquipUn' on item 'Форма сопротивления' (#403)
+[16:51:10]	Александр Климов ran 'Equip' on item 'Форма сопротивления' (#403)
+[16:51:22]	Александр Климов has spawned 'models/summer_spring/items/shirt_citizen1.mdl'.
+[16:51:25]	Александр Климов has spawned 'models/summer_spring/items/wintercoat.mdl'.
+[16:51:26]	Александр Климов has spawned 'models/summer_spring/items/trenchcoat.mdl'.
+[16:51:28]	Александр Климов has spawned 'models/summer_spring/items/shirt_rebeloverwatch.mdl'.
+[16:51:31]	Александр Климов has spawned 'models/summer_spring/items/shirt_rebelbag.mdl'.
+[16:51:32]	Александр Климов has spawned 'models/summer_spring/items/shirt_rebel1.mdl'.
+[16:51:37]	Александр Климов has spawned 'models/summer_spring/items/gasmask.mdl'.
+[16:51:38]	Александр Климов has spawned 'models/summer_spring/items/maskcp.mdl'.
+[16:51:39]	Александр Климов has spawned 'models/summer_spring/items/maskcp.mdl'.
+[16:51:41]	Александр Климов has spawned 'models/summer_spring/items/maskelite.mdl'.
+[16:51:45]	Александр Климов has spawned 'models/summer_spring/items/gloves.mdl'.
+[16:51:46]	Александр Климов has spawned 'models/summer_spring/items/gloves.mdl'.
+[16:51:47]	Александр Климов has spawned 'models/summer_spring/items/gasmask.mdl'.
+[16:51:49]	Александр Климов has spawned 'models/summer_spring/items/facewrap.mdl'.
+[16:51:50]	Александр Климов has spawned 'models/summer_spring/items/beaniewrap.mdl'.
+[16:51:52]	Александр Климов has spawned 'models/summer_spring/items/beanie.mdl'.
+[16:51:53]	Александр Климов has spawned 'models/summer_spring/items/bag.mdl'.
+[16:51:55]	Александр Климов has spawned 'models/summer_spring/items/pants_metrocop.mdl'.
+[16:51:56]	Александр Климов has spawned 'models/summer_spring/items/pants_metrocop.mdl'.
+[16:52:00]	Александр Климов has spawned 'models/summer_spring/items/pants_metrocop.mdl'.
+[16:52:02]	Александр Климов has spawned 'models/summer_spring/items/pants_rebel.mdl'.
+[16:52:03]	Александр Климов has spawned 'models/summer_spring/items/pants_rebel.mdl'.
+[16:52:07]	Александр Климов has spawned 'models/summer_spring/items/shirt_citizen1.mdl'.
+[16:52:08]	Александр Климов has spawned 'models/summer_spring/items/shirt_citizen2.mdl'.
+[16:52:09]	Александр Климов has spawned 'models/summer_spring/items/shirt_medic1.mdl'.
+[16:52:11]	Александр Климов has spawned 'models/summer_spring/items/shirt_metrocop.mdl'.
+[16:52:11]	Александр Климов has spawned 'models/summer_spring/items/shirt_rebel1.mdl'.
+[16:52:14]	Александр Климов has spawned 'models/summer_spring/items/shirt_rebelbag.mdl'.
+[16:52:15]	Александр Климов has spawned 'models/summer_spring/items/shirt_rebelbag.mdl'.
+[16:52:16]	Александр Климов has spawned 'models/summer_spring/items/shirt_rebel_molle.mdl'.
+[16:52:17]	Александр Климов has spawned 'models/summer_spring/items/shirt_rebelmetrocop.mdl'.
+[16:52:19]	Александр Климов has spawned 'models/summer_spring/items/shirt_rebeloverwatch.mdl'.
+[16:52:20]	Александр Климов has spawned 'models/summer_spring/items/trenchcoat.mdl'.
+[16:52:22]	Александр Климов has spawned 'models/summer_spring/items/shirt_rebelmetrocop.mdl'.
+[16:52:24]	Александр Климов has spawned 'models/summer_spring/items/shirt_rebelbag.mdl'.
+[16:52:25]	Александр Климов has spawned 'models/summer_spring/items/shirt_rebel_molle.mdl'.
+[16:52:26]	Александр Климов has spawned 'models/summer_spring/items/shirt_rebel1.mdl'.
+[16:52:30]	Александр Климов has spawned 'models/summer_spring/items/shirt_medic1.mdl'.
+[16:52:44]	Александр Климов has spawned 'models/summer_spring/items/shirt_rebel1.mdl'.
+[16:52:48]	Александр Климов has spawned 'models/summer_spring/items/shirt_rebelmetrocop.mdl'.
+[16:52:49]	Александр Климов has spawned 'models/summer_spring/items/shirt_rebeloverwatch.mdl'.
+[16:52:56]	Александр Климов has spawned 'models/summer_spring/items/shirt_rebeloverwatch.mdl'.
+[16:53:05]	Александр Климов has spawned 'models/summer_spring/items/shirt_rebel1.mdl'.
+[16:54:20]	Александр Климов ran 'EquipUn' on item 'Форма сопротивления' (#403)
+[16:54:20]	Александр Климов ran 'Equip' on item 'Форма сопротивления' (#403)
+[16:54:56]	env_entity_dissolver destroyed a 'MP7' #401.
+[16:54:57]	env_entity_dissolver destroyed a 'MP7' #400.
+[16:55:08]	Александр Климов has spawned a 'NPC [1646][npc_citizen]'.
+[16:56:13]	Александр Климов ran 'Use' on item 'Наручники' (#193)
+[16:56:26]	Александр Климов has spawned a 'NPC [1638][npc_gman]'.
+[16:56:28]	Александр Климов ran 'Use' on item 'Наручники' (#193)
+[16:58:31]	Александр Климов has spawned a 'NPC [1640][npc_metropolice]'.
+[16:58:45]	Александр Климов has spawned a 'NPC [1646][npc_metropolice]'.
+[16:58:48]	Александр Климов has spawned a 'NPC [1654][npc_metropolice]'.
+[16:58:54]	Александр Климов has spawned a 'NPC [1640][npc_metropolice]'.
+[16:59:11]	Александр Климов has spawned a 'NPC [1646][npc_metropolice]'.
+[16:59:13]	Александр Климов has taken 15 damage from npc_metropolice.
+[16:59:15]	Александр Климов has spawned a 'NPC [1638][npc_metropolice]'.
+[16:59:16]	Александр Климов has spawned a 'NPC [1646][npc_metropolice]'.
+[17:01:12]	Александр Климов has spawned a 'NPC [3671][npc_combine_guard]'.
+[17:01:43]	Александр Климов has spawned a 'NPC [1638][npc_metropolice_elite]'.
+[17:01:55]	Александр Климов has taken 6 damage from npc_metropolice_elite.
+[17:01:55]	Александр Климов has taken 6 damage from npc_metropolice_elite.
+[17:01:56]	Александр Климов has taken 6 damage from npc_metropolice_elite.
+[17:02:09]	Александр Климов entered observer.
+[17:02:13]	Александр Климов has spawned a 'Entity [1653][npcg_cpft_spawn]'.
+[17:02:18]	Александр Климов has spawned a 'Entity [1653][npcgs_cptrooper_spawn]'.
+[17:02:21]	Александр Климов has spawned a 'Entity [1653][npcgs_cptrooper_spawn]'.
+[17:02:23]	Александр Климов has spawned a 'Entity [1656][npcgs_cptrooper_spawn]'.
+[17:02:24]	Александр Климов has spawned a 'Entity [1638][npcgs_cptrooper_spawn]'.
+[17:02:26]	Александр Климов has spawned a 'Entity [1660][npcgs_cptrooper_spawn]'.
+[17:02:28]	Александр Климов exited observer at their location.
+[17:02:51]	Александр Климов has taken 6 damage from npc_metropolice.
+[17:04:48]	Александр Климов has taken 10 damage from npc_metropolice.
+[17:04:50]	Александр Климов has taken 10 damage from npc_metropolice.
+[17:04:52]	Александр Климов has taken 10 damage from npc_metropolice.
+[17:04:53]	Александр Климов has taken 10 damage from npc_metropolice.
+[17:04:55]	Александр Климов has taken 10 damage from npc_metropolice.
+[17:04:57]	Александр Климов has taken 10 damage from npc_metropolice.
+[17:04:58]	Александр Климов has taken 10 damage from npc_metropolice.
+[17:04:59]	Александр Климов has taken 10 damage from npc_metropolice.
+[17:05:00]	Александр Климов has taken 1 damage from npc_metropolice.
+[17:05:01]	Александр Климов has taken 3 damage from npc_metropolice.
+[17:05:03]	Александр Климов has taken 1 damage from npc_metropolice.
+[17:05:03]	Александр Климов has taken 10 damage from npc_metropolice.
+[17:05:05]	Александр Климов has taken 3 damage from npc_metropolice.
+[17:05:06]	Александр Климов has taken 3 damage from npc_metropolice.
+[17:05:09]	Александр Климов has taken 3 damage from npc_metropolice.
+[17:05:32]	Александр Климов entered observer.
+[17:05:33]	Александр Климов exited observer at their location.
+[17:05:57]	Александр Климов has taken 1 damage from npc_metropolice.
+[17:05:58]	Александр Климов has taken 10 damage from npc_metropolice.
+[17:06:05]	Александр Климов has taken 3 damage from npc_metropolice.
+[17:06:05]	npc_metropolice has killed Александр Климов.
+[17:06:13]	Александр Климов has spawned a 'Entity [1640][npcgs_cmbshotgun_spawn]'.
+[17:06:18]	Александр Климов has taken 4 damage from npc_combine_s.
+[17:06:18]	Александр Климов has taken 3 damage from npc_combine_s.
+[17:06:20]	Александр Климов has taken 24 damage from npc_combine_s.
+[17:06:22]	Александр Климов has taken 24 damage from npc_combine_s.
+[17:06:23]	Александр Климов has taken 24 damage from npc_combine_s.
+[17:06:25]	Александр Климов has taken 21 damage from npc_combine_s.
+[17:06:26]	Александр Климов ran 'Equip' on item 'M9' (#307)
+[17:06:30]	Александр Климов has taken 17 damage from npc_combine_s.
+[17:06:30]	npc_combine_s has killed Александр Климов.
+[17:06:33]	Александр Климов has taken 17 damage from npc_combine_s.
+[17:06:33]	Александр Климов ran 'Equip' on item 'M9' (#307)
+[17:06:34]	Александр Климов has taken 10 damage from npc_combine_s.
+[17:06:35]	Александр Климов has taken 30 damage from npc_combine_s.
+[17:06:36]	Александр Климов has taken 6 damage from npc_combine_s.
+[17:06:46]	Bot01 has taken 50 damage from Александр Климов.
+[17:06:47]	Bot01 has taken 50 damage from Александр Климов.
+[17:06:47]	Александр Климов has killed Bot01 with arccw_m9.
+[17:06:49]	Bot01 has taken 21 damage from npc_combine_s.
+[17:06:51]	Bot01 has taken 24 damage from npc_combine_s.
+[17:06:52]	Александр Климов has taken 18 damage from npc_combine_s.
+[17:06:54]	Александр Климов has taken 17 damage from npc_combine_s.
+[17:06:56]	Bot01 has taken 49 damage from Александр Климов.
+[17:06:57]	Bot01 has taken 48 damage from Александр Климов.
+[17:06:57]	Александр Климов has killed Bot01 with arccw_m9.
+[17:06:58]	Александр Климов has taken 17 damage from npc_combine_s.
+[17:06:58]	npc_combine_s has killed Александр Климов.
+[17:06:59]	Bot01 has taken 24 damage from npc_combine_s.
+[17:06:59]	Bot01 has taken 24 damage from npc_combine_s.
+[17:07:00]	Bot01 has taken 3 damage from npc_combine_s.
+[17:07:01]	Александр Климов has taken 14 damage from npc_combine_s.
+[17:07:03]	Александр Климов ran 'Equip' on item 'M9' (#307)
+[17:07:03]	Александр Климов has taken 9 damage from npc_combine_s.
+[17:07:15]	Bot01 has taken 23 damage from npc_combine_s.
+[17:07:18]	Bot01 has taken 24 damage from npc_combine_s.
+[17:07:20]	Bot01 has taken 49 damage from Александр Климов.
+[17:07:20]	Александр Климов has killed Bot01 with arccw_m9.
+[17:07:21]	Bot01 has taken 51 damage from Александр Климов.
+[17:07:22]	Bot01 has taken 3 damage from npc_combine_s.
+[17:07:22]	Bot01 has taken 51 damage from Александр Климов.
+[17:07:22]	Александр Климов has killed Bot01 with arccw_m9.
+[17:08:07]	Александр Климов has taken 20 damage from npc_combine_s.
+[17:08:08]	Александр Климов has taken 10 damage from npc_combine_s.
+[17:08:09]	Александр Климов has taken 10 damage from npc_combine_s.
+[17:08:10]	Александр Климов has taken 10 damage from npc_combine_s.
+[17:08:11]	Александр Климов has taken 24 damage from npc_combine_s.
+[17:08:12]	Александр Климов has taken 22 damage from npc_combine_s.
+[17:08:12]	npc_combine_s has killed Александр Климов.
+[17:08:14]	Александр Климов has taken 24 damage from npc_combine_s.
+[17:08:15]	Александр Климов has taken 10 damage from npc_combine_s.
+[17:08:15]	Александр Климов has taken 24 damage from npc_combine_s.
+[17:08:18]	Александр Климов has taken 13 damage from npc_combine_s.
+[17:08:24]	Bot01 has taken 3 damage from npc_metropolice.
+[17:08:25]	Александр Климов has taken 3 damage from npc_combine_s.
+[17:08:27]	Александр Климов has taken 12 damage from npc_combine_s.
+[17:08:28]	Bot01 has taken 3 damage from npc_metropolice.
+[17:08:28]	Bot01 has taken 3 damage from npc_metropolice.
+[17:08:28]	Александр Климов has taken 6 damage from npc_combine_s.
+[17:08:30]	Александр Климов has taken 16 damage from npc_combine_s.
+[17:08:30]	npc_combine_s has killed Александр Климов.
+[17:08:32]	Александр Климов has taken 3 damage from npc_combine_s.
+[17:08:33]	Bot01 has taken 3 damage from npc_metropolice.
+[17:08:33]	Александр Климов has taken 10 damage from npc_combine_s.
+[17:08:34]	Bot01 has taken 3 damage from npc_metropolice.
+[17:08:36]	Bot01 has taken 3 damage from npc_metropolice.
+[17:08:44]	Александр Климов has taken 9 damage from npc_combine_s.
+[17:08:45]	Александр Климов has taken 15 damage from npc_combine_s.
+[17:08:46]	Александр Климов has taken 24 damage from npc_combine_s.
+[17:08:47]	Александр Климов has taken 16 damage from npc_combine_s.
+[17:08:48]	Александр Климов has taken 21 damage from npc_combine_s.
+[17:08:49]	Bot01 has taken 3 damage from npc_metropolice.
+[17:08:49]	Bot01 has taken 3 damage from npc_metropolice.
+[17:08:53]	Bot01 has taken 3 damage from npc_metropolice.
+[17:08:55]	Bot01 has taken 3 damage from npc_metropolice.
+[17:08:56]	Bot01 has taken 3 damage from npc_metropolice.
+[17:08:58]	Александр Климов has taken 15 damage from npc_combine_s.
+[17:08:58]	npc_combine_s has killed Александр Климов.
+[17:09:00]	Александр Климов has taken 18 damage from npc_combine_s.
+[17:09:00]	Александр Климов has taken 15 damage from npc_combine_s.
+[17:09:01]	Александр Климов has taken 21 damage from npc_combine_s.
+[17:09:01]	Александр Климов has taken 22 damage from npc_combine_s.
+[17:09:03]	Bot01 has taken 3 damage from npc_metropolice.
+[17:09:10]	Bot01 has taken 3 damage from npc_metropolice.
+[17:09:12]	Александр Климов has taken 13 damage from npc_combine_s.
+[17:09:13]	Александр Климов has taken 21 damage from npc_combine_s.
+[17:09:13]	npc_combine_s has killed Александр Климов.
+[17:09:13]	Bot01 has taken 3 damage from npc_metropolice.
+[17:09:14]	Александр Климов has taken 15 damage from npc_combine_s.
+[17:09:16]	Александр Климов has taken 24 damage from npc_combine_s.
+[17:09:17]	Александр Климов has taken 17 damage from npc_combine_s.
+[17:09:21]	Bot01 has taken 3 damage from npc_metropolice.
+[17:09:25]	Bot01 has taken 3 damage from npc_metropolice.
+[17:09:28]	Александр Климов has taken 3 damage from npc_combine_s.
+[17:09:29]	Александр Климов has taken 6 damage from npc_combine_s.
+[17:09:29]	Александр Климов has taken 13 damage from npc_combine_s.
+[17:09:30]	Александр Климов has taken 27 damage from npc_combine_s.
+[17:09:30]	npc_combine_s has killed Александр Климов.
+[17:09:32]	Александр Климов has taken 12 damage from npc_combine_s.
+[17:09:33]	Александр Климов has taken 16 damage from npc_combine_s.
+[17:09:38]	Александр Климов has taken 21 damage from npc_combine_s.
+[17:09:39]	Александр Климов has taken 14 damage from npc_combine_s.
+[17:09:40]	Bot01 has taken 3 damage from npc_metropolice.
+[17:09:41]	Александр Климов has taken 18 damage from npc_combine_s.
+[17:09:42]	Bot01 has taken 3 damage from npc_metropolice.
+[17:09:42]	Александр Климов has taken 20 damage from npc_combine_s.
+[17:09:42]	npc_combine_s has killed Александр Климов.
+[17:09:45]	Bot01 has taken 3 damage from npc_metropolice.
+[17:09:54]	Bot01 has taken 3 damage from npc_metropolice.
+[17:10:02]	Bot01 has taken 3 damage from npc_metropolice.
+[17:10:03]	Bot01 has taken 3 damage from npc_metropolice.
+[17:10:14]	Bot01 has taken 3 damage from npc_metropolice.
+[17:10:14]	Bot01 has taken 3 damage from npc_metropolice.
+[17:10:15]	Bot01 has taken 3 damage from npc_metropolice.
+[17:10:21]	Bot01 has taken 3 damage from npc_metropolice.
+[17:10:21]	Bot01 has taken 3 damage from npc_metropolice.
+[17:10:26]	Bot01 has taken 3 damage from npc_metropolice.
+[17:10:52]	Bot01 has taken 3 damage from npc_metropolice.
+[17:10:54]	Bot01 has taken 3 damage from npc_metropolice.
+[17:11:07]	Bot01 has taken 3 damage from npc_metropolice.
+[17:11:27]	Bot01 has taken 3 damage from npc_metropolice.
+[17:11:38]	Bot01 has taken 3 damage from npc_metropolice.
+[17:11:39]	Bot01 has taken 3 damage from npc_metropolice.
+[17:11:39]	npc_metropolice has killed Bot01.
+[17:12:08]	Bot01 has taken 18 damage from npc_combine_s.
+[17:12:12]	Bot01 has taken 24 damage from npc_combine_s.
+[17:12:12]	Bot01 has taken 24 damage from npc_combine_s.
+[17:12:13]	Bot01 has taken 24 damage from npc_combine_s.
+[17:12:14]	Bot01 has taken 10 damage from npc_combine_s.
+[17:12:14]	npc_combine_s has killed Bot01.
+[17:12:16]	Bot01 has taken 10 damage from npc_combine_s.
+[17:12:17]	Bot01 has taken 10 damage from npc_combine_s.
+[17:12:17]	Bot01 has taken 10 damage from npc_combine_s.
+[17:12:18]	Bot01 has taken 24 damage from npc_combine_s.
+[17:12:20]	Bot01 has taken 24 damage from npc_combine_s.
+[17:12:21]	Bot01 has taken 24 damage from npc_combine_s.
+[17:12:21]	npc_combine_s has killed Bot01.
+[17:12:25]	Bot01 has taken 21 damage from npc_combine_s.
+[17:12:27]	Bot01 has taken 18 damage from npc_combine_s.
+[17:12:29]	Bot01 has taken 24 damage from npc_combine_s.
+[17:12:31]	Bot01 has taken 24 damage from npc_combine_s.
+[17:12:32]	Bot01 has taken 21 damage from npc_combine_s.
+[17:12:32]	npc_combine_s has killed Bot01.
+[17:12:35]	Bot01 has taken 24 damage from npc_combine_s.
+[17:12:37]	Bot01 has taken 24 damage from npc_combine_s.
+[17:12:38]	Bot01 has taken 24 damage from npc_combine_s.
+[17:12:38]	Bot01 has taken 24 damage from npc_combine_s.
+[17:12:47]	Bot01 has taken 24 damage from npc_combine_s.
+[17:12:47]	npc_combine_s has killed Bot01.
+[17:12:49]	Bot01 has taken 18 damage from npc_combine_s.
+[17:12:50]	Bot01 has taken 12 damage from npc_combine_s.
+[17:12:52]	Bot01 has taken 24 damage from npc_combine_s.
+[17:12:54]	Bot01 has taken 12 damage from npc_combine_s.
+[17:12:59]	Bot01 has taken 45 damage from npc_combine_s.
+[17:12:59]	npc_combine_s has killed Bot01.
+[17:13:06]	Bot01 has taken 12 damage from npc_combine_s.
+[17:13:08]	Bot01 has taken 6 damage from npc_combine_s.
+[17:13:10]	Bot01 has taken 12 damage from npc_combine_s.
+[17:13:12]	Bot01 has taken 3 damage from npc_combine_s.
+[17:13:12]	Bot01 has taken 3 damage from npc_combine_s.
+[17:13:22]	Bot01 has taken 10 damage from npc_combine_s.
+[17:13:23]	Bot01 has taken 10 damage from npc_combine_s.
+[17:13:23]	Bot01 has taken 10 damage from npc_combine_s.
+[17:13:24]	Bot01 has taken 10 damage from npc_combine_s.
+[17:13:25]	Bot01 has taken 10 damage from npc_combine_s.
+[17:13:25]	Bot01 has taken 10 damage from npc_combine_s.
+[17:13:27]	Bot01 has taken 10 damage from npc_combine_s.
+[17:13:27]	npc_combine_s has killed Bot01.
+[17:13:38]	Bot01 has taken 21 damage from npc_combine_s.
+[17:13:39]	Bot01 has taken 12 damage from npc_combine_s.
+[17:13:39]	Bot01 has taken 24 damage from npc_combine_s.
+[17:13:40]	Bot01 has taken 18 damage from npc_combine_s.
+[17:13:40]	Bot01 has taken 21 damage from npc_combine_s.
+[17:13:47]	Bot01 has taken 9 damage from npc_combine_s.
+[17:13:47]	npc_combine_s has killed Bot01.
+[17:13:56]	Bot01 has taken 21 damage from npc_combine_s.
+[17:13:56]	Bot01 has taken 18 damage from npc_combine_s.
+[17:13:57]	Bot01 has taken 24 damage from npc_combine_s.
+[17:13:58]	Bot01 has taken 24 damage from npc_combine_s.
+[17:14:04]	Bot01 has taken 9 damage from npc_combine_s.
+[17:14:14]	Bot01 has taken 3 damage from npc_combine_s.
+[17:14:14]	Bot01 has taken 9 damage from npc_combine_s.
+[17:14:14]	npc_combine_s has killed Bot01.
+[17:14:16]	Bot01 has taken 9 damage from npc_combine_s.
+[17:14:17]	Bot01 has taken 18 damage from npc_combine_s.
+[17:14:17]	Bot01 has taken 24 damage from npc_combine_s.
+[17:14:20]	Bot01 has taken 24 damage from npc_combine_s.
+[17:14:28]	Bot01 has taken 21 damage from npc_combine_s.
+[17:14:28]	Bot01 has taken 24 damage from npc_combine_s.
+[17:14:28]	npc_combine_s has killed Bot01.
+[17:14:30]	Bot01 has taken 10 damage from npc_combine_s.
+[17:14:31]	Bot01 has taken 24 damage from npc_combine_s.
+[17:14:32]	Bot01 has taken 24 damage from npc_combine_s.
+[17:14:33]	Bot01 has taken 24 damage from npc_combine_s.
+[17:14:35]	Bot01 has taken 24 damage from npc_combine_s.
+[17:14:35]	npc_combine_s has killed Bot01.
+[17:14:38]	Bot01 has taken 24 damage from npc_combine_s.
+[17:14:39]	Bot01 has taken 18 damage from npc_combine_s.
+[17:14:39]	Bot01 has taken 24 damage from npc_combine_s.
+[17:14:42]	Bot01 has taken 12 damage from npc_combine_s.
+[17:14:44]	Bot01 has taken 15 damage from npc_combine_s.
+[17:14:45]	Bot01 has taken 21 damage from npc_combine_s.
+[17:14:45]	npc_combine_s has killed Bot01.
+[17:14:47]	Bot01 has taken 3 damage from npc_combine_s.
+[17:14:48]	Bot01 has taken 24 damage from npc_combine_s.
+[17:14:50]	Bot01 has taken 24 damage from npc_combine_s.
+[17:14:56]	Bot01 has taken 64 damage from npc_combine_s.
+[17:14:56]	npc_combine_s has killed Bot01.
+[17:15:03]	Bot01 has taken 24 damage from npc_combine_s.
+[17:15:04]	Bot01 has taken 21 damage from npc_combine_s.
+[17:15:05]	Bot01 has taken 24 damage from npc_combine_s.
+[17:15:05]	Bot01 has taken 24 damage from npc_combine_s.
+[17:15:06]	Bot01 has taken 12 damage from npc_combine_s.
+[17:15:06]	npc_combine_s has killed Bot01.
+[17:15:10]	Bot01 has taken 21 damage from npc_combine_s.
+[17:15:17]	Bot01 has taken 6 damage from npc_combine_s.
+[17:15:18]	Bot01 has taken 18 damage from npc_combine_s.
+[17:15:21]	Bot01 has taken 6 damage from npc_combine_s.
+[17:15:22]	Bot01 has taken 12 damage from npc_combine_s.
+[17:15:24]	Bot01 has taken 18 damage from npc_combine_s.
+[17:15:34]	Bot01 has taken 15 damage from npc_combine_s.
+[17:15:35]	Bot01 has taken 24 damage from npc_combine_s.
+[17:15:35]	npc_combine_s has killed Bot01.
+[17:15:37]	Bot01 has taken 24 damage from npc_combine_s.
+[17:15:38]	Bot01 has taken 24 damage from npc_combine_s.
+[17:15:38]	Bot01 has taken 24 damage from npc_combine_s.
+[17:15:39]	Bot01 has taken 24 damage from npc_combine_s.
+[17:15:46]	Bot01 has taken 24 damage from npc_combine_s.
+[17:15:46]	npc_combine_s has killed Bot01.
+[17:15:48]	Bot01 has taken 24 damage from npc_combine_s.
+[17:15:49]	Bot01 has taken 10 damage from npc_combine_s.
+[17:15:50]	Bot01 has taken 24 damage from npc_combine_s.
+[17:15:51]	Bot01 has taken 24 damage from npc_combine_s.
+[17:15:53]	Bot01 has taken 24 damage from npc_combine_s.
+[17:15:53]	npc_combine_s has killed Bot01.
+[17:15:56]	Bot01 has taken 24 damage from npc_combine_s.
+[17:16:03]	Bot01 has taken 24 damage from npc_combine_s.
+[17:16:05]	Bot01 has taken 12 damage from npc_combine_s.
+[17:16:06]	Bot01 has taken 24 damage from npc_combine_s.
+[17:16:08]	Bot01 has taken 15 damage from npc_combine_s.
+[17:16:10]	Bot01 has taken 18 damage from npc_combine_s.
+[17:16:10]	npc_combine_s has killed Bot01.
+[17:16:11]	Bot01 has taken 15 damage from npc_combine_s.
+[17:16:21]	Bot01 has taken 15 damage from npc_combine_s.
+[17:16:25]	Bot01 has taken 18 damage from npc_combine_s.
+[17:16:26]	Bot01 has taken 3 damage from npc_combine_s.
+[17:16:28]	Bot01 has taken 6 damage from npc_combine_s.
+[17:16:39]	Bot01 has taken 12 damage from npc_combine_s.
+[17:16:40]	Bot01 has taken 12 damage from npc_combine_s.
+[17:16:40]	Bot01 has taken 18 damage from npc_combine_s.
+[17:16:40]	Bot01 has taken 24 damage from npc_combine_s.
+[17:16:40]	npc_combine_s has killed Bot01.
+[17:16:42]	Bot01 has taken 12 damage from npc_combine_s.
+[17:16:46]	Bot01 has taken 3 damage from npc_combine_s.
+[17:16:47]	Bot01 has taken 3 damage from npc_combine_s.
+[17:16:47]	Bot01 has taken 3 damage from npc_combine_s.
+[17:16:47]	Bot01 has taken 3 damage from npc_combine_s.
+[17:16:49]	Bot01 has taken 9 damage from npc_combine_s.
+[17:16:50]	Bot01 has taken 3 damage from npc_combine_s.
+[17:16:50]	Bot01 has taken 3 damage from npc_combine_s.
+[17:28:30]	Александр Климов entered observer.
+[17:28:35]	Александр Климов exited observer at their location.
+[17:28:56]	Александр Климов has taken 24 damage from npc_combine_s.
+[17:28:57]	Александр Климов has taken 10 damage from npc_combine_s.
+[17:29:03]	Александр Климов has taken 10 damage from npc_combine_s.
+[17:29:03]	Александр Климов has taken 3 damage from npc_combine_s.
+[17:29:08]	Александр Климов has taken 3 damage from npc_combine_s.
+[17:29:14]	Александр Климов has taken 6 damage from npc_combine_s.
+[17:29:19]	Александр Климов has taken 3 damage from npc_combine_s.
+[17:29:22]	Александр Климов has taken 3 damage from npc_combine_s.
+[17:29:24]	Александр Климов ran 'Equip' on item 'M9' (#307)
+[17:29:36]	Александр Климов has taken 3 damage from npc_combine_s.
+[17:29:40]	Bot01 has taken 3 damage from npc_combine_s.
+[17:29:40]	Bot01 has taken 15 damage from npc_combine_s.
+[17:29:42]	Bot01 has taken 12 damage from npc_combine_s.
+[17:29:43]	Bot01 has taken 18 damage from npc_combine_s.
+[17:29:45]	Bot01 has taken 15 damage from npc_combine_s.
+[17:29:45]	npc_combine_s has killed Bot01.
+[17:29:47]	Bot01 has taken 44 damage from Александр Климов.
+[17:29:48]	Bot01 has taken 44 damage from Александр Климов.
+[17:29:48]	Bot01 has taken 44 damage from Александр Климов.
+[17:29:48]	Александр Климов has killed Bot01 with arccw_m9.
+[17:29:50]	Bot01 has taken 3 damage from npc_combine_s.
+[17:29:51]	Bot01 has taken 24 damage from npc_combine_s.
+[17:29:53]	Bot01 has taken 24 damage from npc_combine_s.
+[17:29:54]	Bot01 has taken 51 damage from Александр Климов.
+[17:29:54]	Александр Климов has killed Bot01 with arccw_m9.
+[17:29:59]	Bot01 has taken 50 damage from Александр Климов.
+[17:29:59]	Bot01 has taken 50 damage from Александр Климов.
+[17:29:59]	Александр Климов has killed Bot01 with arccw_m9.
+[17:30:01]	Bot01 has taken 24 damage from npc_combine_s.
+[17:30:03]	Bot01 has taken 48 damage from Александр Климов.
+[17:30:03]	Bot01 has taken 48 damage from Александр Климов.
+[17:30:03]	Александр Климов has killed Bot01 with arccw_m9.
+[17:30:05]	Bot01 has taken 49 damage from Александр Климов.
+[17:30:05]	Bot01 has taken 21 damage from npc_combine_s.
+[17:30:05]	Bot01 has taken 49 damage from Александр Климов.
+[17:30:05]	Александр Климов has killed Bot01 with arccw_m9.
+[17:30:07]	Bot01 has taken 48 damage from Александр Климов.
+[17:30:07]	Bot01 has taken 48 damage from Александр Климов.
+[17:30:07]	Bot01 has taken 47 damage from Александр Климов.
+[17:30:07]	Александр Климов has killed Bot01 with arccw_m9.
+[17:30:09]	Bot01 has taken 48 damage from Александр Климов.
+[17:30:09]	Bot01 has taken 48 damage from Александр Климов.
+[17:30:14]	Bot01 has taken 9 damage from npc_combine_s.
+[17:30:14]	npc_combine_s has killed Bot01.
+[17:30:16]	Bot01 has taken 24 damage from npc_combine_s.
+[17:30:16]	Александр Климов ran 'EquipUn' on item 'Форма сопротивления' (#403)
+[17:30:17]	Bot01 has taken 24 damage from npc_combine_s.
+[17:30:17]	Bot01 has taken 10 damage from npc_combine_s.
+[17:30:18]	Bot01 has taken 24 damage from npc_combine_s.
+[17:30:19]	Bot01 has taken 24 damage from npc_combine_s.
+[17:30:19]	npc_combine_s has killed Bot01.
+[17:30:23]	Bot01 has taken 21 damage from npc_combine_s.
+[17:30:24]	Bot01 has taken 9 damage from npc_combine_s.
+[17:30:26]	Bot01 has taken 12 damage from npc_combine_s.
+[17:30:27]	Александр Климов ran 'drop' on item 'Форма сопротивления' (#403)
+[17:30:27]	Александр Климов has lost a 'Форма сопротивления' #403.
+[17:30:27]	Bot01 has taken 24 damage from npc_combine_s.
+[17:30:29]	Bot01 has taken 6 damage from npc_combine_s.
+[17:30:29]	Александр Климов ran 'take' on item 'Форма сопротивления' (#403)
+[17:30:29]	Александр Климов has gained a 'Форма сопротивления' #403.
+[17:30:30]	Александр Климов ran 'Equip' on item 'Форма сопротивления' (#403)
+[17:30:33]	Александр Климов ran 'Equip' on item 'AK-47' (#402)
+[17:30:42]	Bot01 has taken 3 damage from npc_combine_s.
+[17:30:46]	Bot01 has taken 3 damage from npc_combine_s.
+[17:30:49]	Bot01 has taken 59 damage from Александр Климов.
+[17:30:49]	Александр Климов has killed Bot01 with arccw_ak47.
+[17:30:51]	Bot01 has taken 6 damage from npc_combine_s.
+[17:30:52]	Bot01 has taken 59 damage from Александр Климов.
+[17:30:52]	Bot01 has taken 59 damage from Александр Климов.
+[17:30:52]	Александр Климов has killed Bot01 with arccw_ak47.
+[17:30:54]	Bot01 has taken 24 damage from npc_combine_s.
+[17:30:54]	Bot01 has taken 59 damage from Александр Климов.
+[17:30:54]	Bot01 has taken 59 damage from Александр Климов.
+[17:30:54]	Александр Климов has killed Bot01 with arccw_ak47.
+[17:30:56]	Bot01 has taken 59 damage from Александр Климов.
+[17:30:56]	Bot01 has taken 59 damage from Александр Климов.
+[17:30:56]	Александр Климов has killed Bot01 with arccw_ak47.
+[17:30:58]	Bot01 has taken 59 damage from Александр Климов.
+[17:30:59]	Bot01 has taken 12 damage from npc_combine_s.
+[17:31:00]	Bot01 has taken 9 damage from npc_combine_s.
+[17:31:02]	Bot01 has taken 9 damage from npc_combine_s.
+[17:31:02]	Bot01 has taken 59 damage from Александр Климов.
+[17:31:02]	Александр Климов has killed Bot01 with arccw_ak47.
+[17:31:04]	Bot01 has taken 59 damage from Александр Климов.
+[17:31:04]	Bot01 has taken 59 damage from Александр Климов.
+[17:31:04]	Александр Климов has killed Bot01 with arccw_ak47.
+[17:31:06]	Bot01 has taken 59 damage from Александр Климов.
+[17:31:06]	Bot01 has taken 59 damage from Александр Климов.
+[17:31:06]	Александр Климов has killed Bot01 with arccw_ak47.
+[17:31:07]	Bot01 has taken 59 damage from Александр Климов.
+[17:31:07]	Bot01 has taken 59 damage from Александр Климов.
+[17:31:07]	Александр Климов has killed Bot01 with arccw_ak47.
+[17:31:09]	Bot01 has taken 59 damage from Александр Климов.
+[17:31:09]	Bot01 has taken 59 damage from Александр Климов.
+[17:31:09]	Александр Климов has killed Bot01 with arccw_ak47.
+[17:31:11]	Bot01 has taken 59 damage from Александр Климов.
+[17:31:11]	Bot01 has taken 59 damage from Александр Климов.
+[17:31:11]	Александр Климов has killed Bot01 with arccw_ak47.
+[17:31:12]	Bot01 has taken 59 damage from Александр Климов.
+[17:31:12]	Bot01 has taken 59 damage from Александр Климов.
+[17:31:12]	Александр Климов has killed Bot01 with arccw_ak47.
+[17:31:14]	Bot01 has taken 59 damage from Александр Климов.
+[17:31:15]	Bot01 has taken 9 damage from npc_combine_s.
+[17:31:16]	Bot01 has taken 15 damage from npc_combine_s.
+[17:31:16]	Bot01 has taken 15 damage from npc_combine_s.
+[17:31:18]	Александр Климов has taken 24 damage from npc_combine_s.
+[17:31:18]	Bot01 has taken 59 damage from Александр Климов.
+[17:31:18]	Александр Климов has killed Bot01 with arccw_ak47.
+[17:31:20]	Bot01 has taken 59 damage from Александр Климов.
+[17:31:20]	Bot01 has taken 59 damage from Александр Климов.
+[17:31:20]	Александр Климов has killed Bot01 with arccw_ak47.
+[17:31:21]	Bot01 has taken 59 damage from Александр Климов.
+[17:31:21]	Bot01 has taken 59 damage from Александр Климов.
+[17:31:21]	Александр Климов has killed Bot01 with arccw_ak47.
+[17:31:23]	Bot01 has taken 59 damage from Александр Климов.
+[17:31:23]	Bot01 has taken 59 damage from Александр Климов.
+[17:31:23]	Александр Климов has killed Bot01 with arccw_ak47.
+[17:31:25]	Bot01 has taken 59 damage from Александр Климов.
+[17:31:25]	Bot01 has taken 59 damage from Александр Климов.
+[17:31:25]	Александр Климов has killed Bot01 with arccw_ak47.
+[17:31:26]	Александр Климов has taken 9 damage from npc_combine_s.
+[17:31:27]	Bot01 has taken 59 damage from Александр Климов.
+[17:31:27]	Bot01 has taken 59 damage from Александр Климов.
+[17:31:27]	Александр Климов has killed Bot01 with arccw_ak47.
+[17:31:31]	Bot01 has taken 24 damage from npc_combine_s.
+[17:31:32]	Bot01 has taken 24 damage from npc_combine_s.
+[17:31:34]	Александр Климов entered observer.
+[17:31:36]	Александр Климов exited observer at their location.
+[17:31:36]	Александр Климов has taken 16 damage from npc_combine_s.
+[17:31:36]	Александр Климов entered observer.
+[17:31:40]	Александр Климов exited observer at their location.
+[17:31:43]	Александр Климов has taken 17 damage from npc_combine_s.
+[17:31:44]	Александр Климов has taken 10 damage from npc_combine_s.
+[17:31:44]	Александр Климов has taken 12 damage from npc_combine_s.
+[17:31:46]	Александр Климов has taken 13 damage from npc_combine_s.
+[17:31:47]	Александр Климов has taken 22 damage from npc_combine_s.
+[17:31:48]	Александр Климов has taken 17 damage from npc_combine_s.
+[17:31:48]	npc_combine_s has killed Александр Климов.
+[17:31:54]	Александр Климов has taken 47 damage from npc_combine_s.
+[17:31:59]	Александр Климов has taken 20 damage from npc_combine_s.
+[17:32:13]	Александр Климов has taken 24 damage from npc_combine_s.
+[17:32:30]	Александр Климов has taken 9 damage from npc_combine_s.
+[17:32:30]	Александр Климов has taken 6 damage from npc_combine_s.
+[17:32:31]	Александр Климов has spawned a 'NPC [1645][npc_turret_floor]'.
+[17:32:46]	Александр Климов has taken 5 damage from prop_physics.
+[17:32:49]	Александр Климов has taken 7 damage from npc_combine_s.
+[17:32:50]	Александр Климов has taken 3 damage from npc_combine_s.
+[17:32:55]	Александр Климов has taken 9 damage from npc_combine_s.
+[17:32:56]	Александр Климов has taken 15 damage from npc_combine_s.
+[17:32:56]	Александр Климов has taken 3 damage from npc_turret_floor.
+[17:32:56]	npc_turret_floor has killed Александр Климов.
+[17:33:01]	Александр Климов ran 'Equip' on item 'M9' (#307)
+[17:33:02]	Александр Климов has taken 3 damage from npc_turret_floor.
+[17:33:03]	Александр Климов has taken 3 damage from npc_turret_floor.
+[17:33:05]	Александр Климов has taken 1 damage from npc_turret_floor.
+[17:33:05]	Александр Климов has taken 1 damage from npc_turret_floor.
+[17:33:05]	Александр Климов has taken 10 damage from npc_combine_s.
+[17:33:15]	Александр Климов has taken 6 damage from npc_combine_s.
+[17:33:16]	Александр Климов has taken 20 damage from npc_combine_s.
+[17:33:20]	Александр Климов has taken 12 damage from npc_combine_s.
+[17:33:22]	Александр Климов has taken 24 damage from npc_combine_s.
+[17:33:23]	Александр Климов has taken 22 damage from npc_combine_s.
+[17:33:23]	npc_combine_s has killed Александр Климов.
+[17:33:46]	Александр Климов has spawned a 'NPC [1645][npc_turret_floor]'.
+[17:33:46]	Александр Климов has spawned a 'NPC [1670][npc_turret_floor]'.
+[17:33:47]	Александр Климов has spawned a 'NPC [1708][npc_turret_floor]'.
+[17:33:47]	Александр Климов has spawned a 'NPC [1890][npc_turret_floor]'.
+[17:34:02]	Александр Климов has taken 3 damage from npc_combine_s.
+[17:34:04]	Александр Климов has taken 9 damage from npc_combine_s.
+[17:34:05]	Александр Климов has spawned a 'NPC [1638][npc_manhack]'.
+[17:34:06]	Александр Климов has taken 4 damage from npc_manhack.
+[17:34:08]	Александр Климов has spawned a 'NPC [1645][npc_manhack]'.
+[17:34:19]	Александр Климов has spawned a 'NPC [1660][npc_manhack]'.
+[17:34:34]	Александр Климов has spawned a 'NPC [1670][npc_rollermine]'.
+[17:34:42]	Александр Климов has taken 4 damage from npc_manhack.
+[17:35:14]	Александр Климов entered observer.
+[17:35:14]	Александр Климов exited observer at their location.
+[17:35:34]	Александр Климов has taken 8 damage from npc_manhack.
+[17:36:01]	Александр Климов entered observer.
+[17:36:46]	Александр Климов has spawned a 'NPC [1040][npc_combot]'.
+[17:36:46]	Александр Климов exited observer at their location.
+[17:36:55]	Александр Климов has spawned a 'NPC [1040][npc_combot]'.
+[17:36:57]	Александр Климов has spawned a 'NPC [1040][npc_combot]'.
+[17:37:02]	Александр Климов has spawned a 'NPC [1040][npc_combot]'.
+[17:37:11]	Александр Климов has spawned a 'NPC [1040][npc_combine_s]'.
+[17:37:12]	Александр Климов has taken 15 damage from npc_combine_s.
+[17:37:12]	Александр Климов has taken 15 damage from npc_combine_s.
+[17:37:12]	Александр Климов has taken 31 damage from npc_combine_s.
+[17:37:12]	Александр Климов has taken 15 damage from npc_combine_s.
+[17:37:12]	Александр Климов has taken 4 damage from npc_combine_s.
+[17:37:12]	Александр Климов has taken 15 damage from npc_combine_s.
+[17:37:12]	npc_combine_s has killed Александр Климов.
+[17:37:30]	Александр Климов has taken 14 damage from npc_combine_s.
+[17:37:34]	Александр Климов ran 'Equip' on item 'AK-47' (#402)
+[17:37:49]	Александр Климов entered observer.
+[17:37:49]	Александр Климов exited observer at their location.
+[17:38:15]	Александр Климов has spawned a 'NPC [1040][npc_sacktick]'.
+[17:38:54]	Александр Климов has spawned a 'NPC [2376][npc_manhack]'.
+[17:38:55]	Александр Климов has taken 4 damage from npc_manhack.
+[17:38:57]	Александр Климов has spawned a 'NPC [2376][npc_manhack]'.
+[17:39:00]	Александр Климов has spawned a 'NPC [2376][npc_manhack]'.
+[17:39:01]	Александр Климов has spawned a 'NPC [1040][npc_manhack]'.
+[17:39:02]	Александр Климов has spawned a 'NPC [3417][npc_manhack]'.
+[17:39:02]	Александр Климов has spawned a 'NPC [3423][npc_manhack]'.
+[17:39:03]	Александр Климов has spawned a 'NPC [3426][npc_manhack]'.
+[17:39:04]	Александр Климов has spawned a 'NPC [3429][npc_manhack]'.
+[17:39:04]	Александр Климов has spawned a 'NPC [3432][npc_manhack]'.
+[17:39:04]	Александр Климов has spawned a 'NPC [3435][npc_manhack]'.
+[17:39:45]	Александр Климов has spawned a 'NPC [3423][npc_conscript]'.
+[17:39:50]	Александр Климов has spawned a 'NPC [3423][npc_combine_guard]'.
+[17:39:53]	Александр Климов has spawned a 'NPC [3423][npc_combine_guard]'.
+[17:39:54]	Александр Климов has taken 5 damage from npc_combine_guard.
+[17:39:54]	Александр Климов has taken 5 damage from npc_combine_guard.
+[17:39:54]	Александр Климов has taken 5 damage from npc_combine_guard.
+[17:39:54]	Александр Климов has taken 1 damage from npc_combine_guard.
+[17:40:03]	Александр Климов has spawned a 'NPC [3423][npc_ministrider]'.
+[17:40:13]	Александр Климов has spawned a 'NPC [3423][npc_metropolice]'.
+[17:40:19]	Александр Климов has spawned a 'NPC [3425][npc_metropolice]'.
+[17:40:34]	Александр Климов has taken 4 damage from npc_manhack.
+[17:40:35]	Александр Климов has taken 4 damage from npc_manhack.
+[17:40:35]	Александр Климов has taken 4 damage from npc_manhack.
+[17:40:37]	Александр Климов has taken 4 damage from npc_manhack.
+[17:40:39]	Александр Климов has spawned a 'NPC [3438][npc_turret_floor]'.
+[17:40:43]	Александр Климов has taken 3 damage from npc_turret_floor.
+[17:40:43]	Александр Климов has taken 3 damage from npc_turret_floor.
+[17:40:43]	Александр Климов has taken 6 damage from npc_turret_floor.
+[17:40:43]	Александр Климов has taken 3 damage from npc_turret_floor.
+[17:40:43]	Александр Климов has taken 3 damage from npc_turret_floor.
+[17:40:43]	Александр Климов has taken 3 damage from npc_turret_floor.
+[17:40:43]	Александр Климов has taken 3 damage from npc_turret_floor.
+[17:40:44]	Александр Климов has taken 1 damage from npc_turret_floor.
+[17:40:44]	Александр Климов has taken 3 damage from npc_turret_floor.
+[17:40:51]	Александр Климов has spawned a 'NPC [3423][npc_cscanner]'.
+[17:40:55]	Александр Климов entered observer.
+[17:40:56]	Александр Климов exited observer at their location.
+[17:41:04]	Александр Климов entered observer.
+[17:41:06]	Александр Климов exited observer at their location.
+[17:41:13]	Александр Климов has taken 4 damage from npc_manhack.
+[17:41:22]	Александр Климов has spawned a 'NPC [3423][npc_rollermine]'.
+[17:41:30]	Александр Климов entered observer.
+[17:42:01]	Александр Климов exited observer at their location.
+[17:42:11]	Александр Климов has spawned a 'NPC [3422][npc_combine_s]'.
+[17:42:53]	Александр Климов has taken 16 damage from npc_combine_s.
+[17:42:53]	Александр Климов has taken 15 damage from npc_combine_s.
+[17:42:53]	npc_combine_s has killed Александр Климов.
+[17:43:20]	Bot01 (BOT) has disconnected.
+[17:43:23]	Александр Климов has taken 15 damage from npc_combine_s.
+[17:43:24]	Александр Климов has taken 15 damage from npc_combine_s.
+[17:43:24]	Александр Климов has taken 4 damage from npc_combine_s.
+[17:43:24]	Александр Климов has taken 31 damage from npc_combine_s.
+[17:43:25]	Александр Климов has taken 15 damage from npc_combine_s.
+[17:43:25]	Александр Климов has taken 15 damage from npc_combine_s.
+[17:43:25]	Александр Климов has taken 4 damage from npc_combine_s.
+[17:43:25]	npc_combine_s has killed Александр Климов.
+[17:43:27]	Александр Климов entered observer.
+[17:45:39]	Александр Климов has spawned a 'NPC [1706][npc_breen]'.
+[17:45:43]	Александр Климов has spawned a 'NPC [1890][npc_kleiner]'.
+[17:45:59]	Александр Климов has spawned a 'NPC [702][npc_kleiner]'.
+[17:46:13]	Александр Климов has spawned a 'NPC [702][npc_kleiner]'.
+[17:46:13]	Александр Климов has spawned a 'NPC [1641][npc_kleiner]'.
+[17:46:13]	Александр Климов has spawned a 'NPC [1890][npc_kleiner]'.
+[17:46:14]	Александр Климов has spawned a 'NPC [2332][npc_kleiner]'.
+[17:46:20]	Александр Климов exited observer at their location.
+[17:46:26]	Александр Климов has taken 30 damage from npc_combine_s.
+[17:46:27]	Александр Климов has taken 4 damage from npc_combine_s.
+[17:46:29]	Александр Климов has taken 15 damage from npc_combine_s.
+[17:46:44]	Александр Климов has taken 4 damage from npc_combine_s.
+[17:46:58]	Александр Климов has taken 15 damage from npc_combine_s.
+[17:47:02]	֍ Aime-moi ֍ has connected.
+[17:47:05]	Александр Климов has taken 4 damage from npc_combine_s.
+[17:47:11]	Александр Климов has taken 4 damage from npc_combine_s.
+[17:47:13]	Александр Климов has taken 15 damage from npc_combine_s.
+[17:47:17]	Александр Климов has taken 15 damage from npc_combine_s.
+[17:47:17]	npc_combine_s has killed Александр Климов.
+[17:47:19]	Александр Климов entered observer.
+[17:47:20]	Александр Климов exited observer at their location.
+[17:47:24]	Александр Климов entered observer.
+[17:47:30]	Александр Климов exited observer at their location.
+[17:47:30]	Александр Климов entered observer.
+[17:47:44]	Александр Климов exited observer at their location.
+[17:47:45]	Александр Климов has taken 4 damage from npc_combine_s.
+[17:47:45]	Александр Климов has taken 16 damage from npc_combine_s.
+[17:47:45]	Александр Климов has taken 16 damage from npc_combine_s.
+[17:47:45]	Александр Климов has taken 31 damage from npc_combine_s.
+[17:47:46]	Александр Климов entered observer.
+[17:47:55]	Александр Климов exited observer at their location.
+[17:47:58]	Александр Климов has taken 4 damage from npc_combine_s.
+[17:47:58]	Александр Климов has taken 4 damage from npc_combine_s.
+[17:47:58]	Александр Климов has taken 4 damage from npc_combine_s.
+[17:48:00]	Александр Климов has taken 4 damage from npc_combine_s.
+[17:48:02]	Александр Климов has taken 15 damage from npc_combine_s.
+[17:48:03]	Александр Климов has taken 15 damage from npc_combine_s.
+[17:48:03]	npc_combine_s has killed Александр Климов.
+[17:48:17]	Александр Климов entered observer.
+[17:48:20]	Александр Климов exited observer at their location.
+[17:48:25]	֍ Aime-moi ֍ loaded the character 'Артем Петров'
+[17:48:26]	Александр Климов has taken 4 damage from npc_combine_s.
+[17:48:27]	Александр Климов has taken 4 damage from npc_combine_s.
+[17:48:32]	Александр Климов has taken 4 damage from npc_combine_s.
+[17:48:33]	Александр Климов has taken 4 damage from npc_combine_s.
+[17:48:33]	Артем Петров entered observer.
+[17:48:34]	Александр Климов entered observer.
+[17:48:36]	Александр Климов exited observer at their location.
+[17:48:37]	Александр Климов entered observer.
+[17:48:51]	Артем Петров exited observer at their location.
+[17:49:00]	Артем Петров entered observer.
+[17:49:38]	Александр Климов exited observer at their location.
+[17:49:38]	Александр Климов has taken 17 damage from npc_combine_s.
+[17:49:38]	Александр Климов has taken 35 damage from npc_combine_s.
+[17:49:38]	Александр Климов has taken 17 damage from npc_combine_s.
+[17:49:38]	Александр Климов has taken 35 damage from npc_combine_s.
+[17:49:38]	npc_combine_s has killed Александр Климов.
+[17:49:40]	Александр Климов entered observer.
+[17:49:42]	Александр Климов exited observer at their location.
+[17:49:43]	Александр Климов has taken 34 damage from npc_combine_s.
+[17:49:43]	Александр Климов has taken 17 damage from npc_combine_s.
+[17:49:43]	Александр Климов has taken 17 damage from npc_combine_s.
+[17:49:43]	Александр Климов has taken 34 damage from npc_combine_s.
+[17:49:43]	npc_combine_s has killed Александр Климов.
+[17:49:47]	Александр Климов ran 'EquipUn' on item 'Форма сопротивления' (#403)
+[17:49:47]	Александр Климов entered observer.
+[17:49:49]	Александр Климов exited observer at their location.
+[17:49:51]	Александр Климов has taken 17 damage from npc_combine_s.
+[17:49:51]	Александр Климов has taken 17 damage from npc_combine_s.
+[17:49:51]	Александр Климов has taken 17 damage from npc_combine_s.
+[17:49:51]	Александр Климов has taken 17 damage from npc_combine_s.
+[17:49:51]	Александр Климов has taken 219 damage from Артем Петров.
+[17:49:51]	Артем Петров has killed Александр Климов with arccw_mifl_fas2_m24.
+[17:49:53]	Александр Климов entered observer.
+[17:49:55]	Александр Климов exited observer at their location.
+[17:50:00]	Александр Климов has taken 16 damage from npc_combine_s.
+[17:50:03]	Артем Петров exited observer at their location.
+[17:50:05]	Александр Климов ran 'Equip' on item 'AK-47' (#402)
+[17:50:08]	Александр Климов has taken 491 damage from Артем Петров.
+[17:50:08]	Артем Петров has killed Александр Климов with arccw_mifl_fas2_m24.
+[17:50:10]	Александр Климов entered observer.
+[17:50:17]	Александр Климов exited observer at their location.
+[17:50:19]	Александр Климов ran 'Equip' on item 'AK-47' (#402)
+[17:50:20]	Александр Климов ran 'Equip' on item 'Форма сопротивления' (#403)
+[17:50:21]	Артем Петров entered observer.
+[17:50:22]	Артем Петров exited observer at their location.
+[17:50:31]	Александр Климов has taken 521 damage from Артем Петров.
+[17:50:31]	Артем Петров has killed Александр Климов with arccw_mifl_fas2_m24.
+[17:50:33]	Александр Климов entered observer.
+[17:50:41]	Артем Петров entered observer.
+[17:50:42]	Артем Петров exited observer at their location.
+[17:50:44]	Артем Петров entered observer.
+[17:50:45]	Артем Петров exited observer at their location.
+[17:50:47]	Александр Климов exited observer at their location.
+[17:51:12]	Артем Петров entered observer.
+[17:51:12]	Артем Петров exited observer at their location.
+[17:51:22]	Александр Климов ran 'drop' on item 'Форма сопротивления' (#403)
+[17:51:22]	Александр Климов has lost a 'Форма сопротивления' #403.
+[17:51:33]	Александр Климов ran 'take' on item 'Форма сопротивления' (#403)
+[17:51:33]	Александр Климов has gained a 'Форма сопротивления' #403.
+[17:51:34]	Александр Климов ran 'Equip' on item 'Форма сопротивления' (#403)
+[17:51:37]	Александр Климов has taken 117 damage from Артем Петров.
+[17:51:37]	Артем Петров has killed Александр Климов with arccw_mifl_fas2_g20.
+[17:51:39]	Александр Климов entered observer.
+[17:51:41]	Александр Климов exited observer at their location.
+[17:51:51]	Александр Климов entered observer.
+[17:51:54]	Александр Климов exited observer at their location.
+[17:51:57]	Александр Климов ran 'Equip' on item 'AK-47' (#402)
+[17:52:01]	Александр Климов has taken 34 damage from npc_combine_s.
+[17:52:01]	Александр Климов has taken 4 damage from npc_combine_s.
+[17:52:01]	Александр Климов has taken 34 damage from npc_combine_s.
+[17:52:02]	Александр Климов has taken 4 damage from npc_combine_s.
+[17:52:03]	Александр Климов has taken 4 damage from npc_combine_s.
+[17:52:03]	Александр Климов has taken 4 damage from npc_combine_s.
+[17:52:03]	Александр Климов has taken 4 damage from npc_combine_s.
+[17:52:03]	Александр Климов has taken 4 damage from npc_combine_s.
+[17:52:04]	Александр Климов has taken 17 damage from npc_combine_s.
+[17:52:04]	npc_combine_s has killed Александр Климов.
+[17:52:06]	Александр Климов entered observer.
+[17:52:12]	Александр Климов exited observer at their location.
+[17:52:13]	Александр Климов entered observer.
+[17:52:20]	Г@H3NK loaded the character 'D47.MPF-OfC.514'
+[17:52:21]	D47.MPF-OfC.514 entered observer.
+[17:52:24]	D47.MPF-OfC.514 exited observer at their location.
+[17:52:24]	D47.MPF-OfC.514 has taken 17 damage from npc_combine_s.
+[17:52:24]	D47.MPF-OfC.514 entered observer.
+[17:52:29]	D47.MPF-OfC.514 exited observer at their location.
+[17:52:38]	D47.MPF-OfC.514 has taken 34 damage from npc_combine_s.
+[17:52:38]	D47.MPF-OfC.514 has taken 17 damage from npc_combine_s.
+[17:52:39]	D47.MPF-OfC.514 has taken 17 damage from npc_combine_s.
+[17:52:39]	D47.MPF-OfC.514 has taken 17 damage from npc_combine_s.
+[17:52:39]	D47.MPF-OfC.514 has taken 17 damage from npc_combine_s.
+[17:52:39]	D47.MPF-OfC.514 has taken 4 damage from npc_combine_s.
+[17:52:39]	D47.MPF-OfC.514 has taken 34 damage from npc_combine_s.
+[17:52:39]	npc_combine_s has killed D47.MPF-OfC.514.
+[17:52:40]	D47.MPF-OfC.514 entered observer.
+[17:52:47]	D47.MPF-OfC.514 exited observer at their location.
+[17:52:49]	D47.MPF-OfC.514 entered observer.
+[17:52:50]	D47.MPF-OfC.514 exited observer at their location.
+[17:53:01]	Артем Петров entered observer.
+[17:53:02]	Артем Петров exited observer at their location.
+[17:53:03]	Артем Петров entered observer.
+[17:53:08]	Артем Петров exited observer at their location.
+[17:53:13]	D47.MPF-OfC.514 has taken 55 damage from Артем Петров.
+[17:53:14]	D47.MPF-OfC.514 ran 'Equip' on item 'Desert Eagle' (#391)
+[17:53:15]	Артем Петров entered observer.
+[17:53:15]	Артем Петров exited observer at their location.
+[17:53:20]	D47.MPF-OfC.514 has taken 54 damage from Артем Петров.
+[17:53:22]	Артем Петров entered observer.
+[17:53:22]	Артем Петров exited observer at their location.
+[17:53:25]	D47.MPF-OfC.514 entered observer.
+[17:53:27]	D47.MPF-OfC.514 exited observer at their location.
+[17:53:27]	D47.MPF-OfC.514 entered observer.
+[17:53:28]	D47.MPF-OfC.514 exited observer at their location.
+[17:53:32]	Артем Петров entered observer.
+[17:53:32]	Артем Петров exited observer at their location.
+[17:53:37]	Артем Петров entered observer.
+[17:53:38]	Артем Петров exited observer at their location.
+[17:53:40]	Артем Петров entered observer.
+[17:53:41]	Артем Петров exited observer at their location.
+[17:53:47]	Артем Петров entered observer.
+[17:53:48]	Артем Петров exited observer at their location.
+[17:53:53]	Артем Петров has taken 10 damage from worldspawn.
+[17:54:00]	D47.MPF-OfC.514 has taken 400 damage from Артем Петров.
+[17:54:00]	Артем Петров has killed D47.MPF-OfC.514 with arccw_mifl_fas2_m24.
+[17:54:01]	Артем Петров entered observer.
+[17:54:01]	Артем Петров exited observer at their location.
+[17:54:03]	D47.MPF-OfC.514 entered observer.
+[17:54:05]	Артем Петров entered observer.
+[17:54:07]	Артем Петров exited observer at their location.
+[17:54:11]	D47.MPF-OfC.514 exited observer at their location.
+[17:54:15]	D47.MPF-OfC.514 entered observer.
+[17:54:19]	D47.MPF-OfC.514 exited observer at their location.
+[17:54:31]	D47.MPF-OfC.514 entered observer.
+[17:54:32]	D47.MPF-OfC.514 exited observer at their location.
+[17:54:32]	D47.MPF-OfC.514 has taken 63 damage from Артем Петров.
+[17:54:32]	D47.MPF-OfC.514 entered observer.
+[17:54:34]	D47.MPF-OfC.514 exited observer at their location.
+[17:54:35]	D47.MPF-OfC.514 entered observer.
+[17:54:36]	D47.MPF-OfC.514 exited observer at their location.
+[17:54:38]	D47.MPF-OfC.514 entered observer.
+[17:54:42]	D47.MPF-OfC.514 exited observer at their location.
+[17:54:54]	D47.MPF-OfC.514 entered observer.
+[17:54:56]	D47.MPF-OfC.514 exited observer at their location.
+[17:54:56]	D47.MPF-OfC.514 entered observer.
+[17:54:57]	D47.MPF-OfC.514 exited observer at their location.
+[17:54:58]	D47.MPF-OfC.514 has taken 35 damage from npc_combine_s.
+[17:54:58]	D47.MPF-OfC.514 has taken 35 damage from npc_combine_s.
+[17:54:58]	D47.MPF-OfC.514 has taken 35 damage from npc_combine_s.
+[17:54:58]	D47.MPF-OfC.514 has taken 17 damage from npc_combine_s.
+[17:54:59]	D47.MPF-OfC.514 has taken 17 damage from npc_combine_s.
+[17:54:59]	npc_combine_s has killed D47.MPF-OfC.514.
+[17:55:04]	Артем Петров has spawned a 'Entity [1890][arccw_ammo_sniper_large]'.
+[17:55:25]	D47.MPF-OfC.514 used command '/BecomeClass mpu'.
+[17:55:26]	Артем Петров entered observer.
+[17:55:27]	Артем Петров exited observer at their location.
+[17:55:31]	D47.MPF-OfC.514 used command '/BecomeClass metropolice_unit'.
+[17:55:35]	D47.MPF-OfC.514 ran 'Equip' on item 'M4' (#398)
+[17:55:47]	Артем Петров entered observer.
+[17:55:48]	Артем Петров exited observer at their location.
+[17:55:50]	Артем Петров entered observer.
+[17:55:50]	Артем Петров exited observer at their location.
+[17:55:54]	D47.MPF-OfC.514 entered observer.
+[17:55:54]	D47.MPF-OfC.514 exited observer at their location.
+[17:56:01]	Артем Петров entered observer.
+[17:56:01]	Артем Петров exited observer at their location.
+[17:56:05]	D47.MPF-OfC.514 has taken 16 damage from npc_combine_s.
+[17:56:18]	Артем Петров entered observer.
+[17:56:18]	Артем Петров exited observer at their location.
+[17:56:25]	D47.MPF-OfC.514 has taken 4 damage from npc_combine_s.
+[17:56:25]	D47.MPF-OfC.514 has taken 16 damage from npc_combine_s.
+[17:56:27]	D47.MPF-OfC.514 has taken 4 damage from npc_combine_s.
+[17:56:30]	D47.MPF-OfC.514 has taken 16 damage from npc_combine_s.
+[17:56:30]	D47.MPF-OfC.514 has taken 16 damage from npc_combine_s.
+[17:56:31]	D47.MPF-OfC.514 has taken 4 damage from npc_combine_s.
+[17:56:32]	D47.MPF-OfC.514 entered observer.
+[17:56:32]	Артем Петров has taken 4 damage from npc_combine_s.
+[17:56:32]	Артем Петров has taken 4 damage from npc_combine_s.
+[17:56:33]	Артем Петров has taken 4 damage from npc_combine_s.
+[17:56:33]	Артем Петров has taken 32 damage from npc_combine_s.
+[17:56:40]	Артем Петров has spawned a 'Entity [1625][item_healthkit]'.
+[17:56:41]	Артем Петров has spawned a 'Entity [1890][item_healthkit]'.
+[17:56:41]	Артем Петров has spawned a 'Entity [1625][item_healthkit]'.
+[17:56:42]	Артем Петров entered observer.
+[17:56:43]	Артем Петров exited observer at their location.
+[17:57:01]	D47.MPF-OfC.514 exited observer at their location.
+[17:57:08]	Артем Петров has taken 13 damage from D47.MPF-OfC.514.
+[17:57:20]	D47.MPF-OfC.514 has gained 50 tokens.
+[17:57:22]	D47.MPF-OfC.514 has taken 472 damage from Артем Петров.
+[17:57:22]	Артем Петров has killed D47.MPF-OfC.514 with arccw_mifl_fas2_m24.
+[17:57:23]	Артем Петров entered observer.
+[17:57:24]	Артем Петров exited observer at their location.
+[17:57:39]	[OOC] D47.MPF-OfC.514: уф
+[17:57:41]	D47.MPF-OfC.514 entered observer.
+[17:57:56]	Артем Петров entered observer.
+[17:57:56]	D47.MPF-OfC.514 exited observer at their location.
+[17:57:56]	Артем Петров exited observer at their location.
+[17:57:57]	D47.MPF-OfC.514 entered observer.
+[17:57:57]	D47.MPF-OfC.514 exited observer at their location.
+[17:57:58]	D47.MPF-OfC.514 entered observer.
+[17:57:59]	D47.MPF-OfC.514 has spawned a 'Entity [2332][gmod_sent_vehicle_fphysics_base]'.
+[17:58:00]	D47.MPF-OfC.514 has spawned a 'Entity [1625][gmod_sent_vehicle_fphysics_base]'.
+[17:58:01]	D47.MPF-OfC.514 exited observer at their location.
+[17:58:04]	Артем Петров entered observer.
+[17:58:05]	Артем Петров exited observer at their location.
+[17:58:05]	Артем Петров entered observer.
+[17:58:06]	Артем Петров exited observer at their location.
+[17:58:08]	Артем Петров entered observer.
+[17:58:09]	Артем Петров exited observer at their location.
+[17:58:19]	D47.MPF-OfC.514 has taken 61 damage from Артем Петров.
+[17:58:20]	D47.MPF-OfC.514 has taken 13 damage from Артем Петров.
+[17:58:23]	D47.MPF-OfC.514 has taken 61 damage from Артем Петров.
+[17:58:24]	D47.MPF-OfC.514 has taken 15 damage from Артем Петров.
+[17:58:24]	D47.MPF-OfC.514 has taken 15 damage from Артем Петров.
+[17:58:24]	D47.MPF-OfC.514 has taken 67 damage from Артем Петров.
+[17:58:24]	Артем Петров has killed D47.MPF-OfC.514 with arccw_mifl_fas2_m1911.
+[17:58:26]	D47.MPF-OfC.514 entered observer.
+[17:58:32]	D47.MPF-OfC.514 exited observer at their location.
+[17:58:42]	D47.MPF-OfC.514 has taken 25 damage from Артем Петров.
+[17:58:44]	D47.MPF-OfC.514 has taken 25 damage from Артем Петров.
+[17:58:49]	D47.MPF-OfC.514 has taken 15 damage from Артем Петров.
+[17:58:52]	D47.MPF-OfC.514 has taken 16 damage from Артем Петров.
+[17:58:52]	D47.MPF-OfC.514 has taken 121 damage from Артем Петров.
+[17:58:52]	Артем Петров has killed D47.MPF-OfC.514 with arccw_mifl_fas2_m1911.
+[17:59:12]	Артем Петров entered observer.
+[17:59:13]	Артем Петров exited observer at their location.
+[17:59:25]	Артем Петров entered observer.
+[17:59:27]	Артем Петров exited observer at their location.
+[17:59:33]	D47.MPF-OfC.514 ran 'Equip' on item 'M4' (#398)
+[17:59:37]	Артем Петров entered observer.
+[17:59:38]	Артем Петров exited observer at their location.
+[17:59:43]	D47.MPF-OfC.514 has taken 4 damage from npc_combine_s.
+[17:59:43]	D47.MPF-OfC.514 has taken 35 damage from npc_combine_s.
+[17:59:43]	D47.MPF-OfC.514 has taken 35 damage from npc_combine_s.
+[17:59:44]	D47.MPF-OfC.514 has taken 17 damage from npc_combine_s.
+[17:59:44]	D47.MPF-OfC.514 has taken 4 damage from npc_combine_s.
+[17:59:44]	D47.MPF-OfC.514 has taken 4 damage from npc_combine_s.
+[17:59:44]	D47.MPF-OfC.514 entered observer.
+[17:59:50]	Артем Петров entered observer.
+[17:59:51]	Артем Петров exited observer at their location.
+[17:59:57]	D47.MPF-OfC.514 exited observer at their location.
+[18:00:00]	D47.MPF-OfC.514 has taken 10 damage from npc_combine_s.
+[18:00:01]	D47.MPF-OfC.514 has taken 10 damage from npc_combine_s.
+[18:00:02]	D47.MPF-OfC.514 has taken 232 damage from Артем Петров.
+[18:00:02]	Артем Петров has killed D47.MPF-OfC.514 with arccw_mifl_fas2_m24.
+[18:00:18]	Артем Петров entered observer.
+[18:00:19]	Артем Петров exited observer at their location.
+[18:00:19]	D47.MPF-OfC.514 entered observer.
+[18:00:24]	D47.MPF-OfC.514 exited observer at their location.
+[18:00:25]	D47.MPF-OfC.514 has taken 3 damage from npc_combine_s.
+[18:00:25]	D47.MPF-OfC.514 has taken 6 damage from npc_combine_s.
+[18:00:26]	D47.MPF-OfC.514 has taken 6 damage from npc_combine_s.
+[18:00:26]	D47.MPF-OfC.514 has taken 6 damage from npc_combine_s.
+[18:00:27]	D47.MPF-OfC.514 has taken 3 damage from npc_combine_s.
+[18:00:27]	D47.MPF-OfC.514 has taken 3 damage from npc_combine_s.
+[18:00:27]	D47.MPF-OfC.514 has taken 6 damage from npc_combine_s.
+[18:00:28]	Артем Петров entered observer.
+[18:00:28]	Артем Петров exited observer at their location.
+[18:00:41]	Артем Петров entered observer.
+[18:00:42]	Артем Петров exited observer at their location.
+[18:00:43]	D47.MPF-OfC.514 entered observer.
+[18:00:43]	D47.MPF-OfC.514 exited observer at their location.
+[18:00:44]	D47.MPF-OfC.514 has taken 50 damage from Артем Петров.
+[18:00:47]	Артем Петров entered observer.
+[18:00:47]	Артем Петров exited observer at their location.
+[18:00:50]	Артем Петров entered observer.
+[18:00:50]	Артем Петров exited observer at their location.
+[18:00:52]	Артем Петров entered observer.
+[18:00:53]	Артем Петров exited observer at their location.
+[18:00:57]	Артем Петров entered observer.
+[18:00:57]	Артем Петров exited observer at their location.
+[18:00:59]	Артем Петров entered observer.
+[18:01:04]	Артем Петров exited observer at their location.
+[18:01:04]	D47.MPF-OfC.514 has taken 400 damage from Артем Петров.
+[18:01:04]	Артем Петров has killed D47.MPF-OfC.514 with arccw_mifl_fas2_m24.
+[18:01:05]	Артем Петров entered observer.
+[18:01:06]	D47.MPF-OfC.514 entered observer.
+[18:01:10]	D47.MPF-OfC.514 exited observer at their location.
+[18:01:10]	Артем Петров exited observer at their location.
+[18:01:29]	D47.MPF-OfC.514 has taken 50 damage from Артем Петров.
+[18:01:32]	D47.MPF-OfC.514 has taken 10 damage from worldspawn.
+[18:01:36]	D47.MPF-OfC.514 has taken 243 damage from Артем Петров.
+[18:01:36]	Артем Петров has killed D47.MPF-OfC.514 with arccw_mifl_fas2_m24.
+[18:01:47]	D47.MPF-OfC.514 ran 'Equip' on item 'M4' (#398)
+[18:01:52]	Артем Петров entered observer.
+[18:01:53]	Артем Петров exited observer at their location.
+[18:01:55]	Артем Петров entered observer.
+[18:01:56]	Артем Петров exited observer at their location.
+[18:02:02]	D47.MPF-OfC.514 has taken 62 damage from Артем Петров.
+[18:02:20]	D47.MPF-OfC.514 has gained 50 tokens.
+[18:02:33]	Артем Петров entered observer.
+[18:02:34]	Артем Петров exited observer at their location.
+[18:02:39]	Артем Петров entered observer.
+[18:02:40]	Артем Петров exited observer at their location.
+[18:03:04]	Артем Петров has spawned a 'Entity [1097][arccw_ammo_pistol_large]'.
+[18:03:05]	Артем Петров entered observer.
+[18:03:06]	Артем Петров exited observer at their location.
+[18:03:22]	Артем Петров entered observer.
+[18:03:22]	D47.MPF-OfC.514 used command '/CharGiveItem D47 granede'.
+[18:03:25]	Артем Петров exited observer at their location.
+[18:03:26]	Артем Петров entered observer.
+[18:03:27]	Артем Петров exited observer at their location.
+[18:03:28]	D47.MPF-OfC.514 has gained a 'Граната' #405.
+[18:03:28]	D47.MPF-OfC.514 used command '/CharGiveItem D47 grenade'.
+[18:03:29]	D47.MPF-OfC.514 has gained a 'Граната' #406.
+[18:03:29]	D47.MPF-OfC.514 used command '/CharGiveItem D47 grenade'.
+[18:03:30]	D47.MPF-OfC.514 has gained a 'Граната' #407.
+[18:03:30]	D47.MPF-OfC.514 used command '/CharGiveItem D47 grenade'.
+[18:03:32]	D47.MPF-OfC.514 ran 'Equip' on item 'Граната' (#405)
+[18:03:34]	Артем Петров entered observer.
+[18:03:35]	Артем Петров exited observer at their location.
+[18:03:41]	D47.MPF-OfC.514 ran 'EquipUn' on item 'M4' (#398)
+[18:03:42]	D47.MPF-OfC.514 ran 'Equip' on item 'M4' (#398)
+[18:03:42]	D47.MPF-OfC.514 ran 'Equip' on item 'Desert Eagle' (#391)
+[18:03:43]	Артем Петров entered observer.
+[18:03:44]	Артем Петров exited observer at their location.
+[18:03:51]	Артем Петров entered observer.
+[18:03:52]	Артем Петров exited observer at their location.
+[18:03:57]	Артем Петров entered observer.
+[18:03:58]	Артем Петров exited observer at their location.
+[18:03:59]	Артем Петров entered observer.
+[18:04:00]	Артем Петров exited observer at their location.
+[18:04:08]	Артем Петров entered observer.
+[18:04:09]	Артем Петров exited observer at their location.
+[18:04:13]	Артем Петров entered observer.
+[18:04:14]	Артем Петров exited observer at their location.
+[18:04:19]	Артем Петров entered observer.
+[18:04:19]	Артем Петров exited observer at their location.
+[18:04:21]	Артем Петров entered observer.
+[18:04:21]	Артем Петров exited observer at their location.
+[18:04:25]	Артем Петров entered observer.
+[18:04:26]	Артем Петров exited observer at their location.
+[18:04:28]	Артем Петров has taken 23 damage from D47.MPF-OfC.514.
+[18:04:33]	Артем Петров entered observer.
+[18:04:33]	Артем Петров exited observer at their location.
+[18:04:34]	Артем Петров entered observer.
+[18:04:35]	Артем Петров exited observer at their location.
+[18:04:36]	D47.MPF-OfC.514 ran 'Equip' on item 'Граната' (#406)
+[18:04:41]	Артем Петров entered observer.
+[18:04:41]	Артем Петров exited observer at their location.
+[18:04:45]	D47.MPF-OfC.514 ran 'Equip' on item 'Граната' (#407)
+[18:05:00]	Артем Петров has spawned a 'Entity [3447][ent_jack_gmod_ezsmokenade]'.
+[18:05:08]	Артем Петров has taken 14 damage from D47.MPF-OfC.514.
+[18:05:08]	Артем Петров has taken 58 damage from D47.MPF-OfC.514.
+[18:05:08]	D47.MPF-OfC.514 has killed Артем Петров with arccw_m4a1.
+[18:06:08]	Артем Петров entered observer.
+[18:06:08]	Артем Петров exited observer at their location.
+[18:06:11]	Артем Петров entered observer.
+[18:06:12]	Артем Петров exited observer at their location.
+[18:06:15]	D47.MPF-OfC.514 has taken 28 damage from Артем Петров.
+[18:06:17]	D47.MPF-OfC.514 has taken 109 damage from Артем Петров.
+[18:06:17]	Артем Петров has killed D47.MPF-OfC.514 with arccw_mifl_fas2_g3.
+[18:06:19]	Артем Петров entered observer.
+[18:06:19]	Артем Петров exited observer at their location.
+[18:06:24]	D47.MPF-OfC.514 ran 'Equip' on item 'M4' (#398)
+[18:06:30]	D47.MPF-OfC.514 used the 'Склад Снаряжения' vendor.
+[18:06:32]	D47.MPF-OfC.514 has gained 0 tokens.
+[18:06:32]	D47.MPF-OfC.514 has gained a 'Граната' #405.
+[18:06:33]	D47.MPF-OfC.514 has gained 0 tokens.
+[18:06:33]	D47.MPF-OfC.514 has gained a 'Граната' #406.
+[18:06:33]	Артем Петров entered observer.
+[18:06:33]	D47.MPF-OfC.514 has gained 0 tokens.
+[18:06:33]	D47.MPF-OfC.514 has gained a 'Граната' #407.
+[18:06:33]	Артем Петров exited observer at their location.
+[18:06:42]	Артем Петров entered observer.
+[18:06:43]	Артем Петров exited observer at their location.
+[18:07:18]	D47.MPF-OfC.514 ran 'Equip' on item 'Граната' (#405)
+[18:07:19]	Артем Петров entered observer.
+[18:07:20]	Артем Петров exited observer at their location.
+[18:07:20]	D47.MPF-OfC.514 has gained 50 tokens.
+[18:07:28]	Артем Петров entered observer.
+[18:07:28]	Артем Петров exited observer at their location.
+[18:07:39]	D47.MPF-OfC.514 ran 'Equip' on item 'Граната' (#406)
+[18:07:40]	Артем Петров entered observer.
+[18:07:41]	Артем Петров exited observer at their location.
+[18:07:53]	Артем Петров entered observer.
+[18:07:54]	Артем Петров exited observer at their location.
+[18:08:10]	Артем Петров entered observer.
+[18:08:11]	Артем Петров exited observer at their location.
+[18:08:17]	Артем Петров entered observer.
+[18:08:17]	Артем Петров exited observer at their location.
+[18:08:19]	D47.MPF-OfC.514 has taken 27 damage from Артем Петров.
+[18:08:22]	Артем Петров entered observer.
+[18:08:23]	Артем Петров exited observer at their location.
+[18:08:24]	Артем Петров entered observer.
+[18:08:24]	Артем Петров exited observer at their location.
+[18:08:28]	Артем Петров entered observer.
+[18:08:28]	Артем Петров exited observer at their location.
+[18:08:54]	Артем Петров has taken 13 damage from D47.MPF-OfC.514.
+[18:08:54]	Артем Петров has taken 52 damage from D47.MPF-OfC.514.
+[18:09:10]	D47.MPF-OfC.514 has taken 25 damage from Артем Петров.
+[18:09:16]	D47.MPF-OfC.514 ran 'Equip' on item 'Граната' (#407)
+[18:09:19]	D47.MPF-OfC.514 has taken 25 damage from Артем Петров.
+[18:09:21]	D47.MPF-OfC.514 has taken 25 damage from Артем Петров.
+[18:09:22]	D47.MPF-OfC.514 has taken 6 damage from Артем Петров.
+[18:09:22]	D47.MPF-OfC.514 has taken 25 damage from Артем Петров.
+[18:09:22]	D47.MPF-OfC.514 has taken 6 damage from Артем Петров.
+[18:09:22]	D47.MPF-OfC.514 has taken 6 damage from Артем Петров.
+[18:09:22]	D47.MPF-OfC.514 has taken 25 damage from Артем Петров.
+[18:09:22]	D47.MPF-OfC.514 has taken 6 damage from Артем Петров.
+[18:09:22]	D47.MPF-OfC.514 has taken 25 damage from Артем Петров.
+[18:09:22]	Артем Петров has killed D47.MPF-OfC.514 with arccw_mifl_fas2_ks23.
+[18:09:31]	D47.MPF-OfC.514 ran 'Equip' on item 'M4' (#398)
+[18:09:57]	Артем Петров entered observer.
+[18:09:57]	Артем Петров exited observer at their location.
+[18:10:00]	D47.MPF-OfC.514 has gained a 'Граната' #405.
+[18:10:00]	D47.MPF-OfC.514 used command '/CharGiveItem D47 grenade'.
+[18:10:00]	Артем Петров entered observer.
+[18:10:00]	D47.MPF-OfC.514 has gained a 'Граната' #406.
+[18:10:00]	D47.MPF-OfC.514 used command '/CharGiveItem D47 grenade'.
+[18:10:01]	Артем Петров exited observer at their location.
+[18:10:01]	Артем Петров entered observer.
+[18:10:02]	D47.MPF-OfC.514 ran 'Equip' on item 'Граната' (#405)
+[18:10:33]	D47.MPF-OfC.514 ran 'Equip' on item 'Граната' (#406)
+[18:10:54]	Артем Петров exited observer at their location.
+[18:10:59]	Артем Петров entered observer.
+[18:11:00]	Артем Петров exited observer at their location.
+[18:11:05]	Артем Петров entered observer.
+[18:11:05]	Артем Петров exited observer at their location.
+[18:11:07]	Артем Петров entered observer.
+[18:11:09]	Артем Петров exited observer at their location.
+[18:11:13]	Артем Петров entered observer.
+[18:11:13]	Артем Петров exited observer at their location.
+[18:11:18]	Артем Петров entered observer.
+[18:11:20]	Артем Петров exited observer at their location.
+[18:11:26]	Артем Петров entered observer.
+[18:11:31]	Артем Петров exited observer at their location.
+[18:11:38]	D47.MPF-OfC.514 has taken 4 damage from Артем Петров.
+[18:11:56]	Артем Петров entered observer.
+[18:11:56]	D47.MPF-OfC.514 has gained a 'Граната' #405.
+[18:11:56]	D47.MPF-OfC.514 used command '/CharGiveItem D47 grenade'.
+[18:11:56]	Артем Петров exited observer at their location.
+[18:11:59]	D47.MPF-OfC.514 ran 'Equip' on item 'Граната' (#405)
+[18:12:08]	Артем Петров entered observer.
+[18:12:08]	Артем Петров exited observer at their location.
+[18:12:17]	Артем Петров entered observer.
+[18:12:18]	Артем Петров exited observer at their location.
+[18:12:20]	D47.MPF-OfC.514 has gained 50 tokens.
+[18:12:22]	Артем Петров entered observer.
+[18:12:23]	Артем Петров exited observer at their location.
+[18:12:34]	D47.MPF-OfC.514 has taken 29 damage from Артем Петров.
+[18:12:36]	D47.MPF-OfC.514 has taken 29 damage from Артем Петров.
+[18:12:36]	D47.MPF-OfC.514 has taken 233 damage from Артем Петров.
+[18:12:36]	Артем Петров has killed D47.MPF-OfC.514 with arccw_mifl_fas2_g3.
+[18:12:38]	D47.MPF-OfC.514 entered observer.
+[18:12:39]	Артем Петров entered observer.
+[18:12:40]	Артем Петров exited observer at their location.
+[18:12:50]	D47.MPF-OfC.514 exited observer at their location.
+[18:12:55]	D47.MPF-OfC.514 ran 'Equip' on item 'M4' (#398)
+[18:12:57]	Артем Петров entered observer.
+[18:12:58]	Артем Петров exited observer at their location.
+[18:12:59]	Артем Петров entered observer.
+[18:13:00]	D47.MPF-OfC.514 has gained a 'Граната' #405.
+[18:13:00]	D47.MPF-OfC.514 used command '/CharGiveItem D47 grenade'.
+[18:13:00]	D47.MPF-OfC.514 has gained a 'Граната' #406.
+[18:13:00]	D47.MPF-OfC.514 used command '/CharGiveItem D47 grenade'.
+[18:13:02]	D47.MPF-OfC.514 ran 'Equip' on item 'Граната' (#405)
+[18:13:17]	Артем Петров exited observer at their location.
+[18:13:18]	D47.MPF-OfC.514 ran 'Equip' on item 'Граната' (#406)
+[18:13:29]	Артем Петров entered observer.
+[18:13:30]	Артем Петров exited observer at their location.
+[18:13:33]	Артем Петров entered observer.
+[18:13:34]	Артем Петров exited observer at their location.
+[18:13:34]	Артем Петров entered observer.
+[18:13:38]	Артем Петров exited observer at their location.
+[18:13:46]	Артем Петров entered observer.
+[18:13:46]	Артем Петров exited observer at their location.
+[18:13:46]	Артем Петров entered observer.
+[18:13:47]	Артем Петров exited observer at their location.
+[18:13:50]	Артем Петров has taken 57 damage from D47.MPF-OfC.514.
+[18:13:50]	Артем Петров has taken 57 damage from D47.MPF-OfC.514.
+[18:13:50]	D47.MPF-OfC.514 has killed Артем Петров with arccw_m4a1.
+[18:14:47]	Артем Петров used command '/CharSetModel Артем models/humans/group03m/male_61.mdl'.
+[18:15:01]	Артем Петров entered observer.
+[18:15:06]	Артем Петров exited observer at their location.
+[18:15:09]	Артем Петров entered observer.
+[18:15:09]	Артем Петров exited observer at their location.
+[18:15:18]	[Y] Артем Петров: ОТСОСИ!
+[18:15:18]	Артем Петров entered observer.
+[18:15:19]	Артем Петров exited observer at their location.
+[18:15:31]	Артем Петров entered observer.
+[18:15:31]	Артем Петров exited observer at their location.
+[18:15:35]	Артем Петров entered observer.
+[18:15:35]	Артем Петров exited observer at their location.
+[18:15:40]	D47.MPF-OfC.514 has gained a 'Граната' #405.
+[18:15:40]	D47.MPF-OfC.514 has gained a 'Граната' #406.
+[18:15:40]	D47.MPF-OfC.514 has gained a 'Граната' #407.
+[18:15:40]	D47.MPF-OfC.514 has gained a 'Граната' #408.
+[18:15:40]	D47.MPF-OfC.514 has gained a 'Граната' #409.
+[18:15:40]	D47.MPF-OfC.514 used command '/CharGiveItem D47 grenade 5'.
+[18:15:42]	D47.MPF-OfC.514 ran 'Equip' on item 'Граната' (#406)
+[18:15:47]	[Y] Артем Петров: Сосите! Давайте!
+[18:15:47]	Артем Петров entered observer.
+[18:15:48]	Артем Петров exited observer at their location.
+[18:15:53]	Артем Петров entered observer.
+[18:15:53]	Артем Петров exited observer at their location.
+[18:15:58]	Артем Петров entered observer.
+[18:15:58]	Артем Петров exited observer at their location.
+[18:16:04]	Артем Петров entered observer.
+[18:16:13]	Артем Петров exited observer at their location.
+[18:16:15]	Артем Петров entered observer.
+[18:16:19]	D47.MPF-OfC.514 ran 'Equip' on item 'Граната' (#405)
+[18:16:21]	Артем Петров exited observer at their location.
+[18:16:24]	Артем Петров entered observer.
+[18:16:26]	Артем Петров exited observer at their location.
+[18:16:31]	D47.MPF-OfC.514 has taken 55 damage from Артем Петров.
+[18:16:31]	D47.MPF-OfC.514 has taken 55 damage from Артем Петров.
+[18:16:31]	Артем Петров entered observer.
+[18:16:32]	Артем Петров exited observer at their location.
+[18:16:40]	Артем Петров entered observer.
+[18:16:40]	Артем Петров exited observer at their location.
+[18:16:47]	Артем Петров entered observer.
+[18:16:48]	Артем Петров exited observer at their location.
+[18:16:50]	Артем Петров entered observer.
+[18:16:53]	Артем Петров exited observer at their location.
+[18:16:55]	D47.MPF-OfC.514 has taken 59 damage from Артем Петров.
+[18:16:55]	D47.MPF-OfC.514 has taken 59 damage from Артем Петров.
+[18:16:55]	Артем Петров has killed D47.MPF-OfC.514 with arccw_mifl_fas2_toz34.
+[18:17:11]	[Y] Артем Петров: Хаха! Сосать,ебанные ГО-шники сука!
+[18:17:16]	[OOC] D47.MPF-OfC.514: Нихуя ты, я обосрался :D
+[18:17:20]	Артем Петров has spawned a 'Entity [1095][arccw_ammo_buckshot]'.
+[18:17:21]	D47.MPF-OfC.514 has gained 50 tokens.
+[18:17:22]	Артем Петров entered observer.
+[18:17:22]	Артем Петров exited observer at their location.
+[18:17:26]	D47.MPF-OfC.514 ran 'Equip' on item 'M4' (#398)
+[18:17:27]	Артем Петров entered observer.
+[18:17:28]	Артем Петров exited observer at their location.
+[18:17:43]	Артем Петров entered observer.
+[18:18:49]	D47.MPF-OfC.514 has spawned a 'Entity [3449][ent_jack_gmod_ezarmor_riot]'.
+[18:19:41]	D47.MPF-OfC.514 ran 'Equip' on item 'Граната' (#409)
+[18:19:42]	Артем Петров exited observer at their location.
+[18:19:44]	Артем Петров entered observer.
+[18:19:44]	Артем Петров exited observer at their location.
+[18:19:48]	Артем Петров entered observer.
+[18:19:48]	Артем Петров exited observer at their location.
+[18:19:50]	Артем Петров entered observer.
+[18:19:52]	Артем Петров exited observer at their location.
+[18:19:54]	Артем Петров entered observer.
+[18:19:55]	Артем Петров exited observer at their location.
+[18:19:56]	Артем Петров entered observer.
+[18:20:00]	Артем Петров exited observer at their location.
+[18:20:03]	Артем Петров entered observer.
+[18:20:03]	Артем Петров exited observer at their location.
+[18:20:06]	Артем Петров entered observer.
+[18:20:08]	Артем Петров exited observer at their location.
+[18:20:11]	Артем Петров entered observer.
+[18:20:17]	D47.MPF-OfC.514 entered observer.
+[18:20:27]	Артем Петров exited observer at their location.
+[18:20:39]	D47.MPF-OfC.514 exited observer at their location.
+[18:20:48]	Артем Петров entered observer.
+[18:20:54]	Артем Петров exited observer at their location.
+[18:20:57]	Артем Петров entered observer.
+[18:21:02]	D47.MPF-OfC.514 ran 'Equip' on item 'Граната' (#408)
+[18:21:05]	Артем Петров exited observer at their location.
+[18:21:14]	D47.MPF-OfC.514 ran 'Equip' on item 'Граната' (#407)
+[18:21:25]	Артем Петров entered observer.
+[18:21:25]	Артем Петров exited observer at their location.
+[18:21:34]	Артем Петров has spawned a 'NPC [3447][npc_citizen]'.
+[18:21:35]	Артем Петров entered observer.
+[18:21:37]	Артем Петров has spawned a 'NPC [3455][npc_citizen]'.
+[18:21:41]	Артем Петров has spawned a 'NPC [3458][npc_citizen]'.
+[18:21:51]	D47.MPF-OfC.514 has gained a 'Граната' #405.
+[18:21:51]	D47.MPF-OfC.514 has gained a 'Граната' #406.
+[18:21:51]	D47.MPF-OfC.514 has gained a 'Граната' #407.
+[18:21:51]	D47.MPF-OfC.514 has gained a 'Граната' #408.
+[18:21:51]	D47.MPF-OfC.514 has gained a 'Граната' #409.
+[18:21:51]	D47.MPF-OfC.514 used command '/CharGiveItem D47 grenade 5'.
+[18:21:53]	D47.MPF-OfC.514 ran 'Equip' on item 'Граната' (#406)
+[18:22:21]	D47.MPF-OfC.514 has gained 50 tokens.
+[18:22:26]	D47.MPF-OfC.514 ran 'Equip' on item 'Граната' (#405)
+[18:22:53]	Артем Петров has spawned a 'NPC [3445][npc_citizen]'.
+[18:22:59]	Артем Петров has spawned a 'NPC [3455][npc_citizen]'.
+[18:23:01]	Артем Петров has spawned a 'NPC [3461][npc_citizen]'.
+[18:23:33]	Артем Петров exited observer at their location.
+[18:23:34]	Артем Петров entered observer.
+[18:23:37]	Артем Петров exited observer at their location.
+[18:23:37]	Артем Петров entered observer.
+[18:23:38]	Артем Петров exited observer at their location.
+[18:23:59]	Артем Петров entered observer.
+[18:24:06]	D47.MPF-EpU.514 used command '/CharSetName D47 D47.MPF-EpU.514'.
+[18:24:11]	Артем Петров exited observer at their location.
+[18:24:18]	Артем Петров entered observer.
+[18:24:18]	Артем Петров exited observer at their location.
+[18:24:20]	Артем Петров entered observer.
+[18:24:30]	Артем Петров exited observer at their location.
+[18:24:33]	Артем Петров entered observer.
+[18:24:33]	Артем Петров exited observer at their location.
+[18:24:35]	Артем Петров entered observer.
+[18:24:38]	Артем Петров exited observer at their location.
+[18:24:40]	Артем Петров entered observer.
+[18:24:41]	Артем Петров exited observer at their location.
+[18:24:43]	Артем Петров entered observer.
+[18:24:43]	Артем Петров exited observer at their location.
+[18:24:46]	D47.MPF-EpU.514 has taken 57 damage from Артем Петров.
+[18:24:46]	D47.MPF-EpU.514 has taken 29 damage from Артем Петров.
+[18:24:46]	D47.MPF-EpU.514 has taken 58 damage from Артем Петров.
+[18:24:46]	D47.MPF-EpU.514 has taken 58 damage from Артем Петров.
+[18:24:46]	Артем Петров has killed D47.MPF-EpU.514 with arccw_mifl_fas2_toz34.
+[18:24:48]	D47.MPF-EpU.514 entered observer.
+[18:25:12]	D47.MPF-EpU.514 exited observer at their location.
+[18:25:16]	D47.MPF-EpU.514 ran 'Equip' on item 'M4' (#398)
+[18:25:16]	D47.MPF-EpU.514 ran 'Equip' on item 'Desert Eagle' (#391)
+[18:25:20]	[Y] Артем Петров: Я СДАЮСЬ!
+[18:25:29]	Артем Петров used command '/ActArrest'.
+[18:25:31]	Артем Петров used command '/ExitAct'.
+[18:25:33]	Артем Петров used command '/ActArrest 2'.
+[18:25:34]	Артем Петров used command '/ExitAct'.
+[18:25:38]	Артем Петров used command '/ActArrestWall'.
+[18:25:42]	Артем Петров used command '/ActArrestWall'.
+[18:25:55]	Артем Петров used command '/ExitAct'.
+[18:26:18]	Артем Петров entered observer.
+[18:26:19]	Артем Петров exited observer at their location.
+[18:26:23]	Артем Петров entered observer.
+[18:26:24]	Артем Петров exited observer at their location.
+[18:26:25]	Артем Петров has taken 95 damage from D47.MPF-EpU.514.
+[18:26:26]	D47.MPF-EpU.514 has taken 28 damage from Артем Петров.
+[18:26:26]	D47.MPF-EpU.514 has taken 28 damage from Артем Петров.
+[18:26:26]	D47.MPF-EpU.514 has taken 7 damage from Артем Петров.
+[18:26:26]	D47.MPF-EpU.514 has taken 28 damage from Артем Петров.
+[18:26:26]	D47.MPF-EpU.514 has taken 7 damage from Артем Петров.
+[18:26:29]	Артем Петров entered observer.
+[18:26:30]	Артем Петров exited observer at their location.
+[18:26:43]	Артем Петров entered observer.
+[18:26:44]	Артем Петров exited observer at their location.
+[18:26:48]	D47.MPF-EpU.514 has taken 163 damage from Артем Петров.
+[18:26:48]	Артем Петров has killed D47.MPF-EpU.514 with arccw_mifl_fas2_ragingbull.
+[18:26:50]	Артем Петров entered observer.
+[18:26:50]	Артем Петров exited observer at their location.
+[18:27:00]	[OOC] D47.MPF-EpU.514: Чего?
+[18:27:00]	D47.MPF-EpU.514 entered observer.
+[18:27:01]	D47.MPF-EpU.514 exited observer at their location.
+[18:27:13]	Артем Петров entered observer.
+[18:27:13]	Артем Петров exited observer at their location.
+[18:27:19]	[OOC] D47.MPF-EpU.514: Ты чтото говорил я не услышал
+[18:27:20]	D47.MPF-EpU.514 entered observer.
+[18:27:21]	D47.MPF-EpU.514 has gained 50 tokens.
+[18:27:27]	[OOC] Артем Петров: Обманка на лоха
+[18:27:28]	Артем Петров entered observer.
+[18:27:30]	Артем Петров exited observer at their location.
+[18:27:30]	Артем Петров entered observer.
+[18:27:34]	Артем Петров exited observer at their location.
+[18:27:37]	[OOC] D47.MPF-EpU.514: Аааа
+[18:27:40]	D47.MPF-EpU.514 exited observer at their location.
+[18:27:58]	Артем Петров entered observer.
+[18:27:58]	Артем Петров exited observer at their location.
+[18:28:04]	Артем Петров entered observer.
+[18:28:05]	Артем Петров exited observer at their location.
+[18:28:05]	D47.MPF-EpU.514 ran 'Equip' on item 'M4' (#398)
+[18:28:18]	Артем Петров entered observer.
+[18:28:19]	Артем Петров exited observer at their location.
+[18:28:35]	D47.MPF-EpU.514 has taken 36 damage from Артем Петров.
+[18:28:42]	Артем Петров entered observer.
+[18:28:43]	Артем Петров exited observer at their location.
+[18:28:43]	Артем Петров entered observer.
+[18:28:43]	Артем Петров exited observer at their location.
+[18:29:04]	D47.MPF-EpU.514 ran 'Equip' on item 'Граната' (#409)
+[18:29:17]	Артем Петров entered observer.
+[18:29:18]	Артем Петров exited observer at their location.
+[18:29:33]	Артем Петров entered observer.
+[18:29:34]	Артем Петров exited observer at their location.
+[18:29:37]	Артем Петров entered observer.
+[18:29:37]	Артем Петров exited observer at their location.
+[18:29:47]	Артем Петров has spawned a 'Entity [3458][arccw_ammo_357]'.
+[18:29:48]	D47.MPF-EpU.514 ran 'Equip' on item 'Граната' (#408)
+[18:29:49]	Артем Петров entered observer.
+[18:29:51]	Артем Петров exited observer at their location.
+[18:29:53]	Артем Петров entered observer.
+[18:29:54]	Артем Петров exited observer at their location.
+[18:29:56]	Артем Петров entered observer.
+[18:29:57]	Артем Петров exited observer at their location.
+[18:29:59]	D47.MPF-EpU.514 has taken 160 damage from Артем Петров.
+[18:30:00]	Артем Петров entered observer.
+[18:30:01]	Артем Петров exited observer at their location.
+[18:30:05]	Артем Петров has taken 58 damage from D47.MPF-EpU.514.
+[18:30:05]	D47.MPF-EpU.514 has killed Артем Петров with arccw_m4a1.
+[18:30:53]	D47.MPF-EpU.514 used the 'Стойка' vendor.
+[18:30:55]	D47.MPF-EpU.514 has lost 500 tokens.
+[18:30:55]	D47.MPF-EpU.514 has gained a 'Benelli M3 Super 90' #408.
+[18:31:00]	D47.MPF-EpU.514 ran 'drop' on item 'Benelli M3 Super 90' (#408)
+[18:31:00]	D47.MPF-EpU.514 has lost a 'Benelli M3 Super 90' #408.
+[18:31:02]	D47.MPF-EpU.514 ran 'take' on item 'Benelli M3 Super 90' (#408)
+[18:31:02]	D47.MPF-EpU.514 has gained a 'Benelli M3 Super 90' #408.
+[18:31:06]	D47.MPF-EpU.514 ran 'EquipUn' on item 'M4' (#398)
+[18:31:08]	D47.MPF-EpU.514 ran 'Equip' on item 'Benelli M3 Super 90' (#408)
+[18:31:17]	Артем Петров entered observer.
+[18:31:19]	Артем Петров exited observer at their location.
+[18:31:20]	Артем Петров entered observer.
+[18:31:34]	Артем Петров exited observer at their location.
+[18:31:42]	Артем Петров entered observer.
+[18:31:42]	Артем Петров exited observer at their location.
+[18:31:54]	Артем Петров entered observer.
+[18:31:55]	Артем Петров exited observer at their location.
+[18:32:02]	Артем Петров entered observer.
+[18:32:02]	D47.MPF-EpU.514 ran 'Equip' on item 'Граната' (#407)
+[18:32:03]	Артем Петров exited observer at their location.
+[18:32:09]	D47.MPF-EpU.514 ran 'Equip' on item 'Desert Eagle' (#391)
+[18:32:11]	Артем Петров entered observer.
+[18:32:24]	D47.MPF-EpU.514 has gained 50 tokens.
+[18:32:45]	Артем Петров exited observer at their location.
+[18:32:46]	D47.MPF-EpU.514 has taken 210 damage from Артем Петров.
+[18:32:46]	Артем Петров has killed D47.MPF-EpU.514 with arccw_mifl_fas2_ak47.
+[18:32:47]	Артем Петров entered observer.
+[18:32:55]	Артем Петров exited observer at their location.
+[18:32:57]	Артем Петров entered observer.
+[18:32:57]	Артем Петров exited observer at their location.
+[18:33:01]	Артем Петров entered observer.
+[18:33:01]	D47.MPF-EpU.514 ran 'Equip' on item 'Benelli M3 Super 90' (#408)
+[18:33:02]	Артем Петров exited observer at their location.
+[18:33:05]	Артем Петров entered observer.
+[18:33:15]	Артем Петров exited observer at their location.
+[18:33:19]	Артем Петров entered observer.
+[18:33:23]	Артем Петров exited observer at their location.
+[18:33:24]	Артем Петров entered observer.
+[18:33:29]	Артем Петров exited observer at their location.
+[18:33:30]	Артем Петров entered observer.
+[18:33:31]	Артем Петров exited observer at their location.
+[18:33:32]	Артем Петров entered observer.
+[18:33:50]	Артем Петров exited observer at their location.
+[18:33:52]	Артем Петров has taken 6 damage from D47.MPF-EpU.514.
+[18:33:52]	Артем Петров has taken 6 damage from D47.MPF-EpU.514.
+[18:33:52]	Артем Петров has taken 6 damage from D47.MPF-EpU.514.
+[18:33:52]	Артем Петров has taken 6 damage from D47.MPF-EpU.514.
+[18:33:52]	Артем Петров has taken 25 damage from D47.MPF-EpU.514.
+[18:33:52]	Артем Петров has taken 25 damage from D47.MPF-EpU.514.
+[18:33:52]	Артем Петров has taken 6 damage from D47.MPF-EpU.514.
+[18:33:52]	D47.MPF-EpU.514 has taken 12 damage from Артем Петров.
+[18:33:52]	D47.MPF-EpU.514 has taken 18 damage from Артем Петров.
+[18:33:52]	D47.MPF-EpU.514 has taken 13 damage from Артем Петров.
+[18:33:52]	D47.MPF-EpU.514 has taken 15 damage from Артем Петров.
+[18:33:52]	D47.MPF-EpU.514 has taken 15 damage from Артем Петров.
+[18:33:52]	D47.MPF-EpU.514 has taken 15 damage from Артем Петров.
+[18:33:52]	D47.MPF-EpU.514 has taken 13 damage from Артем Петров.
+[18:33:52]	D47.MPF-EpU.514 has taken 4 damage from Артем Петров.
+[18:33:53]	D47.MPF-EpU.514 has taken 14 damage from Артем Петров.
+[18:33:53]	D47.MPF-EpU.514 has taken 14 damage from Артем Петров.
+[18:33:53]	D47.MPF-EpU.514 has taken 12 damage from Артем Петров.
+[18:33:53]	D47.MPF-EpU.514 has taken 14 damage from Артем Петров.
+[18:33:53]	D47.MPF-EpU.514 has taken 14 damage from Артем Петров.
+[18:33:53]	D47.MPF-EpU.514 has taken 15 damage from Артем Петров.
+[18:33:54]	D47.MPF-EpU.514 has taken 14 damage from Артем Петров.
+[18:33:54]	Артем Петров has killed D47.MPF-EpU.514 with weapon_minigun.
+[18:33:55]	Артем Петров entered observer.
+[18:33:56]	Артем Петров exited observer at their location.
+[18:34:01]	D47.MPF-EpU.514 ran 'Equip' on item 'Desert Eagle' (#391)
+[18:34:12]	Артем Петров has taken 91 damage from D47.MPF-EpU.514.
+[18:34:12]	D47.MPF-EpU.514 has killed Артем Петров with arccw_deagle357.
+[18:34:14]	Артем Петров entered observer.
+[18:34:22]	֍ Aime-moi ֍ loaded the character 'G-man'
+[18:34:38]	G-man entered observer.
+[18:34:49]	G-man exited observer at their location.
+[18:34:52]	G-man has taken 190 damage from D47.MPF-EpU.514.
+[18:34:52]	D47.MPF-EpU.514 has killed G-man with arccw_deagle357.
+[18:35:06]	G-man entered observer.
+[18:35:30]	G-man exited observer at their location.
+[18:36:41]	D47.MPF-EpU.514 ran 'Equip' on item 'Benelli M3 Super 90' (#408)
+[18:36:46]	D47.MPF-EpU.514 ran 'drop' on item 'Benelli M3 Super 90' (#408)
+[18:36:46]	D47.MPF-EpU.514 has lost a 'Benelli M3 Super 90' #408.
+[18:36:53]	G-man ran 'take' on item 'Benelli M3 Super 90' (#408)
+[18:36:53]	G-man has gained a 'Benelli M3 Super 90' #408.
+[18:36:57]	G-man entered observer.
+[18:37:00]	G-man ran 'Equip' on item 'Benelli M3 Super 90' (#408)
+[18:37:05]	G-man exited observer at their location.
+[18:37:07]	D47.MPF-EpU.514 has taken 54 damage from G-man.
+[18:37:07]	D47.MPF-EpU.514 has taken 54 damage from G-man.
+[18:37:07]	D47.MPF-EpU.514 has taken 54 damage from G-man.
+[18:37:07]	D47.MPF-EpU.514 has taken 54 damage from G-man.
+[18:37:07]	G-man has killed D47.MPF-EpU.514 with arccw_shorty.
+[18:37:24]	D47.MPF-EpU.514 has gained 50 tokens.
+[18:37:29]	D47.MPF-EpU.514 has taken 12 damage from G-man.
+[18:37:30]	D47.MPF-EpU.514 has taken 5 damage from G-man.
+[18:37:30]	D47.MPF-EpU.514 has taken 5 damage from G-man.
+[18:37:33]	G-man has taken 2 damage from worldspawn.
+[18:37:33]	D47.MPF-EpU.514 has taken 2 damage from worldspawn.
+[18:37:34]	G-man entered observer.
+[18:37:37]	G-man exited observer at their location.
+[18:37:39]	D47.MPF-EpU.514 ran 'Equip' on item 'Desert Eagle' (#391)
+[18:37:45]	G-man has taken 92 damage from D47.MPF-EpU.514.
+[18:37:51]	G-man has taken 24 damage from D47.MPF-EpU.514.
+[18:37:51]	D47.MPF-EpU.514 has killed G-man with arccw_deagle357.
+[18:37:53]	G-man entered observer.
+[18:37:56]	G-man exited observer at their location.
+[18:38:01]	G-man has taken 97 damage from D47.MPF-EpU.514.
+[18:38:29]	G-man entered observer.
+[18:38:31]	G-man exited observer at their location.
+[18:38:32]	D47.MPF-EpU.514 entered observer.
+[18:38:35]	D47.MPF-EpU.514 exited observer at their location.
+[18:38:36]	D47.MPF-EpU.514 entered observer.
+[18:38:37]	D47.MPF-EpU.514 exited observer at their location.
+[18:39:09]	G-man entered observer.
+[18:39:10]	G-man exited observer at their location.
+[18:39:31]	D47.MPF-EpU.514 has taken 56 damage from G-man.
+[18:39:35]	G-man has taken 192 damage from D47.MPF-EpU.514.
+[18:39:35]	D47.MPF-EpU.514 has killed G-man with arccw_deagle357.
+[18:39:38]	G-man used command '/CharSetModel g models/props_junk/meleeblock007a.mdl'.
+[18:39:39]	G-man entered observer.
+[18:39:44]	G-man exited observer at their location.
+[18:40:19]	G-man has taken 5 damage from D47.MPF-EpU.514.
+[18:40:41]	G-man has taken 5 damage from D47.MPF-EpU.514.
+[18:40:59]	D47.MPF-EpU.514 has taken 26 damage from worldspawn.
+[18:41:00]	D47.MPF-EpU.514 entered observer.
+[18:41:04]	G-man entered observer.
+[18:41:04]	D47.MPF-EpU.514 exited observer at their location.
+[18:41:05]	G-man exited observer at their location.
+[18:41:07]	G-man has taken 41 damage from worldspawn.
+[18:41:08]	D47.MPF-EpU.514 has taken 35 damage from worldspawn.
+[18:41:16]	G-man has taken 5 damage from D47.MPF-EpU.514.
+[18:41:16]	G-man has taken 5 damage from D47.MPF-EpU.514.
+[18:41:17]	G-man has taken 5 damage from D47.MPF-EpU.514.
+[18:41:31]	G-man used command '/CharSetModel g models/t600/r_t600.mdl'.
+[18:41:33]	G-man used command '/CharGetUp'.
+[18:41:34]	G-man used command '/CharGetUp'.
+[18:41:42]	G-man used command '/CharGetUp'.
+[18:41:43]	G-man used command '/CharGetUp'.
+[18:41:45]	G-man entered observer.
+[18:41:46]	G-man exited observer at their location.
+[18:41:46]	G-man used command '/CharGetUp'.
+[18:42:12]	G-man has spawned a 'Entity [3438][ent_jack_gmod_ezimpactnade]'.
+[18:42:14]	G-man has taken 87 damage from D47.MPF-EpU.514.
+[18:42:14]	D47.MPF-EpU.514 has killed G-man with arccw_deagle357.
+[18:42:14]	D47.MPF-EpU.514 has taken 85 damage from D47.MPF-EpU.514.
+[18:42:14]	D47.MPF-EpU.514 has killed D47.MPF-EpU.514.
+[18:42:22]	G-man used command '/CharSetModel g models/t600/r_t600.mdl'.
+[18:42:24]	D47.MPF-EpU.514 has gained 50 tokens.
+[18:42:25]	G-man used command '/CharSetModel g models/raviool/flashlight.mdl'.
+[18:42:28]	G-man entered observer.
+[18:42:30]	[OOC] D47.MPF-EpU.514: xD
+[18:42:30]	G-man exited observer at their location.
+[18:42:54]	D47.MPF-EpU.514 ran 'Equip' on item 'Desert Eagle' (#391)
+[18:43:01]	G-man has taken 98 damage from D47.MPF-EpU.514.
+[18:43:07]	G-man used command '/CharSetModel g models/props_wasteland/amaria_container1.mdl'.
+[18:43:23]	G-man has taken 97 damage from D47.MPF-EpU.514.
+[18:43:23]	D47.MPF-EpU.514 has killed G-man with arccw_deagle357.
+[18:43:25]	G-man entered observer.
+[18:43:28]	G-man exited observer at their location.
+[18:43:44]	G-man used command '/CharSetModel g models/player/terminator_fatty.mdl'.
+[18:43:50]	G-man has taken 195 damage from D47.MPF-EpU.514.
+[18:43:50]	D47.MPF-EpU.514 has killed G-man with arccw_deagle357.
+[18:43:51]	G-man entered observer.
+[18:43:56]	G-man exited observer at their location.
+[18:44:03]	G-man entered observer.
+[18:44:10]	G-man exited observer at their location.
+[18:44:11]	G-man has taken 25 damage from D47.MPF-EpU.514.
+[18:44:22]	D47.MPF-EpU.514 ran 'drop' on item 'Desert Eagle' (#391)
+[18:44:22]	D47.MPF-EpU.514 has lost a 'Desert Eagle' #391.
+[18:44:26]	G-man used command '/CharSetModel g models/police/wollycop.mdl'.
+[18:44:33]	G-man ran 'take' on item 'Desert Eagle' (#391)
+[18:44:33]	G-man has gained a 'Desert Eagle' #391.
+[18:44:43]	G-man used command '/CharSetModel g models/humans/group03m/male_hc.mdl'.
+[18:44:54]	G-man used command '/CharSetModel g models/pmc/pmc_1/pmc__14.mdl'.
+[18:45:03]	G-man ran 'Equip' on item 'Benelli M3 Super 90' (#408)
+[18:45:09]	D47.MPF-EpU.514 has taken 53 damage from G-man.
+[18:45:09]	D47.MPF-EpU.514 has taken 27 damage from G-man.
+[18:45:38]	D47.MPF-EpU.514 ran 'drop' on item 'M4' (#398)
+[18:45:38]	D47.MPF-EpU.514 has lost a 'M4' #398.
+[18:45:44]	D47.MPF-EpU.514 ran 'take' on item 'M4' (#398)
+[18:45:44]	D47.MPF-EpU.514 has gained a 'M4' #398.
+[18:45:46]	D47.MPF-EpU.514 ran 'Equip' on item 'M4' (#398)
+[18:45:50]	G-man used command '/CharSetModel g models/props_junk/PopCan01a.mdl'.
+[18:45:56]	G-man has taken 58 damage from D47.MPF-EpU.514.
+[18:46:00]	G-man entered observer.
+[18:46:03]	G-man exited observer at their location.
+[18:46:24]	G-man entered observer.
+[18:46:25]	G-man exited observer at their location.
+[18:46:31]	D47.MPF-EpU.514 has gained a 'Граната' #409.
+[18:46:31]	D47.MPF-EpU.514 has gained a 'Граната' #410.
+[18:46:31]	D47.MPF-EpU.514 has gained a 'Граната' #411.
+[18:46:31]	D47.MPF-EpU.514 has gained a 'Граната' #412.
+[18:46:31]	D47.MPF-EpU.514 has gained a 'Граната' #413.
+[18:46:31]	D47.MPF-EpU.514 used command '/CharGiveItem D47 grenade 5'.
+[18:46:33]	D47.MPF-EpU.514 ran 'Equip' on item 'Граната' (#412)
+[18:46:48]	G-man has taken 32 damage from worldspawn.
+[18:46:48]	worldspawn has killed G-man.
+[18:46:50]	G-man entered observer.
+[18:46:58]	G-man exited observer at their location.
+[18:46:58]	D47.MPF-EpU.514 entered observer.
+[18:47:01]	G-man entered observer.
+[18:47:02]	G-man exited observer at their location.
+[18:47:02]	D47.MPF-EpU.514 exited observer at their location.
+[18:47:06]	G-man has taken 58 damage from D47.MPF-EpU.514.
+[18:47:16]	G-man has taken 1 damage from worldspawn.
+[18:47:24]	D47.MPF-EpU.514 has gained 50 tokens.
+[18:47:37]	G-man entered observer.
+[18:47:37]	G-man exited observer at their location.
+[18:47:43]	G-man entered observer.
+[18:47:43]	G-man exited observer at their location.
+[18:47:48]	G-man entered observer.
+[18:47:49]	G-man exited observer at their location.
+[18:48:03]	G-man has taken 57 damage from D47.MPF-EpU.514.
+[18:48:03]	D47.MPF-EpU.514 has killed G-man with arccw_m4a1.
+[18:48:11]	G-man used command '/CharSetModel g models/props_combine/breenbust.mdl'.
+[18:48:12]	G-man entered observer.
+[18:48:19]	G-man exited observer at their location.
+[18:48:30]	G-man has taken 5 damage from D47.MPF-EpU.514.
+[18:48:30]	G-man has taken 5 damage from D47.MPF-EpU.514.
+[18:48:32]	G-man entered observer.
+[18:48:34]	G-man exited observer at their location.
+[18:48:51]	G-man has taken 5 damage from D47.MPF-EpU.514.
+[18:48:52]	G-man has taken 5 damage from D47.MPF-EpU.514.
+[18:48:53]	G-man has taken 3 damage from worldspawn.
+[18:49:03]	G-man has taken 5 damage from D47.MPF-EpU.514.
+[18:49:04]	G-man has taken 5 damage from D47.MPF-EpU.514.
+[18:49:05]	G-man entered observer.
+[18:49:07]	G-man exited observer at their location.
+[18:49:17]	D47.MPF-EpU.514 entered observer.
+[18:49:19]	D47.MPF-EpU.514 exited observer at their location.
+[18:49:21]	G-man entered observer.
+[18:49:23]	G-man exited observer at their location.
+[18:49:31]	G-man entered observer.
+[18:49:47]	G-man exited observer at their location.
+[18:49:57]	G-man has taken 5 damage from D47.MPF-EpU.514.
+[18:49:59]	G-man has taken 5 damage from D47.MPF-EpU.514.
+[18:50:00]	G-man entered observer.
+[18:50:02]	G-man exited observer at their location.
+[18:50:02]	G-man entered observer.
+[18:50:04]	G-man exited observer at their location.
+[18:50:10]	G-man entered observer.
+[18:50:11]	D47.MPF-EpU.514 entered observer.
+[18:50:14]	G-man exited observer at their location.
+[18:50:21]	D47.MPF-EpU.514 exited observer at their location.
+[18:50:23]	D47.MPF-EpU.514 entered observer.
+[18:50:26]	D47.MPF-EpU.514 exited observer at their location.
+[18:50:31]	G-man has taken 8 damage from D47.MPF-EpU.514.
+[18:50:43]	G-man has taken 8 damage from D47.MPF-EpU.514.
+[18:50:53]	G-man entered observer.
+[18:50:54]	G-man entered observer.
+[18:51:00]	G-man exited observer at their location.
+[18:51:09]	D47.MPF-EpU.514 entered observer.
+[18:51:17]	G-man entered observer.
+[18:51:19]	D47.MPF-EpU.514 exited observer at their location.
+[18:51:22]	G-man exited observer at their location.
+[18:51:34]	G-man has taken 26 damage from worldspawn.
+[18:51:36]	D47.MPF-EpU.514 has taken 32 damage from worldspawn.
+[18:51:46]	G-man has taken 5 damage from D47.MPF-EpU.514.
+[18:51:46]	G-man entered observer.
+[18:51:53]	G-man exited observer at their location.
+[18:51:58]	G-man entered observer.
+[18:51:58]	G-man exited observer at their location.
+[18:52:00]	G-man entered observer.
+[18:52:00]	D47.MPF-EpU.514 entered observer.
+[18:52:01]	G-man exited observer at their location.
+[18:52:01]	G-man entered observer.
+[18:52:02]	D47.MPF-EpU.514 exited observer at their location.
+[18:52:02]	G-man exited observer at their location.
+[18:52:02]	G-man entered observer.
+[18:52:03]	G-man exited observer at their location.
+[18:52:07]	G-man entered observer.
+[18:52:07]	G-man exited observer at their location.
+[18:52:08]	G-man entered observer.
+[18:52:09]	G-man exited observer at their location.
+[18:52:09]	G-man entered observer.
+[18:52:09]	G-man exited observer at their location.
+[18:52:10]	G-man entered observer.
+[18:52:11]	G-man exited observer at their location.
+[18:52:11]	G-man entered observer.
+[18:52:11]	G-man exited observer at their location.
+[18:52:15]	G-man has taken 5 damage from D47.MPF-EpU.514.
+[18:52:17]	G-man entered observer.
+[18:52:18]	D47.MPF-EpU.514 entered observer.
+[18:52:19]	D47.MPF-EpU.514 exited observer at their location.
+[18:52:19]	D47.MPF-EpU.514 entered observer.
+[18:52:20]	D47.MPF-EpU.514 exited observer at their location.
+[18:52:26]	D47.MPF-EpU.514 has gained 50 tokens.
+[18:52:27]	G-man exited observer at their location.
+[18:52:29]	G-man entered observer.
+[18:52:32]	G-man exited observer at their location.
+[18:52:33]	G-man entered observer.
+[18:52:33]	G-man exited observer at their location.
+[18:52:45]	G-man entered observer.
+[18:52:46]	G-man exited observer at their location.
+[18:52:49]	D47.MPF-EpU.514 entered observer.
+[18:52:49]	D47.MPF-EpU.514 exited observer at their location.
+[18:52:50]	D47.MPF-EpU.514 entered observer.
+[18:52:53]	G-man entered observer.
+[18:52:54]	G-man exited observer at their location.
+[18:52:54]	G-man entered observer.
+[18:52:55]	G-man exited observer at their location.
+[18:52:55]	G-man entered observer.
+[18:52:56]	G-man exited observer at their location.
+[18:52:56]	G-man entered observer.
+[18:52:56]	G-man exited observer at their location.
+[18:52:56]	G-man entered observer.
+[18:52:56]	G-man exited observer at their location.
+[18:52:59]	G-man entered observer.
+[18:52:59]	G-man exited observer at their location.
+[18:53:00]	D47.MPF-EpU.514 exited observer at their location.
+[18:53:01]	D47.MPF-EpU.514 has taken 50 damage from diesel_move.
+[18:53:01]	D47.MPF-EpU.514 has taken 50 damage from diesel_move.
+[18:53:01]	diesel_move has killed D47.MPF-EpU.514.
+[18:53:11]	G-man entered observer.
+[18:53:19]	G-man exited observer at their location.
+[18:53:34]	G-man entered observer.
+[18:53:35]	G-man exited observer at their location.
+[18:53:58]	G-man used command '/CharSetModel g models/props_lab/huladoll.mdl'.
+[18:54:07]	֍ Aime-moi ֍ (STEAM_0:0:424879351) has disconnected.
+[18:57:26]	D47.MPF-EpU.514 has gained 50 tokens.
+[19:02:26]	D47.MPF-EpU.514 has gained 50 tokens.
+[19:07:26]	D47.MPF-EpU.514 has gained 50 tokens.
+[19:12:26]	D47.MPF-EpU.514 has gained 50 tokens.
+[19:17:26]	D47.MPF-EpU.514 has gained 50 tokens.
+[19:22:26]	D47.MPF-EpU.514 has gained 50 tokens.
+[19:27:26]	D47.MPF-EpU.514 has gained 50 tokens.
+[19:32:26]	D47.MPF-EpU.514 has gained 50 tokens.
+[19:37:26]	D47.MPF-EpU.514 has gained 50 tokens.
+[19:42:26]	D47.MPF-EpU.514 has gained 50 tokens.
+[19:47:26]	D47.MPF-EpU.514 has gained 50 tokens.
+[19:52:26]	D47.MPF-EpU.514 has gained 50 tokens.
+[19:57:26]	D47.MPF-EpU.514 has gained 50 tokens.
+[20:02:26]	D47.MPF-EpU.514 has gained 50 tokens.
+[20:07:26]	D47.MPF-EpU.514 has gained 50 tokens.
+[20:08:17]	D47.MPF-EpU.514 used the 'Стойка' vendor.
+[20:08:26]	D47.MPF-EpU.514 used the 'Стойка' vendor.
+[20:08:29]	D47.MPF-EpU.514 ran 'Equip' on item 'M4' (#398)
+[20:08:34]	D47.MPF-EpU.514 used the 'Полка' vendor.
+[20:08:36]	D47.MPF-EpU.514 has lost 8 tokens.
+[20:08:36]	D47.MPF-EpU.514 has gained a 'Наручники' #414.
+[20:12:26]	D47.MPF-EpU.514 has gained 50 tokens.
+[20:17:26]	D47.MPF-EpU.514 has gained 50 tokens.
+[20:22:26]	D47.MPF-EpU.514 has gained 50 tokens.
+[20:27:26]	D47.MPF-EpU.514 has gained 50 tokens.
+[20:32:26]	D47.MPF-EpU.514 has gained 50 tokens.
+[20:37:26]	D47.MPF-EpU.514 has gained 50 tokens.
+[20:42:26]	D47.MPF-EpU.514 has gained 50 tokens.
+[20:47:26]	D47.MPF-EpU.514 has gained 50 tokens.
+[20:52:26]	D47.MPF-EpU.514 has gained 50 tokens.
+[20:55:42]	D47.MPF-EpU.514 has spawned 'models/summer_spring/items/bag.mdl'.
+[20:57:38]	D47.MPF-EpU.514 has spawned 'models/props_c17/suitcase_passenger_physics.mdl'.
+[20:57:44]	D47.MPF-EpU.514 has spawned 'models/props_c17/suitcase001a.mdl'.
+[21:03:47]	D47.MPF-EpU.514 has gained 50 tokens.
+[21:08:47]	D47.MPF-EpU.514 has gained 50 tokens.
+[21:13:47]	D47.MPF-EpU.514 has gained 50 tokens.
+[21:18:48]	D47.MPF-EpU.514 has gained 50 tokens.
+[21:23:48]	D47.MPF-EpU.514 has gained 50 tokens.
+[21:28:48]	D47.MPF-EpU.514 has gained 50 tokens.
+[21:33:48]	D47.MPF-EpU.514 has gained 50 tokens.
+[21:34:26]	D47.MPF-EpU.514 ran 'EquipUn' on item 'M4' (#398)
+[21:34:27]	D47.MPF-EpU.514 ran 'Equip' on item 'M4' (#398)
+[21:34:34]	D47.MPF-EpU.514 ran 'Equip' on item 'Граната' (#410)
+[21:38:04]	D47.MPF-EpU.514 set music to '"music/HL1_song10.mp3"'.
+[21:38:33]	D47.MPF-EpU.514 set music to '"music/HL1_song23.mp3"'.
+[21:38:48]	D47.MPF-EpU.514 has gained 50 tokens.
+[21:39:14]	D47.MPF-EpU.514 set music to '"music/HL2_song10.mp3"'.
+[21:43:48]	D47.MPF-EpU.514 has gained 50 tokens.
+[21:48:48]	D47.MPF-EpU.514 has gained 50 tokens.
+[21:53:48]	D47.MPF-EpU.514 has gained 50 tokens.
+[21:58:48]	D47.MPF-EpU.514 has gained 50 tokens.
+[22:03:48]	D47.MPF-EpU.514 has gained 50 tokens.
+[22:08:48]	D47.MPF-EpU.514 has gained 50 tokens.
+[22:13:48]	D47.MPF-EpU.514 has gained 50 tokens.
+[22:14:51]	D47.MPF-EpU.514 set music to '"music/HL1_song3.mp3"'.
+[22:18:48]	D47.MPF-EpU.514 has gained 50 tokens.
+[22:23:48]	D47.MPF-EpU.514 has gained 50 tokens.
+[22:28:48]	D47.MPF-EpU.514 has gained 50 tokens.
+[22:33:48]	D47.MPF-EpU.514 has gained 50 tokens.
+[22:38:48]	D47.MPF-EpU.514 has gained 50 tokens.
+[22:43:48]	D47.MPF-EpU.514 has gained 50 tokens.
+[22:48:48]	D47.MPF-EpU.514 has gained 50 tokens.
+[22:53:48]	D47.MPF-EpU.514 has gained 50 tokens.
+[22:58:48]	D47.MPF-EpU.514 has gained 50 tokens.
+[23:03:48]	D47.MPF-EpU.514 has gained 50 tokens.
+[23:08:48]	D47.MPF-EpU.514 has gained 50 tokens.
+[23:13:48]	D47.MPF-EpU.514 has gained 50 tokens.
+[23:18:48]	D47.MPF-EpU.514 has gained 50 tokens.
+[23:23:48]	D47.MPF-EpU.514 has gained 50 tokens.
+[23:28:48]	D47.MPF-EpU.514 has gained 50 tokens.
+[23:33:48]	D47.MPF-EpU.514 has gained 50 tokens.
+[23:38:48]	D47.MPF-EpU.514 has gained 50 tokens.
+[23:43:48]	D47.MPF-EpU.514 has gained 50 tokens.
+[23:48:48]	D47.MPF-EpU.514 has gained 50 tokens.
+[23:53:48]	D47.MPF-EpU.514 has gained 50 tokens.
+[23:58:48]	D47.MPF-EpU.514 has gained 50 tokens.

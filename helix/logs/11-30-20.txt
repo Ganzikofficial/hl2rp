@@ -1,0 +1,3047 @@
+[00:43:14]	Г@H3NK has connected.
+[00:46:23]	Г@H3NK loaded the character 'Alexander Klimov'
+[00:47:02]	Alexander Klimov used command '/CharSetModel Alexander models/humans/rajio/male_08.mdl'.
+[00:47:40]	Alexander Klimov has spawned a 'Entity [26][item_healthkit]'.
+[00:47:41]	Alexander Klimov has spawned a 'Entity [27][item_healthkit]'.
+[00:47:41]	Alexander Klimov has spawned a 'Entity [483][item_healthkit]'.
+[00:47:41]	Alexander Klimov has spawned a 'Entity [488][item_healthkit]'.
+[00:48:35]	Alexander Klimov has spawned 'models\Humans/Group03/male_09.mdl'.
+[00:49:33]	Alexander Klimov entered observer.
+[00:50:10]	Alexander Klimov has spawned 'models\Humans/Group03/male_03.mdl'.
+[00:55:16]	Alexander Klimov exited observer at their location.
+[01:01:38]	Г@H3NK has connected.
+[01:01:59]	Г@H3NK loaded the character 'Alexander Klimov'
+[01:02:49]	Alexander Klimov used command '/PlyWhitelist Alexander rebels'.
+[01:02:51]	Alexander Klimov used command '/PlyWhitelist Alexander rebel'.
+[01:05:05]	Alexander Klimov set runSpeed to '230'.
+[01:07:27]	Alexander Klimov entered observer.
+[01:07:28]	Alexander Klimov exited observer at their location.
+[01:08:37]	Alexander Klimov has spawned a 'Entity [547][item_ammo_smg1_large]'.
+[01:08:40]	Alexander Klimov has spawned a 'Entity [547][item_ammo_pistol_large]'.
+[01:08:41]	Alexander Klimov has spawned a 'Entity [548][item_ammo_pistol_large]'.
+[01:08:41]	Alexander Klimov has spawned a 'Entity [549][item_ammo_pistol_large]'.
+[01:08:41]	Alexander Klimov has spawned a 'Entity [550][item_ammo_pistol_large]'.
+[01:09:12]	Alexander Klimov has spawned a 'NPC [483][npc_breen]'.
+[01:09:16]	Alexander Klimov has spawned a 'NPC [488][npc_breen]'.
+[01:13:03]	Alexander Klimov used command '/ActArrest'.
+[01:13:08]	Alexander Klimov used command '/ExitAct'.
+[01:13:18]	Alexander Klimov used command '/ActCheer'.
+[01:13:36]	Alexander Klimov used command '/ActWindow'.
+[01:13:39]	Alexander Klimov used command '/ExitAct'.
+[01:13:48]	Alexander Klimov used command '/ActWindow'.
+[01:13:49]	Alexander Klimov used command '/ExitAct'.
+[01:13:54]	Alexander Klimov used command '/ActWindow'.
+[01:14:24]	Alexander Klimov used command '/ExitAct'.
+[01:16:00]	Alexander Klimov has disabled the typing plugin for next restart.
+[01:16:01]	Alexander Klimov has enabled the typing plugin for next restart.
+[01:16:01]	Alexander Klimov has disabled the thirdperson plugin for next restart.
+[01:17:02]	Alexander Klimov entered observer.
+[01:18:09]	Alexander Klimov used command '/TextAdd Ж/Д станция'.
+[01:18:11]	Alexander Klimov exited observer at their location.
+[01:22:21]	[OOC] Alexander Klimov: Дарова
+[01:22:22]	Alexander Klimov entered observer.
+[01:26:44]	[ME] Alexander Klimov: Кинул бомбу под подушку
+[01:27:00]	[OOC] Alexander Klimov: 1
+[01:29:04]	[OOC] Alexander Klimov: /
+[01:29:11]	[OOC] Alexander Klimov: a
+[01:29:24]	[OOC] Alexander Klimov: Ивента не будет
+[01:30:01]	Alexander Klimov exited observer at their location.
+[01:30:26]	Alexander Klimov has spawned a 'Entity [548][item_ammo_pistol_large]'.
+[01:30:27]	Alexander Klimov has spawned a 'Entity [549][item_ammo_pistol_large]'.
+[01:30:27]	Alexander Klimov has spawned a 'Entity [548][item_ammo_pistol_large]'.
+[01:30:50]	Alexander Klimov used command '/ActInjured'.
+[01:30:53]	Alexander Klimov used command '/ExitAct'.
+[01:31:14]	Alexander Klimov used command '/ActLean'.
+[01:31:22]	Alexander Klimov used command '/ActPant'.
+[01:31:28]	Alexander Klimov used command '/ExitAct'.
+[01:31:39]	Alexander Klimov used command '/ActStand'.
+[01:31:52]	Alexander Klimov used command '/ExitAct'.
+[01:33:07]	Alexander Klimov entered observer.
+[01:33:15]	Alexander Klimov exited observer at their location.
+[01:43:08]	Alexander Klimov used command '/PlyWhitelist Alexander cwu'.
+[01:43:57]	Alexander Klimov used command '/CharSetClass Alexander cwu'.
+[01:46:01]	Alexander Klimov used command '/CharDesc'.
+[01:48:24]	Alexander Klimov used command '/CharDesc Форма ГСР | Возраст 67 | Рост 175 | Вес 80 Кг'.
+[01:48:48]	Alexander Klimov used command '/CharDesc'.
+[01:50:14]	Alexander Klimov used command '/CharDesc Форма ГСР | Возраст 67 | Рост 175 | Вес 80 Кг | Сидые волосы | Сидая борода | Морщинистая кожа'.
+[02:16:15]	Alexander Klimov entered observer.
+[02:16:17]	Alexander Klimov exited observer at their location.
+[02:17:15]	Alexander Klimov has spawned a 'Entity [549][item_box_buckshot]'.
+[02:17:16]	Alexander Klimov has spawned a 'Entity [549][item_box_buckshot]'.
+[02:17:30]	Alexander Klimov has spawned a 'NPC [549][npc_combine_s]'.
+[02:17:40]	Alexander Klimov has spawned a 'NPC [549][npc_combine_s]'.
+[02:17:45]	Alexander Klimov has spawned a 'NPC [549][npc_combine_s]'.
+[02:18:01]	Alexander Klimov has spawned a 'NPC [549][npc_metropolice]'.
+[02:18:04]	Alexander Klimov has spawned a 'NPC [553][npc_metropolice]'.
+[02:18:12]	Alexander Klimov has spawned a 'NPC [553][npc_hunter]'.
+[02:18:14]	Alexander Klimov has taken 4 damage from npc_hunter.
+[02:18:14]	Alexander Klimov has taken 4 damage from npc_hunter.
+[02:18:14]	Alexander Klimov has taken 4 damage from npc_hunter.
+[02:18:14]	Alexander Klimov has taken 4 damage from npc_hunter.
+[02:18:14]	Alexander Klimov has taken 4 damage from npc_hunter.
+[02:18:25]	Alexander Klimov has spawned a 'NPC [549][npc_metropolice]'.
+[02:18:35]	Alexander Klimov has spawned a 'NPC [549][npc_metropolice]'.
+[02:18:53]	Alexander Klimov has spawned a 'NPC [549][npc_combine_s]'.
+[02:19:04]	Alexander Klimov has spawned a 'NPC [549][npc_combine_s]'.
+[02:19:06]	Alexander Klimov has taken 15 damage from npc_combine_s.
+[02:19:07]	Alexander Klimov has taken 12 damage from npc_combine_s.
+[02:19:08]	Alexander Klimov has taken 18 damage from npc_combine_s.
+[02:19:10]	Alexander Klimov has taken 24 damage from npc_combine_s.
+[02:19:11]	Alexander Klimov has taken 24 damage from npc_combine_s.
+[02:19:12]	Alexander Klimov has taken 21 damage from npc_combine_s.
+[02:19:12]	npc_combine_s has killed Alexander Klimov.
+[02:19:28]	Alexander Klimov entered observer.
+[02:19:34]	Alexander Klimov exited observer at their location.
+[02:20:09]	Alexander Klimov has spawned a 'NPC [195][npc_metropolice]'.
+[02:20:38]	Alexander Klimov has spawned a 'Entity [195][item_ammo_smg1_large]'.
+[02:20:38]	Alexander Klimov has spawned a 'Entity [549][item_ammo_smg1_large]'.
+[02:20:38]	Alexander Klimov has spawned a 'Entity [554][item_ammo_smg1_large]'.
+[02:28:29]	Alexander Klimov entered observer.
+[02:28:36]	Alexander Klimov exited observer at their location.
+[02:28:38]	Alexander Klimov entered observer.
+[02:29:04]	Alexander Klimov exited observer at their location.
+[02:29:05]	Alexander Klimov entered observer.
+[02:29:08]	Alexander Klimov exited observer at their location.
+[02:34:30]	Alexander Klimov entered observer.
+[02:34:30]	Alexander Klimov exited observer at their location.
+[02:37:15]	Alexander Klimov entered observer.
+[02:37:49]	Alexander Klimov exited observer at their location.
+[02:37:58]	Alexander Klimov has taken 53 damage from worldspawn.
+[02:38:06]	Alexander Klimov used command '/ActInjured'.
+[02:40:22]	Alexander Klimov used command '/ExitAct'.
+[02:41:02]	Alexander Klimov has spawned a 'Entity [6][item_box_buckshot]'.
+[02:41:49]	Alexander Klimov entered observer.
+[02:41:56]	Alexander Klimov exited observer at their location.
+[02:42:43]	Alexander Klimov has spawned a 'Entity [6][item_ammo_pistol_large]'.
+[02:42:44]	Alexander Klimov has spawned a 'Entity [7][item_ammo_pistol_large]'.
+[02:42:44]	Alexander Klimov has spawned a 'Entity [195][item_ammo_pistol_large]'.
+[02:42:45]	Alexander Klimov has spawned a 'Entity [6][item_ammo_pistol_large]'.
+[02:42:45]	Alexander Klimov has spawned a 'Entity [7][item_ammo_pistol_large]'.
+[02:48:27]	Alexander Klimov has spawned a 'NPC [548][npc_gman]'.
+[02:51:13]	Г@H3NK loaded the character 'MPF-I4.51977'
+[02:54:38]	MPF-I4.51977 has spawned a 'Entity [27][item_box_buckshot]'.
+[02:56:13]	MPF-I4.51977 has gained 300 tokens.
+[02:59:30]	MPF-I4.51977 has spawned a 'Entity [547][item_ammo_pistol_large]'.
+[02:59:30]	MPF-I4.51977 has spawned a 'Entity [548][item_ammo_pistol_large]'.
+[02:59:31]	MPF-I4.51977 has spawned a 'Entity [549][item_ammo_pistol_large]'.
+[03:01:13]	MPF-I4.51977 has gained 300 tokens.
+[03:06:13]	MPF-I4.51977 has gained 300 tokens.
+[03:11:13]	MPF-I4.51977 has gained 300 tokens.
+[03:16:13]	MPF-I4.51977 has gained 300 tokens.
+[03:21:13]	MPF-I4.51977 has gained 300 tokens.
+[03:26:13]	MPF-I4.51977 has gained 300 tokens.
+[03:31:13]	MPF-I4.51977 has gained 300 tokens.
+[03:35:53]	MPF-I4.51977 has spawned a 'Entity [548][item_ammo_pistol_large]'.
+[03:35:58]	MPF-I4.51977 has spawned a 'Entity [548][item_ammo_pistol_large]'.
+[03:35:59]	MPF-I4.51977 has spawned a 'Entity [549][item_ammo_pistol_large]'.
+[03:36:00]	MPF-I4.51977 has spawned a 'Entity [548][item_ammo_357_large]'.
+[03:36:01]	MPF-I4.51977 has spawned a 'Entity [549][item_ammo_smg1_large]'.
+[03:36:13]	MPF-I4.51977 has gained 300 tokens.
+[09:25:18]	Г@H3NK has connected.
+[09:25:50]	Г@H3NK loaded the character 'Alexander Klimov'
+[09:30:44]	Alexander Klimov has spawned a 'NPC [483][monster_scientist]'.
+[09:31:17]	Alexander Klimov has spawned a 'NPC [483][monster_barney]'.
+[09:31:19]	Alexander Klimov has taken 5 damage from monster_barney.
+[09:31:19]	Alexander Klimov has taken 5 damage from monster_barney.
+[09:31:19]	Alexander Klimov has taken 5 damage from monster_barney.
+[09:31:53]	Alexander Klimov has spawned a 'NPC [483][monster_sentry]'.
+[09:36:25]	Alexander Klimov used command '/CharSetClass Alexander cwu'.
+[09:46:50]	Alexander Klimov entered observer.
+[09:46:50]	Alexander Klimov exited observer at their location.
+[09:53:05]	Alexander Klimov entered observer.
+[09:53:07]	Alexander Klimov exited observer at their location.
+[10:10:08]	Alexander Klimov has spawned a 'Entity [548][arccw_ammo_buckshot_large]'.
+[10:10:20]	Alexander Klimov has spawned a 'Entity [548][item_healthvial]'.
+[10:10:20]	Alexander Klimov has spawned a 'Entity [551][item_healthvial]'.
+[10:10:20]	Alexander Klimov has spawned a 'Entity [552][item_healthvial]'.
+[10:10:20]	Alexander Klimov has spawned a 'Entity [555][item_healthvial]'.
+[10:10:21]	Alexander Klimov has spawned a 'Entity [548][item_healthvial]'.
+[10:10:21]	Alexander Klimov has spawned a 'Entity [551][item_healthvial]'.
+[10:10:22]	Alexander Klimov has spawned a 'Entity [548][item_healthvial]'.
+[10:10:24]	Alexander Klimov has spawned a 'Entity [548][item_healthvial]'.
+[10:12:12]	Alexander Klimov entered observer.
+[10:12:15]	Alexander Klimov exited observer at their location.
+[10:12:31]	Alexander Klimov used command '/ActWindow'.
+[10:12:33]	Alexander Klimov used command '/ExitAct'.
+[10:12:37]	Alexander Klimov used command '/ActWindow'.
+[10:13:15]	Alexander Klimov used command '/ExitAct'.
+[10:14:16]	Alexander Klimov entered observer.
+[10:14:28]	Alexander Klimov has spawned a 'NPC [551][npc_metropolice]'.
+[10:14:30]	Alexander Klimov has spawned a 'NPC [552][npc_metropolice]'.
+[10:14:31]	Alexander Klimov has spawned a 'NPC [557][npc_metropolice]'.
+[10:14:34]	Alexander Klimov has spawned a 'NPC [559][npc_combine_s]'.
+[10:14:39]	Alexander Klimov exited observer at their location.
+[10:14:49]	Alexander Klimov entered observer.
+[10:14:56]	Alexander Klimov exited observer at their location.
+[10:15:15]	Alexander Klimov has spawned a 'Entity [561][arccw_ammo_sniper_large]'.
+[10:16:06]	Alexander Klimov has taken 73 damage from worldspawn.
+[10:18:28]	Alexander Klimov has spawned a 'Entity [551][arccw_ammo_smg1_large]'.
+[10:18:29]	Alexander Klimov has spawned a 'Entity [552][arccw_ammo_ar2_large]'.
+[10:18:30]	Alexander Klimov has spawned a 'Entity [551][arccw_ammo_ar2_large]'.
+[10:18:31]	Alexander Klimov has spawned a 'Entity [551][arccw_ammo_ar2_large]'.
+[14:11:09]	Г@H3NK has connected.
+[14:12:10]	Г@H3NK loaded the character 'Alexander Klimov'
+[14:25:42]	Alexander Klimov used command '/ActSit'.
+[14:26:32]	Alexander Klimov used command '/ExitAct'.
+[14:27:10]	Alexander Klimov used command '/ActInjured'.
+[14:28:38]	Alexander Klimov used command '/ExitAct'.
+[14:28:42]	Alexander Klimov used command '/ActInjured'.
+[14:29:01]	Alexander Klimov used command '/ExitAct'.
+[14:29:21]	Alexander Klimov used command '/ActSit'.
+[14:30:51]	Alexander Klimov used command '/ExitAct'.
+[14:31:36]	֍ Aime-moi ֍ has connected.
+[14:32:44]	֍ Aime-moi ֍ (STEAM_0:0:424879351) deleted character 'Август Крюгер'
+[14:33:05]	֍ Aime-moi ֍ created the character 'Артем Петров'
+[14:33:05]	Артем Петров has gained a 'Suitcase' #21.
+[14:33:05]	Артем Петров has gained a 'Citizen ID' #22.
+[14:33:05]	֍ Aime-moi ֍ loaded the character 'Артем Петров'
+[14:33:06]	Артем Петров entered observer.
+[14:33:07]	Артем Петров exited observer at their location.
+[14:33:37]	Артем Петров used command '/CharGiveFlag Артем CVcenrptv'.
+[14:33:43]	Артем Петров entered observer.
+[14:33:57]	Артем Петров exited observer at their location.
+[14:34:21]	Артем Петров entered observer.
+[14:34:27]	Артем Петров exited observer at their location.
+[14:34:47]	Артем Петров used command '/CharSetModel Артем models/bloocobalt/splinter cell/chemsuit_cod2.mdl'.
+[14:35:19]	Артем Петров used command '/CharSetModel Артем models/kake/gasmask_female/gasmask_female.mdl'.
+[14:35:30]	Alexander Klimov has spawned a 'Entity [560][arccw_ammo_pistol_large]'.
+[14:35:34]	Артем Петров used command '/CharSetModel Артем models/bloocobalt/splinter cell/chemsuit_cod2.mdl'.
+[14:35:48]	Артем Петров used command '/CharSetModel Артем models/humans/rajio/male_09.mdl'.
+[14:36:26]	Артем Петров has spawned a 'Entity [560][free_bodygroupr]'.
+[14:36:29]	Артем Петров has spawned a 'Entity [560][free_bodygroupr]'.
+[14:36:50]	Alexander Klimov entered observer.
+[14:37:11]	Alexander Klimov exited observer at their location.
+[14:37:19]	Артем Петров entered observer.
+[14:37:21]	Артем Петров exited observer at their location.
+[14:37:33]	Alexander Klimov has enabled the thirdperson plugin for next restart.
+[14:38:25]	Артем Петров has spawned a 'NPC [561][npc_metropolice]'.
+[14:38:26]	Артем Петров has taken 3 damage from npc_metropolice.
+[14:38:36]	Alexander Klimov has taken 25 damage from Артем Петров.
+[14:38:36]	Alexander Klimov has taken 25 damage from Артем Петров.
+[14:38:36]	Артем Петров has killed Alexander Klimov with arccw_galil556.
+[14:38:55]	Артем Петров entered observer.
+[14:38:59]	Артем Петров exited observer at their location.
+[14:39:15]	֍ Aime-moi ֍ (STEAM_0:0:424879351) has disconnected.
+[14:47:44]	Г@H3NK has connected.
+[14:48:24]	Г@H3NK loaded the character 'Alexander Klimov'
+[14:48:41]	Alexander Klimov entered observer.
+[14:48:57]	Alexander Klimov exited observer at their location.
+[14:49:18]	Alexander Klimov has taken 69 damage from worldspawn.
+[14:49:22]	Alexander Klimov has spawned a 'Entity [30][item_healthkit]'.
+[14:49:22]	Alexander Klimov has spawned a 'Entity [31][item_healthkit]'.
+[14:49:22]	Alexander Klimov has spawned a 'Entity [32][item_healthkit]'.
+[14:49:25]	Alexander Klimov entered observer.
+[14:49:40]	Alexander Klimov exited observer at their location.
+[14:49:43]	Alexander Klimov entered observer.
+[14:49:47]	֍ Aime-moi ֍ has connected.
+[14:49:52]	Alexander Klimov exited observer at their location.
+[14:49:57]	Alexander Klimov has spawned a 'Entity [489][item_ammo_pistol_large]'.
+[14:49:57]	Alexander Klimov has spawned a 'Entity [494][item_ammo_pistol_large]'.
+[14:49:57]	Alexander Klimov has spawned a 'Entity [553][item_ammo_pistol_large]'.
+[14:50:33]	֍ Aime-moi ֍ loaded the character 'Артем Петров'
+[14:51:27]	֍ Aime-moi ֍ loaded the character 'MPF-RL.51561'
+[14:51:36]	MPF-RL.51561 entered observer.
+[14:51:39]	MPF-RL.51561 exited observer at their location.
+[14:51:43]	MPF-RL.51561 has spawned a 'Entity [494][free_bodygroupr]'.
+[14:53:16]	Alexander Klimov set walkSpeed to '80'.
+[14:53:16]	MPF-RL.51561 entered observer.
+[14:53:18]	MPF-RL.51561 exited observer at their location.
+[14:53:42]	Alexander Klimov set runSpeed to '220'.
+[14:53:52]	MPF-RL.51561 has spawned a 'Entity [553][gmod_sent_vehicle_fphysics_base]'.
+[14:54:04]	MPF-RL.51561 has spawned a 'Entity [554][gmod_sent_vehicle_fphysics_base]'.
+[14:54:14]	MPF-RL.51561 entered observer.
+[14:54:16]	MPF-RL.51561 exited observer at their location.
+[14:54:19]	MPF-RL.51561 has spawned a 'Entity [553][gmod_sent_vehicle_fphysics_base]'.
+[14:54:31]	Alexander Klimov used command '/ActWindow'.
+[14:54:34]	MPF-RL.51561 entered observer.
+[14:54:40]	Alexander Klimov used command '/ExitAct'.
+[14:54:56]	MPF-RL.51561 exited observer at their location.
+[14:54:58]	Alexander Klimov used command '/ActWindow'.
+[14:55:32]	MPF-RL.51561 has spawned a 'NPC [579][npc_citizen]'.
+[14:55:39]	MPF-RL.51561 has spawned a 'NPC [579][npc_citizen]'.
+[14:55:39]	Alexander Klimov used command '/ExitAct'.
+[14:55:46]	MPF-RL.51561 entered observer.
+[14:55:47]	MPF-RL.51561 exited observer at their location.
+[14:55:53]	MPF-RL.51561 entered observer.
+[14:55:53]	MPF-RL.51561 exited observer at their location.
+[14:55:56]	Alexander Klimov has taken 92 damage from MPF-RL.51561.
+[14:55:56]	Alexander Klimov has taken 97 damage from MPF-RL.51561.
+[14:55:56]	MPF-RL.51561 has killed Alexander Klimov with arccw_shorty.
+[14:56:04]	MPF-RL.51561 has spawned a 'Entity [36][arccw_ammo_buckshot_large]'.
+[14:56:09]	Alexander Klimov entered observer.
+[14:56:15]	Alexander Klimov exited observer at their location.
+[14:56:16]	MPF-RL.51561 entered observer.
+[14:56:18]	MPF-RL.51561 exited observer at their location.
+[14:56:27]	MPF-RL.51561 has gained 300 tokens.
+[14:56:54]	MPF-RL.51561 entered observer.
+[14:56:56]	MPF-RL.51561 exited observer at their location.
+[14:57:06]	MPF-RL.51561 has spawned a 'NPC [13][npc_metropolice]'.
+[14:57:06]	MPF-RL.51561 has taken 3 damage from npc_metropolice.
+[14:57:12]	MPF-RL.51561 has spawned a 'Entity [13][item_healthkit]'.
+[14:57:13]	MPF-RL.51561 has spawned a 'Entity [13][item_battery]'.
+[14:57:41]	MPF-RL.51561 entered observer.
+[14:57:43]	MPF-RL.51561 exited observer at their location.
+[14:57:46]	MPF-RL.51561 has spawned a 'NPC [14][npc_metropolice]'.
+[14:57:53]	MPF-RL.51561 has spawned a 'NPC [14][npc_metropolice]'.
+[14:58:18]	MPF-RL.51561 entered observer.
+[14:58:20]	MPF-RL.51561 exited observer at their location.
+[14:58:44]	MPF-RL.51561 entered observer.
+[14:58:49]	MPF-RL.51561 exited observer at their location.
+[14:58:56]	MPF-RL.51561 entered observer.
+[14:58:57]	MPF-RL.51561 exited observer at their location.
+[14:58:59]	MPF-RL.51561 entered observer.
+[14:59:00]	MPF-RL.51561 exited observer at their location.
+[14:59:00]	MPF-RL.51561 entered observer.
+[14:59:02]	MPF-RL.51561 exited observer at their location.
+[14:59:11]	MPF-RL.51561 entered observer.
+[14:59:12]	MPF-RL.51561 exited observer at their location.
+[14:59:35]	Alexander Klimov has taken 105 damage from MPF-RL.51561.
+[14:59:35]	MPF-RL.51561 has killed Alexander Klimov with arccw_shorty.
+[14:59:39]	Alexander Klimov used command '/ActArrestWall'.
+[14:59:48]	Alexander Klimov entered observer.
+[14:59:56]	Alexander Klimov exited observer at their location.
+[15:00:31]	Alexander Klimov used command '/ActArrestWall'.
+[15:00:44]	Alexander Klimov has taken 103 damage from MPF-RL.51561.
+[15:00:44]	MPF-RL.51561 has killed Alexander Klimov with arccw_shorty.
+[15:01:27]	MPF-RL.51561 has gained 300 tokens.
+[15:01:27]	MPF-RL.51561 entered observer.
+[15:01:36]	MPF-RL.51561 exited observer at their location.
+[15:01:38]	MPF-RL.51561 has spawned a 'Entity [92][gmod_sent_vehicle_fphysics_base]'.
+[15:01:47]	MPF-RL.51561 entered observer.
+[15:02:05]	MPF-RL.51561 exited observer at their location.
+[15:02:45]	MPF-RL.51561 entered observer.
+[15:02:48]	MPF-RL.51561 exited observer at their location.
+[15:04:03]	MPF-RL.51561 entered observer.
+[15:04:11]	MPF-RL.51561 exited observer at their location.
+[15:04:49]	MPF-RL.51561 entered observer.
+[15:05:09]	Alexander Klimov has taken 3 damage from worldspawn.
+[15:05:16]	Alexander Klimov has taken 43 damage from worldspawn.
+[15:05:18]	MPF-RL.51561 exited observer at their location.
+[15:05:34]	Alexander Klimov has taken 25 damage from MPF-RL.51561.
+[15:05:34]	Alexander Klimov has taken 25 damage from MPF-RL.51561.
+[15:05:47]	Alexander Klimov has taken 98 damage from MPF-RL.51561.
+[15:05:47]	MPF-RL.51561 has killed Alexander Klimov with arccw_shorty.
+[15:05:52]	MPF-RL.51561 entered observer.
+[15:05:58]	MPF-RL.51561 exited observer at their location.
+[15:06:02]	MPF-RL.51561 entered observer.
+[15:06:09]	MPF-RL.51561 exited observer at their location.
+[15:06:27]	MPF-RL.51561 has gained 300 tokens.
+[15:06:36]	MPF-RL.51561 entered observer.
+[15:06:45]	MPF-RL.51561 exited observer at their location.
+[15:06:46]	MPF-RL.51561 entered observer.
+[15:07:05]	MPF-RL.51561 exited observer at their location.
+[15:07:06]	MPF-RL.51561 entered observer.
+[15:07:32]	Alexander Klimov used command '/ActSit'.
+[15:07:44]	Alexander Klimov used command '/ExitAct'.
+[15:07:50]	Alexander Klimov used command '/ActSitWall'.
+[15:07:58]	Alexander Klimov used command '/ExitAct'.
+[15:08:01]	MPF-RL.51561 exited observer at their location.
+[15:08:04]	Alexander Klimov used command '/ActSitWall'.
+[15:09:32]	Alexander Klimov ran 'drop' on item 'Suitcase' (#1)
+[15:09:32]	Alexander Klimov has lost a 'Suitcase' #1.
+[15:09:33]	Alexander Klimov ran 'drop' on item 'Citizen ID' (#2)
+[15:09:33]	Alexander Klimov has lost a 'Citizen ID' #2.
+[15:10:03]	Alexander Klimov used command '/ActArrest'.
+[15:10:13]	MPF-RL.51561 has spawned a 'NPC [553][npc_metropolice]'.
+[15:10:15]	MPF-RL.51561 has spawned a 'NPC [555][npc_metropolice]'.
+[15:10:19]	Alexander Klimov used command '/ExitAct'.
+[15:10:26]	Alexander Klimov used command '/ActArrestWall'.
+[15:10:34]	Alexander Klimov has taken 5 damage from MPF-RL.51561.
+[15:10:35]	Alexander Klimov has taken 5 damage from MPF-RL.51561.
+[15:10:36]	Alexander Klimov has taken 5 damage from MPF-RL.51561.
+[15:11:00]	MPF-RL.51561 entered observer.
+[15:11:01]	MPF-RL.51561 exited observer at their location.
+[15:11:02]	MPF-RL.51561 entered observer.
+[15:11:02]	MPF-RL.51561 exited observer at their location.
+[15:11:19]	MPF-RL.51561 has spawned a 'NPC [556][npc_metropolice]'.
+[15:11:24]	MPF-RL.51561 has spawned a 'NPC [556][npc_metropolice]'.
+[15:11:27]	MPF-RL.51561 has gained 300 tokens.
+[15:12:15]	[IT] MPF-RL.51561: У сотрудника ГО в руках была камера
+[15:12:26]	[ME] MPF-RL.51561: сделал снимок гражданина
+[15:12:38]	Alexander Klimov used command '/ActSit'.
+[15:12:41]	[ME] MPF-RL.51561: открыл ящичек и положив фотоаппарат на место
+[15:12:53]	Alexander Klimov has taken 5 damage from MPF-RL.51561.
+[15:13:09]	Alexander Klimov has taken 5 damage from MPF-RL.51561.
+[15:13:11]	Alexander Klimov has taken 5 damage from MPF-RL.51561.
+[15:13:22]	Alexander Klimov used command '/ExitAct'.
+[15:13:45]	Alexander Klimov has taken 12 damage from MPF-RL.51561.
+[15:13:45]	Alexander Klimov has taken 12 damage from MPF-RL.51561.
+[15:13:45]	Alexander Klimov has taken 12 damage from MPF-RL.51561.
+[15:13:46]	Alexander Klimov has taken 12 damage from MPF-RL.51561.
+[15:13:46]	Alexander Klimov has taken 12 damage from MPF-RL.51561.
+[15:13:52]	Alexander Klimov has taken 12 damage from MPF-RL.51561.
+[15:13:52]	MPF-RL.51561 has killed Alexander Klimov with weapon_smg1.
+[15:14:07]	MPF-RL.51561 entered observer.
+[15:14:07]	Alexander Klimov entered observer.
+[15:14:14]	Alexander Klimov exited observer at their location.
+[15:14:14]	Alexander Klimov entered observer.
+[15:14:15]	Alexander Klimov exited observer at their location.
+[15:14:16]	Alexander Klimov entered observer.
+[15:14:16]	Alexander Klimov exited observer at their location.
+[15:14:29]	MPF-RL.51561 exited observer at their location.
+[15:14:35]	Alexander Klimov ran 'take' on item 'Suitcase' (#1)
+[15:14:35]	Alexander Klimov has gained a 'Suitcase' #1.
+[15:14:36]	Alexander Klimov ran 'take' on item 'Citizen ID' (#2)
+[15:14:36]	Alexander Klimov has gained a 'Citizen ID' #2.
+[15:14:37]	֍ Aime-moi ֍ loaded the character 'Артем Петров'
+[15:15:12]	Alexander Klimov entered observer.
+[15:15:16]	Alexander Klimov exited observer at their location.
+[15:15:40]	Артем Петров has spawned 'models/t100.mdl'.
+[15:15:42]	Артем Петров has spawned 'models/t100.mdl'.
+[15:15:55]	Артем Петров has spawned 'models/humans/servo_ten.mdl'.
+[15:16:03]	Артем Петров used command '/CharSetModel Артем models/humans/servo_ten.mdl'.
+[15:16:38]	Alexander Klimov has taken 23 damage from env_headcrabcanister.
+[15:16:38]	Артем Петров has taken 5 damage from env_headcrabcanister.
+[15:16:38]	Артем Петров has taken 130 damage from env_headcrabcanister.
+[15:16:38]	env_headcrabcanister has killed Артем Петров.
+[15:16:38]	Alexander Klimov has taken 130 damage from env_headcrabcanister.
+[15:16:38]	env_headcrabcanister has killed Alexander Klimov.
+[15:16:49]	Артем Петров entered observer.
+[15:17:24]	Артем Петров used command '/CharSetModel Артем models/barnes/refugee/male_41.mdl'.
+[15:17:29]	Артем Петров exited observer at their location.
+[15:17:57]	Артем Петров used command '/CharSetModel Артем models/barnes/refugee/male_22.mdl'.
+[15:18:26]	Артем Петров used command '/CharSetModel Артем models/humans/group03/male_105.mdl'.
+[15:18:52]	Артем Петров used command '/CharSetModel Артем models/humans/group03/male_42.mdl'.
+[15:18:54]	Alexander Klimov used command '/CharSetModel Alexander models/humans/group03m/male_65.mdl'.
+[15:18:57]	Артем Петров entered observer.
+[15:19:02]	Артем Петров exited observer at their location.
+[15:19:11]	Артем Петров entered observer.
+[15:19:12]	Артем Петров exited observer at their location.
+[15:19:34]	Артем Петров has spawned a 'Entity [33][arccw_ammo_smg1_large]'.
+[15:19:35]	Артем Петров has spawned a 'Entity [33][arccw_ammo_pistol]'.
+[15:19:36]	Артем Петров has spawned a 'Entity [36][arccw_ammo_pistol_large]'.
+[15:19:40]	Alexander Klimov used command '/CharSetModel Alexander models/barnes/refugee/male_100.mdl'.
+[15:20:06]	Артем Петров used command '/CharSetModel Артем models/humans/group03m/male_111.mdl'.
+[15:20:13]	Alexander Klimov used command '/CharSetModel Alexander models/tactical_rebel.mdl'.
+[15:20:22]	Артем Петров used command '/CharSetModel Артем models/humans/group03m/male_125.mdl'.
+[15:20:34]	Артем Петров used command '/CharSetModel Артем models/humans/group03m/male_74.mdl'.
+[15:20:55]	Артем Петров used command '/CharSetModel Артем models/humans/group03m/male_94.mdl'.
+[15:21:08]	Артем Петров used command '/CharSetModel Артем models/humans/group03m/male_93.mdl'.
+[15:21:21]	Артем Петров used command '/CharSetModel Артем models/humans/group03m/male_hc.mdl'.
+[15:21:51]	Артем Петров used command '/CharSetModel Артем models/t600/r_t600.mdl'.
+[15:22:25]	Артем Петров entered observer.
+[15:22:26]	Артем Петров exited observer at their location.
+[15:22:29]	Артем Петров entered observer.
+[15:22:36]	Артем Петров exited observer at their location.
+[15:22:48]	Alexander Klimov has spawned a 'Entity [494][item_ammo_smg1_large]'.
+[15:22:50]	Alexander Klimov has spawned a 'Entity [494][item_ammo_pistol_large]'.
+[15:23:07]	Артем Петров has taken 33 damage from Alexander Klimov.
+[15:23:07]	Артем Петров has taken 32 damage from Alexander Klimov.
+[15:23:07]	Артем Петров has taken 65 damage from Alexander Klimov.
+[15:23:07]	Alexander Klimov has killed Артем Петров with arccw_ump45.
+[15:23:20]	Артем Петров entered observer.
+[15:23:21]	Артем Петров exited observer at their location.
+[15:23:22]	Артем Петров entered observer.
+[15:23:26]	Alexander Klimov has spawned a 'Entity [201][item_ammo_pistol_large]'.
+[15:23:26]	Артем Петров exited observer at their location.
+[15:23:27]	Alexander Klimov has spawned a 'Entity [494][item_ammo_pistol_large]'.
+[15:23:28]	Alexander Klimov has spawned a 'Entity [201][item_ammo_pistol_large]'.
+[15:23:30]	Артем Петров entered observer.
+[15:23:32]	Артем Петров exited observer at their location.
+[15:23:33]	Артем Петров entered observer.
+[15:23:41]	Артем Петров exited observer at their location.
+[15:23:48]	Артем Петров entered observer.
+[15:23:49]	Артем Петров exited observer at their location.
+[15:23:50]	Артем Петров entered observer.
+[15:23:50]	Артем Петров exited observer at their location.
+[15:23:51]	Артем Петров entered observer.
+[15:23:52]	Артем Петров exited observer at their location.
+[15:23:53]	Артем Петров entered observer.
+[15:23:54]	Артем Петров exited observer at their location.
+[15:23:54]	Артем Петров entered observer.
+[15:23:55]	Артем Петров exited observer at their location.
+[15:23:55]	Артем Петров entered observer.
+[15:23:58]	Артем Петров exited observer at their location.
+[15:23:59]	Артем Петров entered observer.
+[15:24:00]	Артем Петров exited observer at their location.
+[15:24:03]	Артем Петров entered observer.
+[15:24:19]	Артем Петров exited observer at their location.
+[15:24:42]	Артем Петров entered observer.
+[15:24:46]	Артем Петров exited observer at their location.
+[15:24:48]	֍ Aime-moi ֍ (STEAM_0:0:424879351) has disconnected.
+[15:25:32]	֍ Aime-moi ֍ has connected.
+[15:26:03]	֍ Aime-moi ֍ loaded the character 'Артем Петров'
+[15:26:04]	Артем Петров entered observer.
+[15:26:12]	Артем Петров exited observer at their location.
+[15:26:47]	Артем Петров used command '/CharSetModel Артем models/humans/group03/male_43.mdl'.
+[15:27:09]	Alexander Klimov has taken 24 damage from Артем Петров.
+[15:27:15]	Г@H3NK loaded the character 'MPF-I4.51977'
+[15:27:15]	MPF-I4.51977 entered observer.
+[15:27:20]	MPF-I4.51977 exited observer at their location.
+[15:27:25]	Артем Петров entered observer.
+[15:27:27]	Артем Петров exited observer at their location.
+[15:27:50]	MPF-I4.51977 has taken 30 damage from Артем Петров.
+[15:27:50]	MPF-I4.51977 has taken 30 damage from Артем Петров.
+[15:27:50]	MPF-I4.51977 has taken 29 damage from Артем Петров.
+[15:27:50]	MPF-I4.51977 has taken 29 damage from Артем Петров.
+[15:27:50]	MPF-I4.51977 has taken 29 damage from Артем Петров.
+[15:27:50]	MPF-I4.51977 has taken 29 damage from Артем Петров.
+[15:27:52]	MPF-I4.51977 has taken 29 damage from Артем Петров.
+[15:27:52]	Артем Петров has killed MPF-I4.51977 with arccw_mp5.
+[15:27:58]	Артем Петров entered observer.
+[15:27:59]	Артем Петров exited observer at their location.
+[15:28:05]	Г@H3NK loaded the character 'Alexander Klimov'
+[15:28:11]	Alexander Klimov has taken 26 damage from Артем Петров.
+[15:28:16]	Alexander Klimov has taken 29 damage from Артем Петров.
+[15:28:17]	Alexander Klimov has taken 59 damage from Артем Петров.
+[15:28:17]	Артем Петров has killed Alexander Klimov with arccw_mp5.
+[15:28:19]	Артем Петров entered observer.
+[15:28:22]	Артем Петров exited observer at their location.
+[15:28:23]	Артем Петров has spawned a 'Entity [489][arccw_ammo_smg1_large]'.
+[15:28:24]	Артем Петров has spawned a 'Entity [553][arccw_ammo_pistol_large]'.
+[15:28:25]	Артем Петров has spawned a 'Entity [15][arccw_ammo_pistol_large]'.
+[15:28:26]	Артем Петров entered observer.
+[15:28:36]	Артем Петров has spawned a 'NPC [12][npc_metropolice]'.
+[15:28:37]	Артем Петров has spawned a 'NPC [555][npc_metropolice]'.
+[15:28:43]	Артем Петров has spawned a 'NPC [12][npc_metropolice]'.
+[15:28:47]	Артем Петров has spawned a 'NPC [555][npc_metropolice]'.
+[15:28:48]	Артем Петров has spawned a 'NPC [559][npc_metropolice]'.
+[15:28:49]	Артем Петров has spawned a 'NPC [563][npc_metropolice]'.
+[15:28:53]	Артем Петров has spawned a 'NPC [566][npc_metropolice]'.
+[15:28:55]	Артем Петров has spawned a 'NPC [568][npc_metropolice]'.
+[15:28:55]	Alexander Klimov has spawned a 'Entity [571][ix_vendor]'.
+[15:28:56]	Alexander Klimov used the 'John Doe' vendor.
+[15:28:59]	Артем Петров has spawned a 'NPC [574][npc_metropolice]'.
+[15:29:03]	Артем Петров has spawned a 'NPC [577][npc_metropolice]'.
+[15:29:04]	Артем Петров has spawned a 'NPC [597][npc_metropolice]'.
+[15:29:06]	Артем Петров has spawned a 'NPC [577][npc_metropolice]'.
+[15:29:08]	Артем Петров has spawned a 'NPC [597][npc_metropolice]'.
+[15:29:08]	Артем Петров has spawned a 'NPC [577][npc_metropolice]'.
+[15:29:11]	Артем Петров exited observer at their location.
+[15:29:16]	Alexander Klimov has taken 1 damage from npc_metropolice.
+[15:29:25]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:29:31]	Alexander Klimov has spawned a 'Entity [574][arccw_ammo_pistol_large]'.
+[15:29:36]	Артем Петров has taken 1 damage from npc_metropolice.
+[15:29:44]	Артем Петров has taken 3 damage from npc_metropolice.
+[15:29:49]	Alexander Klimov has taken 1 damage from npc_metropolice.
+[15:29:50]	Артем Петров has taken 3 damage from npc_metropolice.
+[15:30:00]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:30:13]	Артем Петров entered observer.
+[15:30:13]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:30:14]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:30:14]	Alexander Klimov has taken 6 damage from npc_metropolice.
+[15:30:15]	Артем Петров has spawned a 'NPC [563][npc_metropolice]'.
+[15:30:15]	Alexander Klimov has taken 1 damage from npc_metropolice.
+[15:30:15]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:30:16]	Артем Петров has spawned a 'NPC [574][npc_metropolice]'.
+[15:30:17]	Артем Петров has spawned a 'NPC [841][npc_metropolice]'.
+[15:30:17]	Артем Петров has spawned a 'NPC [1200][npc_metropolice]'.
+[15:30:18]	Артем Петров has spawned a 'NPC [555][npc_metropolice]'.
+[15:30:18]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:30:18]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:30:19]	Alexander Klimov has taken 1 damage from npc_metropolice.
+[15:30:22]	Alexander Klimov has taken 6 damage from npc_metropolice.
+[15:30:23]	Артем Петров has spawned a 'NPC [574][npc_combine_s]'.
+[15:30:28]	Артем Петров has spawned a 'NPC [555][npc_combine_s]'.
+[15:30:30]	Артем Петров has spawned a 'NPC [12][npc_combine_s]'.
+[15:30:31]	Артем Петров has spawned a 'NPC [1688][npc_combine_s]'.
+[15:30:32]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:30:33]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:30:35]	Alexander Klimov has taken 1 damage from npc_combine_s.
+[15:30:36]	Артем Петров has spawned a 'NPC [574][npc_combine_s]'.
+[15:30:36]	Артем Петров has spawned a 'NPC [1757][npc_combine_s]'.
+[15:30:38]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:30:38]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:30:38]	Alexander Klimov has taken 1 damage from npc_combine_s.
+[15:30:38]	Alexander Klimov has taken 1 damage from npc_combine_s.
+[15:30:42]	Артем Петров has spawned a 'NPC [12][npc_combine_s]'.
+[15:30:43]	Артем Петров has spawned a 'NPC [574][npc_combine_s]'.
+[15:30:43]	Артем Петров has spawned a 'NPC [1688][npc_combine_s]'.
+[15:30:48]	Alexander Klimov has taken 1 damage from npc_combine_s.
+[15:30:52]	Артем Петров has spawned a 'NPC [574][npc_combine_s]'.
+[15:30:54]	Артем Петров has spawned a 'NPC [1830][npc_combine_s]'.
+[15:30:56]	Alexander Klimov has taken 6 damage from npc_combine_s.
+[15:30:57]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:30:57]	Alexander Klimov has taken 1 damage from npc_combine_s.
+[15:31:01]	Alexander Klimov has taken 1 damage from npc_combine_s.
+[15:31:02]	Alexander Klimov has taken 13 damage from npc_combine_s.
+[15:31:05]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:31:11]	Alexander Klimov has taken 10 damage from npc_combine_s.
+[15:31:17]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:31:17]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:31:26]	Alexander Klimov has taken 24 damage from npc_combine_s.
+[15:31:28]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:31:29]	Артем Петров has spawned a 'NPC [559][npc_combine_s]'.
+[15:31:29]	Alexander Klimov has taken 6 damage from npc_combine_s.
+[15:31:29]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:31:31]	Артем Петров has spawned a 'NPC [566][npc_combine_s]'.
+[15:31:31]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:31:31]	Alexander Klimov has taken 6 damage from npc_combine_s.
+[15:31:31]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:31:34]	Артем Петров has spawned a 'NPC [1928][npc_combine_s]'.
+[15:31:34]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:31:34]	Артем Петров has spawned a 'NPC [2063][npc_combine_s]'.
+[15:31:37]	Alexander Klimov has taken 17 damage from npc_combine_s.
+[15:31:37]	Alexander Klimov has taken 15 damage from npc_combine_s.
+[15:31:41]	Артем Петров has spawned a 'NPC [12][npc_manhack]'.
+[15:31:50]	Артем Петров has spawned a 'NPC [12][npc_combine_s]'.
+[15:31:55]	Артем Петров has spawned a 'NPC [1928][npc_combine_s]'.
+[15:31:56]	Alexander Klimov has taken 1 damage from npc_combine_s.
+[15:31:58]	Alexander Klimov has taken 1 damage from npc_combine_s.
+[15:31:58]	Alexander Klimov has taken 1 damage from npc_combine_s.
+[15:32:04]	Артем Петров has spawned a 'NPC [1928][npc_combine_s]'.
+[15:32:04]	Артем Петров has spawned a 'NPC [2448][npc_combine_s]'.
+[15:32:05]	Артем Петров has spawned a 'NPC [2451][npc_combine_s]'.
+[15:32:06]	Артем Петров has spawned a 'NPC [669][npc_combine_s]'.
+[15:32:06]	Артем Петров has spawned a 'NPC [2599][npc_combine_s]'.
+[15:32:07]	Артем Петров has spawned a 'NPC [2601][npc_combine_s]'.
+[15:32:17]	Alexander Klimov has taken 1 damage from npc_combine_s.
+[15:32:17]	Alexander Klimov has taken 6 damage from npc_combine_s.
+[15:32:17]	npc_combine_s has killed Alexander Klimov.
+[15:32:31]	Артем Петров has spawned a 'NPC [15][npc_combine_s]'.
+[15:32:32]	Артем Петров has spawned a 'NPC [2604][npc_combine_s]'.
+[15:32:37]	Артем Петров has spawned a 'NPC [2603][npc_combine_s]'.
+[15:32:38]	Артем Петров has spawned a 'NPC [2631][npc_combine_s]'.
+[15:32:39]	Alexander Klimov has spawned a 'Entity [2641][arccw_ammo_pistol_large]'.
+[15:32:39]	Alexander Klimov has spawned a 'Entity [2647][arccw_ammo_pistol_large]'.
+[15:32:39]	Alexander Klimov has spawned a 'Entity [2654][arccw_ammo_pistol_large]'.
+[15:32:39]	Alexander Klimov has spawned a 'Entity [2655][arccw_ammo_pistol_large]'.
+[15:32:39]	Alexander Klimov has spawned a 'Entity [2656][arccw_ammo_pistol_large]'.
+[15:32:39]	Alexander Klimov has spawned a 'Entity [2657][arccw_ammo_pistol_large]'.
+[15:32:47]	Артем Петров has spawned a 'NPC [2647][npc_combine_s]'.
+[15:32:47]	Артем Петров has spawned a 'NPC [2655][npc_combine_s]'.
+[15:32:56]	Артем Петров has spawned a 'NPC [2451][npc_combine_s]'.
+[15:32:57]	Артем Петров has spawned a 'NPC [15][npc_combine_s]'.
+[15:32:58]	Alexander Klimov has taken 6 damage from npc_combine_s.
+[15:32:58]	Alexander Klimov has taken 1 damage from npc_combine_s.
+[15:32:58]	Alexander Klimov has taken 6 damage from npc_combine_s.
+[15:33:08]	Артем Петров has spawned a 'NPC [15][npc_combine_s]'.
+[15:33:09]	Артем Петров has spawned a 'NPC [1928][npc_combine_s]'.
+[15:33:15]	Артем Петров has spawned a 'NPC [2655][npc_combine_s]'.
+[15:33:17]	Артем Петров has spawned a 'NPC [2659][npc_combine_s]'.
+[15:33:25]	Alexander Klimov has taken 19 damage from npc_combine_s.
+[15:33:29]	Alexander Klimov has taken 16 damage from npc_combine_s.
+[15:33:35]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:33:37]	Артем Петров has spawned a 'NPC [2604][npc_combine_s]'.
+[15:33:39]	Артем Петров has spawned a 'NPC [2661][npc_combine_s]'.
+[15:33:41]	Артем Петров has spawned a 'NPC [2599][npc_combine_s]'.
+[15:33:41]	Артем Петров has spawned a 'NPC [2663][npc_combine_s]'.
+[15:33:43]	Артем Петров has spawned a 'NPC [2665][npc_combine_s]'.
+[15:33:43]	Артем Петров has spawned a 'NPC [2667][npc_combine_s]'.
+[15:33:44]	Alexander Klimov has taken 1 damage from npc_combine_s.
+[15:33:45]	Артем Петров has spawned a 'NPC [2670][npc_combine_s]'.
+[15:33:46]	Артем Петров has spawned a 'NPC [2672][npc_combine_s]'.
+[15:33:48]	Артем Петров has spawned a 'NPC [2603][npc_combine_s]'.
+[15:33:49]	Артем Петров has spawned a 'NPC [2675][npc_combine_s]'.
+[15:33:49]	Alexander Klimov has taken 1 damage from npc_combine_s.
+[15:33:49]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:34:09]	Alexander Klimov has taken 6 damage from npc_combine_s.
+[15:34:09]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:34:09]	Alexander Klimov has taken 6 damage from npc_combine_s.
+[15:34:09]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:34:14]	Alexander Klimov has taken 1 damage from npc_combine_s.
+[15:34:16]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:34:17]	Alexander Klimov has taken 6 damage from npc_combine_s.
+[15:34:18]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:34:20]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:34:34]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:34:34]	Alexander Klimov has taken 6 damage from npc_combine_s.
+[15:34:46]	Артем Петров has spawned a 'NPC [2448][npc_combine_s]'.
+[15:34:47]	Артем Петров has spawned a 'NPC [2601][npc_combine_s]'.
+[15:34:51]	Артем Петров has spawned a 'NPC [2663][npc_combine_s]'.
+[15:34:51]	Артем Петров has spawned a 'NPC [2667][npc_combine_s]'.
+[15:34:54]	Артем Петров has spawned a 'NPC [559][npc_combine_s]'.
+[15:34:55]	Артем Петров has spawned a 'NPC [2675][npc_combine_s]'.
+[15:35:00]	Артем Петров has spawned a 'NPC [2683][npc_combine_s]'.
+[15:35:03]	Alexander Klimov has taken 6 damage from npc_combine_s.
+[15:35:05]	Артем Петров has spawned a 'NPC [566][npc_combine_s]'.
+[15:35:05]	Артем Петров has spawned a 'NPC [2604][npc_combine_s]'.
+[15:35:06]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:35:08]	Alexander Klimov has taken 6 damage from npc_combine_s.
+[15:35:08]	npc_combine_s has killed Alexander Klimov.
+[15:35:23]	Alexander Klimov has spawned a 'Entity [12][arccw_ammo_pistol_large]'.
+[15:35:23]	Alexander Klimov has spawned a 'Entity [2681][arccw_ammo_pistol_large]'.
+[15:35:23]	Alexander Klimov has spawned a 'Entity [2682][arccw_ammo_pistol_large]'.
+[15:35:27]	Артем Петров has spawned a 'NPC [2661][npc_combine_s]'.
+[15:35:30]	Alexander Klimov has spawned a 'Entity [2661][arccw_ammo_pistol_large]'.
+[15:35:30]	Alexander Klimov has spawned a 'Entity [2678][arccw_ammo_pistol_large]'.
+[15:35:30]	Alexander Klimov has spawned a 'Entity [2681][arccw_ammo_pistol_large]'.
+[15:35:31]	Артем Петров has spawned a 'NPC [2682][npc_combine_s]'.
+[15:35:31]	Alexander Klimov has spawned a 'Entity [2686][arccw_ammo_pistol_large]'.
+[15:35:31]	Артем Петров has spawned a 'NPC [2687][npc_combine_s]'.
+[15:35:35]	Alexander Klimov has taken 6 damage from npc_combine_s.
+[15:35:37]	Alexander Klimov has taken 1 damage from npc_combine_s.
+[15:35:38]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:35:43]	Артем Петров has spawned a 'NPC [2678][npc_combine_s]'.
+[15:35:48]	Артем Петров has spawned a 'NPC [2690][npc_combine_s]'.
+[15:35:48]	Артем Петров has spawned a 'NPC [2692][npc_combine_s]'.
+[15:35:51]	Alexander Klimov has taken 1 damage from npc_combine_s.
+[15:35:51]	Alexander Klimov has taken 1 damage from npc_combine_s.
+[15:35:52]	Артем Петров has spawned a 'NPC [2661][npc_combine_s]'.
+[15:35:54]	Артем Петров has spawned a 'NPC [2678][npc_combine_s]'.
+[15:35:55]	Alexander Klimov has taken 1 damage from npc_combine_s.
+[15:35:56]	Артем Петров has spawned a 'NPC [2692][npc_combine_s]'.
+[15:36:09]	Артем Петров has spawned a 'NPC [2678][npc_combine_s]'.
+[15:36:10]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:36:10]	Артем Петров has spawned a 'NPC [2695][npc_combine_s]'.
+[15:36:16]	Артем Петров has spawned a 'NPC [2695][npc_combine_s]'.
+[15:36:16]	Артем Петров has spawned a 'NPC [2699][npc_combine_s]'.
+[15:36:18]	Артем Петров has spawned a 'NPC [2661][npc_combine_s]'.
+[15:36:20]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:36:20]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:36:22]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:36:35]	Alexander Klimov has taken 1 damage from npc_combine_s.
+[15:36:39]	Артем Петров has spawned a 'NPC [2601][npc_combine_s]'.
+[15:36:40]	Артем Петров has spawned a 'NPC [2697][npc_combine_s]'.
+[15:36:43]	Артем Петров has spawned a 'NPC [2705][npc_combine_s]'.
+[15:36:43]	Артем Петров has spawned a 'NPC [2710][npc_combine_s]'.
+[15:36:43]	Артем Петров has spawned a 'NPC [2712][npc_combine_s]'.
+[15:36:43]	Артем Петров has spawned a 'NPC [2714][npc_combine_s]'.
+[15:36:44]	Артем Петров has spawned a 'NPC [2716][npc_combine_s]'.
+[15:36:44]	Артем Петров has spawned a 'NPC [2718][npc_combine_s]'.
+[15:36:45]	Alexander Klimov has taken 1 damage from npc_combine_s.
+[15:36:46]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:36:49]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:36:49]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:36:55]	Артем Петров has spawned a 'NPC [2678][npc_combine_s]'.
+[15:36:55]	Артем Петров has spawned a 'NPC [2704][npc_combine_s]'.
+[15:37:00]	Alexander Klimov has taken 1 damage from npc_combine_s.
+[15:37:00]	Alexander Klimov has taken 1 damage from npc_combine_s.
+[15:37:01]	Alexander Klimov has taken 6 damage from npc_combine_s.
+[15:37:01]	Alexander Klimov has taken 1 damage from npc_combine_s.
+[15:37:02]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:37:08]	Артем Петров has spawned a 'NPC [2705][npc_combine_s]'.
+[15:37:17]	Артем Петров has spawned a 'NPC [2678][npc_combine_s]'.
+[15:37:33]	Alexander Klimov has taken 22 damage from npc_combine_s.
+[15:37:38]	Артем Петров has spawned a 'NPC [2661][npc_combine_s]'.
+[15:37:38]	Артем Петров has spawned a 'NPC [2695][npc_combine_s]'.
+[15:37:47]	Артем Петров has spawned a 'Entity [2710][item_healthkit]'.
+[15:37:48]	Артем Петров has spawned a 'Entity [669][item_healthkit]'.
+[15:37:52]	Артем Петров has spawned a 'Entity [669][item_healthkit]'.
+[15:37:57]	Артем Петров has spawned a 'NPC [669][npc_combine_s]'.
+[15:37:57]	Артем Петров has spawned a 'NPC [2712][npc_combine_s]'.
+[15:37:59]	Артем Петров has spawned a 'NPC [2720][npc_combine_s]'.
+[15:37:59]	Артем Петров has spawned a 'NPC [2722][npc_combine_s]'.
+[15:38:00]	Артем Петров has spawned a 'NPC [2661][npc_combine_s]'.
+[15:38:00]	Артем Петров has spawned a 'NPC [2725][npc_combine_s]'.
+[15:38:01]	Alexander Klimov has taken 1 damage from npc_combine_s.
+[15:38:06]	Alexander Klimov has taken 1 damage from npc_combine_s.
+[15:38:09]	Артем Петров has spawned a 'NPC [2695][npc_combinedropship]'.
+[15:38:20]	Артем Петров has spawned a 'Entity [2695][gmod_sent_vehicle_fphysics_base]'.
+[15:38:21]	Артем Петров has spawned a 'Entity [2661][gmod_sent_vehicle_fphysics_base]'.
+[15:38:22]	Артем Петров exited observer at their location.
+[15:38:24]	Alexander Klimov has taken 10 damage from npc_combine_s.
+[15:38:27]	Alexander Klimov has taken 25 damage from Артем Петров.
+[15:38:27]	Alexander Klimov has taken 25 damage from Артем Петров.
+[15:38:30]	Alexander Klimov has taken 25 damage from Артем Петров.
+[15:38:30]	Артем Петров has killed Alexander Klimov with ix_hands.
+[15:38:36]	Артем Петров entered observer.
+[15:38:41]	Alexander Klimov entered observer.
+[15:38:43]	Alexander Klimov exited observer at their location.
+[15:38:44]	Alexander Klimov has taken 1 damage from npc_combine_s.
+[15:38:44]	Alexander Klimov has spawned a 'Entity [669][arccw_ammo_pistol_large]'.
+[15:38:45]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:38:45]	Alexander Klimov has spawned a 'Entity [1923][arccw_ammo_pistol_large]'.
+[15:38:45]	Alexander Klimov has spawned a 'Entity [2661][arccw_ammo_pistol_large]'.
+[15:38:45]	Alexander Klimov has spawned a 'Entity [2695][arccw_ammo_pistol_large]'.
+[15:38:45]	Alexander Klimov has spawned a 'Entity [2697][arccw_ammo_pistol_large]'.
+[15:38:45]	Alexander Klimov has taken 1 damage from npc_combine_s.
+[15:38:46]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:38:46]	Alexander Klimov has taken 6 damage from npc_combine_s.
+[15:38:47]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:38:48]	Артем Петров has spawned a 'NPC [1923][npc_metropolice]'.
+[15:38:48]	Alexander Klimov has taken 6 damage from npc_combine_s.
+[15:38:49]	Артем Петров has spawned a 'NPC [2695][npc_metropolice]'.
+[15:38:54]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:38:55]	Alexander Klimov has taken 1 damage from npc_combine_s.
+[15:38:55]	Alexander Klimov has taken 6 damage from npc_combine_s.
+[15:38:57]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:38:58]	Артем Петров has spawned a 'NPC [15][npc_metropolice]'.
+[15:38:58]	Артем Петров has spawned a 'NPC [2718][npc_metropolice]'.
+[15:38:59]	Alexander Klimov has taken 6 damage from npc_combine_s.
+[15:39:02]	Артем Петров has spawned a 'NPC [1928][npc_metropolice]'.
+[15:39:02]	Артем Петров has spawned a 'NPC [2727][npc_metropolice]'.
+[15:39:03]	Артем Петров has spawned a 'NPC [2687][npc_metropolice]'.
+[15:39:03]	Артем Петров has spawned a 'NPC [2730][npc_metropolice]'.
+[15:39:04]	Артем Петров has spawned a 'NPC [2732][npc_metropolice]'.
+[15:39:04]	Артем Петров has spawned a 'NPC [2734][npc_metropolice]'.
+[15:39:05]	Артем Петров has spawned a 'NPC [2736][npc_metropolice]'.
+[15:39:05]	Артем Петров has spawned a 'NPC [2738][npc_metropolice]'.
+[15:39:06]	Артем Петров has spawned a 'NPC [2740][npc_metropolice]'.
+[15:39:07]	Alexander Klimov has taken 6 damage from npc_metropolice.
+[15:39:08]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:39:08]	Alexander Klimov has taken 1 damage from npc_metropolice.
+[15:39:08]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:39:10]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:39:13]	Артем Петров has spawned a 'NPC [1928][npc_metropolice]'.
+[15:39:14]	Артем Петров has spawned a 'NPC [2718][npc_metropolice]'.
+[15:39:14]	Артем Петров has spawned a 'NPC [2734][npc_metropolice]'.
+[15:39:15]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:39:16]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:39:18]	Alexander Klimov has taken 6 damage from npc_metropolice.
+[15:39:19]	Alexander Klimov has taken 6 damage from npc_metropolice.
+[15:39:19]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:39:20]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:39:21]	Alexander Klimov has taken 6 damage from npc_metropolice.
+[15:39:21]	Alexander Klimov has taken 6 damage from npc_metropolice.
+[15:39:22]	Артем Петров has spawned a 'NPC [2740][npc_metropolice]'.
+[15:39:22]	Артем Петров has spawned a 'NPC [2746][npc_metropolice]'.
+[15:39:23]	Артем Петров has spawned a 'NPC [2734][npc_metropolice]'.
+[15:39:24]	Alexander Klimov has taken 6 damage from npc_metropolice.
+[15:39:25]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:39:25]	Alexander Klimov has taken 6 damage from npc_metropolice.
+[15:39:25]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:39:25]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:39:29]	Артем Петров has spawned a 'NPC [2734][npc_combine_s]'.
+[15:39:32]	Артем Петров has spawned a 'NPC [2738][npc_combine_s]'.
+[15:39:33]	Артем Петров has spawned a 'NPC [2751][npc_combine_s]'.
+[15:39:34]	Артем Петров has spawned a 'NPC [2743][npc_manhack]'.
+[15:39:35]	Alexander Klimov has taken 4 damage from npc_manhack.
+[15:39:36]	Alexander Klimov has taken 4 damage from npc_manhack.
+[15:39:38]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:39:39]	Alexander Klimov has taken 6 damage from npc_metropolice.
+[15:39:39]	Alexander Klimov has taken 6 damage from npc_metropolice.
+[15:39:39]	Alexander Klimov has taken 6 damage from npc_metropolice.
+[15:39:44]	Артем Петров has spawned a 'NPC [1923][npc_manhack]'.
+[15:39:44]	Артем Петров has spawned a 'NPC [2738][npc_manhack]'.
+[15:39:44]	Артем Петров has spawned a 'NPC [2751][npc_manhack]'.
+[15:39:44]	Артем Петров has spawned a 'NPC [2755][npc_manhack]'.
+[15:39:44]	Артем Петров has spawned a 'NPC [2758][npc_manhack]'.
+[15:39:45]	Артем Петров has spawned a 'NPC [2761][npc_manhack]'.
+[15:39:45]	Артем Петров has spawned a 'NPC [2764][npc_manhack]'.
+[15:39:45]	Артем Петров has spawned a 'NPC [2767][npc_manhack]'.
+[15:39:45]	Артем Петров has spawned a 'NPC [2770][npc_manhack]'.
+[15:39:45]	Артем Петров has spawned a 'NPC [2773][npc_manhack]'.
+[15:39:46]	Артем Петров has spawned a 'NPC [2776][npc_metropolice]'.
+[15:39:47]	Артем Петров has spawned a 'NPC [2778][npc_metropolice]'.
+[15:39:48]	Артем Петров has spawned a 'NPC [2780][npc_metropolice]'.
+[15:39:48]	Артем Петров has spawned a 'NPC [2782][npc_metropolice]'.
+[15:39:49]	Артем Петров has spawned a 'NPC [2784][npc_metropolice]'.
+[15:39:49]	Артем Петров has spawned a 'NPC [2786][npc_metropolice]'.
+[15:39:50]	Артем Петров has spawned a 'NPC [2788][npc_metropolice]'.
+[15:39:50]	Артем Петров has spawned a 'NPC [2796][npc_metropolice]'.
+[15:39:56]	Артем Петров has spawned a 'NPC [2751][npc_metropolice]'.
+[15:39:56]	Артем Петров has spawned a 'NPC [2743][npc_metropolice]'.
+[15:39:57]	Артем Петров has spawned a 'NPC [1923][npc_metropolice]'.
+[15:39:57]	Артем Петров has spawned a 'NPC [2695][npc_metropolice]'.
+[15:39:58]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:39:58]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:39:58]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:39:59]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:39:59]	Alexander Klimov has taken 1 damage from npc_metropolice.
+[15:39:59]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:40:02]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:40:03]	Артем Петров has spawned a 'NPC [15][npc_metropolice]'.
+[15:40:03]	Артем Петров has spawned a 'NPC [2760][npc_metropolice]'.
+[15:40:04]	Alexander Klimov has taken 1 damage from npc_metropolice.
+[15:40:04]	Alexander Klimov has taken 1 damage from npc_metropolice.
+[15:40:06]	Артем Петров has spawned a 'NPC [1923][npc_metropolice]'.
+[15:40:06]	Артем Петров has spawned a 'NPC [2758][npc_metropolice]'.
+[15:40:06]	Артем Петров has spawned a 'NPC [2763][npc_metropolice]'.
+[15:40:06]	Артем Петров has spawned a 'NPC [2765][npc_metropolice]'.
+[15:40:07]	Артем Петров has spawned a 'NPC [2768][npc_metropolice]'.
+[15:40:07]	Артем Петров has spawned a 'NPC [2770][npc_metropolice]'.
+[15:40:07]	Артем Петров has spawned a 'NPC [2772][npc_metropolice]'.
+[15:40:08]	Артем Петров has spawned a 'NPC [2774][npc_metropolice]'.
+[15:40:13]	Alexander Klimov has taken 6 damage from npc_metropolice.
+[15:40:13]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:40:18]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:40:19]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:40:20]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:40:22]	Alexander Klimov has taken 1 damage from npc_metropolice.
+[15:40:26]	Alexander Klimov has taken 1 damage from npc_metropolice.
+[15:40:28]	Артем Петров has spawned a 'NPC [2760][npc_metropolice]'.
+[15:40:29]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:40:32]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:40:33]	Alexander Klimov has taken 1 damage from npc_metropolice.
+[15:40:49]	Alexander Klimov has taken 1 damage from npc_combine_s.
+[15:40:49]	Alexander Klimov has taken 6 damage from npc_combine_s.
+[15:40:50]	Артем Петров has spawned a 'NPC [2743][npc_metropolice]'.
+[15:40:57]	Артем Петров has spawned a 'NPC [2743][npc_metropolice]'.
+[15:40:57]	Артем Петров has spawned a 'NPC [2760][npc_metropolice]'.
+[15:40:58]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:41:08]	Артем Петров has spawned a 'NPC [559][npc_metropolice]'.
+[15:41:08]	Артем Петров has spawned a 'NPC [2760][npc_metropolice]'.
+[15:41:16]	Артем Петров has spawned a 'NPC [559][npc_metropolice]'.
+[15:41:17]	Артем Петров has spawned a 'NPC [2743][npc_metropolice]'.
+[15:41:19]	Артем Петров has spawned a 'NPC [2774][npc_metropolice]'.
+[15:41:21]	Alexander Klimov has taken 10 damage from npc_metropolice.
+[15:41:32]	Артем Петров has spawned a 'NPC [559][npc_metropolice]'.
+[15:41:33]	Артем Петров has spawned a 'NPC [2774][npc_metropolice]'.
+[15:41:38]	Артем Петров has spawned a 'NPC [2784][npc_metropolice]'.
+[15:41:38]	Артем Петров has spawned a 'NPC [2787][npc_metropolice]'.
+[15:41:39]	Артем Петров has spawned a 'NPC [2789][npc_metropolice]'.
+[15:41:45]	Артем Петров has spawned a 'NPC [2793][npc_metropolice]'.
+[15:41:45]	Артем Петров has spawned a 'NPC [2795][npc_metropolice]'.
+[15:41:50]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:41:50]	Alexander Klimov has taken 1 damage from npc_metropolice.
+[15:41:50]	Alexander Klimov has taken 1 damage from npc_metropolice.
+[15:41:54]	Артем Петров has spawned a 'NPC [2795][npc_metropolice]'.
+[15:41:54]	Артем Петров has spawned a 'NPC [2799][npc_metropolice]'.
+[15:41:54]	Артем Петров has spawned a 'NPC [2793][npc_metropolice]'.
+[15:41:55]	Артем Петров has spawned a 'NPC [2802][npc_metropolice]'.
+[15:41:56]	Артем Петров has spawned a 'NPC [2804][npc_metropolice]'.
+[15:41:56]	Артем Петров has spawned a 'NPC [2807][npc_metropolice]'.
+[15:41:56]	Артем Петров has spawned a 'NPC [2809][npc_metropolice]'.
+[15:41:56]	Артем Петров has spawned a 'NPC [2811][npc_metropolice]'.
+[15:41:56]	Артем Петров has spawned a 'NPC [2813][npc_metropolice]'.
+[15:41:56]	Alexander Klimov has taken 1 damage from npc_metropolice.
+[15:41:56]	Артем Петров has spawned a 'NPC [2815][npc_metropolice]'.
+[15:41:56]	Артем Петров has spawned a 'NPC [2817][npc_metropolice]'.
+[15:41:57]	Alexander Klimov has taken 1 damage from npc_metropolice.
+[15:41:57]	Alexander Klimov has taken 1 damage from npc_metropolice.
+[15:41:57]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:41:58]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:41:58]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:41:58]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:41:59]	Артем Петров has spawned a 'NPC [2821][npc_metropolice]'.
+[15:41:59]	Артем Петров has spawned a 'NPC [2823][npc_metropolice]'.
+[15:42:00]	Артем Петров has spawned a 'NPC [2795][npc_metropolice]'.
+[15:42:00]	Артем Петров has spawned a 'NPC [2826][npc_metropolice]'.
+[15:42:00]	Артем Петров has spawned a 'NPC [2828][npc_metropolice]'.
+[15:42:00]	Артем Петров has spawned a 'NPC [2830][npc_metropolice]'.
+[15:42:01]	Артем Петров has spawned a 'NPC [2815][npc_metropolice]'.
+[15:42:01]	Артем Петров has spawned a 'NPC [2833][npc_metropolice]'.
+[15:42:01]	Артем Петров has spawned a 'NPC [2835][npc_metropolice]'.
+[15:42:01]	Артем Петров has spawned a 'NPC [2837][npc_metropolice]'.
+[15:42:01]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:42:01]	Артем Петров has spawned a 'NPC [2840][npc_metropolice]'.
+[15:42:02]	Артем Петров has spawned a 'NPC [2842][npc_metropolice]'.
+[15:42:02]	Артем Петров has spawned a 'NPC [2844][npc_metropolice]'.
+[15:42:02]	Артем Петров has spawned a 'NPC [2846][npc_metropolice]'.
+[15:42:06]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:42:06]	Alexander Klimov has taken 6 damage from npc_metropolice.
+[15:42:07]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:42:08]	Alexander Klimov has taken 6 damage from npc_metropolice.
+[15:42:11]	Alexander Klimov has taken 6 damage from npc_metropolice.
+[15:42:11]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:42:11]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:42:12]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:42:12]	Alexander Klimov has taken 1 damage from npc_metropolice.
+[15:42:13]	Alexander Klimov has taken 1 damage from npc_metropolice.
+[15:42:13]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:42:13]	Alexander Klimov has taken 1 damage from npc_metropolice.
+[15:42:13]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:42:13]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:42:13]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:42:13]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:42:13]	Alexander Klimov has taken 6 damage from npc_metropolice.
+[15:42:13]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:42:14]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:42:14]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:42:14]	Alexander Klimov has taken 1 damage from npc_metropolice.
+[15:42:14]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:42:14]	Alexander Klimov has taken 1 damage from npc_metropolice.
+[15:42:15]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:42:18]	Alexander Klimov has taken 1 damage from npc_metropolice.
+[15:42:18]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:42:18]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:42:18]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:42:19]	Alexander Klimov has taken 1 damage from npc_metropolice.
+[15:42:19]	Alexander Klimov has taken 1 damage from npc_metropolice.
+[15:42:19]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:42:20]	Alexander Klimov has taken 1 damage from npc_metropolice.
+[15:42:20]	Alexander Klimov has taken 6 damage from npc_metropolice.
+[15:42:21]	Alexander Klimov has taken 1 damage from npc_metropolice.
+[15:42:21]	Alexander Klimov has taken 6 damage from npc_metropolice.
+[15:42:22]	Alexander Klimov has taken 1 damage from npc_metropolice.
+[15:42:22]	Alexander Klimov has taken 6 damage from npc_metropolice.
+[15:42:22]	Alexander Klimov has taken 1 damage from npc_metropolice.
+[15:42:23]	Alexander Klimov has taken 1 damage from npc_metropolice.
+[15:42:25]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:42:25]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:42:25]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:42:26]	Alexander Klimov has taken 6 damage from npc_metropolice.
+[15:42:30]	Alexander Klimov has taken 1 damage from npc_metropolice.
+[15:42:30]	Артем Петров has spawned a 'NPC [559][npc_metropolice]'.
+[15:42:31]	Артем Петров has spawned a 'NPC [2802][npc_metropolice]'.
+[15:42:32]	Артем Петров has spawned a 'NPC [2809][npc_metropolice]'.
+[15:42:34]	Артем Петров has spawned a 'NPC [2815][npc_metropolice]'.
+[15:42:35]	Артем Петров has spawned a 'NPC [2823][npc_metropolice]'.
+[15:42:35]	Артем Петров has spawned a 'NPC [2828][npc_metropolice]'.
+[15:42:37]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:42:38]	Alexander Klimov has taken 6 damage from npc_metropolice.
+[15:42:41]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:42:42]	Alexander Klimov has taken 1 damage from npc_metropolice.
+[15:42:42]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:42:43]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:42:43]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:42:51]	Артем Петров has spawned a 'NPC [559][npc_metropolice]'.
+[15:42:51]	Артем Петров has spawned a 'NPC [2809][npc_metropolice]'.
+[15:42:51]	Артем Петров has spawned a 'NPC [2840][npc_metropolice]'.
+[15:42:59]	Артем Петров has spawned a 'NPC [2844][npc_metropolice]'.
+[15:42:59]	Артем Петров has spawned a 'NPC [2848][npc_metropolice]'.
+[15:43:02]	Артем Петров has spawned a 'NPC [2850][npc_metropolice]'.
+[15:43:14]	Артем Петров has spawned a 'NPC [2854][npc_metropolice]'.
+[15:43:17]	Артем Петров has spawned a 'NPC [2857][npc_metropolice]'.
+[15:43:18]	Артем Петров has spawned a 'NPC [2854][npc_metropolice]'.
+[15:43:22]	Alexander Klimov has taken 12 damage from npc_metropolice.
+[15:43:24]	Артем Петров has spawned a 'NPC [2856][npc_metropolice]'.
+[15:43:25]	Артем Петров has spawned a 'NPC [2857][npc_metropolice]'.
+[15:43:46]	Артем Петров has spawned a 'NPC [2864][npc_metropolice]'.
+[15:43:54]	Alexander Klimov has taken 11 damage from npc_metropolice.
+[15:43:54]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:43:55]	Alexander Klimov has taken 11 damage from npc_metropolice.
+[15:44:08]	Артем Петров has spawned a 'NPC [2856][npc_combine_s]'.
+[15:44:08]	Артем Петров has spawned a 'NPC [2864][npc_combine_s]'.
+[15:44:10]	Артем Петров has spawned a 'NPC [2867][npc_combine_s]'.
+[15:44:14]	Артем Петров has spawned a 'NPC [2856][npc_combine_s]'.
+[15:44:15]	Артем Петров has spawned a 'NPC [2873][npc_combine_s]'.
+[15:44:17]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:44:18]	Alexander Klimov has taken 16 damage from npc_combine_s.
+[15:44:22]	Артем Петров has spawned a 'NPC [2856][npc_combine_s]'.
+[15:44:33]	Alexander Klimov has taken 11 damage from npc_combine_s.
+[15:44:33]	Alexander Klimov has taken 23 damage from npc_combine_s.
+[15:44:34]	Артем Петров has spawned a 'NPC [2840][npc_combine_s]'.
+[15:44:36]	Артем Петров has spawned a 'NPC [2871][npc_combine_s]'.
+[15:44:36]	Alexander Klimov has taken 11 damage from npc_combine_s.
+[15:44:36]	Alexander Klimov has taken 11 damage from npc_combine_s.
+[15:44:37]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:44:47]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:44:54]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:44:54]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:45:14]	Alexander Klimov has taken 11 damage from npc_combine_s.
+[15:45:14]	Alexander Klimov has taken 23 damage from npc_combine_s.
+[15:45:14]	npc_combine_s has killed Alexander Klimov.
+[15:45:50]	Alexander Klimov has spawned a 'Entity [2809][arccw_ammo_smg1_large]'.
+[15:45:50]	Alexander Klimov has spawned a 'Entity [2840][arccw_ammo_smg1_large]'.
+[15:45:51]	Alexander Klimov has spawned a 'Entity [2857][arccw_ammo_smg1_large]'.
+[15:45:51]	Alexander Klimov has spawned a 'Entity [2862][arccw_ammo_smg1_large]'.
+[15:45:51]	Артем Петров has spawned a 'NPC [2867][npc_combine_s]'.
+[15:45:55]	Артем Петров has spawned a 'NPC [2809][npc_combine_s]'.
+[15:45:55]	Артем Петров has spawned a 'NPC [2857][npc_combine_s]'.
+[15:46:04]	Артем Петров has spawned a 'NPC [2874][npc_combine_s]'.
+[15:46:10]	Alexander Klimov entered observer.
+[15:46:12]	Артем Петров has spawned a 'NPC [2876][npc_combine_s]'.
+[15:46:12]	Артем Петров has spawned a 'NPC [2878][npc_combine_s]'.
+[15:46:17]	Alexander Klimov exited observer at their location.
+[15:46:20]	Артем Петров has spawned a 'NPC [2880][npc_combine_s]'.
+[15:46:28]	Артем Петров has spawned a 'NPC [2880][npc_combine_s]'.
+[15:46:34]	Артем Петров has spawned a 'NPC [2883][npc_combine_s]'.
+[15:46:37]	Alexander Klimov has taken 1 damage from npc_combine_s.
+[15:46:38]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:46:44]	Артем Петров has spawned a 'NPC [2883][npc_combine_s]'.
+[15:46:45]	Alexander Klimov has taken 6 damage from npc_combine_s.
+[15:46:47]	Артем Петров has spawned a 'NPC [2880][npc_combine_s]'.
+[15:46:47]	Артем Петров has spawned a 'NPC [2888][npc_combine_s]'.
+[15:46:49]	Alexander Klimov has taken 1 damage from npc_combine_s.
+[15:46:52]	Артем Петров has spawned a 'NPC [2883][npc_combine_s]'.
+[15:47:23]	Артем Петров has spawned a 'NPC [2887][npc_combine_s]'.
+[15:47:38]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:47:39]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:47:39]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:47:39]	Alexander Klimov has taken 11 damage from npc_combine_s.
+[15:48:19]	Артем Петров has spawned a 'NPC [2807][npc_combine_s]'.
+[15:48:25]	Артем Петров has spawned a 'NPC [2835][npc_combine_s]'.
+[15:48:26]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:48:26]	Alexander Klimov has taken 23 damage from npc_combine_s.
+[15:48:26]	Alexander Klimov has taken 11 damage from npc_combine_s.
+[15:48:26]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:48:26]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:48:27]	Alexander Klimov has taken 23 damage from npc_combine_s.
+[15:48:37]	Артем Петров has spawned a 'NPC [2835][npc_combine_s]'.
+[15:48:41]	Alexander Klimov has taken 11 damage from npc_combine_s.
+[15:48:42]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:48:42]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:48:42]	Alexander Klimov has taken 11 damage from npc_combine_s.
+[15:48:53]	Артем Петров has spawned a 'Entity [2835][item_healthkit]'.
+[15:48:54]	Артем Петров has spawned a 'Entity [2840][item_healthkit]'.
+[15:48:58]	Артем Петров has spawned a 'NPC [2835][npc_combine_s]'.
+[15:49:06]	Артем Петров has spawned a 'NPC [2842][npc_combine_s]'.
+[15:49:08]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:49:08]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:49:09]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:49:09]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:49:09]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:49:12]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:49:12]	Alexander Klimov has taken 11 damage from npc_metropolice.
+[15:49:26]	Артем Петров has spawned a 'Entity [2842][item_healthvial]'.
+[15:49:28]	Артем Петров has spawned a 'Entity [2857][item_healthvial]'.
+[15:49:30]	Alexander Klimov has taken 22 damage from npc_metropolice.
+[15:49:31]	Alexander Klimov has taken 3 damage from npc_metropolice.
+[15:49:31]	Alexander Klimov has taken 22 damage from npc_metropolice.
+[15:49:34]	Артем Петров has spawned a 'Entity [2848][item_healthkit]'.
+[15:49:35]	Артем Петров has spawned a 'Entity [2844][item_healthkit]'.
+[15:49:36]	Артем Петров has spawned a 'Entity [2867][item_healthkit]'.
+[15:49:38]	Артем Петров has spawned a 'Entity [2842][item_healthkit]'.
+[15:49:41]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:49:42]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:49:42]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:49:42]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:49:52]	Alexander Klimov has taken 11 damage from npc_combine_s.
+[15:49:57]	Alexander Klimov has taken 11 damage from npc_combine_s.
+[15:49:57]	Alexander Klimov has taken 11 damage from npc_combine_s.
+[15:49:57]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:49:57]	Alexander Klimov has taken 11 damage from npc_combine_s.
+[15:50:06]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:50:06]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:50:09]	Артем Петров has spawned a 'NPC [2842][npc_combine_s]'.
+[15:50:10]	Артем Петров has spawned a 'NPC [2844][npc_combine_s]'.
+[15:50:14]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:50:14]	Alexander Klimov has taken 11 damage from npc_combine_s.
+[15:50:15]	Alexander Klimov has taken 11 damage from npc_metropolice.
+[15:50:19]	Артем Петров has spawned a 'NPC [2842][npc_combine_s]'.
+[15:50:26]	Артем Петров has spawned a 'Entity [2835][item_healthkit]'.
+[15:50:36]	Артем Петров has spawned a 'NPC [2835][npc_manhack]'.
+[15:50:37]	Alexander Klimov has taken 4 damage from npc_manhack.
+[15:50:38]	Артем Петров has spawned a 'NPC [2872][npc_manhack]'.
+[15:50:39]	Артем Петров has spawned a 'NPC [2878][npc_manhack]'.
+[15:50:39]	Артем Петров has spawned a 'NPC [2835][npc_manhack]'.
+[15:50:39]	Alexander Klimov has taken 4 damage from npc_manhack.
+[15:50:41]	Артем Петров has spawned a 'NPC [2872][npc_manhack]'.
+[15:50:41]	Артем Петров has spawned a 'NPC [2896][npc_manhack]'.
+[15:50:41]	Артем Петров has spawned a 'NPC [2899][npc_manhack]'.
+[15:50:42]	Артем Петров has spawned a 'NPC [2902][npc_manhack]'.
+[15:50:42]	Артем Петров has spawned a 'NPC [2911][npc_manhack]'.
+[15:50:44]	Артем Петров has spawned a 'NPC [2835][npc_manhack]'.
+[15:50:45]	Артем Петров has spawned a 'NPC [2883][npc_manhack]'.
+[15:50:45]	Артем Петров has spawned a 'NPC [2900][npc_manhack]'.
+[15:50:45]	Alexander Klimov has taken 4 damage from npc_manhack.
+[15:50:46]	Артем Петров has spawned a 'NPC [2878][npc_manhack]'.
+[15:50:48]	Alexander Klimov has taken 4 damage from npc_manhack.
+[15:51:22]	Артем Петров has spawned a 'NPC [2842][npc_metropolice]'.
+[15:51:28]	Alexander Klimov has taken 9 damage from npc_metropolice.
+[15:51:28]	Alexander Klimov has taken 2 damage from npc_metropolice.
+[15:51:28]	Alexander Klimov has taken 2 damage from npc_metropolice.
+[15:51:28]	Alexander Klimov has taken 2 damage from npc_metropolice.
+[15:51:28]	Alexander Klimov has taken 2 damage from npc_metropolice.
+[15:51:29]	Alexander Klimov has taken 2 damage from npc_metropolice.
+[15:51:29]	Артем Петров has spawned a 'NPC [2835][npc_metropolice]'.
+[15:51:29]	Артем Петров has spawned a 'NPC [2848][npc_metropolice]'.
+[15:51:38]	Артем Петров has spawned a 'NPC [2842][npc_metropolice]'.
+[15:51:41]	Alexander Klimov has taken 2 damage from npc_metropolice.
+[15:51:56]	Артем Петров has spawned a 'NPC [2835][npc_manhack]'.
+[15:51:56]	Артем Петров has spawned a 'NPC [2869][npc_manhack]'.
+[15:51:56]	Артем Петров has spawned a 'NPC [2872][npc_manhack]'.
+[15:51:56]	Артем Петров has spawned a 'NPC [2878][npc_manhack]'.
+[15:51:56]	Артем Петров has spawned a 'NPC [2889][npc_manhack]'.
+[15:51:56]	Артем Петров has spawned a 'NPC [2893][npc_manhack]'.
+[15:51:56]	Артем Петров has spawned a 'NPC [2896][npc_manhack]'.
+[15:51:57]	Артем Петров has spawned a 'NPC [2899][npc_manhack]'.
+[15:51:57]	Артем Петров has spawned a 'NPC [2902][npc_manhack]'.
+[15:51:57]	Артем Петров has spawned a 'NPC [2905][npc_manhack]'.
+[15:51:57]	Артем Петров has spawned a 'NPC [2908][npc_manhack]'.
+[15:51:57]	Артем Петров has spawned a 'NPC [2917][npc_manhack]'.
+[15:51:57]	Артем Петров has spawned a 'NPC [2920][npc_manhack]'.
+[15:51:57]	Артем Петров has spawned a 'NPC [2923][npc_manhack]'.
+[15:51:57]	Артем Петров has spawned a 'NPC [2926][npc_manhack]'.
+[15:51:58]	Артем Петров has spawned a 'NPC [2929][npc_manhack]'.
+[15:51:58]	Артем Петров has spawned a 'NPC [2932][npc_manhack]'.
+[15:51:58]	Артем Петров has spawned a 'NPC [2935][npc_manhack]'.
+[15:51:58]	Артем Петров has spawned a 'NPC [2938][npc_manhack]'.
+[15:51:58]	Артем Петров has spawned a 'NPC [2889][npc_manhack]'.
+[15:51:58]	Артем Петров has spawned a 'NPC [2941][npc_manhack]'.
+[15:51:58]	Артем Петров has spawned a 'NPC [2944][npc_manhack]'.
+[15:51:58]	Артем Петров has spawned a 'NPC [2947][npc_manhack]'.
+[15:51:59]	Артем Петров has spawned a 'NPC [2950][npc_manhack]'.
+[15:51:59]	Артем Петров has spawned a 'NPC [2953][npc_manhack]'.
+[15:51:59]	Артем Петров has spawned a 'NPC [2956][npc_manhack]'.
+[15:51:59]	Артем Петров has spawned a 'NPC [2959][npc_manhack]'.
+[15:51:59]	Артем Петров has spawned a 'NPC [2962][npc_manhack]'.
+[15:51:59]	Артем Петров has spawned a 'NPC [2965][npc_manhack]'.
+[15:51:59]	Артем Петров has spawned a 'NPC [2968][npc_manhack]'.
+[15:51:59]	Артем Петров has spawned a 'NPC [2971][npc_manhack]'.
+[15:52:00]	Артем Петров has spawned a 'NPC [2974][npc_manhack]'.
+[15:52:00]	Артем Петров has spawned a 'NPC [2977][npc_manhack]'.
+[15:52:32]	Alexander Klimov has taken 2 damage from npc_metropolice.
+[15:52:38]	Артем Петров has spawned a 'NPC [2835][npc_metropolice]'.
+[15:52:51]	Артем Петров has spawned a 'NPC [2835][npc_metropolice]'.
+[15:52:56]	Артем Петров has spawned a 'NPC [2869][npc_metropolice]'.
+[15:53:03]	Артем Петров has spawned a 'NPC [2835][npc_metropolice]'.
+[15:53:03]	Артем Петров has spawned a 'NPC [2869][npc_metropolice]'.
+[15:53:15]	Артем Петров has spawned a 'NPC [2835][npc_metropolice]'.
+[15:53:15]	Артем Петров has spawned a 'NPC [2878][npc_metropolice]'.
+[15:53:22]	Артем Петров has spawned a 'NPC [2887][npc_metropolice]'.
+[15:53:25]	Alexander Klimov has taken 10 damage from npc_metropolice.
+[15:53:26]	Alexander Klimov has taken 10 damage from npc_metropolice.
+[15:53:26]	Alexander Klimov has taken 10 damage from npc_metropolice.
+[15:53:48]	Артем Петров has spawned a 'NPC [2870][npc_combine_s]'.
+[15:54:01]	Артем Петров has spawned a 'NPC [2870][npc_combine_s]'.
+[15:54:12]	Артем Петров has spawned a 'NPC [2892][npc_combine_s]'.
+[15:54:12]	Артем Петров has spawned a 'NPC [2894][npc_combine_s]'.
+[15:54:18]	Артем Петров has spawned a 'Entity [2896][item_healthkit]'.
+[15:54:25]	Alexander Klimov has spawned a 'Entity [2896][arccw_ammo_smg1_large]'.
+[15:54:25]	Артем Петров has spawned a 'NPC [2897][npc_combine_s]'.
+[15:54:26]	Alexander Klimov has spawned a 'Entity [2896][arccw_ammo_357_large]'.
+[15:54:27]	Alexander Klimov has spawned a 'Entity [2899][arccw_ammo_ar2_large]'.
+[15:54:28]	Alexander Klimov has spawned a 'Entity [2896][arccw_ammo_pistol_large]'.
+[15:54:29]	Alexander Klimov has spawned a 'Entity [2899][arccw_ammo_pistol_large]'.
+[15:54:29]	Alexander Klimov has spawned a 'Entity [2900][arccw_ammo_pistol_large]'.
+[15:54:29]	Alexander Klimov has spawned a 'Entity [2901][arccw_ammo_pistol_large]'.
+[15:54:39]	Alexander Klimov has taken 9 damage from npc_combine_s.
+[15:54:40]	Alexander Klimov has taken 35 damage from npc_combine_s.
+[15:54:40]	Alexander Klimov has taken 35 damage from npc_combine_s.
+[15:54:40]	npc_combine_s has killed Alexander Klimov.
+[15:54:53]	Alexander Klimov entered observer.
+[15:55:03]	Alexander Klimov exited observer at their location.
+[15:55:08]	Артем Петров has spawned a 'NPC [669][npc_combine_s]'.
+[15:55:08]	Артем Петров has spawned a 'NPC [2866][npc_combine_s]'.
+[15:55:11]	Alexander Klimov has spawned a 'Entity [2886][arccw_ammo_pistol_large]'.
+[15:55:11]	Alexander Klimov has spawned a 'Entity [2887][arccw_ammo_pistol_large]'.
+[15:55:12]	Alexander Klimov has spawned a 'Entity [2889][arccw_ammo_pistol_large]'.
+[15:55:23]	Артем Петров has spawned a 'NPC [2889][npc_turret_floor]'.
+[15:55:25]	Артем Петров has spawned a 'NPC [2899][npc_turret_floor]'.
+[15:55:30]	Alexander Klimov has spawned a 'Entity [2904][arccw_ammo_smg1_large]'.
+[15:55:30]	Alexander Klimov has spawned a 'Entity [2905][arccw_ammo_smg1_large]'.
+[15:55:31]	Alexander Klimov has spawned a 'Entity [2906][arccw_ammo_357_large]'.
+[15:55:31]	Alexander Klimov has spawned a 'Entity [2907][arccw_ammo_357_large]'.
+[15:55:32]	Alexander Klimov has spawned a 'Entity [2908][arccw_ammo_357_large]'.
+[15:55:32]	Артем Петров has spawned a 'NPC [2905][npc_combine_s]'.
+[15:55:32]	Alexander Klimov has spawned a 'Entity [2904][arccw_ammo_pistol_large]'.
+[15:55:32]	Alexander Klimov has spawned a 'Entity [2910][arccw_ammo_pistol_large]'.
+[15:55:32]	Alexander Klimov has spawned a 'Entity [2911][arccw_ammo_pistol_large]'.
+[15:55:32]	Alexander Klimov has spawned a 'Entity [2912][arccw_ammo_pistol_large]'.
+[15:55:33]	Alexander Klimov has spawned a 'Entity [2906][arccw_ammo_ar2_large]'.
+[15:55:33]	Alexander Klimov has spawned a 'Entity [2907][arccw_ammo_ar2_large]'.
+[15:55:33]	Alexander Klimov has spawned a 'Entity [2904][arccw_ammo_ar2_large]'.
+[15:55:34]	Alexander Klimov has spawned a 'Entity [2908][arccw_ammo_buckshot_large]'.
+[15:55:34]	Alexander Klimov has spawned a 'Entity [2911][arccw_ammo_buckshot_large]'.
+[15:55:34]	Alexander Klimov has spawned a 'Entity [2906][arccw_ammo_buckshot_large]'.
+[15:55:34]	Alexander Klimov has spawned a 'Entity [2907][arccw_ammo_buckshot_large]'.
+[15:55:35]	Alexander Klimov has spawned a 'Entity [2912][arccw_ammo_sniper_large]'.
+[15:55:35]	Alexander Klimov has spawned a 'Entity [2913][arccw_ammo_sniper_large]'.
+[15:55:35]	Alexander Klimov has spawned a 'Entity [2914][arccw_ammo_sniper_large]'.
+[15:55:35]	Alexander Klimov has spawned a 'Entity [2910][arccw_ammo_sniper_large]'.
+[15:55:38]	Артем Петров has spawned a 'NPC [2904][npc_manhack]'.
+[15:55:38]	Артем Петров has spawned a 'NPC [2908][npc_manhack]'.
+[15:55:40]	Артем Петров has spawned a 'NPC [2912][npc_manhack]'.
+[15:55:43]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:55:46]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:55:51]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:55:51]	Alexander Klimov has taken 26 damage from npc_combine_s.
+[15:55:51]	Alexander Klimov has taken 26 damage from npc_combine_s.
+[15:55:51]	Alexander Klimov has taken 13 damage from npc_combine_s.
+[15:55:51]	Alexander Klimov has taken 13 damage from npc_combine_s.
+[15:55:53]	Alexander Klimov has taken 10 damage from npc_combine_s.
+[15:55:57]	Alexander Klimov has taken 13 damage from npc_combine_s.
+[15:55:57]	npc_combine_s has killed Alexander Klimov.
+[15:56:09]	Alexander Klimov entered observer.
+[15:56:16]	Alexander Klimov exited observer at their location.
+[15:56:17]	Alexander Klimov has taken 4 damage from npc_manhack.
+[15:56:29]	Артем Петров has spawned a 'NPC [12][npc_manhack]'.
+[15:56:29]	Alexander Klimov has taken 4 damage from npc_manhack.
+[15:56:29]	Артем Петров has spawned a 'NPC [2887][npc_manhack]'.
+[15:56:30]	Артем Петров has spawned a 'NPC [2903][npc_manhack]'.
+[15:56:32]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:56:32]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:56:34]	Alexander Klimov has taken 13 damage from npc_combine_s.
+[15:56:34]	Alexander Klimov has taken 4 damage from npc_manhack.
+[15:56:34]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:56:37]	Alexander Klimov has taken 5 damage from npc_manhack.
+[15:56:40]	Alexander Klimov has taken 4 damage from npc_manhack.
+[15:56:45]	Артем Петров has spawned a 'NPC [2887][npc_manhack]'.
+[15:56:47]	Alexander Klimov has taken 4 damage from npc_manhack.
+[15:56:47]	Alexander Klimov has taken 4 damage from npc_manhack.
+[15:56:50]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:56:50]	Alexander Klimov has taken 4 damage from npc_manhack.
+[15:56:53]	Alexander Klimov has taken 4 damage from npc_manhack.
+[15:56:54]	Alexander Klimov has taken 13 damage from npc_combine_s.
+[15:56:55]	Alexander Klimov has taken 4 damage from npc_manhack.
+[15:56:55]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:56:55]	Alexander Klimov has taken 13 damage from npc_combine_s.
+[15:56:55]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:56:55]	npc_combine_s has killed Alexander Klimov.
+[15:57:07]	Alexander Klimov entered observer.
+[15:57:14]	Alexander Klimov exited observer at their location.
+[15:57:16]	Артем Петров has spawned a 'NPC [12][npc_turret_ceiling]'.
+[15:57:21]	Alexander Klimov has spawned a 'Entity [2886][arccw_ammo_pistol_large]'.
+[15:57:21]	Alexander Klimov has spawned a 'Entity [2903][arccw_ammo_pistol_large]'.
+[15:57:21]	Alexander Klimov has spawned a 'Entity [2904][arccw_ammo_pistol_large]'.
+[15:57:21]	Alexander Klimov has spawned a 'Entity [2906][arccw_ammo_pistol_large]'.
+[15:57:22]	Alexander Klimov has spawned a 'Entity [2907][arccw_ammo_pistol_large]'.
+[15:57:22]	Alexander Klimov has spawned a 'Entity [2908][arccw_ammo_pistol_large]'.
+[15:57:22]	Alexander Klimov has spawned a 'Entity [2910][arccw_ammo_pistol_large]'.
+[15:57:30]	Alexander Klimov has taken 13 damage from npc_combine_s.
+[15:57:30]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[15:57:38]	Артем Петров has spawned a 'NPC [2886][npc_metropolice]'.
+[15:57:39]	Артем Петров has spawned a 'NPC [2892][npc_metropolice]'.
+[15:57:40]	Артем Петров has spawned a 'NPC [2902][npc_metropolice]'.
+[15:57:41]	Артем Петров has spawned a 'NPC [2904][npc_metropolice]'.
+[15:57:44]	Alexander Klimov has taken 26 damage from npc_combine_s.
+[15:57:44]	Alexander Klimov has taken 26 damage from npc_combine_s.
+[15:57:50]	Артем Петров has spawned a 'NPC [2802][npc_clawscanner]'.
+[15:58:32]	Артем Петров has spawned a 'NPC [2846][npc_metropolice]'.
+[15:59:47]	Артем Петров has spawned a 'NPC [2802][npc_metropolice]'.
+[15:59:49]	Артем Петров has spawned a 'NPC [2872][npc_metropolice]'.
+[16:00:04]	Alexander Klimov has taken 5 damage from Артем Петров.
+[16:00:10]	Alexander Klimov has taken 50 damage from Артем Петров.
+[16:00:17]	Alexander Klimov has taken 2 damage from npc_metropolice.
+[16:00:18]	Alexander Klimov has taken 8 damage from npc_metropolice.
+[16:00:18]	npc_metropolice has killed Alexander Klimov.
+[16:00:29]	Alexander Klimov entered observer.
+[16:00:39]	Alexander Klimov exited observer at their location.
+[16:00:45]	Alexander Klimov has taken 8 damage from npc_metropolice.
+[16:00:45]	Alexander Klimov has taken 17 damage from npc_metropolice.
+[16:00:47]	Alexander Klimov has taken 2 damage from npc_metropolice.
+[16:00:47]	Alexander Klimov has taken 8 damage from npc_metropolice.
+[16:00:47]	Alexander Klimov has taken 8 damage from npc_metropolice.
+[16:00:47]	Alexander Klimov has taken 8 damage from npc_metropolice.
+[16:00:47]	Alexander Klimov has taken 2 damage from npc_metropolice.
+[16:00:47]	Alexander Klimov has taken 8 damage from npc_metropolice.
+[16:00:48]	Alexander Klimov has taken 2 damage from npc_metropolice.
+[16:00:48]	Alexander Klimov has taken 8 damage from npc_metropolice.
+[16:00:48]	Alexander Klimov has taken 8 damage from npc_metropolice.
+[16:00:48]	Alexander Klimov has taken 2 damage from npc_metropolice.
+[16:00:48]	Alexander Klimov has taken 17 damage from npc_metropolice.
+[16:00:48]	npc_metropolice has killed Alexander Klimov.
+[16:01:05]	Alexander Klimov has spawned a 'Entity [2441][arccw_ammo_pistol_large]'.
+[16:01:05]	Alexander Klimov has spawned a 'Entity [2857][arccw_ammo_pistol_large]'.
+[16:01:06]	Alexander Klimov has spawned a 'Entity [2857][arccw_ammo_pistol_large]'.
+[16:01:06]	Alexander Klimov has spawned a 'Entity [2441][arccw_ammo_pistol_large]'.
+[16:01:07]	Alexander Klimov has spawned a 'Entity [2866][arccw_ammo_pistol_large]'.
+[16:01:07]	Alexander Klimov has spawned a 'Entity [2870][arccw_ammo_pistol_large]'.
+[16:01:08]	Alexander Klimov has spawned a 'Entity [2441][arccw_ammo_pistol_large]'.
+[16:01:08]	Alexander Klimov has spawned a 'Entity [2857][arccw_ammo_pistol_large]'.
+[16:01:09]	Alexander Klimov entered observer.
+[16:01:16]	Alexander Klimov exited observer at their location.
+[16:01:23]	Артем Петров has spawned a 'NPC [2441][npc_manhack]'.
+[16:01:25]	Alexander Klimov has taken 4 damage from npc_manhack.
+[16:01:32]	Alexander Klimov has taken 8 damage from npc_metropolice.
+[16:01:32]	Alexander Klimov has taken 2 damage from npc_metropolice.
+[16:01:32]	Alexander Klimov has taken 8 damage from npc_metropolice.
+[16:01:32]	Alexander Klimov has taken 17 damage from npc_metropolice.
+[16:01:49]	Alexander Klimov has taken 17 damage from npc_metropolice.
+[16:01:49]	Alexander Klimov has taken 8 damage from npc_metropolice.
+[16:02:24]	Alexander Klimov has taken 1 damage from npc_turret_ceiling.
+[16:02:24]	Alexander Klimov has taken 1 damage from npc_turret_ceiling.
+[16:02:24]	Alexander Klimov has taken 3 damage from npc_turret_ceiling.
+[16:02:25]	Alexander Klimov has taken 3 damage from npc_turret_ceiling.
+[16:02:32]	Alexander Klimov has spawned a 'Entity [2441][arccw_ammo_smg1_large]'.
+[16:02:33]	Alexander Klimov has spawned a 'Entity [2866][arccw_ammo_smg1_large]'.
+[16:02:33]	Alexander Klimov has spawned a 'Entity [2870][arccw_ammo_smg1_large]'.
+[16:02:33]	Alexander Klimov has spawned a 'Entity [2871][arccw_ammo_smg1_large]'.
+[16:02:33]	Alexander Klimov has spawned a 'Entity [2872][arccw_ammo_smg1_large]'.
+[16:02:33]	Alexander Klimov has spawned a 'Entity [2876][arccw_ammo_smg1_large]'.
+[16:02:33]	Alexander Klimov has spawned a 'Entity [2441][arccw_ammo_smg1_large]'.
+[16:02:35]	Alexander Klimov has taken 8 damage from npc_metropolice.
+[16:02:35]	Alexander Klimov has taken 8 damage from npc_metropolice.
+[16:02:37]	Alexander Klimov has taken 2 damage from npc_metropolice.
+[16:02:38]	Alexander Klimov has taken 1 damage from npc_turret_ceiling.
+[16:02:38]	Alexander Klimov has taken 3 damage from npc_turret_ceiling.
+[16:02:39]	Alexander Klimov has taken 3 damage from npc_turret_ceiling.
+[16:02:48]	Артем Петров has spawned a 'Entity [2802][item_healthkit]'.
+[16:02:49]	Артем Петров has spawned a 'Entity [2866][item_healthkit]'.
+[16:03:00]	Артем Петров has spawned a 'NPC [2802][npc_metropolice]'.
+[16:03:02]	Alexander Klimov has taken 8 damage from npc_metropolice.
+[16:03:02]	Alexander Klimov has taken 8 damage from npc_metropolice.
+[16:03:03]	Alexander Klimov has taken 8 damage from npc_metropolice.
+[16:03:03]	Alexander Klimov has taken 8 damage from npc_metropolice.
+[16:03:03]	Alexander Klimov has taken 2 damage from npc_metropolice.
+[16:03:03]	Alexander Klimov has taken 8 damage from npc_metropolice.
+[16:03:25]	Артем Петров has spawned a 'Vehicle [2441][prop_vehicle_airboat]'.
+[16:03:27]	Артем Петров exited observer at their location.
+[16:03:39]	Артем Петров entered observer.
+[16:03:41]	Артем Петров exited observer at their location.
+[16:03:55]	Артем Петров entered observer.
+[16:04:01]	Артем Петров has spawned a 'NPC [2441][npc_metropolice]'.
+[16:04:01]	Артем Петров has spawned a 'NPC [2870][npc_metropolice]'.
+[16:04:04]	Артем Петров has spawned a 'NPC [2876][npc_metropolice]'.
+[16:04:04]	Артем Петров has spawned a 'NPC [2886][npc_metropolice]'.
+[16:04:06]	Артем Петров has spawned a 'NPC [2895][npc_metropolice]'.
+[16:04:06]	Артем Петров has spawned a 'NPC [2908][npc_metropolice]'.
+[16:04:11]	Артем Петров has spawned a 'NPC [2910][npc_metropolice]'.
+[16:04:11]	Артем Петров has spawned a 'NPC [2911][npc_metropolice]'.
+[16:04:11]	Артем Петров has spawned a 'NPC [2913][npc_metropolice]'.
+[16:04:11]	Артем Петров has spawned a 'NPC [2915][npc_metropolice]'.
+[16:04:11]	Артем Петров has spawned a 'NPC [2916][npc_metropolice]'.
+[16:04:12]	Артем Петров has spawned a 'NPC [2918][npc_metropolice]'.
+[16:04:12]	Артем Петров has spawned a 'NPC [2919][npc_metropolice]'.
+[16:04:24]	Артем Петров has spawned a 'NPC [2910][npc_metropolice]'.
+[16:04:25]	Артем Петров has spawned a 'NPC [2912][npc_metropolice]'.
+[16:04:38]	Alexander Klimov has taken 8 damage from npc_metropolice.
+[16:04:39]	Alexander Klimov has taken 8 damage from npc_metropolice.
+[16:04:44]	Alexander Klimov has taken 2 damage from npc_metropolice.
+[16:04:45]	Alexander Klimov has taken 8 damage from npc_metropolice.
+[16:04:45]	Alexander Klimov has taken 8 damage from npc_metropolice.
+[16:04:45]	Alexander Klimov has taken 8 damage from npc_metropolice.
+[16:05:05]	Артем Петров has spawned a 'NPC [2886][npc_metropolice]'.
+[16:05:08]	Alexander Klimov has taken 2 damage from npc_metropolice.
+[16:05:12]	Артем Петров has spawned a 'NPC [2886][npc_metropolice]'.
+[16:05:12]	Артем Петров has spawned a 'NPC [2917][npc_metropolice]'.
+[16:05:19]	Артем Петров has spawned a 'Entity [2919][item_healthkit]'.
+[16:05:21]	Артем Петров has spawned a 'NPC [2802][npc_metropolice]'.
+[16:05:22]	Артем Петров has spawned a 'NPC [2919][npc_metropolice]'.
+[16:05:24]	Alexander Klimov has taken 2 damage from npc_metropolice.
+[16:05:24]	Alexander Klimov has taken 17 damage from npc_metropolice.
+[16:05:24]	Alexander Klimov has taken 2 damage from npc_metropolice.
+[16:05:25]	Alexander Klimov has taken 2 damage from npc_metropolice.
+[16:05:28]	Артем Петров has spawned a 'Entity [2876][item_healthkit]'.
+[16:05:40]	Артем Петров has spawned a 'NPC [2441][npc_metropolice]'.
+[16:05:41]	Артем Петров has spawned a 'NPC [2876][npc_metropolice]'.
+[16:05:54]	Alexander Klimov has taken 2 damage from npc_metropolice.
+[16:05:54]	Alexander Klimov has taken 8 damage from npc_metropolice.
+[16:05:54]	Alexander Klimov has taken 8 damage from npc_metropolice.
+[16:05:55]	Alexander Klimov has taken 2 damage from npc_metropolice.
+[16:05:55]	Alexander Klimov has taken 16 damage from npc_metropolice.
+[16:05:56]	Alexander Klimov has taken 2 damage from npc_metropolice.
+[16:05:56]	Alexander Klimov has taken 8 damage from npc_metropolice.
+[16:06:01]	Alexander Klimov has taken 8 damage from npc_metropolice.
+[16:06:01]	Alexander Klimov has taken 2 damage from npc_metropolice.
+[16:06:01]	Alexander Klimov has taken 8 damage from npc_metropolice.
+[16:06:01]	Alexander Klimov has taken 2 damage from npc_metropolice.
+[16:06:14]	Alexander Klimov has taken 8 damage from npc_metropolice.
+[16:06:14]	Alexander Klimov has taken 17 damage from npc_metropolice.
+[16:06:14]	Alexander Klimov has taken 17 damage from npc_metropolice.
+[16:07:00]	Артем Петров exited observer at their location.
+[16:07:04]	Alexander Klimov has taken 25 damage from Артем Петров.
+[16:07:05]	Артем Петров has taken 25 damage from Alexander Klimov.
+[16:07:06]	Артем Петров has taken 25 damage from Alexander Klimov.
+[16:07:06]	Артем Петров has taken 25 damage from Alexander Klimov.
+[16:07:08]	Артем Петров has taken 6 damage from Alexander Klimov.
+[16:07:08]	Артем Петров has taken 6 damage from Alexander Klimov.
+[16:07:08]	Артем Петров has taken 26 damage from Alexander Klimov.
+[16:07:08]	Alexander Klimov has killed Артем Петров with arccw_augpara.
+[16:07:21]	Артем Петров entered observer.
+[16:07:22]	Alexander Klimov has spawned a 'Entity [32][item_healthkit]'.
+[16:07:22]	Alexander Klimov has spawned a 'Entity [201][item_healthkit]'.
+[16:07:22]	Alexander Klimov has spawned a 'Entity [558][item_healthkit]'.
+[16:07:22]	Alexander Klimov has spawned a 'Entity [560][item_healthkit]'.
+[16:07:32]	Артем Петров exited observer at their location.
+[16:07:44]	Артем Петров entered observer.
+[16:07:46]	Артем Петров exited observer at their location.
+[16:07:49]	Артем Петров entered observer.
+[16:07:50]	Артем Петров exited observer at their location.
+[16:08:04]	Артем Петров used command '/CharSetModel Артем models/humans/group03/male_50.mdl'.
+[16:08:31]	Alexander Klimov used command '/ActSit'.
+[16:08:34]	Артем Петров entered observer.
+[16:08:37]	Артем Петров exited observer at their location.
+[16:08:38]	Артем Петров entered observer.
+[16:08:39]	Артем Петров exited observer at their location.
+[16:08:39]	Alexander Klimov used command '/ExitAct'.
+[16:09:01]	Артем Петров entered observer.
+[16:09:05]	Артем Петров has spawned a 'NPC [36][npc_citizen]'.
+[16:09:06]	Артем Петров has spawned a 'NPC [554][npc_citizen]'.
+[16:09:08]	Артем Петров has spawned a 'NPC [558][npc_citizen]'.
+[16:09:08]	Артем Петров has spawned a 'NPC [561][npc_citizen]'.
+[16:09:17]	Артем Петров has spawned a 'NPC [564][npc_citizen]'.
+[16:09:18]	Артем Петров has spawned a 'NPC [567][npc_citizen]'.
+[16:09:21]	Артем Петров has spawned a 'NPC [595][npc_citizen]'.
+[16:09:22]	Артем Петров has spawned a 'NPC [718][npc_citizen]'.
+[16:09:35]	Артем Петров exited observer at their location.
+[16:09:55]	Артем Петров entered observer.
+[16:10:03]	Артем Петров has spawned a 'NPC [1679][npc_combine_s]'.
+[16:10:03]	Артем Петров has spawned a 'NPC [1688][npc_combine_s]'.
+[16:10:03]	Артем Петров has spawned a 'NPC [1756][npc_combine_s]'.
+[16:10:03]	Артем Петров has spawned a 'NPC [1758][npc_combine_s]'.
+[16:10:05]	Артем Петров has spawned a 'NPC [562][npc_combine_s]'.
+[16:10:05]	Артем Петров has spawned a 'NPC [597][npc_combine_s]'.
+[16:10:06]	Артем Петров has spawned a 'NPC [2300][npc_combine_s]'.
+[16:10:09]	Артем Петров has spawned a 'NPC [489][npc_combine_s]'.
+[16:10:09]	Артем Петров has spawned a 'NPC [565][npc_combine_s]'.
+[16:10:09]	Артем Петров has spawned a 'NPC [773][npc_combine_s]'.
+[16:10:13]	Артем Петров has spawned a 'NPC [1200][npc_combine_s]'.
+[16:10:14]	Артем Петров has spawned a 'NPC [1409][npc_combine_s]'.
+[16:10:15]	Артем Петров has spawned a 'NPC [1688][npc_combine_s]'.
+[16:10:15]	Артем Петров has spawned a 'NPC [2271][npc_combine_s]'.
+[16:10:16]	Артем Петров has spawned a 'NPC [2316][npc_combine_s]'.
+[16:10:18]	Артем Петров has spawned a 'NPC [2448][npc_combine_s]'.
+[16:10:19]	Артем Петров has spawned a 'NPC [2451][npc_combine_s]'.
+[16:10:20]	Артем Петров has spawned a 'NPC [2601][npc_combine_s]'.
+[16:10:30]	Артем Петров has spawned a 'NPC [1887][npc_combine_s]'.
+[16:10:30]	Alexander Klimov has taken 26 damage from npc_combine_s.
+[16:10:30]	Alexander Klimov has taken 13 damage from npc_combine_s.
+[16:10:30]	Alexander Klimov has taken 13 damage from npc_combine_s.
+[16:10:31]	Alexander Klimov has taken 13 damage from npc_combine_s.
+[16:10:32]	Alexander Klimov has taken 13 damage from npc_combine_s.
+[16:10:32]	Alexander Klimov has taken 13 damage from npc_combine_s.
+[16:10:32]	Alexander Klimov has taken 13 damage from npc_combine_s.
+[16:10:32]	npc_combine_s has killed Alexander Klimov.
+[16:10:40]	Артем Петров has spawned a 'NPC [1887][npc_combine_s]'.
+[16:10:40]	Артем Петров has spawned a 'NPC [2086][npc_combine_s]'.
+[16:10:40]	Артем Петров has spawned a 'NPC [2592][npc_combine_s]'.
+[16:10:44]	Alexander Klimov entered observer.
+[16:11:04]	Alexander Klimov exited observer at their location.
+[16:11:11]	Артем Петров has spawned a 'NPC [1887][npc_combine_s]'.
+[16:11:17]	Alexander Klimov has taken 13 damage from npc_combine_s.
+[16:11:17]	Alexander Klimov has taken 13 damage from npc_combine_s.
+[16:11:17]	Alexander Klimov has taken 13 damage from npc_combine_s.
+[16:11:17]	Alexander Klimov has taken 13 damage from npc_combine_s.
+[16:11:18]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:11:18]	Alexander Klimov has taken 13 damage from npc_combine_s.
+[16:11:18]	Alexander Klimov has taken 13 damage from npc_combine_s.
+[16:11:18]	Alexander Klimov has taken 13 damage from npc_combine_s.
+[16:11:18]	Alexander Klimov has taken 13 damage from npc_combine_s.
+[16:11:18]	npc_combine_s has killed Alexander Klimov.
+[16:11:30]	Alexander Klimov entered observer.
+[16:11:30]	Alexander Klimov exited observer at their location.
+[16:11:33]	Alexander Klimov has taken 13 damage from npc_combine_s.
+[16:11:33]	Alexander Klimov has taken 13 damage from npc_combine_s.
+[16:11:33]	Alexander Klimov has taken 13 damage from npc_combine_s.
+[16:11:34]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:11:34]	Alexander Klimov has taken 13 damage from npc_combine_s.
+[16:11:34]	Alexander Klimov has taken 13 damage from npc_combine_s.
+[16:11:34]	Alexander Klimov has taken 26 damage from npc_combine_s.
+[16:11:34]	Alexander Klimov has taken 13 damage from npc_combine_s.
+[16:11:34]	npc_combine_s has killed Alexander Klimov.
+[16:11:51]	Артем Петров has spawned a 'NPC [564][npc_combine_s]'.
+[16:11:51]	Артем Петров has spawned a 'NPC [2086][npc_combine_s]'.
+[16:11:51]	Артем Петров has spawned a 'NPC [2592][npc_combine_s]'.
+[16:11:52]	Артем Петров has spawned a 'NPC [2594][npc_combine_s]'.
+[16:11:52]	Артем Петров has spawned a 'NPC [2600][npc_combine_s]'.
+[16:11:59]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:12:21]	Артем Петров has spawned a 'NPC [554][npc_combine_s]'.
+[16:12:22]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:12:22]	Alexander Klimov has taken 26 damage from npc_combine_s.
+[16:12:38]	Артем Петров has spawned a 'NPC [564][npc_combine_s]'.
+[16:12:38]	Артем Петров has spawned a 'NPC [595][npc_combine_s]'.
+[16:12:38]	Артем Петров has spawned a 'NPC [718][npc_combine_s]'.
+[16:12:38]	Артем Петров has spawned a 'NPC [1887][npc_combine_s]'.
+[16:12:38]	Артем Петров has spawned a 'NPC [2086][npc_combine_s]'.
+[16:12:39]	Артем Петров has spawned a 'NPC [2594][npc_combine_s]'.
+[16:12:39]	Артем Петров has spawned a 'NPC [2600][npc_combine_s]'.
+[16:12:42]	Alexander Klimov has taken 25 damage from npc_combine_s.
+[16:12:43]	Alexander Klimov has taken 13 damage from npc_combine_s.
+[16:12:44]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:12:50]	Alexander Klimov has taken 25 damage from npc_combine_s.
+[16:12:50]	Alexander Klimov has taken 25 damage from npc_combine_s.
+[16:12:51]	npc_combine_s has killed Alexander Klimov.
+[16:13:02]	Alexander Klimov entered observer.
+[16:13:03]	Alexander Klimov exited observer at their location.
+[16:13:05]	Alexander Klimov entered observer.
+[16:13:09]	Alexander Klimov exited observer at their location.
+[16:13:18]	Артем Петров has spawned a 'NPC [562][npc_combine_s]'.
+[16:13:21]	Alexander Klimov has taken 13 damage from npc_combine_s.
+[16:13:22]	Alexander Klimov has taken 13 damage from npc_combine_s.
+[16:13:22]	Alexander Klimov has taken 13 damage from npc_combine_s.
+[16:13:23]	Alexander Klimov has taken 13 damage from npc_combine_s.
+[16:13:23]	Alexander Klimov has taken 26 damage from npc_combine_s.
+[16:13:23]	Alexander Klimov has taken 26 damage from npc_combine_s.
+[16:13:23]	npc_combine_s has killed Alexander Klimov.
+[16:13:36]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:13:37]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:13:37]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:13:38]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:13:47]	Alexander Klimov has taken 26 damage from npc_combine_s.
+[16:13:48]	Alexander Klimov has taken 13 damage from npc_combine_s.
+[16:13:48]	Alexander Klimov has taken 13 damage from npc_combine_s.
+[16:13:48]	Alexander Klimov has taken 13 damage from npc_combine_s.
+[16:13:49]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:13:49]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:13:49]	Alexander Klimov has taken 13 damage from npc_combine_s.
+[16:13:55]	Артем Петров has spawned a 'Entity [554][item_healthkit]'.
+[16:13:55]	Alexander Klimov has taken 13 damage from npc_combine_s.
+[16:13:55]	npc_combine_s has killed Alexander Klimov.
+[16:13:55]	Артем Петров has spawned a 'Entity [597][item_healthkit]'.
+[16:13:56]	Артем Петров has spawned a 'NPC [841][npc_combine_s]'.
+[16:14:16]	Alexander Klimov has taken 12 damage from npc_combine_s.
+[16:14:21]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:14:21]	Alexander Klimov has taken 13 damage from npc_combine_s.
+[16:14:21]	Alexander Klimov has taken 13 damage from npc_combine_s.
+[16:14:21]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:14:21]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:14:25]	Артем Петров has spawned a 'Entity [556][item_healthkit]'.
+[16:14:29]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:14:33]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:14:37]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:14:37]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:14:38]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:14:38]	Alexander Klimov has taken 25 damage from npc_combine_s.
+[16:14:38]	Alexander Klimov has taken 13 damage from npc_combine_s.
+[16:14:38]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:14:38]	Alexander Klimov has taken 13 damage from npc_combine_s.
+[16:14:38]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:14:42]	Артем Петров has spawned a 'Entity [556][item_healthkit]'.
+[16:14:43]	Артем Петров has spawned a 'Entity [558][item_healthkit]'.
+[16:14:47]	Артем Петров has spawned a 'Entity [556][item_healthkit]'.
+[16:15:04]	Артем Петров has spawned a 'NPC [556][npc_combine_s]'.
+[16:15:06]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:15:08]	Alexander Klimov has taken 6 damage from npc_combine_s.
+[16:15:09]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:15:10]	Alexander Klimov has taken 15 damage from npc_combine_s.
+[16:15:11]	Alexander Klimov has taken 1 damage from npc_combine_s.
+[16:15:11]	Alexander Klimov has taken 1 damage from npc_combine_s.
+[16:15:11]	Alexander Klimov has taken 6 damage from npc_combine_s.
+[16:15:12]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:15:12]	Alexander Klimov has taken 1 damage from npc_combine_s.
+[16:15:12]	Артем Петров has spawned a 'NPC [1200][npc_combine_s]'.
+[16:15:14]	Alexander Klimov has taken 15 damage from npc_combine_s.
+[16:15:18]	Артем Петров has spawned a 'NPC [556][npc_combine_s]'.
+[16:15:23]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:15:23]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:15:59]	Артем Петров has spawned a 'Weapon [579][arccw_db]'.
+[16:16:13]	Артем Петров exited observer at their location.
+[16:16:24]	Артем Петров entered observer.
+[16:16:26]	Артем Петров exited observer at their location.
+[16:16:32]	Alexander Klimov has spawned a 'Entity [718][arccw_ammo_buckshot_large]'.
+[16:16:42]	Alexander Klimov has taken 48 damage from Артем Петров.
+[16:16:42]	Артем Петров has killed Alexander Klimov with arccw_fiveseven.
+[16:16:55]	Alexander Klimov has taken 107 damage from Артем Петров.
+[16:16:55]	Артем Петров has killed Alexander Klimov with arccw_shorty.
+[16:17:01]	Артем Петров has spawned a 'Entity [595][arccw_ammo_buckshot_large]'.
+[16:17:13]	֍ Aime-moi ֍ loaded the character 'OTA-ECHO.OWS-99504'
+[16:17:14]	OTA-ECHO.OWS-99504 entered observer.
+[16:17:34]	OTA-ECHO.OWS-99504 used command '/CharSetModel OTA models/city8_ow_elite.mdl'.
+[16:17:36]	OTA-ECHO.OWS-99504 exited observer at their location.
+[16:17:37]	OTA-ECHO.OWS-99504 entered observer.
+[16:17:41]	OTA-ECHO.OWS-99504 exited observer at their location.
+[16:17:43]	OTA-ECHO.OWS-99504 has taken 33 damage from Alexander Klimov.
+[16:17:43]	OTA-ECHO.OWS-99504 has taken 33 damage from Alexander Klimov.
+[16:17:43]	OTA-ECHO.OWS-99504 has taken 33 damage from Alexander Klimov.
+[16:17:43]	OTA-ECHO.OWS-99504 has taken 33 damage from Alexander Klimov.
+[16:17:43]	OTA-ECHO.OWS-99504 has taken 33 damage from Alexander Klimov.
+[16:17:44]	OTA-ECHO.OWS-99504 entered observer.
+[16:17:49]	OTA-ECHO.OWS-99504 exited observer at their location.
+[16:17:50]	OTA-ECHO.OWS-99504 has spawned a 'Entity [32][item_healthkit]'.
+[16:17:51]	OTA-ECHO.OWS-99504 has spawned a 'Entity [150][item_healthkit]'.
+[16:17:52]	OTA-ECHO.OWS-99504 has spawned a 'Entity [32][item_battery]'.
+[16:17:52]	OTA-ECHO.OWS-99504 has spawned a 'Entity [150][item_battery]'.
+[16:17:52]	OTA-ECHO.OWS-99504 has spawned a 'Entity [151][item_battery]'.
+[16:17:52]	OTA-ECHO.OWS-99504 has spawned a 'Entity [494][item_battery]'.
+[16:17:52]	OTA-ECHO.OWS-99504 has spawned a 'Entity [557][item_battery]'.
+[16:17:53]	OTA-ECHO.OWS-99504 has spawned a 'Entity [563][item_battery]'.
+[16:17:53]	OTA-ECHO.OWS-99504 has spawned a 'Entity [564][item_battery]'.
+[16:17:54]	OTA-ECHO.OWS-99504 entered observer.
+[16:17:56]	OTA-ECHO.OWS-99504 exited observer at their location.
+[16:17:56]	OTA-ECHO.OWS-99504 has taken 33 damage from Alexander Klimov.
+[16:17:57]	OTA-ECHO.OWS-99504 has taken 33 damage from Alexander Klimov.
+[16:18:08]	OTA-ECHO.OWS-99504 used command '/CharSetModel OTA models/terminator_p.mdl'.
+[16:18:08]	OTA-ECHO.OWS-99504 has taken 66 damage from Alexander Klimov.
+[16:18:09]	OTA-ECHO.OWS-99504 has taken 66 damage from Alexander Klimov.
+[16:18:11]	OTA-ECHO.OWS-99504 entered observer.
+[16:18:22]	֍ Aime-moi ֍ (STEAM_0:0:424879351) deleted character 'OTA-ECHO.OWS-99504'
+[16:18:37]	֍ Aime-moi ֍ created the character 'OTA-ECHO.OWS-34096'
+[16:18:37]	OTA-ECHO.OWS-34096 has gained a '.9mm Pistol' #23.
+[16:18:37]	OTA-ECHO.OWS-34096 has gained a '9mm Pistol Bullets' #24.
+[16:18:37]	OTA-ECHO.OWS-34096 has gained a '9mm Pistol Bullets' #25.
+[16:18:37]	OTA-ECHO.OWS-34096 has gained a 'Pulse-Rifle' #26.
+[16:18:37]	OTA-ECHO.OWS-34096 has gained a 'Pulse-Rifle Energy' #27.
+[16:18:37]	OTA-ECHO.OWS-34096 has gained a 'Pulse-Rifle Energy' #28.
+[16:18:37]	֍ Aime-moi ֍ loaded the character 'OTA-ECHO.OWS-34096'
+[16:18:39]	OTA-ECHO.OWS-34096 entered observer.
+[16:18:55]	OTA-ECHO.OWS-34096 exited observer at their location.
+[16:18:57]	OTA-ECHO.OWS-34096 has taken 8 damage from Alexander Klimov.
+[16:18:58]	Alexander Klimov has taken 36 damage from OTA-ECHO.OWS-34096.
+[16:18:58]	OTA-ECHO.OWS-34096 has taken 33 damage from Alexander Klimov.
+[16:18:58]	Alexander Klimov has taken 36 damage from OTA-ECHO.OWS-34096.
+[16:18:58]	Alexander Klimov has taken 36 damage from OTA-ECHO.OWS-34096.
+[16:18:58]	OTA-ECHO.OWS-34096 has killed Alexander Klimov with arccw_minimi.
+[16:19:04]	OTA-ECHO.OWS-34096 has spawned a 'Entity [32][arccw_ammo_ar2_large]'.
+[16:19:05]	OTA-ECHO.OWS-34096 has spawned a 'Entity [32][arccw_ammo_smg1_large]'.
+[16:19:06]	OTA-ECHO.OWS-34096 has spawned a 'Entity [151][arccw_ammo_smg1_large]'.
+[16:19:30]	OTA-ECHO.OWS-34096 used command '/CharGiveFlag OTA CVcenrptv'.
+[16:19:35]	OTA-ECHO.OWS-34096 entered observer.
+[16:19:40]	OTA-ECHO.OWS-34096 exited observer at their location.
+[16:20:01]	Alexander Klimov entered observer.
+[16:20:11]	Alexander Klimov exited observer at their location.
+[16:20:13]	OTA-ECHO.OWS-34096 has spawned a 'Entity [563][arccw_ammo_smg1_grenade_large]'.
+[16:20:24]	OTA-ECHO.OWS-34096 entered observer.
+[16:20:24]	OTA-ECHO.OWS-34096 exited observer at their location.
+[16:20:30]	OTA-ECHO.OWS-34096 entered observer.
+[16:20:32]	OTA-ECHO.OWS-34096 exited observer at their location.
+[16:20:33]	OTA-ECHO.OWS-34096 entered observer.
+[16:20:33]	Alexander Klimov has spawned a 'Entity [595][arccw_ammo_buckshot_large]'.
+[16:20:39]	Alexander Klimov entered observer.
+[16:20:40]	Alexander Klimov exited observer at their location.
+[16:22:02]	OTA-ECHO.OWS-34096 has spawned a 'Entity [564][item_healthkit]'.
+[16:22:03]	OTA-ECHO.OWS-34096 exited observer at their location.
+[16:22:03]	OTA-ECHO.OWS-34096 entered observer.
+[16:22:08]	OTA-ECHO.OWS-34096 exited observer at their location.
+[16:22:17]	OTA-ECHO.OWS-34096 has taken 18 damage from Alexander Klimov.
+[16:22:17]	OTA-ECHO.OWS-34096 has taken 18 damage from Alexander Klimov.
+[16:22:22]	Alexander Klimov has taken 9 damage from OTA-ECHO.OWS-34096.
+[16:22:22]	Alexander Klimov has taken 9 damage from OTA-ECHO.OWS-34096.
+[16:22:25]	OTA-ECHO.OWS-34096 entered observer.
+[16:22:25]	OTA-ECHO.OWS-34096 exited observer at their location.
+[16:22:25]	Alexander Klimov has taken 9 damage from OTA-ECHO.OWS-34096.
+[16:22:27]	OTA-ECHO.OWS-34096 entered observer.
+[16:22:27]	OTA-ECHO.OWS-34096 exited observer at their location.
+[16:22:31]	Alexander Klimov has taken 25 damage from OTA-ECHO.OWS-34096.
+[16:22:31]	OTA-ECHO.OWS-34096 has taken 108 damage from Alexander Klimov.
+[16:22:31]	OTA-ECHO.OWS-34096 has taken 108 damage from Alexander Klimov.
+[16:22:31]	OTA-ECHO.OWS-34096 has taken 108 damage from Alexander Klimov.
+[16:22:31]	Alexander Klimov has killed OTA-ECHO.OWS-34096 with arccw_shorty.
+[16:22:43]	OTA-ECHO.OWS-34096 entered observer.
+[16:22:43]	Alexander Klimov has spawned a 'Entity [564][item_healthkit]'.
+[16:22:43]	Alexander Klimov has spawned a 'Entity [579][item_healthkit]'.
+[16:22:44]	Alexander Klimov has spawned a 'Entity [564][item_healthkit]'.
+[16:22:54]	OTA-ECHO.OWS-34096 exited observer at their location.
+[16:22:56]	Alexander Klimov has taken 12 damage from OTA-ECHO.OWS-34096.
+[16:22:57]	OTA-ECHO.OWS-34096 has taken 74 damage from Alexander Klimov.
+[16:22:57]	OTA-ECHO.OWS-34096 has taken 73 damage from Alexander Klimov.
+[16:22:57]	OTA-ECHO.OWS-34096 has taken 19 damage from Alexander Klimov.
+[16:23:02]	OTA-ECHO.OWS-34096 entered observer.
+[16:23:04]	OTA-ECHO.OWS-34096 exited observer at their location.
+[16:23:08]	OTA-ECHO.OWS-34096 has taken 173 damage from Alexander Klimov.
+[16:23:08]	Alexander Klimov has killed OTA-ECHO.OWS-34096 with arccw_shorty.
+[16:23:21]	OTA-ECHO.OWS-34096 entered observer.
+[16:23:30]	OTA-ECHO.OWS-34096 exited observer at their location.
+[16:23:32]	OTA-ECHO.OWS-34096 has taken 25 damage from Alexander Klimov.
+[16:23:32]	OTA-ECHO.OWS-34096 has taken 25 damage from Alexander Klimov.
+[16:23:32]	OTA-ECHO.OWS-34096 has taken 25 damage from Alexander Klimov.
+[16:23:32]	OTA-ECHO.OWS-34096 has taken 25 damage from Alexander Klimov.
+[16:23:32]	OTA-ECHO.OWS-34096 has taken 25 damage from Alexander Klimov.
+[16:23:33]	Alexander Klimov has taken 18 damage from OTA-ECHO.OWS-34096.
+[16:23:37]	OTA-ECHO.OWS-34096 has gained 40 tokens.
+[16:23:37]	OTA-ECHO.OWS-34096 has taken 67 damage from Alexander Klimov.
+[16:23:37]	OTA-ECHO.OWS-34096 has taken 17 damage from Alexander Klimov.
+[16:23:37]	Alexander Klimov has taken 19 damage from OTA-ECHO.OWS-34096.
+[16:24:16]	Alexander Klimov has taken 5 damage from OTA-ECHO.OWS-34096.
+[16:24:17]	Alexander Klimov has taken 5 damage from OTA-ECHO.OWS-34096.
+[16:24:19]	Alexander Klimov has taken 5 damage from OTA-ECHO.OWS-34096.
+[16:24:20]	Alexander Klimov has taken 5 damage from OTA-ECHO.OWS-34096.
+[16:24:21]	Alexander Klimov has taken 5 damage from OTA-ECHO.OWS-34096.
+[16:24:22]	Alexander Klimov has taken 5 damage from OTA-ECHO.OWS-34096.
+[16:24:23]	Alexander Klimov has taken 5 damage from OTA-ECHO.OWS-34096.
+[16:24:23]	Alexander Klimov has taken 64 damage from Alexander Klimov.
+[16:24:23]	Alexander Klimov has killed Alexander Klimov.
+[16:24:25]	OTA-ECHO.OWS-34096 entered observer.
+[16:24:25]	OTA-ECHO.OWS-34096 exited observer at their location.
+[16:24:30]	OTA-ECHO.OWS-34096 entered observer.
+[16:24:32]	OTA-ECHO.OWS-34096 exited observer at their location.
+[16:24:35]	Alexander Klimov entered observer.
+[16:24:44]	OTA-ECHO.OWS-34096 entered observer.
+[16:24:45]	OTA-ECHO.OWS-34096 exited observer at their location.
+[16:24:51]	OTA-ECHO.OWS-34096 entered observer.
+[16:24:53]	OTA-ECHO.OWS-34096 exited observer at their location.
+[16:24:56]	OTA-ECHO.OWS-34096 entered observer.
+[16:24:58]	OTA-ECHO.OWS-34096 exited observer at their location.
+[16:24:58]	Alexander Klimov exited observer at their location.
+[16:24:58]	OTA-ECHO.OWS-34096 entered observer.
+[16:24:59]	OTA-ECHO.OWS-34096 exited observer at their location.
+[16:24:59]	OTA-ECHO.OWS-34096 entered observer.
+[16:25:00]	OTA-ECHO.OWS-34096 exited observer at their location.
+[16:25:00]	OTA-ECHO.OWS-34096 entered observer.
+[16:25:01]	OTA-ECHO.OWS-34096 exited observer at their location.
+[16:25:07]	OTA-ECHO.OWS-34096 entered observer.
+[16:25:08]	OTA-ECHO.OWS-34096 exited observer at their location.
+[16:25:10]	Alexander Klimov has spawned a 'Entity [579][item_box_buckshot]'.
+[16:25:11]	Alexander Klimov has spawned a 'Entity [2539][item_box_buckshot]'.
+[16:25:11]	Alexander Klimov has spawned a 'Entity [2592][item_box_buckshot]'.
+[16:25:11]	Alexander Klimov has spawned a 'Entity [2603][item_box_buckshot]'.
+[16:25:11]	Alexander Klimov has spawned a 'Entity [2604][item_box_buckshot]'.
+[16:25:11]	Alexander Klimov has spawned a 'Entity [2605][item_box_buckshot]'.
+[16:25:11]	Alexander Klimov has spawned a 'Entity [2631][item_box_buckshot]'.
+[16:25:11]	Alexander Klimov has spawned a 'Entity [2636][item_box_buckshot]'.
+[16:25:11]	Alexander Klimov has spawned a 'Entity [579][item_box_buckshot]'.
+[16:25:12]	Alexander Klimov has spawned a 'Entity [2637][item_box_buckshot]'.
+[16:25:12]	Alexander Klimov has spawned a 'Entity [2539][item_box_buckshot]'.
+[16:25:12]	Alexander Klimov has spawned a 'Entity [2592][item_box_buckshot]'.
+[16:25:14]	Alexander Klimov has taken 47 damage from OTA-ECHO.OWS-34096.
+[16:25:15]	Alexander Klimov has taken 47 damage from OTA-ECHO.OWS-34096.
+[16:25:15]	Alexander Klimov has taken 43 damage from OTA-ECHO.OWS-34096.
+[16:25:15]	OTA-ECHO.OWS-34096 has killed Alexander Klimov with arccw_nade_gas.
+[16:25:20]	OTA-ECHO.OWS-34096 entered observer.
+[16:25:21]	OTA-ECHO.OWS-34096 exited observer at their location.
+[16:25:23]	OTA-ECHO.OWS-34096 entered observer.
+[16:25:24]	OTA-ECHO.OWS-34096 exited observer at their location.
+[16:25:27]	Alexander Klimov entered observer.
+[16:25:31]	OTA-ECHO.OWS-34096 entered observer.
+[16:25:32]	OTA-ECHO.OWS-34096 exited observer at their location.
+[16:25:34]	OTA-ECHO.OWS-34096 entered observer.
+[16:25:34]	OTA-ECHO.OWS-34096 exited observer at their location.
+[16:25:34]	Alexander Klimov exited observer at their location.
+[16:25:35]	OTA-ECHO.OWS-34096 entered observer.
+[16:25:35]	OTA-ECHO.OWS-34096 exited observer at their location.
+[16:25:39]	OTA-ECHO.OWS-34096 entered observer.
+[16:25:40]	OTA-ECHO.OWS-34096 exited observer at their location.
+[16:25:43]	OTA-ECHO.OWS-34096 entered observer.
+[16:25:44]	OTA-ECHO.OWS-34096 exited observer at their location.
+[16:25:44]	OTA-ECHO.OWS-34096 entered observer.
+[16:25:44]	Alexander Klimov has taken 5 damage from OTA-ECHO.OWS-34096.
+[16:25:44]	OTA-ECHO.OWS-34096 exited observer at their location.
+[16:25:45]	OTA-ECHO.OWS-34096 entered observer.
+[16:25:46]	OTA-ECHO.OWS-34096 exited observer at their location.
+[16:25:47]	Alexander Klimov has spawned a 'Entity [579][item_box_buckshot]'.
+[16:25:47]	Alexander Klimov has spawned a 'Entity [2441][item_box_buckshot]'.
+[16:25:48]	Alexander Klimov has spawned a 'Entity [2539][item_box_buckshot]'.
+[16:25:48]	Alexander Klimov has spawned a 'Entity [2592][item_box_buckshot]'.
+[16:25:48]	Alexander Klimov has spawned a 'Entity [2603][item_box_buckshot]'.
+[16:25:54]	Alexander Klimov entered observer.
+[16:25:55]	OTA-ECHO.OWS-34096 entered observer.
+[16:25:55]	OTA-ECHO.OWS-34096 exited observer at their location.
+[16:25:56]	OTA-ECHO.OWS-34096 entered observer.
+[16:25:56]	OTA-ECHO.OWS-34096 exited observer at their location.
+[16:25:57]	OTA-ECHO.OWS-34096 entered observer.
+[16:25:57]	Alexander Klimov exited observer at their location.
+[16:26:02]	OTA-ECHO.OWS-34096 exited observer at their location.
+[16:26:03]	OTA-ECHO.OWS-34096 has taken 108 damage from Alexander Klimov.
+[16:26:03]	Alexander Klimov has killed OTA-ECHO.OWS-34096 with arccw_shorty.
+[16:26:05]	Alexander Klimov has taken 44 damage from OTA-ECHO.OWS-34096.
+[16:26:15]	OTA-ECHO.OWS-34096 entered observer.
+[16:26:26]	OTA-ECHO.OWS-34096 exited observer at their location.
+[16:26:29]	OTA-ECHO.OWS-34096 has taken 57 damage from Alexander Klimov.
+[16:26:29]	OTA-ECHO.OWS-34096 has taken 14 damage from Alexander Klimov.
+[16:26:30]	Alexander Klimov has taken 14 damage from OTA-ECHO.OWS-34096.
+[16:26:30]	OTA-ECHO.OWS-34096 has taken 14 damage from Alexander Klimov.
+[16:26:34]	OTA-ECHO.OWS-34096 entered observer.
+[16:26:35]	OTA-ECHO.OWS-34096 exited observer at their location.
+[16:26:42]	Alexander Klimov has spawned a 'Entity [564][item_healthkit]'.
+[16:26:42]	Alexander Klimov has spawned a 'Entity [718][item_healthkit]'.
+[16:26:42]	Alexander Klimov has spawned a 'Entity [2321][item_healthkit]'.
+[16:26:44]	Alexander Klimov has spawned a 'Entity [564][item_healthkit]'.
+[16:26:45]	Alexander Klimov has spawned a 'Entity [718][item_healthkit]'.
+[16:26:47]	OTA-ECHO.OWS-34096 entered observer.
+[16:26:47]	OTA-ECHO.OWS-34096 exited observer at their location.
+[16:26:48]	Alexander Klimov has spawned a 'Entity [2321][item_healthkit]'.
+[16:26:48]	Alexander Klimov has spawned a 'Entity [2539][item_healthkit]'.
+[16:26:48]	Alexander Klimov has spawned a 'Entity [2592][item_healthkit]'.
+[16:26:48]	Alexander Klimov has taken 14 damage from OTA-ECHO.OWS-34096.
+[16:26:48]	Alexander Klimov has taken 14 damage from OTA-ECHO.OWS-34096.
+[16:26:48]	Alexander Klimov has taken 14 damage from OTA-ECHO.OWS-34096.
+[16:26:48]	Alexander Klimov has taken 14 damage from OTA-ECHO.OWS-34096.
+[16:26:49]	OTA-ECHO.OWS-34096 has taken 91 damage from Alexander Klimov.
+[16:26:49]	OTA-ECHO.OWS-34096 has taken 182 damage from Alexander Klimov.
+[16:26:49]	Alexander Klimov has killed OTA-ECHO.OWS-34096 with arccw_shorty.
+[16:27:00]	OTA-ECHO.OWS-34096 entered observer.
+[16:27:14]	OTA-ECHO.OWS-34096 has spawned a 'NPC [15][npc_combine_s]'.
+[16:27:14]	OTA-ECHO.OWS-34096 has spawned a 'NPC [595][npc_combine_s]'.
+[16:27:15]	OTA-ECHO.OWS-34096 has spawned a 'NPC [1409][npc_combine_s]'.
+[16:27:15]	OTA-ECHO.OWS-34096 has spawned a 'NPC [1715][npc_combine_s]'.
+[16:27:15]	OTA-ECHO.OWS-34096 has spawned a 'NPC [1759][npc_combine_s]'.
+[16:27:15]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2321][npc_combine_s]'.
+[16:27:17]	OTA-ECHO.OWS-34096 has spawned a 'NPC [1759][npc_combine_s]'.
+[16:27:17]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2321][npc_combine_s]'.
+[16:27:17]	OTA-ECHO.OWS-34096 has spawned a 'NPC [1715][npc_combine_s]'.
+[16:27:17]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2592][npc_combine_s]'.
+[16:27:17]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2594][npc_combine_s]'.
+[16:27:17]	OTA-ECHO.OWS-34096 has spawned a 'NPC [1409][npc_combine_s]'.
+[16:27:18]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2600][npc_combine_s]'.
+[16:27:18]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2604][npc_combine_s]'.
+[16:27:18]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2631][npc_combine_s]'.
+[16:27:18]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2637][npc_combine_s]'.
+[16:27:19]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2647][npc_combine_s]'.
+[16:27:19]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2655][npc_combine_s]'.
+[16:27:19]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2657][npc_combine_s]'.
+[16:27:20]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2659][npc_combine_s]'.
+[16:27:20]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2661][npc_combine_s]'.
+[16:27:21]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2663][npc_combine_s]'.
+[16:27:21]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2665][npc_combine_s]'.
+[16:27:21]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2667][npc_combine_s]'.
+[16:27:21]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2669][npc_combine_s]'.
+[16:27:21]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2671][npc_combine_s]'.
+[16:27:22]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:27:22]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:27:28]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:27:30]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:27:30]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:27:30]	Alexander Klimov has taken 6 damage from npc_combine_s.
+[16:27:32]	Alexander Klimov has spawned a 'Entity [595][item_healthkit]'.
+[16:27:33]	Alexander Klimov has spawned a 'Entity [2321][item_healthkit]'.
+[16:27:33]	Alexander Klimov has spawned a 'Entity [2604][item_healthkit]'.
+[16:27:33]	Alexander Klimov has spawned a 'Entity [2631][item_healthkit]'.
+[16:27:40]	Alexander Klimov has spawned a 'Entity [2321][item_ammo_pistol_large]'.
+[16:27:40]	Alexander Klimov has spawned a 'Entity [2592][item_ammo_pistol_large]'.
+[16:27:41]	Alexander Klimov has spawned a 'Entity [2637][item_ammo_pistol_large]'.
+[16:27:41]	Alexander Klimov has spawned a 'Entity [2647][item_ammo_pistol_large]'.
+[16:27:41]	Alexander Klimov has spawned a 'Entity [2321][item_ammo_pistol_large]'.
+[16:27:41]	OTA-ECHO.OWS-34096 exited observer at their location.
+[16:27:42]	Alexander Klimov has spawned a 'Entity [2592][item_ammo_pistol_large]'.
+[16:27:42]	Alexander Klimov has spawned a 'Entity [2637][item_ammo_pistol_large]'.
+[16:27:42]	Alexander Klimov has spawned a 'Entity [2647][item_ammo_pistol_large]'.
+[16:27:42]	Alexander Klimov has spawned a 'Entity [2655][item_ammo_pistol_large]'.
+[16:27:42]	OTA-ECHO.OWS-34096 entered observer.
+[16:27:46]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:27:47]	Alexander Klimov has taken 6 damage from npc_combine_s.
+[16:27:48]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:27:54]	OTA-ECHO.OWS-34096 has spawned a 'NPC [15][npc_citizen]'.
+[16:27:54]	OTA-ECHO.OWS-34096 has spawned a 'NPC [1409][npc_citizen]'.
+[16:27:54]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2594][npc_citizen]'.
+[16:27:54]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2647][npc_citizen]'.
+[16:27:54]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:27:54]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2671][npc_citizen]'.
+[16:27:54]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:27:54]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:27:54]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2677][npc_citizen]'.
+[16:27:54]	Alexander Klimov has taken 6 damage from npc_combine_s.
+[16:27:54]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:27:54]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2681][npc_citizen]'.
+[16:27:55]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2684][npc_citizen]'.
+[16:27:55]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:27:55]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:27:55]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2688][npc_citizen]'.
+[16:27:55]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:27:55]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:27:55]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:27:55]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:27:56]	Alexander Klimov has taken 1 damage from npc_combine_s.
+[16:27:56]	Alexander Klimov has taken 1 damage from npc_combine_s.
+[16:27:56]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:27:57]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:27:57]	Alexander Klimov has taken 1 damage from npc_combine_s.
+[16:27:57]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2657][npc_citizen]'.
+[16:27:58]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2663][npc_citizen]'.
+[16:27:58]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2679][npc_citizen]'.
+[16:27:59]	OTA-ECHO.OWS-34096 has spawned a 'NPC [1759][npc_citizen]'.
+[16:27:59]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2692][npc_citizen]'.
+[16:28:03]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2600][npc_combine_s]'.
+[16:28:03]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2687][npc_combine_s]'.
+[16:28:03]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2704][npc_combine_s]'.
+[16:28:04]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2716][npc_combine_s]'.
+[16:28:04]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2718][npc_combine_s]'.
+[16:28:04]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2667][npc_combine_s]'.
+[16:28:04]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2637][npc_combine_s]'.
+[16:28:05]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2669][npc_combine_s]'.
+[16:28:05]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2686][npc_combine_s]'.
+[16:28:05]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2695][npc_combine_s]'.
+[16:28:06]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2698][npc_combine_s]'.
+[16:28:12]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2713][npc_combine_s]'.
+[16:28:17]	OTA-ECHO.OWS-34096 has spawned a 'NPC [1759][npc_combine_s]'.
+[16:28:17]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2684][npc_combine_s]'.
+[16:28:36]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:28:37]	Alexander Klimov has taken 1 damage from npc_combine_s.
+[16:28:37]	OTA-ECHO.OWS-34096 has gained 40 tokens.
+[16:28:37]	Alexander Klimov has taken 1 damage from npc_combine_s.
+[16:28:40]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2594][npc_combine_s]'.
+[16:28:41]	OTA-ECHO.OWS-34096 has spawned a 'NPC [1759][npc_combine_s]'.
+[16:28:45]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2677][npc_combine_s]'.
+[16:28:45]	Alexander Klimov has taken 1 damage from npc_combine_s.
+[16:28:48]	Alexander Klimov has taken 15 damage from npc_combine_s.
+[16:28:49]	Alexander Klimov has taken 15 damage from npc_combine_s.
+[16:28:49]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:28:49]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:28:49]	Alexander Klimov has taken 1 damage from npc_combine_s.
+[16:28:50]	Alexander Klimov has taken 6 damage from npc_combine_s.
+[16:28:50]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:28:56]	Alexander Klimov has spawned a 'Entity [2677][item_box_buckshot]'.
+[16:28:56]	Alexander Klimov has spawned a 'Entity [2684][item_box_buckshot]'.
+[16:28:57]	Alexander Klimov has spawned a 'Entity [2687][item_box_buckshot]'.
+[16:28:57]	Alexander Klimov has spawned a 'Entity [2688][item_healthkit]'.
+[16:28:57]	Alexander Klimov has spawned a 'Entity [2694][item_healthkit]'.
+[16:28:57]	Alexander Klimov has spawned a 'Entity [2695][item_healthkit]'.
+[16:28:58]	Alexander Klimov has spawned a 'Entity [2677][item_healthkit]'.
+[16:28:58]	Alexander Klimov has spawned a 'Entity [2684][item_healthkit]'.
+[16:28:58]	Alexander Klimov has spawned a 'Entity [2687][item_healthkit]'.
+[16:28:59]	Alexander Klimov has spawned a 'Entity [2688][item_healthkit]'.
+[16:28:59]	Alexander Klimov has spawned a 'Entity [2694][item_healthkit]'.
+[16:28:59]	Alexander Klimov has spawned a 'Entity [2695][item_healthkit]'.
+[16:29:10]	Alexander Klimov entered observer.
+[16:29:10]	Alexander Klimov exited observer at their location.
+[16:29:15]	OTA-ECHO.OWS-34096 has spawned a 'NPC [1759][npc_combine_s]'.
+[16:29:16]	Alexander Klimov has taken 1 damage from npc_combine_s.
+[16:29:18]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2698][npc_combine_s]'.
+[16:29:21]	Alexander Klimov has taken 15 damage from npc_combine_s.
+[16:29:21]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2703][npc_combine_s]'.
+[16:29:21]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2706][npc_combine_s]'.
+[16:29:21]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2708][npc_combine_s]'.
+[16:29:21]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2710][npc_combine_s]'.
+[16:29:22]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2712][npc_combine_s]'.
+[16:29:22]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2714][npc_combine_s]'.
+[16:29:22]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2718][npc_combine_s]'.
+[16:29:22]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2722][npc_combine_s]'.
+[16:29:23]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2725][npc_combine_s]'.
+[16:29:23]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2728][npc_combine_s]'.
+[16:29:23]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2730][npc_combine_s]'.
+[16:29:23]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2594][npc_combine_s]'.
+[16:29:30]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:29:30]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:29:31]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:29:33]	Alexander Klimov has taken 6 damage from npc_combine_s.
+[16:29:35]	Alexander Klimov has taken 15 damage from npc_combine_s.
+[16:29:35]	Alexander Klimov has taken 15 damage from npc_combine_s.
+[16:29:40]	Alexander Klimov has taken 1 damage from npc_combine_s.
+[16:29:43]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2714][npc_rollermine]'.
+[16:29:46]	Alexander Klimov has taken 15 damage from npc_combine_s.
+[16:29:46]	Alexander Klimov has taken 10 damage from npc_rollermine.
+[16:29:46]	Alexander Klimov has taken 5 damage from npc_rollermine.
+[16:29:53]	Alexander Klimov has spawned a 'Entity [2728][item_ammo_ar2_large]'.
+[16:29:53]	Alexander Klimov has spawned a 'Entity [2733][item_ammo_ar2_large]'.
+[16:29:53]	Alexander Klimov has spawned a 'Entity [2735][item_ammo_ar2_large]'.
+[16:29:53]	Alexander Klimov has spawned a 'Entity [2736][item_ammo_ar2_large]'.
+[16:29:54]	Alexander Klimov has spawned a 'Entity [2716][item_ammo_smg1_large]'.
+[16:29:54]	Alexander Klimov has spawned a 'Entity [2733][item_ammo_smg1_large]'.
+[16:29:54]	Alexander Klimov has spawned a 'Entity [2735][item_ammo_smg1_large]'.
+[16:29:54]	Alexander Klimov has spawned a 'Entity [2736][item_ammo_smg1_large]'.
+[16:29:54]	Alexander Klimov has spawned a 'Entity [2737][item_ammo_smg1_large]'.
+[16:29:54]	Alexander Klimov has spawned a 'Entity [2738][item_ammo_smg1_large]'.
+[16:29:58]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:30:08]	Alexander Klimov has taken 6 damage from npc_combine_s.
+[16:30:08]	npc_combine_s has killed Alexander Klimov.
+[16:30:20]	Alexander Klimov entered observer.
+[16:30:28]	Alexander Klimov exited observer at their location.
+[16:30:33]	Alexander Klimov has spawned a 'Entity [15][item_ammo_smg1_grenade]'.
+[16:30:33]	Alexander Klimov has spawned a 'Entity [494][item_ammo_smg1_grenade]'.
+[16:30:33]	Alexander Klimov has spawned a 'Entity [2703][item_ammo_smg1_grenade]'.
+[16:30:33]	Alexander Klimov has spawned a 'Entity [2716][item_ammo_smg1_grenade]'.
+[16:30:34]	Alexander Klimov has spawned a 'Entity [2722][item_ammo_smg1_large]'.
+[16:30:34]	Alexander Klimov has spawned a 'Entity [2728][item_ammo_smg1_large]'.
+[16:30:34]	Alexander Klimov has spawned a 'Entity [2733][item_ammo_smg1_large]'.
+[16:30:34]	Alexander Klimov has spawned a 'Entity [2734][item_ammo_smg1_large]'.
+[16:30:34]	Alexander Klimov has spawned a 'Entity [2736][item_ammo_smg1_large]'.
+[16:30:34]	Alexander Klimov has spawned a 'Entity [2737][item_ammo_smg1_large]'.
+[16:30:38]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2722][npc_rollermine]'.
+[16:30:39]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2733][npc_rollermine]'.
+[16:30:39]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2441][npc_rollermine]'.
+[16:30:41]	Alexander Klimov has spawned a 'Entity [1409][item_box_buckshot]'.
+[16:30:41]	Alexander Klimov has spawned a 'Entity [2734][item_box_buckshot]'.
+[16:30:42]	Alexander Klimov has spawned a 'Entity [2736][item_box_buckshot]'.
+[16:30:42]	Alexander Klimov has spawned a 'Entity [2737][item_box_buckshot]'.
+[16:30:42]	Alexander Klimov has spawned a 'Entity [2738][item_box_buckshot]'.
+[16:30:51]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:30:51]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:30:51]	Alexander Klimov has taken 6 damage from npc_combine_s.
+[16:30:52]	Alexander Klimov has taken 10 damage from npc_rollermine.
+[16:30:52]	Alexander Klimov has taken 5 damage from npc_rollermine.
+[16:30:52]	Alexander Klimov has taken 10 damage from npc_rollermine.
+[16:30:52]	Alexander Klimov has taken 5 damage from npc_rollermine.
+[16:30:54]	Alexander Klimov has taken 1 damage from npc_combine_s.
+[16:30:54]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:30:55]	Alexander Klimov has taken 6 damage from npc_combine_s.
+[16:30:55]	Alexander Klimov has taken 1 damage from npc_combine_s.
+[16:30:55]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:30:55]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:30:56]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:30:56]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:30:56]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:30:57]	Alexander Klimov has taken 6 damage from npc_combine_s.
+[16:30:57]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:30:57]	Alexander Klimov has taken 6 damage from npc_combine_s.
+[16:30:57]	Alexander Klimov has taken 1 damage from npc_combine_s.
+[16:31:04]	OTA-ECHO.OWS-34096 has spawned a 'Entity [1715][item_healthkit]'.
+[16:31:04]	OTA-ECHO.OWS-34096 has spawned a 'Entity [2708][item_healthkit]'.
+[16:31:05]	OTA-ECHO.OWS-34096 has spawned a 'Entity [1715][item_healthkit]'.
+[16:31:14]	OTA-ECHO.OWS-34096 has spawned a 'NPC [619][npc_combine_s]'.
+[16:31:14]	OTA-ECHO.OWS-34096 has spawned a 'NPC [2594][npc_combine_s]'.
+[16:31:25]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:31:25]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:31:26]	OTA-ECHO.OWS-34096 exited observer at their location.
+[16:31:26]	OTA-ECHO.OWS-34096 entered observer.
+[16:31:27]	Alexander Klimov has taken 13 damage from npc_combine_s.
+[16:31:27]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:31:27]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:31:27]	Alexander Klimov has taken 26 damage from npc_combine_s.
+[16:31:28]	Alexander Klimov has taken 13 damage from npc_combine_s.
+[16:31:28]	Alexander Klimov has taken 13 damage from npc_combine_s.
+[16:31:32]	Alexander Klimov has taken 12 damage from npc_combine_s.
+[16:31:36]	OTA-ECHO.OWS-34096 has spawned a 'Entity [563][item_healthkit]'.
+[16:31:37]	OTA-ECHO.OWS-34096 has spawned a 'Entity [2725][item_healthkit]'.
+[16:31:37]	OTA-ECHO.OWS-34096 has spawned a 'Entity [2728][item_healthkit]'.
+[16:31:37]	OTA-ECHO.OWS-34096 has spawned a 'Entity [2735][item_healthkit]'.
+[16:31:40]	Alexander Klimov has taken 6 damage from npc_combine_s.
+[16:31:40]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:31:40]	Alexander Klimov has taken 1 damage from npc_combine_s.
+[16:31:40]	Alexander Klimov has taken 6 damage from npc_combine_s.
+[16:31:40]	Alexander Klimov has taken 1 damage from npc_combine_s.
+[16:31:46]	Alexander Klimov has taken 12 damage from npc_combine_s.
+[16:31:48]	Alexander Klimov has taken 12 damage from npc_combine_s.
+[16:31:49]	Alexander Klimov has taken 13 damage from npc_combine_s.
+[16:32:00]	Alexander Klimov has taken 13 damage from npc_combine_s.
+[16:32:01]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:32:01]	Alexander Klimov has taken 13 damage from npc_combine_s.
+[16:32:01]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:32:01]	Alexander Klimov has taken 3 damage from npc_combine_s.
+[16:32:01]	Alexander Klimov has taken 13 damage from npc_combine_s.
+[16:32:01]	npc_combine_s has killed Alexander Klimov.
+[16:32:02]	OTA-ECHO.OWS-34096 has spawned a 'NPC [1688][npc_rollermine]'.
+[16:32:45]	OTA-ECHO.OWS-34096 exited observer at their location.
+[16:32:51]	OTA-ECHO.OWS-34096 entered observer.
+[16:32:51]	OTA-ECHO.OWS-34096 exited observer at their location.
+[16:33:37]	OTA-ECHO.OWS-34096 has gained 40 tokens.
+[16:34:03]	OTA-ECHO.OWS-34096 entered observer.
+[16:34:06]	Alexander Klimov entered observer.
+[16:34:12]	֍ Aime-moi ֍ (STEAM_0:0:424879351) has disconnected.
+[16:35:50]	Г@H3NK has connected.
+[16:39:31]	Г@H3NK loaded the character 'MPF-I4.51977'
+[16:39:36]	MPF-I4.51977 entered observer.
+[16:41:00]	MPF-I4.51977 exited observer at their location.
+[16:41:04]	MPF-I4.51977 entered observer.
+[16:41:14]	֍ Aime-moi ֍ has connected.
+[16:41:45]	MPF-I4.51977 exited observer at their location.
+[16:41:48]	MPF-I4.51977 entered observer.
+[16:41:54]	MPF-I4.51977 exited observer at their location.
+[16:41:55]	MPF-I4.51977 entered observer.
+[16:42:07]	MPF-I4.51977 exited observer at their location.
+[16:42:14]	MPF-I4.51977 has spawned a 'Entity [77][ix_forcefield]'.
+[16:42:18]	MPF-I4.51977 has spawned a 'Entity [77][ix_forcefield]'.
+[16:42:40]	֍ Aime-moi ֍ created the character 'Антон Миронов'
+[16:42:40]	Антон Миронов has gained a 'Suitcase' #29.
+[16:42:40]	Антон Миронов has gained a 'Citizen ID' #30.
+[16:42:40]	֍ Aime-moi ֍ loaded the character 'Антон Миронов'
+[16:42:42]	MPF-I4.51977 has spawned a 'Entity [88][ix_forcefield]'.
+[16:42:43]	MPF-I4.51977 entered observer.
+[16:42:43]	MPF-I4.51977 exited observer at their location.
+[16:42:45]	MPF-I4.51977 has spawned a 'Entity [88][ix_forcefield]'.
+[16:42:47]	Антон Миронов entered observer.
+[16:42:51]	MPF-I4.51977 has spawned a 'Entity [88][ix_forcefield]'.
+[16:42:52]	Антон Миронов exited observer at their location.
+[16:42:53]	Антон Миронов entered observer.
+[16:42:55]	MPF-I4.51977 has spawned a 'Entity [88][ix_forcefield]'.
+[16:42:58]	MPF-I4.51977 has spawned a 'Entity [88][ix_forcefield]'.
+[16:42:59]	MPF-I4.51977 has spawned a 'Entity [90][ix_forcefield]'.
+[16:43:00]	MPF-I4.51977 has spawned a 'Entity [88][ix_forcefield]'.
+[16:43:01]	MPF-I4.51977 has spawned a 'Entity [90][ix_forcefield]'.
+[16:43:06]	Антон Миронов used command '/CharGiveFlag Антон CVcenrtpv'.
+[16:43:14]	Антон Миронов has spawned 'models/props_trainstation/train001.mdl'.
+[16:43:20]	Антон Миронов has spawned 'models/props_trainstation/train001.mdl'.
+[16:43:21]	MPF-I4.51977 entered observer.
+[16:43:22]	MPF-I4.51977 exited observer at their location.
+[16:43:22]	Антон Миронов exited observer at their location.
+[16:43:26]	Антон Миронов entered observer.
+[16:43:30]	Антон Миронов exited observer at their location.
+[16:43:34]	MPF-I4.51977 entered observer.
+[16:43:35]	MPF-I4.51977 exited observer at their location.
+[16:43:36]	Антон Миронов entered observer.
+[16:43:37]	Антон Миронов exited observer at their location.
+[16:43:43]	Антон Миронов entered observer.
+[16:43:45]	Антон Миронов exited observer at their location.
+[16:43:47]	MPF-I4.51977 entered observer.
+[16:43:48]	MPF-I4.51977 exited observer at their location.
+[16:43:50]	MPF-I4.51977 has spawned a 'Entity [86][ix_forcefield]'.
+[16:43:53]	MPF-I4.51977 has spawned a 'Entity [86][ix_forcefield]'.
+[16:43:54]	MPF-I4.51977 has spawned a 'Entity [94][ix_forcefield]'.
+[16:43:58]	Антон Миронов entered observer.
+[16:43:59]	Антон Миронов exited observer at their location.
+[16:44:00]	MPF-I4.51977 entered observer.
+[16:44:01]	Антон Миронов entered observer.
+[16:44:03]	MPF-I4.51977 exited observer at their location.
+[16:44:05]	Антон Миронов has spawned 'models/props_trainstation/train003.mdl'.
+[16:44:07]	Антон Миронов exited observer at their location.
+[16:44:11]	MPF-I4.51977 entered observer.
+[16:44:13]	MPF-I4.51977 exited observer at their location.
+[16:44:31]	MPF-I4.51977 has gained 300 tokens.
+[16:44:50]	Антон Миронов entered observer.
+[16:44:53]	Антон Миронов has spawned 'models/props_trainstation/diesel.mdl'.
+[16:44:57]	Антон Миронов has spawned 'models/props_trainstation/diesel.mdl'.
+[16:45:00]	Антон Миронов has spawned 'models/props_trainstation/train_wheels1.mdl'.
+[16:45:02]	Антон Миронов has spawned 'models/props_trainstation/flatcar.mdl'.
+[16:45:03]	Антон Миронов has spawned 'models/props_trainstation/diesel.mdl'.
+[16:45:05]	Антон Миронов has spawned 'models/props_trainstation/diesel.mdl'.
+[16:45:09]	Антон Миронов exited observer at their location.
+[16:45:15]	Антон Миронов entered observer.
+[16:45:17]	Антон Миронов exited observer at their location.
+[16:45:20]	Антон Миронов entered observer.
+[16:45:22]	Антон Миронов exited observer at their location.
+[16:45:23]	Антон Миронов entered observer.
+[16:45:25]	Антон Миронов has spawned 'models/props_trainstation/boxcar.mdl'.
+[16:45:28]	Антон Миронов exited observer at their location.
+[16:45:38]	Антон Миронов entered observer.
+[16:45:44]	Антон Миронов has spawned 'models/props_trainstation/train_wheels1.mdl'.
+[16:45:53]	MPF-I4.51977 has spawned 'models/props_trainstation/boxcar.mdl'.
+[16:45:54]	MPF-I4.51977 entered observer.
+[16:45:57]	MPF-I4.51977 exited observer at their location.
+[16:45:57]	MPF-I4.51977 entered observer.
+[16:45:59]	MPF-I4.51977 exited observer at their location.
+[16:46:13]	MPF-I4.51977 has spawned 'models/props_trainstation/wrecked_train.mdl'.
+[16:46:14]	MPF-I4.51977 entered observer.
+[16:46:16]	MPF-I4.51977 has spawned 'models/props_trainstation/wrecked_train.mdl'.
+[16:46:23]	MPF-I4.51977 has spawned 'models/props_trainstation/wrecked_train.mdl'.
+[16:46:25]	MPF-I4.51977 exited observer at their location.
+[16:46:30]	Антон Миронов has spawned 'models/props_trainstation/train_engine.mdl'.
+[16:46:35]	Антон Миронов exited observer at their location.
+[16:46:38]	Антон Миронов entered observer.
+[16:46:41]	MPF-I4.51977 entered observer.
+[16:46:42]	Антон Миронов exited observer at their location.
+[16:46:42]	MPF-I4.51977 exited observer at their location.
+[16:46:43]	Антон Миронов entered observer.
+[16:46:43]	MPF-I4.51977 has spawned 'models/props_trainstation/passengercar001.mdl'.
+[16:46:45]	Антон Миронов exited observer at their location.
+[16:46:47]	Антон Миронов entered observer.
+[16:46:51]	MPF-I4.51977 entered observer.
+[16:46:54]	Антон Миронов exited observer at their location.
+[16:46:55]	Антон Миронов entered observer.
+[16:46:58]	Антон Миронов exited observer at their location.
+[16:46:59]	Антон Миронов entered observer.
+[16:47:02]	MPF-I4.51977 exited observer at their location.
+[16:47:03]	Антон Миронов has spawned 'models/props_trainstation/passengercar001_dam01b.mdl'.
+[16:47:06]	Антон Миронов has spawned 'models/props_trainstation/passengercar001_dam01c.mdl'.
+[16:47:09]	Антон Миронов has spawned 'models/props_trainstation/wrecked_boxcar_gate.mdl'.
+[16:47:12]	Антон Миронов exited observer at their location.
+[16:47:14]	Антон Миронов entered observer.
+[16:47:15]	Антон Миронов exited observer at their location.
+[16:47:17]	Антон Миронов entered observer.
+[16:47:18]	Антон Миронов exited observer at their location.
+[16:47:21]	MPF-I4.51977 entered observer.
+[16:47:22]	MPF-I4.51977 exited observer at their location.
+[16:47:22]	Антон Миронов entered observer.
+[16:47:23]	MPF-I4.51977 entered observer.
+[16:47:24]	Антон Миронов exited observer at their location.
+[16:47:25]	MPF-I4.51977 exited observer at their location.
+[16:47:27]	Антон Миронов entered observer.
+[16:47:27]	Антон Миронов exited observer at their location.
+[16:47:28]	Антон Миронов entered observer.
+[16:47:28]	Антон Миронов exited observer at their location.
+[16:47:33]	MPF-I4.51977 entered observer.
+[16:47:38]	MPF-I4.51977 exited observer at their location.
+[16:47:43]	Антон Миронов entered observer.
+[16:47:43]	Антон Миронов exited observer at their location.
+[16:47:45]	MPF-I4.51977 entered observer.
+[16:47:48]	MPF-I4.51977 exited observer at their location.
+[16:47:50]	MPF-I4.51977 entered observer.
+[16:48:02]	Антон Миронов entered observer.
+[16:48:02]	Антон Миронов exited observer at their location.
+[16:48:04]	Антон Миронов entered observer.
+[16:48:05]	Антон Миронов exited observer at their location.
+[16:48:09]	Антон Миронов entered observer.
+[16:48:14]	MPF-I4.51977 has spawned 'models/props_wasteland/interior_fence002d.mdl'.
+[16:48:20]	MPF-I4.51977 has spawned 'models/props_wasteland/exterior_fence001b.mdl'.
+[16:48:26]	MPF-I4.51977 has spawned 'models/props_wasteland/interior_fence003b.mdl'.
+[16:48:38]	MPF-I4.51977 exited observer at their location.
+[16:48:39]	MPF-I4.51977 entered observer.
+[16:48:39]	MPF-I4.51977 exited observer at their location.
+[16:48:54]	MPF-I4.51977 entered observer.
+[16:48:55]	MPF-I4.51977 exited observer at their location.
+[16:49:01]	Антон Миронов exited observer at their location.
+[16:49:04]	Антон Миронов entered observer.
+[16:49:06]	Антон Миронов exited observer at their location.
+[16:49:17]	Антон Миронов entered observer.
+[16:49:17]	Антон Миронов exited observer at their location.
+[16:49:27]	Антон Миронов entered observer.
+[16:49:29]	Антон Миронов exited observer at their location.
+[16:49:32]	Антон Миронов entered observer.
+[16:49:32]	MPF-I4.51977 has gained 300 tokens.
+[16:49:33]	Антон Миронов exited observer at their location.
+[16:49:33]	Антон Миронов entered observer.
+[16:49:35]	Антон Миронов exited observer at their location.
+[16:49:42]	MPF-I4.51977 entered observer.
+[16:49:48]	MPF-I4.51977 exited observer at their location.
+[16:50:48]	֍ Aime-moi ֍ created the character 'MPF-RCT.39728'
+[16:50:48]	MPF-RCT.39728 has gained a '.9mm Pistol' #31.
+[16:50:48]	MPF-RCT.39728 has gained a '9mm Pistol Bullets' #32.
+[16:50:48]	MPF-RCT.39728 has gained a '9mm Pistol Bullets' #33.
+[16:50:53]	֍ Aime-moi ֍ loaded the character 'MPF-RCT.39728'
+[16:50:54]	MPF-RCT.39728 entered observer.
+[16:51:02]	MPF-RCT.39728 exited observer at their location.
+[16:51:03]	MPF-RCT.39728 entered observer.
+[16:51:05]	MPF-I4.51977 has spawned a 'Entity [88][arccw_ammo_pistol_large]'.
+[16:51:05]	MPF-I4.51977 has spawned a 'Entity [89][arccw_ammo_pistol_large]'.
+[16:51:06]	MPF-I4.51977 has spawned a 'Entity [88][arccw_ammo_pistol_large]'.
+[16:51:08]	MPF-I4.51977 has spawned a 'Entity [88][arccw_ammo_smg1_large]'.
+[16:51:08]	MPF-I4.51977 has spawned a 'Entity [89][arccw_ammo_smg1_large]'.
+[16:51:11]	MPF-RCT.39728 exited observer at their location.
+[16:51:17]	MPF-RCT.39728 entered observer.
+[16:51:19]	MPF-RCT.39728 exited observer at their location.
+[16:51:20]	MPF-RCT.39728 entered observer.
+[16:51:22]	MPF-RCT.39728 exited observer at their location.
+[16:51:37]	MPF-RCT.39728 has gained a 'SMG Bullets' #34.
+[16:51:37]	MPF-RCT.39728 used command '/CharGiveItem MPF-RCT SMG 1'.
+[16:51:42]	MPF-RCT.39728 has gained a 'SMG Bullets' #35.
+[16:51:42]	MPF-RCT.39728 used command '/CharGiveItem MPF-RCT SMG'.
+[16:51:53]	MPF-RCT.39728 has gained a 'SMG Bullets' #36.
+[16:51:53]	MPF-RCT.39728 used command '/CharGiveItem MPF-RCT smg'.
+[16:51:54]	MPF-RCT.39728 entered observer.
+[16:51:56]	MPF-RCT.39728 exited observer at their location.
+[16:51:59]	MPF-RCT.39728 ran 'drop' on item 'SMG Bullets' (#36)
+[16:51:59]	MPF-RCT.39728 has lost a 'SMG Bullets' #36.
+[16:52:01]	MPF-RCT.39728 entered observer.
+[16:52:03]	MPF-RCT.39728 exited observer at their location.
+[16:52:09]	MPF-RCT.39728 used command '/CharGiveItem MPF-RCT MP5'.
+[16:52:15]	MPF-RCT.39728 has gained a 'MP7' #37.
+[16:52:15]	MPF-RCT.39728 used command '/CharGiveItem MPF-RCT SMG1'.
+[16:52:21]	MPF-RCT.39728 ran 'Equip' on item 'MP7' (#37)
+[16:52:25]	MPF-RCT.39728 ran 'use' on item 'SMG Bullets' (#34)
+[16:52:27]	MPF-RCT.39728 ran 'use' on item 'SMG Bullets' (#35)
+[16:52:28]	MPF-RCT.39728 ran 'Equip' on item '.9mm Pistol' (#31)
+[16:52:30]	MPF-RCT.39728 ran 'use' on item '9mm Pistol Bullets' (#32)
+[16:52:31]	MPF-RCT.39728 ran 'use' on item '9mm Pistol Bullets' (#33)
+[16:52:41]	[OOC] MPF-I4.51977: item_ump45
+[16:52:52]	MPF-RCT.39728 used command '/CharGiveItem MPF-RCT ump45'.
+[16:52:59]	MPF-RCT.39728 used command '/CharGiveItem MPF-RCT ump'.
+[16:53:07]	MPF-RCT.39728 used command '/CharGiveItem MPF-RCT item_ump45'.
+[16:53:27]	MPF-I4.51977 entered observer.
+[16:53:30]	MPF-I4.51977 exited observer at their location.
+[16:53:56]	MPF-I4.51977 entered observer.
+[16:53:57]	MPF-I4.51977 exited observer at their location.
+[16:54:32]	MPF.RAZOR-I1.39728 used command '/CharSetName MPF-RCT MPF.RAZOR-I1.39728'.
+[16:54:32]	MPF-I4.51977 has gained 300 tokens.
+[16:54:43]	MPF-I4.51977 has spawned a 'Entity [99][arccw_ammo_357_large]'.
+[16:54:44]	MPF-I4.51977 has spawned a 'Entity [107][arccw_ammo_357_large]'.
+[16:54:44]	MPF-I4.51977 has spawned a 'Entity [114][arccw_ammo_357_large]'.
+[16:54:44]	MPF-I4.51977 has spawned a 'Entity [99][arccw_ammo_357_large]'.
+[16:54:44]	MPF-I4.51977 has spawned a 'Entity [119][arccw_ammo_357_large]'.
+[16:54:45]	MPF-I4.51977 has spawned a 'Entity [120][arccw_ammo_357_large]'.
+[16:54:45]	MPF-I4.51977 has spawned a 'Entity [121][arccw_ammo_357_large]'.
+[16:55:24]	MPF.RAZOR-I1.39728 has spawned a 'Entity [99][free_bodygroupr]'.
+[16:55:53]	MPF-I4.51977 has spawned 'models/props_c17/column02a.mdl'.
+[16:55:53]	MPF.RAZOR-I1.39728 has gained 300 tokens.
+[16:55:54]	MPF-I4.51977 has spawned 'models/props_c17/chair02a.mdl'.
+[16:55:55]	MPF-I4.51977 has spawned 'models/props_c17/chair02a.mdl'.
+[16:56:10]	MPF-I4.51977 used command '/ActStand'.
+[16:56:14]	MPF-I4.51977 used command '/ExitAct'.
+[16:56:48]	[ME] MPF.RAZOR-I1.39728: приложил руку к правой части маски
+[16:58:24]	MPF.RAZOR-I1.39728 used command '/Radio Code 100'.
+[16:59:01]	MPF.RAZOR-I1.39728 used command '/CharGiveItem RAZOR Personal radio'.
+[16:59:32]	MPF-I4.51977 has gained 300 tokens.
+[17:00:48]	MPF.RAZOR-I1.39728 has gained a 'Handheld Radio' #38.
+[17:00:48]	MPF.RAZOR-I1.39728 used command '/CharGiveItem Razor handheld radio'.
+[17:00:53]	MPF.RAZOR-I1.39728 has gained 300 tokens.
+[17:00:54]	MPF.RAZOR-I1.39728 ran 'Frequency' on item 'Handheld Radio' (#38)
+[17:01:08]	MPF.RAZOR-I1.39728 used command '/SetFreq 101.2'.
+[17:01:10]	MPF.RAZOR-I1.39728 ran 'Toggle' on item 'Handheld Radio' (#38)
+[17:01:17]	MPF.RAZOR-I1.39728 used command '/Radio Code 100'.
+[17:01:44]	MPF-I4.51977 has gained a 'Handheld Radio' #39.
+[17:01:44]	MPF-I4.51977 used command '/CharGiveItem MPF-I4.51977 handheld_radio'.
+[17:01:49]	MPF-I4.51977 ran 'Frequency' on item 'Handheld Radio' (#39)
+[17:01:56]	MPF-I4.51977 used command '/SetFreq 101.2'.
+[17:02:08]	MPF-I4.51977 used command '/Radio Да.'.
+[17:02:12]	MPF-I4.51977 ran 'Toggle' on item 'Handheld Radio' (#39)
+[17:02:14]	MPF-I4.51977 used command '/Radio Да.'.
+[17:02:19]	MPF.RAZOR-I1.39728 has spawned a 'NPC [119][npc_citizen]'.
+[17:03:14]	MPF.RAZOR-I1.39728 entered observer.
+[17:03:16]	MPF.RAZOR-I1.39728 exited observer at their location.
+[17:03:20]	MPF.RAZOR-I1.39728 entered observer.
+[17:03:21]	MPF.RAZOR-I1.39728 exited observer at their location.
+[17:03:52]	MPF-I4.51977 used command '/CharSetModel MPF-I4.51977 models/ma/hla/terranovapolice.mdl'.
+[17:04:16]	MPF.RAZOR-I1.39728 entered observer.
+[17:04:17]	MPF.RAZOR-I1.39728 exited observer at their location.
+[17:04:21]	MPF.RAZOR-I1.39728 has spawned a 'NPC [82][npc_citizen]'.
+[17:04:35]	MPF-I4.51977 has gained 300 tokens.
+[17:04:57]	MPF-I4.51977 used command '/CharSetModel MPF-I4.51977 models/player/ct_sas.mdl'.
+[17:05:06]	MPF.RAZOR-I1.39728 has spawned a 'NPC [96][npc_alyx]'.
+[17:05:12]	MPF-I4.51977 used command '/CharSetModel MPF-I4.51977 models/Police.mdl'.
+[17:05:17]	MPF.RAZOR-I1.39728 entered observer.
+[17:05:18]	MPF.RAZOR-I1.39728 exited observer at their location.
+[17:05:56]	MPF.RAZOR-I1.39728 has gained 300 tokens.
+[17:06:19]	MPF.RAZOR-I1.39728 entered observer.
+[17:06:21]	MPF-I4.51977 entered observer.
+[17:07:41]	MPF.RAZOR-I1.39728 exited observer at their location.
+[17:07:42]	MPF.RAZOR-I1.39728 entered observer.
+[17:07:48]	MPF.RAZOR-I1.39728 exited observer at their location.
+[17:07:50]	MPF.RAZOR-I1.39728 entered observer.
+[17:07:57]	MPF-I4.51977 exited observer at their location.
+[17:08:03]	MPF.RAZOR-I1.39728 exited observer at their location.
+[17:08:12]	MPF-I4.51977 has taken 12 damage from MPF.RAZOR-I1.39728.
+[17:08:12]	MPF-I4.51977 has taken 6 damage from worldspawn.
+[17:08:15]	MPF.RAZOR-I1.39728 entered observer.
+[17:08:25]	MPF.RAZOR-I1.39728 exited observer at their location.
+[17:08:26]	MPF-I4.51977 entered observer.
+[17:08:30]	MPF.RAZOR-I1.39728 entered observer.
+[17:08:41]	MPF.RAZOR-I1.39728 exited observer at their location.
+[17:08:43]	MPF-I4.51977 exited observer at their location.
+[17:08:55]	MPF.RAZOR-I1.39728 entered observer.
+[17:08:56]	MPF.RAZOR-I1.39728 exited observer at their location.
+[17:08:57]	MPF.RAZOR-I1.39728 entered observer.
+[17:09:01]	MPF.RAZOR-I1.39728 exited observer at their location.
+[17:09:05]	MPF.RAZOR-I1.39728 entered observer.
+[17:09:06]	MPF.RAZOR-I1.39728 exited observer at their location.
+[17:09:07]	MPF.RAZOR-I1.39728 entered observer.
+[17:09:11]	MPF.RAZOR-I1.39728 exited observer at their location.
+[17:09:24]	MPF.RAZOR-I1.39728 has taken 54 damage from MPF-I4.51977.
+[17:09:28]	MPF-I4.51977 has taken 12 damage from MPF.RAZOR-I1.39728.
+[17:09:28]	MPF-I4.51977 has taken 12 damage from MPF.RAZOR-I1.39728.
+[17:09:28]	MPF-I4.51977 has taken 12 damage from MPF.RAZOR-I1.39728.
+[17:09:28]	MPF-I4.51977 has taken 12 damage from MPF.RAZOR-I1.39728.
+[17:09:28]	MPF-I4.51977 has taken 12 damage from MPF.RAZOR-I1.39728.
+[17:09:28]	MPF-I4.51977 has taken 12 damage from MPF.RAZOR-I1.39728.
+[17:09:28]	MPF-I4.51977 entered observer.
+[17:09:32]	MPF-I4.51977 exited observer at their location.
+[17:09:33]	MPF.RAZOR-I1.39728 has taken 49 damage from MPF-I4.51977.
+[17:09:35]	MPF-I4.51977 has gained 300 tokens.
+[17:09:36]	MPF.RAZOR-I1.39728 has spawned a 'Entity [82][item_battery]'.
+[17:09:36]	MPF.RAZOR-I1.39728 has spawned a 'Entity [119][item_battery]'.
+[17:09:36]	MPF.RAZOR-I1.39728 has spawned a 'Entity [120][item_battery]'.
+[17:09:37]	MPF.RAZOR-I1.39728 has spawned a 'Entity [123][item_battery]'.
+[17:09:38]	MPF.RAZOR-I1.39728 has spawned a 'Entity [82][item_battery]'.
+[17:09:38]	MPF.RAZOR-I1.39728 has spawned a 'Entity [119][item_battery]'.
+[17:09:38]	MPF.RAZOR-I1.39728 has spawned a 'Entity [120][item_battery]'.
+[17:09:40]	MPF.RAZOR-I1.39728 has spawned a 'Entity [82][item_healthkit]'.
+[17:09:40]	MPF.RAZOR-I1.39728 has spawned a 'Entity [119][item_healthkit]'.
+[17:09:40]	MPF.RAZOR-I1.39728 has spawned a 'Entity [120][item_healthkit]'.
+[17:09:48]	MPF.RAZOR-I1.39728 has taken 54 damage from MPF-I4.51977.
+[17:09:54]	MPF.RAZOR-I1.39728 used command '/CharGiveItem Razor revolver'.
+[17:10:01]	MPF.RAZOR-I1.39728 used command '/CharGiveItem Razor 365'.
+[17:10:03]	MPF.RAZOR-I1.39728 used command '/CharGiveItem Razor 356'.
+[17:10:11]	MPF.RAZOR-I1.39728 used command '/CharGiveItem Razor .356'.
+[17:10:37]	MPF.RAZOR-I1.39728 used command '/CharGiveItem Razor .356'.
+[17:10:43]	MPF.RAZOR-I1.39728 has gained a '357' #40.
+[17:10:43]	MPF.RAZOR-I1.39728 used command '/CharGiveItem Razor 357'.
+[17:10:47]	MPF.RAZOR-I1.39728 ran 'Equip' on item '357' (#40)
+[17:10:51]	MPF.RAZOR-I1.39728 ran 'EquipUn' on item '.9mm Pistol' (#31)
+[17:10:52]	MPF.RAZOR-I1.39728 ran 'Equip' on item '357' (#40)
+[17:10:56]	MPF.RAZOR-I1.39728 has gained 300 tokens.
+[17:11:11]	MPF.RAZOR-I1.39728 has taken 107 damage from MPF-I4.51977.
+[17:11:11]	MPF.RAZOR-I1.39728 has taken 108 damage from MPF-I4.51977.
+[17:11:11]	MPF-I4.51977 has killed MPF.RAZOR-I1.39728 with arccw_shorty.
+[17:11:26]	MPF.RAZOR-I1.39728 entered observer.
+[17:11:32]	MPF.RAZOR-I1.39728 exited observer at their location.
+[17:11:32]	MPF.RAZOR-I1.39728 entered observer.
+[17:11:41]	MPF-I4.51977 entered observer.
+[17:11:41]	MPF-I4.51977 exited observer at their location.
+[17:11:43]	MPF.RAZOR-I1.39728 exited observer at their location.
+[17:11:46]	MPF.RAZOR-I1.39728 entered observer.
+[17:11:50]	MPF.RAZOR-I1.39728 exited observer at their location.
+[17:12:00]	MPF.RAZOR-I1.39728 entered observer.
+[17:12:02]	MPF.RAZOR-I1.39728 exited observer at their location.
+[17:12:09]	MPF.RAZOR-I1.39728 has taken 49 damage from MPF-I4.51977.
+[17:12:26]	MPF.RAZOR-I1.39728 entered observer.
+[17:12:27]	MPF.RAZOR-I1.39728 exited observer at their location.
+[17:12:42]	MPF.RAZOR-I1.39728 entered observer.
+[17:12:46]	MPF.RAZOR-I1.39728 exited observer at their location.
+[17:13:01]	MPF.RAZOR-I1.39728 entered observer.
+[17:13:04]	MPF.RAZOR-I1.39728 exited observer at their location.
+[17:13:16]	MPF.RAZOR-I1.39728 entered observer.
+[17:13:21]	MPF.RAZOR-I1.39728 exited observer at their location.
+[17:13:27]	MPF.RAZOR-I1.39728 entered observer.
+[17:13:29]	MPF.RAZOR-I1.39728 exited observer at their location.
+[17:13:30]	MPF.RAZOR-I1.39728 entered observer.
+[17:13:33]	MPF.RAZOR-I1.39728 exited observer at their location.
+[17:14:09]	MPF.RAZOR-I1.39728 entered observer.
+[17:14:09]	MPF.RAZOR-I1.39728 exited observer at their location.
+[17:14:35]	MPF-I4.51977 has gained 300 tokens.
+[17:15:07]	MPF.RAZOR-I1.39728 entered observer.
+[17:15:09]	MPF-I4.51977 entered observer.
+[17:15:13]	MPF.RAZOR-I1.39728 exited observer at their location.
+[17:15:14]	MPF.RAZOR-I1.39728 entered observer.
+[17:15:27]	MPF.RAZOR-I1.39728 exited observer at their location.
+[17:15:31]	MPF-I4.51977 exited observer at their location.
+[17:15:47]	MPF.RAZOR-I1.39728 entered observer.
+[17:15:56]	MPF.RAZOR-I1.39728 has gained 300 tokens.
+[17:16:20]	MPF.RAZOR-I1.39728 exited observer at their location.
+[17:16:38]	MPF.RAZOR-I1.39728 entered observer.
+[17:16:52]	MPF.RAZOR-I1.39728 exited observer at their location.
+[17:16:52]	MPF-I4.51977 entered observer.
+[17:16:53]	MPF-I4.51977 exited observer at their location.
+[17:16:56]	MPF.RAZOR-I1.39728 entered observer.
+[17:16:59]	MPF-I4.51977 entered observer.
+[17:17:00]	MPF-I4.51977 exited observer at their location.
+[17:17:58]	MPF.RAZOR-I1.39728 exited observer at their location.
+[17:18:01]	MPF.RAZOR-I1.39728 entered observer.
+[17:18:12]	֍ Aime-moi ֍ loaded the character 'Артем Петров'
+[17:18:13]	Артем Петров entered observer.
+[17:18:19]	Артем Петров exited observer at their location.
+[17:18:21]	Артем Петров entered observer.
+[17:18:34]	Артем Петров exited observer at their location.
+[17:18:36]	Артем Петров entered observer.
+[17:18:38]	Артем Петров exited observer at their location.
+[17:18:40]	MPF-I4.51977 entered observer.
+[17:18:41]	Артем Петров entered observer.
+[17:18:41]	MPF-I4.51977 exited observer at their location.
+[17:18:42]	Артем Петров exited observer at their location.
+[17:18:45]	Артем Петров has taken 51 damage from MPF-I4.51977.
+[17:18:46]	Артем Петров has taken 13 damage from MPF-I4.51977.
+[17:18:51]	Артем Петров has spawned a 'Entity [88][item_healthkit]'.
+[17:18:51]	Артем Петров has spawned a 'Entity [89][item_healthkit]'.
+[17:18:52]	Артем Петров has spawned a 'Entity [88][item_healthkit]'.
+[17:18:59]	MPF-I4.51977 has taken 5 damage from prop_physics.
+[17:19:01]	Артем Петров has taken 13 damage from MPF-I4.51977.
+[17:19:05]	MPF-I4.51977 has taken 101 damage from Артем Петров.
+[17:19:05]	MPF-I4.51977 has taken 101 damage from Артем Петров.
+[17:19:05]	Артем Петров has killed MPF-I4.51977 with arccw_shorty.
+[17:19:12]	Артем Петров entered observer.
+[17:19:21]	MPF-I4.51977 entered observer.
+[17:19:27]	Артем Петров exited observer at their location.
+[17:19:34]	MPF-I4.51977 exited observer at their location.
+[17:19:35]	Артем Петров entered observer.
+[17:19:36]	MPF-I4.51977 has gained 300 tokens.
+[17:19:44]	Артем Петров exited observer at their location.
+[17:19:55]	Артем Петров entered observer.
+[17:19:56]	Артем Петров exited observer at their location.
+[17:19:58]	Артем Петров entered observer.
+[17:20:06]	Артем Петров exited observer at their location.
+[17:20:10]	Артем Петров entered observer.
+[17:20:17]	Артем Петров exited observer at their location.
+[17:20:18]	Артем Петров entered observer.
+[17:20:23]	Артем Петров exited observer at their location.
+[17:20:26]	Артем Петров entered observer.
+[17:20:38]	Артем Петров exited observer at their location.
+[17:20:56]	MPF-I4.51977 has taken 45 damage from Артем Петров.
+[17:21:04]	MPF-I4.51977 entered observer.
+[17:21:05]	MPF-I4.51977 exited observer at their location.
+[17:21:09]	MPF-I4.51977 has spawned a 'Entity [86][arccw_ammo_357_large]'.
+[17:21:11]	MPF-I4.51977 has taken 44 damage from Артем Петров.
+[17:21:12]	Артем Петров has taken 91 damage from MPF-I4.51977.
+[17:21:12]	MPF-I4.51977 has killed Артем Петров with arccw_deagle357.
+[17:21:17]	MPF-I4.51977 entered observer.
+[17:21:18]	MPF-I4.51977 exited observer at their location.
+[17:21:25]	Артем Петров entered observer.
+[17:21:27]	MPF-I4.51977 entered observer.
+[17:21:28]	MPF-I4.51977 exited observer at their location.
+[17:21:29]	MPF-I4.51977 entered observer.
+[17:21:30]	MPF-I4.51977 exited observer at their location.
+[17:21:33]	Артем Петров exited observer at their location.
+[17:21:36]	MPF-I4.51977 entered observer.
+[17:21:37]	MPF-I4.51977 exited observer at their location.
+[17:21:38]	MPF-I4.51977 entered observer.
+[17:21:38]	MPF-I4.51977 exited observer at their location.
+[17:21:39]	Артем Петров entered observer.
+[17:21:40]	Артем Петров exited observer at their location.
+[17:21:41]	Артем Петров entered observer.
+[17:21:42]	Артем Петров exited observer at their location.
+[17:21:47]	Артем Петров has taken 48 damage from MPF-I4.51977.
+[17:21:51]	Артем Петров entered observer.
+[17:21:53]	Артем Петров exited observer at their location.
+[17:21:53]	Артем Петров has taken 49 damage from MPF-I4.51977.
+[17:21:54]	Артем Петров has taken 12 damage from MPF-I4.51977.
+[17:21:54]	MPF-I4.51977 has killed Артем Петров with arccw_deagle357.
+[17:22:05]	Артем Петров entered observer.
+[17:22:15]	Артем Петров exited observer at their location.
+[17:22:19]	MPF-I4.51977 entered observer.
+[17:22:21]	MPF-I4.51977 exited observer at their location.
+[17:22:29]	MPF-I4.51977 has taken 103 damage from Артем Петров.
+[17:22:29]	MPF-I4.51977 has taken 104 damage from Артем Петров.
+[17:22:29]	Артем Петров has killed MPF-I4.51977 with arccw_m1014.
+[17:22:41]	MPF-I4.51977 entered observer.
+[17:22:43]	MPF-I4.51977 exited observer at their location.
+[17:22:52]	MPF-I4.51977 entered observer.
+[17:22:55]	Артем Петров entered observer.
+[17:22:55]	MPF-I4.51977 exited observer at their location.
+[17:22:56]	Артем Петров exited observer at their location.
+[17:22:56]	Артем Петров entered observer.
+[17:22:58]	MPF-I4.51977 has spawned a 'Entity [14][arccw_ammo_357_large]'.
+[17:22:58]	MPF-I4.51977 has spawned a 'Entity [77][arccw_ammo_357_large]'.
+[17:22:59]	MPF-I4.51977 has spawned a 'Entity [83][arccw_ammo_357_large]'.
+[17:22:59]	MPF-I4.51977 has spawned a 'Entity [89][arccw_ammo_357_large]'.
+[17:22:59]	Артем Петров exited observer at their location.
+[17:23:00]	Артем Петров entered observer.
+[17:23:00]	Артем Петров exited observer at their location.
+[17:23:05]	Артем Петров entered observer.
+[17:23:06]	Артем Петров exited observer at their location.
+[17:23:09]	Артем Петров entered observer.
+[17:23:10]	Артем Петров exited observer at their location.
+[17:23:13]	MPF-I4.51977 has taken 134 damage from Артем Петров.
+[17:23:13]	MPF-I4.51977 has taken 1 damage from entityflame.
+[17:23:13]	MPF-I4.51977 has taken 1 damage from entityflame.
+[17:23:13]	MPF-I4.51977 has taken 1 damage from entityflame.
+[17:23:13]	MPF-I4.51977 has taken 1 damage from entityflame.
+[17:23:13]	MPF-I4.51977 has taken 1 damage from entityflame.
+[17:23:14]	Артем Петров has taken 97 damage from MPF-I4.51977.
+[17:23:14]	MPF-I4.51977 has taken 120 damage from Артем Петров.
+[17:23:14]	Артем Петров has killed MPF-I4.51977 with arccw_shorty.
+[17:23:22]	Артем Петров has spawned a 'Entity [14][arccw_ammo_buckshot_large]'.
+[17:23:28]	Артем Петров has spawned a 'Entity [84][item_healthkit]'.
+[17:23:28]	Артем Петров has spawned a 'Entity [98][item_healthkit]'.
+[17:23:29]	Артем Петров has spawned a 'Entity [99][item_healthkit]'.
+[17:23:29]	Артем Петров has spawned a 'Entity [84][item_healthkit]'.
+[17:23:29]	Артем Петров has spawned a 'Entity [107][item_healthkit]'.
+[17:23:29]	Артем Петров has spawned a 'Entity [98][item_healthkit]'.
+[17:23:31]	Артем Петров has spawned a 'Entity [84][item_battery]'.
+[17:23:32]	Артем Петров has spawned a 'Entity [98][item_battery]'.
+[17:23:32]	Артем Петров has spawned a 'Entity [99][item_battery]'.
+[17:23:32]	Артем Петров has spawned a 'Entity [107][item_battery]'.
+[17:23:32]	Артем Петров has spawned a 'Entity [84][item_battery]'.
+[17:23:32]	Артем Петров has spawned a 'Entity [112][item_battery]'.
+[17:23:32]	Артем Петров has spawned a 'Entity [113][item_battery]'.
+[17:23:33]	Артем Петров has spawned a 'Entity [114][item_battery]'.
+[17:23:33]	Артем Петров has spawned a 'Entity [253][item_battery]'.
+[17:23:36]	Артем Петров entered observer.
+[17:23:36]	Артем Петров exited observer at their location.
+[17:23:38]	MPF-I4.51977 has taken 130 damage from Артем Петров.
+[17:23:38]	MPF-I4.51977 has taken 130 damage from Артем Петров.
+[17:23:38]	Артем Петров has killed MPF-I4.51977 with arccw_shorty.
+[17:24:01]	Г@H3NK loaded the character 'Alexander Klimov'
+[17:24:19]	Alexander Klimov entered observer.
+[17:24:26]	Артем Петров has spawned a 'Entity [84][arccw_ammo_pistol_large]'.
+[17:24:27]	Alexander Klimov exited observer at their location.
+[17:24:28]	Артем Петров entered observer.
+[17:24:33]	Артем Петров exited observer at their location.
+[17:24:40]	Артем Петров entered observer.
+[17:24:41]	Артем Петров exited observer at their location.
+[17:24:46]	Артем Петров entered observer.
+[17:24:50]	Артем Петров exited observer at their location.
+[17:24:58]	Артем Петров entered observer.
+[17:24:59]	Артем Петров exited observer at their location.
+[17:25:02]	Alexander Klimov has taken 11 damage from Артем Петров.
+[17:25:07]	Артем Петров has taken 27 damage from Alexander Klimov.
+[17:25:08]	Артем Петров has taken 215 damage from Alexander Klimov.
+[17:25:08]	Alexander Klimov has killed Артем Петров with arccw_db_sawnoff.
+[17:25:19]	Артем Петров entered observer.
+[17:25:30]	Артем Петров exited observer at their location.
+[17:25:33]	Артем Петров has spawned a 'Entity [85][arccw_ammo_357_large]'.
+[17:25:34]	Alexander Klimov has spawned a 'Entity [86][arccw_ammo_buckshot_large]'.
+[17:25:34]	Alexander Klimov has spawned a 'Entity [91][arccw_ammo_buckshot_large]'.
+[17:25:34]	Alexander Klimov has spawned a 'Entity [92][arccw_ammo_buckshot_large]'.
+[17:25:35]	Артем Петров has spawned a 'Entity [85][arccw_ammo_pistol_large]'.
+[17:25:36]	Артем Петров has spawned a 'Entity [85][arccw_ammo_ar2_large]'.
+[17:25:37]	Артем Петров has spawned a 'Entity [85][arccw_ammo_sniper_large]'.
+[17:25:38]	Alexander Klimov entered observer.
+[17:25:39]	Alexander Klimov exited observer at their location.
+[17:25:39]	Артем Петров entered observer.
+[17:25:39]	Артем Петров exited observer at their location.
+[17:25:42]	Артем Петров has taken 95 damage from Alexander Klimov.
+[17:25:43]	Alexander Klimov has taken 89 damage from Артем Петров.
+[17:25:43]	Артем Петров has killed Alexander Klimov with arccw_contender.
+[17:25:43]	Артем Петров entered observer.
+[17:25:51]	Артем Петров exited observer at their location.
+[17:25:53]	Артем Петров has spawned a 'Entity [92][item_healthkit]'.
+[17:25:54]	Артем Петров has spawned a 'Entity [85][item_healthkit]'.
+[17:25:55]	Артем Петров has spawned a 'Entity [92][item_healthkit]'.
+[17:25:56]	Alexander Klimov entered observer.
+[17:25:56]	Артем Петров has spawned a 'Entity [85][item_healthkit]'.
+[17:25:57]	Артем Петров has spawned a 'Entity [85][item_battery]'.
+[17:25:57]	Артем Петров has spawned a 'Entity [92][item_battery]'.
+[17:25:57]	Артем Петров has spawned a 'Entity [93][item_battery]'.
+[17:25:58]	Артем Петров has spawned a 'Entity [94][item_battery]'.
+[17:25:58]	Артем Петров has spawned a 'Entity [95][item_battery]'.
+[17:25:58]	Артем Петров has spawned a 'Entity [96][item_battery]'.
+[17:25:59]	Артем Петров has spawned a 'Entity [85][item_battery]'.
+[17:26:00]	Артем Петров entered observer.
+[17:26:02]	Артем Петров exited observer at their location.
+[17:26:06]	Артем Петров entered observer.
+[17:26:07]	Артем Петров exited observer at their location.
+[17:26:09]	Артем Петров entered observer.
+[17:26:10]	Артем Петров exited observer at their location.
+[17:26:12]	Артем Петров entered observer.
+[17:26:13]	Артем Петров exited observer at their location.
+[17:26:13]	Артем Петров entered observer.
+[17:26:16]	Артем Петров exited observer at their location.
+[17:26:17]	Артем Петров entered observer.
+[17:26:17]	Артем Петров exited observer at their location.
+[17:26:18]	Артем Петров entered observer.
+[17:26:18]	Артем Петров exited observer at their location.
+[17:26:18]	Alexander Klimov exited observer at their location.
+[17:26:18]	Артем Петров entered observer.
+[17:26:18]	Артем Петров exited observer at their location.
+[17:26:19]	Артем Петров entered observer.
+[17:26:19]	Артем Петров exited observer at their location.
+[17:26:19]	Артем Петров entered observer.
+[17:26:19]	Артем Петров exited observer at their location.
+[17:26:20]	Артем Петров entered observer.
+[17:26:20]	Артем Петров exited observer at their location.
+[17:26:20]	Артем Петров entered observer.
+[17:26:20]	Артем Петров exited observer at their location.
+[17:26:23]	Артем Петров entered observer.
+[17:26:23]	Артем Петров exited observer at their location.
+[17:26:25]	Артем Петров entered observer.
+[17:26:25]	Артем Петров exited observer at their location.
+[17:26:27]	Артем Петров entered observer.
+[17:26:29]	Артем Петров exited observer at their location.
+[17:26:32]	Артем Петров entered observer.
+[17:26:32]	Артем Петров exited observer at their location.
+[17:26:37]	Артем Петров entered observer.
+[17:26:37]	Артем Петров exited observer at their location.
+[17:26:40]	Артем Петров entered observer.
+[17:26:41]	Артем Петров exited observer at their location.
+[17:26:43]	Артем Петров entered observer.
+[17:26:44]	Артем Петров exited observer at their location.
+[17:26:45]	Артем Петров entered observer.
+[17:26:45]	Артем Петров exited observer at their location.
+[17:26:47]	Артем Петров entered observer.
+[17:26:48]	Артем Петров exited observer at their location.
+[17:26:48]	Артем Петров entered observer.
+[17:26:49]	Артем Петров exited observer at their location.
+[17:26:49]	Артем Петров entered observer.
+[17:26:50]	Артем Петров exited observer at their location.
+[17:26:52]	Артем Петров entered observer.
+[17:26:52]	Артем Петров exited observer at their location.
+[17:26:55]	Артем Петров entered observer.
+[17:26:55]	Артем Петров exited observer at their location.
+[17:27:04]	Артем Петров entered observer.
+[17:27:05]	Артем Петров exited observer at their location.
+[17:27:10]	Артем Петров entered observer.
+[17:27:11]	Артем Петров exited observer at their location.
+[17:27:14]	Артем Петров entered observer.
+[17:27:14]	Артем Петров exited observer at their location.
+[17:27:16]	Артем Петров entered observer.
+[17:27:17]	Артем Петров exited observer at their location.
+[17:27:19]	Артем Петров has taken 32 damage from Alexander Klimov.
+[17:27:22]	Артем Петров entered observer.
+[17:27:23]	Артем Петров exited observer at their location.
+[17:27:30]	Артем Петров has taken 104 damage from Alexander Klimov.
+[17:27:38]	Артем Петров entered observer.
+[17:27:46]	Alexander Klimov entered observer.
+[17:27:51]	Артем Петров exited observer at their location.
+[17:27:52]	Артем Петров entered observer.
+[17:27:52]	Артем Петров exited observer at their location.
+[17:27:55]	Alexander Klimov exited observer at their location.
+[17:27:57]	Артем Петров entered observer.
+[17:27:58]	Артем Петров exited observer at their location.
+[17:27:58]	Артем Петров entered observer.
+[17:28:00]	Артем Петров exited observer at their location.
+[17:28:01]	Артем Петров entered observer.
+[17:28:01]	Артем Петров exited observer at their location.
+[17:28:02]	Артем Петров entered observer.
+[17:28:03]	Артем Петров exited observer at their location.
+[17:28:11]	Артем Петров entered observer.
+[17:28:11]	Артем Петров exited observer at their location.
+[17:28:12]	Артем Петров has taken 31 damage from Alexander Klimov.
+[17:28:18]	Артем Петров entered observer.
+[17:28:19]	Артем Петров exited observer at their location.
+[17:28:19]	Alexander Klimov has taken 17 damage from Артем Петров.
+[17:28:20]	Артем Петров has taken 31 damage from Alexander Klimov.
+[17:28:20]	Alexander Klimov has killed Артем Петров with arccw_awm.
+[17:28:33]	Артем Петров entered observer.
+[17:28:33]	Alexander Klimov has spawned a 'Entity [87][arccw_ammo_buckshot_large]'.
+[17:28:34]	Alexander Klimov has spawned a 'Entity [92][arccw_ammo_buckshot_large]'.
+[17:28:39]	Alexander Klimov has taken 199 damage from Артем Петров.
+[17:28:39]	Артем Петров has killed Alexander Klimov with arccw_m107.
+[17:28:43]	Артем Петров exited observer at their location.
+[17:29:15]	Артем Петров entered observer.
+[17:29:17]	Артем Петров exited observer at their location.
+[17:29:22]	Alexander Klimov has spawned a 'Entity [91][arccw_ammo_pistol_large]'.
+[17:29:22]	Alexander Klimov has spawned a 'Entity [92][arccw_ammo_pistol_large]'.
+[17:29:24]	Alexander Klimov has spawned a 'Entity [91][arccw_ammo_pistol_large]'.
+[17:29:24]	Alexander Klimov has spawned a 'Entity [92][arccw_ammo_pistol_large]'.
+[17:29:25]	Alexander Klimov has spawned a 'Entity [91][arccw_ammo_pistol_large]'.
+[17:29:26]	Alexander Klimov has spawned a 'Entity [92][arccw_ammo_pistol_large]'.
+[17:29:26]	Alexander Klimov entered observer.
+[17:29:33]	Артем Петров entered observer.
+[17:29:33]	Alexander Klimov exited observer at their location.
+[17:29:33]	Артем Петров exited observer at their location.
+[17:29:35]	Артем Петров entered observer.
+[17:29:36]	Артем Петров exited observer at their location.
+[17:29:39]	Артем Петров entered observer.
+[17:29:39]	Артем Петров exited observer at their location.
+[17:29:42]	Артем Петров entered observer.
+[17:29:43]	Артем Петров exited observer at their location.
+[17:29:43]	Артем Петров entered observer.
+[17:29:44]	Артем Петров exited observer at their location.
+[17:29:50]	Артем Петров has taken 6 damage from Alexander Klimov.
+[17:29:56]	Артем Петров has taken 6 damage from Alexander Klimov.
+[17:30:03]	Артем Петров has taken 26 damage from Alexander Klimov.
+[17:30:08]	Артем Петров has spawned a 'Entity [91][arccw_ammo_sniper_large]'.
+[17:30:19]	Артем Петров has taken 26 damage from Alexander Klimov.
+[17:30:24]	Артем Петров has spawned a 'Entity [91][item_healthkit]'.
+[17:30:25]	Артем Петров has spawned a 'Entity [92][item_healthkit]'.
+[17:30:25]	Артем Петров has spawned a 'Entity [93][item_healthkit]'.
+[17:30:27]	Артем Петров has spawned a 'Entity [91][item_battery]'.
+[17:30:27]	Артем Петров has spawned a 'Entity [92][item_battery]'.
+[17:30:27]	Артем Петров has spawned a 'Entity [93][item_battery]'.
+[17:30:27]	Артем Петров has spawned a 'Entity [94][item_battery]'.
+[17:30:27]	Артем Петров has spawned a 'Entity [95][item_battery]'.
+[17:30:27]	Артем Петров has spawned a 'Entity [96][item_battery]'.
+[17:30:28]	Артем Петров has spawned a 'Entity [91][item_battery]'.
+[17:30:35]	Артем Петров has taken 29 damage from Alexander Klimov.
+[17:30:35]	Артем Петров has taken 59 damage from Alexander Klimov.
+[17:30:38]	Артем Петров has taken 7 damage from Alexander Klimov.
+[17:30:59]	Артем Петров entered observer.
+[17:31:00]	Артем Петров exited observer at their location.
+[17:31:13]	Артем Петров entered observer.
+[17:31:14]	Артем Петров exited observer at their location.
+[17:31:18]	Артем Петров entered observer.
+[17:31:19]	Артем Петров exited observer at their location.
+[17:31:24]	Alexander Klimov has taken 6 damage from Артем Петров.
+[17:31:24]	Alexander Klimov has taken 1 damage from entityflame.
+[17:31:24]	Alexander Klimov has taken 1 damage from entityflame.
+[17:31:24]	Alexander Klimov has taken 1 damage from entityflame.
+[17:31:24]	Alexander Klimov has taken 1 damage from entityflame.
+[17:31:24]	Alexander Klimov has taken 1 damage from entityflame.
+[17:31:28]	Артем Петров has taken 7 damage from Alexander Klimov.
+[17:31:29]	Alexander Klimov has taken 23 damage from Артем Петров.
+[17:31:29]	Alexander Klimov has taken 1 damage from entityflame.
+[17:31:29]	Alexander Klimov has taken 1 damage from entityflame.
+[17:31:29]	Alexander Klimov has taken 1 damage from entityflame.
+[17:31:29]	Alexander Klimov has taken 23 damage from Артем Петров.
+[17:31:29]	Alexander Klimov has taken 23 damage from Артем Петров.
+[17:31:29]	Alexander Klimov has taken 1 damage from entityflame.
+[17:31:29]	Alexander Klimov has taken 1 damage from entityflame.
+[17:31:30]	Alexander Klimov has taken 1 damage from entityflame.
+[17:31:30]	Артем Петров has taken 7 damage from Alexander Klimov.
+[17:31:30]	Alexander Klimov has taken 1 damage from entityflame.
+[17:31:30]	Alexander Klimov has taken 1 damage from entityflame.
+[17:31:36]	Артем Петров has spawned a 'Entity [93][arccw_ammo_smg1_large]'.
+[17:31:37]	Артем Петров has spawned a 'Entity [94][arccw_ammo_smg1_large]'.
+[17:31:40]	Артем Петров entered observer.
+[17:31:40]	Артем Петров exited observer at their location.
+[17:31:51]	Артем Петров entered observer.
+[17:31:54]	Артем Петров exited observer at their location.
+[17:31:58]	Артем Петров entered observer.
+[17:31:59]	Артем Петров exited observer at their location.
+[17:32:00]	Артем Петров entered observer.
+[17:32:01]	Артем Петров exited observer at their location.
+[17:32:01]	Артем Петров entered observer.
+[17:32:01]	Артем Петров exited observer at their location.
+[17:32:06]	Артем Петров entered observer.
+[17:32:06]	Артем Петров exited observer at their location.
+[17:32:08]	Alexander Klimov has taken 23 damage from Артем Петров.
+[17:32:08]	Артем Петров has killed Alexander Klimov with arccw_p90.
+[17:32:18]	Артем Петров has spawned a 'Entity [83][item_battery]'.
+[17:32:18]	Артем Петров has spawned a 'Entity [94][item_battery]'.
+[17:32:18]	Артем Петров has spawned a 'Entity [95][item_battery]'.
+[17:32:19]	Артем Петров has spawned a 'Entity [97][item_battery]'.
+[17:32:19]	Артем Петров has spawned a 'Entity [83][item_battery]'.
+[17:32:19]	Артем Петров has spawned a 'Entity [14][item_battery]'.
+[17:32:20]	Артем Петров has spawned a 'Entity [94][item_battery]'.
+[17:32:21]	Артем Петров has spawned a 'Entity [14][item_healthkit]'.
+[17:32:34]	Артем Петров entered observer.
+[17:32:34]	Артем Петров exited observer at their location.
+[17:32:40]	Alexander Klimov has spawned a 'Entity [14][arccw_ammo_smg1_large]'.
+[17:32:41]	Alexander Klimov has spawned a 'Entity [96][arccw_ammo_smg1_large]'.
+[17:32:41]	Alexander Klimov has spawned a 'Entity [14][arccw_ammo_pistol_large]'.
+[17:32:43]	Alexander Klimov has spawned a 'Entity [14][arccw_ammo_ar2_large]'.
+[17:32:43]	Alexander Klimov has spawned a 'Entity [96][arccw_ammo_ar2_large]'.
+[17:32:43]	Alexander Klimov has spawned a 'Entity [97][arccw_ammo_ar2_large]'.
+[17:32:44]	Alexander Klimov has spawned a 'Entity [98][arccw_ammo_ar2_large]'.
+[17:32:45]	Alexander Klimov entered observer.
+[17:32:48]	Артем Петров entered observer.
+[17:32:49]	Артем Петров exited observer at their location.
+[17:32:52]	Alexander Klimov exited observer at their location.
+[17:32:59]	Alexander Klimov entered observer.
+[17:32:59]	Alexander Klimov exited observer at their location.
+[17:33:02]	Артем Петров entered observer.
+[17:33:03]	Артем Петров exited observer at their location.
+[17:33:07]	Артем Петров entered observer.
+[17:33:08]	Артем Петров exited observer at their location.
+[17:33:08]	Артем Петров entered observer.
+[17:33:09]	Артем Петров exited observer at their location.
+[17:33:16]	Артем Петров entered observer.
+[17:33:25]	Артем Петров exited observer at their location.
+[17:33:35]	Артем Петров entered observer.
+[17:33:35]	Артем Петров exited observer at their location.
+[17:33:38]	Артем Петров entered observer.
+[17:33:51]	Артем Петров exited observer at their location.
+[17:33:51]	Артем Петров entered observer.
+[17:33:52]	Артем Петров exited observer at their location.
+[17:33:54]	Артем Петров entered observer.
+[17:34:16]	Артем Петров exited observer at their location.
+[17:34:17]	Артем Петров entered observer.
+[17:34:25]	Артем Петров exited observer at their location.
+[17:34:26]	Артем Петров entered observer.
+[17:34:26]	Артем Петров exited observer at their location.
+[17:34:34]	Артем Петров entered observer.
+[17:34:34]	Артем Петров exited observer at their location.
+[17:34:35]	Артем Петров entered observer.
+[17:34:35]	Артем Петров exited observer at their location.
+[17:34:37]	Артем Петров entered observer.
+[17:34:37]	Артем Петров exited observer at their location.
+[17:34:46]	Артем Петров entered observer.
+[17:34:47]	Артем Петров exited observer at their location.
+[17:34:58]	Артем Петров entered observer.
+[17:34:59]	Артем Петров exited observer at their location.
+[17:34:59]	Артем Петров entered observer.
+[17:35:02]	Артем Петров exited observer at their location.
+[17:35:16]	Артем Петров entered observer.
+[17:35:19]	Артем Петров exited observer at their location.
+[17:35:23]	Alexander Klimov has taken 100 damage from Артем Петров.
+[17:35:23]	Alexander Klimov has taken 200 damage from Артем Петров.
+[17:35:23]	Артем Петров has killed Alexander Klimov with arccw_shorty.
+[17:35:26]	Артем Петров entered observer.
+[17:35:27]	Артем Петров exited observer at their location.
+[17:35:35]	Артем Петров entered observer.
+[17:35:41]	Артем Петров exited observer at their location.
+[17:35:41]	Alexander Klimov entered observer.
+[17:35:50]	Артем Петров entered observer.
+[17:35:51]	Alexander Klimov exited observer at their location.
+[17:35:51]	Артем Петров exited observer at their location.
+[17:35:54]	Артем Петров entered observer.
+[17:35:54]	Артем Петров exited observer at their location.
+[17:35:56]	Артем Петров has taken 55 damage from Alexander Klimov.
+[17:36:08]	Alexander Klimov has taken 6 damage from Артем Петров.
+[17:36:08]	Alexander Klimov has taken 1 damage from entityflame.
+[17:36:08]	Alexander Klimov has taken 46 damage from Артем Петров.
+[17:36:08]	Alexander Klimov has taken 1 damage from entityflame.
+[17:36:08]	Alexander Klimov has taken 1 damage from entityflame.
+[17:36:08]	Alexander Klimov has taken 6 damage from Артем Петров.
+[17:36:08]	Alexander Klimov has taken 1 damage from entityflame.
+[17:36:09]	Alexander Klimov has taken 23 damage from Артем Петров.
+[17:36:09]	Alexander Klimov has taken 23 damage from Артем Петров.
+[17:36:09]	Артем Петров has killed Alexander Klimov with arccw_p90.
+[17:36:20]	Alexander Klimov entered observer.
+[17:36:32]	Alexander Klimov exited observer at their location.
+[17:36:33]	Артем Петров entered observer.
+[17:36:33]	Артем Петров exited observer at their location.
+[17:36:43]	Alexander Klimov has spawned a 'Entity [93][arccw_ammo_smg1_large]'.
+[17:36:44]	Alexander Klimov has spawned a 'Entity [94][arccw_ammo_pistol_large]'.
+[17:36:44]	Alexander Klimov has spawned a 'Entity [96][arccw_ammo_pistol_large]'.
+[17:36:45]	Alexander Klimov has spawned a 'Entity [93][arccw_ammo_pistol_large]'.
+[17:36:45]	Alexander Klimov has spawned a 'Entity [97][arccw_ammo_pistol_large]'.
+[17:36:45]	Alexander Klimov has spawned a 'Entity [98][arccw_ammo_pistol_large]'.
+[17:36:45]	Alexander Klimov has spawned a 'Entity [99][arccw_ammo_pistol_large]'.
+[17:36:45]	Артем Петров entered observer.
+[17:36:48]	Артем Петров exited observer at their location.
+[17:36:50]	Артем Петров entered observer.
+[17:36:51]	Артем Петров exited observer at their location.
+[17:37:07]	Артем Петров entered observer.
+[17:37:09]	Артем Петров exited observer at their location.
+[17:37:27]	Артем Петров entered observer.
+[17:37:27]	Артем Петров exited observer at their location.
+[17:37:28]	Артем Петров entered observer.
+[17:37:30]	Артем Петров exited observer at their location.
+[17:37:32]	Артем Петров entered observer.
+[17:37:33]	Артем Петров exited observer at their location.
+[17:37:34]	Артем Петров entered observer.
+[17:37:35]	Артем Петров exited observer at their location.
+[17:37:37]	Артем Петров entered observer.
+[17:37:38]	Артем Петров exited observer at their location.
+[17:37:39]	Артем Петров entered observer.
+[17:37:40]	Артем Петров exited observer at their location.
+[17:37:43]	Артем Петров entered observer.
+[17:37:43]	Артем Петров exited observer at their location.
+[17:37:45]	Артем Петров entered observer.
+[17:37:45]	Артем Петров exited observer at their location.
+[17:37:50]	Артем Петров entered observer.
+[17:37:50]	Артем Петров exited observer at their location.
+[17:37:50]	Alexander Klimov has taken 46 damage from Артем Петров.
+[17:37:50]	Alexander Klimov has taken 1 damage from entityflame.
+[17:37:51]	Alexander Klimov has taken 1 damage from entityflame.
+[17:37:51]	Alexander Klimov has taken 1 damage from entityflame.
+[17:37:51]	Alexander Klimov has taken 1 damage from entityflame.
+[17:37:51]	Alexander Klimov has taken 1 damage from entityflame.
+[17:37:51]	Артем Петров has taken 58 damage from Alexander Klimov.
+[17:37:52]	Alexander Klimov has taken 6 damage from Артем Петров.
+[17:37:52]	Alexander Klimov has taken 23 damage from Артем Петров.
+[17:37:52]	Alexander Klimov has taken 1 damage from entityflame.
+[17:37:52]	Alexander Klimov has taken 1 damage from entityflame.
+[17:37:52]	Alexander Klimov has taken 1 damage from entityflame.
+[17:37:52]	Alexander Klimov has taken 1 damage from worldspawn.
+[17:37:52]	Alexander Klimov has taken 1 damage from entityflame.
+[17:37:53]	Alexander Klimov has taken 1 damage from entityflame.
+[17:37:53]	Alexander Klimov has taken 1 damage from entityflame.
+[17:37:56]	Артем Петров entered observer.
+[17:37:57]	Артем Петров exited observer at their location.
+[17:38:02]	Артем Петров entered observer.
+[17:38:02]	Артем Петров exited observer at their location.
+[17:38:06]	Артем Петров entered observer.
+[17:38:07]	Артем Петров exited observer at their location.
+[17:38:09]	Артем Петров entered observer.
+[17:38:09]	Артем Петров exited observer at their location.
+[17:38:13]	Артем Петров entered observer.
+[17:38:13]	Артем Петров exited observer at their location.
+[17:38:18]	Alexander Klimov has taken 23 damage from Артем Петров.
+[17:38:18]	Артем Петров has killed Alexander Klimov with arccw_p90.
+[17:38:30]	Alexander Klimov entered observer.
+[17:38:32]	Артем Петров entered observer.
+[17:38:36]	Артем Петров exited observer at their location.
+[17:38:36]	Alexander Klimov exited observer at their location.
+[17:38:36]	Alexander Klimov entered observer.
+[17:38:40]	Alexander Klimov exited observer at their location.
+[17:38:43]	Alexander Klimov has taken 19 damage from Артем Петров.
+[17:38:43]	Alexander Klimov has taken 19 damage from Артем Петров.
+[17:38:43]	Alexander Klimov has taken 19 damage from Артем Петров.
+[17:38:43]	Alexander Klimov has taken 19 damage from Артем Петров.
+[17:38:43]	Alexander Klimov has taken 19 damage from Артем Петров.
+[17:38:43]	Alexander Klimov has taken 19 damage from Артем Петров.
+[17:38:43]	Артем Петров has killed Alexander Klimov with arccw_p90.
+[17:38:55]	Alexander Klimov entered observer.
+[17:38:56]	Артем Петров entered observer.
+[17:38:57]	Alexander Klimov exited observer at their location.
+[17:38:57]	Alexander Klimov entered observer.
+[17:39:00]	Alexander Klimov exited observer at their location.
+[17:39:02]	Артем Петров exited observer at their location.
+[17:39:16]	Артем Петров entered observer.
+[17:39:16]	Артем Петров exited observer at their location.
+[17:39:19]	Артем Петров entered observer.
+[17:39:20]	Артем Петров exited observer at their location.
+[17:39:21]	Alexander Klimov has spawned a 'Entity [83][arccw_ammo_buckshot_large]'.
+[17:39:22]	Артем Петров entered observer.
+[17:39:22]	Артем Петров exited observer at their location.
+[17:39:27]	Артем Петров has spawned a 'Entity [83][arccw_ammo_smg1_grenade_large]'.
+[17:39:30]	Артем Петров entered observer.
+[17:39:30]	Артем Петров exited observer at their location.
+[17:39:33]	Артем Петров entered observer.
+[17:39:33]	Артем Петров exited observer at their location.
+[17:39:36]	Артем Петров entered observer.
+[17:39:36]	Артем Петров exited observer at their location.
+[17:39:40]	Артем Петров entered observer.
+[17:39:40]	Артем Петров exited observer at their location.
+[17:39:41]	Артем Петров entered observer.
+[17:39:42]	Артем Петров exited observer at their location.
+[17:39:44]	Alexander Klimov has taken 132 damage from Артем Петров.
+[17:39:44]	Артем Петров has killed Alexander Klimov with arccw_minimi.
+[17:39:55]	Alexander Klimov has spawned a 'Entity [87][arccw_ammo_buckshot_large]'.
+[17:39:56]	Артем Петров entered observer.
+[17:39:57]	Артем Петров exited observer at their location.
+[17:39:57]	Артем Петров entered observer.
+[17:39:59]	Артем Петров exited observer at their location.
+[17:40:00]	Артем Петров entered observer.
+[17:40:01]	Артем Петров exited observer at their location.
+[17:40:02]	Артем Петров entered observer.
+[17:40:05]	Артем Петров exited observer at their location.
+[17:40:12]	Артем Петров entered observer.
+[17:40:16]	Артем Петров exited observer at their location.
+[17:40:17]	Артем Петров entered observer.
+[17:40:18]	Артем Петров exited observer at their location.
+[17:40:19]	Alexander Klimov has spawned a 'Entity [109][arccw_ammo_buckshot_large]'.
+[17:40:20]	Alexander Klimov entered observer.
+[17:40:21]	Артем Петров entered observer.
+[17:40:22]	Артем Петров exited observer at their location.
+[17:40:23]	Артем Петров entered observer.
+[17:40:24]	Alexander Klimov exited observer at their location.
+[17:40:30]	Артем Петров exited observer at their location.
+[17:40:35]	Alexander Klimov entered observer.
+[17:40:36]	Alexander Klimov exited observer at their location.
+[17:40:40]	Alexander Klimov has taken 8 damage from Артем Петров.
+[17:40:40]	Alexander Klimov has taken 8 damage from Артем Петров.
+[17:40:48]	Артем Петров entered observer.
+[17:40:48]	Артем Петров exited observer at their location.
+[17:40:48]	Alexander Klimov has spawned a 'Entity [112][arccw_ammo_ar2_large]'.
+[17:40:51]	Alexander Klimov has taken 105 damage from Артем Петров.
+[17:40:51]	Артем Петров has killed Alexander Klimov with arccw_minimi.
+[17:41:00]	Артем Петров has spawned a 'Entity [87][item_battery]'.
+[17:41:00]	Артем Петров has spawned a 'Entity [94][item_battery]'.
+[17:41:00]	Артем Петров has spawned a 'Entity [95][item_battery]'.
+[17:41:01]	Артем Петров has spawned a 'Entity [109][item_battery]'.
+[17:41:01]	Артем Петров has spawned a 'Entity [112][item_battery]'.
+[17:41:01]	Артем Петров has spawned a 'Entity [87][item_battery]'.
+[17:41:02]	Артем Петров has spawned a 'Entity [95][item_battery]'.
+[17:41:03]	Артем Петров has spawned a 'Entity [14][item_healthkit]'.
+[17:41:03]	Артем Петров has spawned a 'Entity [87][item_healthkit]'.
+[17:41:04]	Alexander Klimov has spawned a 'Entity [14][arccw_ammo_ar2_large]'.
+[17:41:07]	Артем Петров entered observer.
+[17:41:07]	Артем Петров exited observer at their location.
+[17:41:10]	Артем Петров entered observer.
+[17:41:10]	Артем Петров exited observer at their location.
+[17:41:14]	Alexander Klimov has spawned a 'Entity [87][arccw_ammo_pistol_large]'.
+[17:41:15]	Alexander Klimov has spawned a 'Entity [95][arccw_ammo_smg1_large]'.
+[17:41:15]	Alexander Klimov has spawned a 'Entity [87][arccw_ammo_smg1_large]'.
+[17:41:16]	Alexander Klimov entered observer.
+[17:41:17]	Артем Петров entered observer.
+[17:41:18]	Артем Петров exited observer at their location.
+[17:41:19]	Alexander Klimov exited observer at their location.
+[17:41:20]	Артем Петров has taken 23 damage from Alexander Klimov.
+[17:41:20]	Артем Петров has taken 23 damage from Alexander Klimov.
+[17:41:20]	Артем Петров has taken 6 damage from Alexander Klimov.
+[17:41:20]	Артем Петров has taken 23 damage from Alexander Klimov.
+[17:41:21]	Alexander Klimov has taken 8 damage from Артем Петров.
+[17:41:22]	Артем Петров has taken 6 damage from Alexander Klimov.
+[17:41:22]	Артем Петров has taken 6 damage from Alexander Klimov.
+[17:41:22]	Alexander Klimov has taken 65 damage from Артем Петров.
+[17:41:22]	Alexander Klimov has taken 64 damage from Артем Петров.
+[17:41:22]	Артем Петров has killed Alexander Klimov with arccw_minimi.
+[17:41:27]	Артем Петров has spawned a 'Entity [14][item_battery]'.
+[17:41:27]	Артем Петров has spawned a 'Entity [95][item_battery]'.
+[17:41:28]	Артем Петров has spawned a 'Entity [109][item_battery]'.
+[17:41:28]	Артем Петров has spawned a 'Entity [14][item_battery]'.
+[17:41:28]	Артем Петров has spawned a 'Entity [112][item_battery]'.
+[17:41:29]	Артем Петров has spawned a 'Entity [14][item_battery]'.
+[17:41:30]	Артем Петров has spawned a 'Entity [95][item_healthkit]'.
+[17:41:34]	Артем Петров entered observer.
+[17:41:35]	Alexander Klimov has spawned a 'Entity [87][arccw_ammo_smg1_large]'.
+[17:41:35]	Артем Петров exited observer at their location.
+[17:41:35]	Alexander Klimov has spawned a 'Entity [94][arccw_ammo_smg1_large]'.
+[17:41:35]	Alexander Klimov has spawned a 'Entity [112][arccw_ammo_smg1_large]'.
+[17:41:39]	Артем Петров entered observer.
+[17:41:40]	Артем Петров exited observer at their location.
+[17:41:44]	Артем Петров entered observer.
+[17:41:52]	Артем Петров exited observer at their location.
+[17:41:53]	Артем Петров entered observer.
+[17:41:54]	Alexander Klimov has spawned a 'Entity [94][arccw_ammo_smg1_large]'.
+[17:41:55]	Alexander Klimov has spawned a 'Entity [112][arccw_ammo_ar2_large]'.
+[17:41:55]	Alexander Klimov has spawned a 'Entity [113][arccw_ammo_ar2_large]'.
+[17:41:59]	Артем Петров exited observer at their location.
+[17:42:02]	Alexander Klimov has taken 129 damage from Артем Петров.
+[17:42:02]	Артем Петров has killed Alexander Klimov with arccw_minimi.
+[17:42:18]	Артем Петров has spawned a 'Entity [14][arccw_ammo_smg1_grenade_large]'.
+[17:42:30]	Артем Петров entered observer.
+[17:42:31]	Артем Петров exited observer at their location.
+[17:42:33]	Alexander Klimov has spawned a 'Entity [112][arccw_ammo_smg1_large]'.
+[17:42:34]	Артем Петров entered observer.
+[17:42:35]	Артем Петров exited observer at their location.
+[17:42:36]	Артем Петров entered observer.
+[17:42:38]	Артем Петров exited observer at their location.
+[17:42:40]	Артем Петров has taken 9 damage from Alexander Klimov.
+[17:42:40]	Артем Петров has taken 9 damage from Alexander Klimov.
+[17:42:41]	Артем Петров has taken 8 damage from Alexander Klimov.
+[17:42:41]	Артем Петров has taken 34 damage from Alexander Klimov.
+[17:42:41]	Артем Петров has taken 8 damage from Alexander Klimov.
+[17:42:43]	Артем Петров has taken 34 damage from Alexander Klimov.
+[17:42:44]	Alexander Klimov has taken 8 damage from Артем Петров.
+[17:42:47]	Артем Петров has taken 9 damage from Alexander Klimov.
+[17:42:47]	Alexander Klimov has taken 32 damage from Артем Петров.
+[17:42:47]	Артем Петров has taken 9 damage from Alexander Klimov.
+[17:42:47]	Alexander Klimov has taken 8 damage from Артем Петров.
+[17:42:47]	Alexander Klimov has taken 32 damage from Артем Петров.
+[17:42:47]	Alexander Klimov has taken 63 damage from Артем Петров.
+[17:42:47]	Артем Петров has killed Alexander Klimov with arccw_minimi.
+[17:42:47]	Артем Петров has taken 9 damage from Alexander Klimov.
+[17:42:52]	Артем Петров has spawned a 'Entity [14][item_healthkit]'.
+[17:42:52]	Артем Петров has spawned a 'Entity [83][item_healthkit]'.
+[17:42:52]	Артем Петров has spawned a 'Entity [94][item_healthkit]'.
+[17:42:53]	Артем Петров has spawned a 'Entity [14][item_battery]'.
+[17:42:54]	Артем Петров has spawned a 'Entity [83][item_battery]'.
+[17:42:54]	Артем Петров has spawned a 'Entity [95][item_battery]'.
+[17:42:54]	Артем Петров has spawned a 'Entity [98][item_battery]'.
+[17:42:54]	Артем Петров has spawned a 'Entity [109][item_battery]'.
+[17:42:55]	Артем Петров has spawned a 'Entity [14][item_battery]'.
+[17:42:55]	Артем Петров has spawned a 'Entity [83][item_battery]'.
+[17:43:14]	Alexander Klimov has taken 64 damage from Артем Петров.
+[17:43:15]	Alexander Klimov has taken 64 damage from Артем Петров.
+[17:43:15]	Артем Петров has killed Alexander Klimov with arccw_minimi.
+[17:43:40]	Артем Петров entered observer.
+[17:43:42]	Артем Петров exited observer at their location.
+[17:43:46]	Артем Петров entered observer.
+[17:43:47]	Артем Петров exited observer at their location.
+[17:44:39]	Alexander Klimov entered observer.
+[17:44:46]	Alexander Klimov exited observer at their location.
+[17:44:51]	Артем Петров has taken 28 damage from Alexander Klimov.
+[17:44:51]	Артем Петров has taken 28 damage from Alexander Klimov.
+[17:44:51]	Артем Петров has taken 223 damage from Alexander Klimov.
+[17:44:51]	Alexander Klimov has killed Артем Петров with arccw_db_sawnoff.
+[17:45:03]	Артем Петров entered observer.
+[17:45:06]	Артем Петров exited observer at their location.
+[17:45:08]	Артем Петров entered observer.
+[17:45:09]	Артем Петров exited observer at their location.
+[17:45:10]	Alexander Klimov has taken 178 damage from Артем Петров.
+[17:45:10]	Артем Петров has killed Alexander Klimov with arccw_m107.
+[17:45:11]	Артем Петров entered observer.
+[17:45:12]	Артем Петров exited observer at their location.
+[17:45:12]	Артем Петров entered observer.
+[17:45:13]	Артем Петров exited observer at their location.
+[17:45:14]	Артем Петров entered observer.
+[17:45:24]	Артем Петров exited observer at their location.
+[17:45:25]	Alexander Klimov entered observer.
+[17:45:29]	Артем Петров entered observer.
+[17:45:34]	Артем Петров exited observer at their location.
+[17:45:35]	Alexander Klimov exited observer at their location.
+[17:45:36]	Артем Петров has taken 49 damage from Alexander Klimov.
+[17:45:37]	Артем Петров has taken 49 damage from Alexander Klimov.
+[17:45:38]	Артем Петров has taken 10 damage from worldspawn.
+[17:45:38]	worldspawn has killed Артем Петров.
+[17:45:41]	Alexander Klimov has taken 8 damage from worldspawn.

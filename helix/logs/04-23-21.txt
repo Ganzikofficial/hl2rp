@@ -1,0 +1,10 @@
+[17:30:25]	Г@H3NK has connected.
+[17:31:58]	Г@H3NK loaded the character 'Алекс Климов'
+[17:33:14]	Алекс Климов has spawned 'models/red_arrows/extremist_soldier_snow_balaclava.mdl'.
+[17:33:26]	Алекс Климов used command '/CharSetModel Ал models/red_arrows/extremist_soldier_snow_balaclava.mdl'.
+[17:33:43]	֍ Aime-moi ֍ has connected.
+[17:35:33]	֍ Aime-moi ֍ loaded the character 'Артем Петров'
+[17:37:50]	Артем Петров used command '/CharSetModel Артем models/red_arrows_npc_pm/extremist_soldier_balaclava_asian_snow_pm.mdl'.
+[17:40:06]	Алекс Климов used command '/CharSetModel Ал models/red_arrows/extremist_soldier_snow_balaclava_asian.mdl'.
+[17:40:08]	Артем Петров used command '/CharSetModel Алекс models/red_arrows_npc_pm/extremist_soldier_balaclava_asian_snow_pm.mdl'.
+[17:40:51]	֍ Aime-moi ֍ (STEAM_0:0:424879351) has disconnected.

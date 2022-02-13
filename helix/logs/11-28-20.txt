@@ -1,0 +1,43 @@
+[21:13:24]	Г@H3NK has connected.
+[21:16:15]	Г@H3NK has connected.
+[21:17:47]	Г@H3NK created the character 'Alexander Klimov'
+[21:17:47]	Alexander Klimov has gained a 'Suitcase' #1.
+[21:17:47]	Alexander Klimov has gained a 'Citizen ID' #2.
+[21:17:47]	Г@H3NK loaded the character 'Alexander Klimov'
+[21:18:00]	Alexander Klimov entered observer.
+[21:18:02]	Alexander Klimov exited observer.
+[21:18:37]	Alexander Klimov set year to '1'.
+[21:18:48]	Alexander Klimov set year to '8656'.
+[21:18:57]	Alexander Klimov set year to '1999'.
+[21:19:06]	Alexander Klimov set year to '2007'.
+[21:19:24]	Alexander Klimov set defaultMoney to '51'.
+[21:19:26]	Alexander Klimov set defaultMoney to '50'.
+[21:19:33]	Alexander Klimov set inventoryHeight to '6'.
+[21:19:47]	Alexander Klimov set inventoryHeight to '4'.
+[21:20:02]	Alexander Klimov set spawnTime to '0'.
+[21:20:06]	Alexander Klimov set spawnTime to '18'.
+[21:20:10]	Alexander Klimov set spawnTime to '10'.
+[21:20:25]	Alexander Klimov set color to '[127, 95, 0]'.
+[21:24:37]	Alexander Klimov set color to '[255, 187, 0]'.
+[21:24:40]	Alexander Klimov set color to '[255, 187, 0]'.
+[21:24:56]	Alexander Klimov set font to '"Comic Sans MS"'.
+[21:25:24]	Alexander Klimov set genericFont to '"Comic Sans MS"'.
+[21:27:39]	Alexander Klimov set genericFont to '"Colonna MT"'.
+[21:27:43]	Alexander Klimov set font to '"Colonna MT"'.
+[21:31:33]	Alexander Klimov set font to '"Vacer Sans Personal"'.
+[21:31:39]	Alexander Klimov set genericFont to '"Vacer Sans Personal"'.
+[21:32:35]	Alexander Klimov set genericFont to '"Monofonto-Regular"'.
+[21:32:37]	Alexander Klimov set font to '"Monofonto-Regular"'.
+[21:33:56]	Alexander Klimov set genericFont to '"Mailart Rubberstamp"'.
+[21:33:58]	Alexander Klimov set font to '"Mailart Rubberstamp"'.
+[21:34:09]	Alexander Klimov entered observer.
+[21:34:10]	Alexander Klimov exited observer.
+[21:37:28]	Alexander Klimov used command '/PlyWhitelist Alexander Metropolice force'.
+[21:37:33]	Alexander Klimov used command '/CharDesc'.
+[21:37:57]	Г@H3NK created the character 'MPF-RCT.51977'
+[21:37:57]	MPF-RCT.51977 has gained a '.9mm Pistol' #3.
+[21:37:57]	MPF-RCT.51977 has gained a '9mm Pistol Bullets' #4.
+[21:37:57]	MPF-RCT.51977 has gained a '9mm Pistol Bullets' #5.
+[21:38:03]	Г@H3NK loaded the character 'MPF-RCT.51977'
+[21:39:08]	MPF-RCT.51977 entered observer.
+[21:39:09]	MPF-RCT.51977 exited observer.

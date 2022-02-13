@@ -1,0 +1,1922 @@
+[17:25:24]	Г@H3NK has connected.
+[17:25:51]	Г@H3NK loaded the character 'Александр Климов'
+[17:27:07]	Александр Климов has spawned 'models/ut2004/w_sniperrifle.mdl'.
+[17:27:16]	Александр Климов has spawned 'models/ut2004/w_shockrifle.mdl'.
+[17:27:17]	Александр Климов has spawned 'models/ut2004/w_rocketlauncher.mdl'.
+[17:27:18]	Александр Климов has spawned 'models/ut2004/w_redeemer.mdl'.
+[17:27:20]	Александр Климов has spawned 'models/ut2004/w_minigun.mdl'.
+[17:27:21]	Александр Климов has spawned 'models/ut2003/w_linkgun.mdl'.
+[17:27:22]	Александр Климов has spawned 'models/ut2004/w_linkgun.mdl'.
+[17:27:27]	Александр Климов has spawned 'models/ut2004/w_biorifle.mdl'.
+[17:27:29]	Александр Климов has spawned 'models/haxxer/me2_props/weldtool.mdl'.
+[17:27:31]	Александр Климов has spawned 'models/ut2004/w_flak_cannon.mdl'.
+[17:27:35]	Александр Климов has spawned 'models/ut2004/lighting_ammo.mdl'.
+[17:27:37]	Александр Климов has spawned 'models/ut2004/link_ammo.mdl'.
+[17:27:38]	Александр Климов has spawned 'models/ut2004/rocket_ammo.mdl'.
+[17:27:39]	Александр Климов has spawned 'models/ut2004/sniper_ammo.mdl'.
+[17:27:47]	Александр Климов has spawned 'models/haxxer/me2_props/crate_large.mdl'.
+[17:27:49]	Александр Климов has spawned 'models/haxxer/me2_props/crate_small.mdl'.
+[17:27:52]	Александр Климов has spawned 'models/bloocobalt/l4d/items/w_eq_ammopack_deployed.mdl'.
+[17:27:58]	Александр Климов has spawned 'models/bloocobalt/l4d/items/w_eq_ammopack.mdl'.
+[17:28:02]	Александр Климов has spawned 'models/haxxer/me2_props/medcrate.mdl'.
+[17:31:05]	Александр Климов has spawned 'models/bloocobalt/l4d/items/w_eq_bile_flask.mdl'.
+[17:31:11]	Александр Климов has spawned 'models/bloocobalt/l4d/items/cim_fallen_survivor_pocket01.mdl'.
+[17:31:12]	Александр Климов has spawned 'models/bloocobalt/l4d/items/cim_fallen_survivor_pocket02.mdl'.
+[17:32:23]	Александр Климов has spawned 'models/ut2004/w_biorifle.mdl'.
+[17:32:24]	Александр Климов has spawned 'models/haxxer/me2_props/table_a.mdl'.
+[17:32:27]	Александр Климов has spawned 'models/bloocobalt/l4d/items/w_eq_pipebomb.mdl'.
+[17:32:28]	Александр Климов has spawned 'models/bloocobalt/l4d/items/w_eq_molotov.mdl'.
+[17:32:31]	Александр Климов has spawned 'models/haxxer/me2_props/medcrate.mdl'.
+[17:32:32]	Александр Климов has spawned 'models/haxxer/me2_props/medbed.mdl'.
+[17:32:34]	Александр Климов has spawned 'models/haxxer/me2_props/medarm.mdl'.
+[17:32:37]	Александр Климов has spawned 'models/bloocobalt/l4d/items/w_cola_bottle.mdl'.
+[17:32:38]	Александр Климов has spawned 'models/bloocobalt/l4d/items/w_cola_bottlecap.mdl'.
+[17:32:40]	Александр Климов has spawned 'models/bloocobalt/l4d/items/w_eq_ammopack.mdl'.
+[17:32:41]	Александр Климов has spawned 'models/bloocobalt/l4d/items/w_eq_ammopack_deployed.mdl'.
+[17:32:43]	Александр Климов has spawned 'models/haxxer/me2_props/kitchen_shelf.mdl'.
+[17:32:45]	Александр Климов has spawned 'models/haxxer/me2_props/kitchen_shelf.mdl'.
+[17:32:47]	Александр Климов has spawned 'models/ut2004/rocket_ammo.mdl'.
+[17:32:50]	Александр Климов entered observer.
+[17:32:55]	Александр Климов exited observer at their location.
+[17:32:56]	Александр Климов has spawned 'models/ut2004/flak_ammo.mdl'.
+[17:32:59]	Александр Климов has spawned 'models/ut2004/bio_ammo.mdl'.
+[17:33:00]	Александр Климов has spawned 'models/ut2004/assault_ammo.mdl'.
+[17:34:34]	Александр Климов has spawned 'models/ut2004/sniper_ammo.mdl'.
+[17:35:23]	Александр Климов has spawned 'models/ut2004/w_assaultrifle.mdl'.
+[17:35:31]	Александр Климов has spawned 'models/haxxer/me2_props/toilet.mdl'.
+[17:35:33]	Александр Климов has spawned 'models/haxxer/me2_props/paperpile04.mdl'.
+[17:35:36]	Александр Климов has spawned 'models/haxxer/me2_props/paperpile03.mdl'.
+[17:35:38]	Александр Климов has spawned 'models/bloocobalt/l4d/items/w_eq_ammopack_deployed.mdl'.
+[17:35:41]	Александр Климов has spawned 'models/bloocobalt/l4d/items/w_eq_lasersights_deployed.mdl'.
+[17:35:46]	Александр Климов has spawned 'models/bloocobalt/l4d/items/w_eq_ammopack_deployed.mdl'.
+[17:36:13]	Александр Климов has spawned 'models/bloocobalt/l4d/items/w_eq_ammopack.mdl'.
+[17:36:26]	Александр Климов has spawned 'models/ut2004/assault_ammo.mdl'.
+[17:36:29]	Александр Климов has spawned 'models/ut2004/minigun_ammo.mdl'.
+[17:36:35]	Александр Климов has spawned 'models/ut2004/link_ammo.mdl'.
+[17:37:05]	Александр Климов has spawned 'models/ut2004/shock_ammo.mdl'.
+[17:37:13]	Александр Климов has spawned 'models/ut2004/lighting_ammo.mdl'.
+[17:37:15]	Александр Климов has spawned 'models/ut2004/flak_ammo.mdl'.
+[17:37:16]	Александр Климов has spawned 'models/ut2004/bio_ammo.mdl'.
+[17:37:22]	Александр Климов has spawned 'models/haxxer/me2_props/shower.mdl'.
+[17:37:29]	Александр Климов has spawned 'models/haxxer/me2_props/medbed.mdl'.
+[17:39:52]	Александр Климов has gained a 'Ящик гильз 12 Калибра' #410.
+[17:39:52]	Александр Климов used command '/CharGiveItem Ал shotgunammo'.
+[17:40:27]	Александр Климов has spawned 'models/items/arccw/smg_ammo.mdl'.
+[17:40:34]	Александр Климов has spawned 'models/items/arccw/rifle_ammo.mdl'.
+[17:40:51]	Александр Климов has spawned 'models/weapons/arccw/magazines/ag63_extended.mdl'.
+[17:40:53]	Александр Климов has spawned 'models/weapons/arccw/magazines/mk4.mdl'.
+[17:41:46]	Александр Климов has spawned 'models/weapons/arccw/magazines/pdw57_small.mdl'.
+[17:41:55]	Александр Климов has spawned 'models/weapons/arccw/mk4.mdl'.
+[17:49:03]	Г@H3NK has connected.
+[17:49:52]	Г@H3NK loaded the character 'Александр Климов'
+[17:52:32]	Александр Климов ran 'EquipUn' on item 'Benelli M3 Super 90' (#409)
+[17:52:33]	Александр Климов ran 'Equip' on item 'Benelli M3 Super 90' (#409)
+[17:52:52]	Александр Климов ran 'Equip' on item 'M9' (#307)
+[17:54:11]	Александр Климов entered observer.
+[17:54:20]	Александр Климов exited observer at their location.
+[17:54:26]	Александр Климов entered observer.
+[17:54:27]	Александр Климов exited observer at their location.
+[17:54:28]	Александр Климов entered observer.
+[17:54:32]	Александр Климов exited observer at their location.
+[17:54:52]	Александр Климов entered observer.
+[17:54:58]	Александр Климов exited observer at their location.
+[17:55:02]	Александр Климов entered observer.
+[17:55:04]	Александр Климов exited observer at their location.
+[17:55:08]	Александр Климов ran 'drop' on item 'Benelli M3 Super 90' (#409)
+[17:55:08]	Александр Климов has lost a 'Benelli M3 Super 90' #409.
+[17:55:15]	Александр Климов entered observer.
+[17:55:39]	Александр Климов exited observer at their location.
+[17:55:57]	Александр Климов has gained a 'M4' #411.
+[17:55:57]	Александр Климов used command '/CharGiveItem Ал M4'.
+[17:55:59]	Александр Климов ran 'drop' on item 'M4' (#411)
+[17:55:59]	Александр Климов has lost a 'M4' #411.
+[17:56:01]	Александр Климов ran 'take' on item 'M4' (#411)
+[17:56:01]	Александр Климов has gained a 'M4' #411.
+[17:56:02]	Александр Климов ran 'Equip' on item 'M4' (#411)
+[17:57:37]	Александр Климов has spawned a 'NextBot [137][npc_sanic]'.
+[17:57:49]	Александр Климов has spawned a 'NPC [113][npc_citizen]'.
+[17:57:50]	Александр Климов entered observer.
+[17:57:51]	Александр Климов exited observer at their location.
+[17:59:40]	Александр Климов has spawned 'models/red_arrows/vest/russian_vest_snow.mdl'.
+[17:59:42]	Александр Климов has spawned 'models/red_arrows/vest/flakvest_snow.mdl'.
+[17:59:45]	Александр Климов has spawned 'models/red_arrows/headgear/helmet_pasgt_snow.mdl'.
+[17:59:46]	Александр Климов has spawned 'models/red_arrows/headgear/helmet_6b27m_snow.mdl'.
+[17:59:48]	Александр Климов has spawned 'models/red_arrows/headgear/helmet_6b27m_snow.mdl'.
+[17:59:49]	Александр Климов has spawned 'models/red_arrows/headgear/helmet_pasgt_snow.mdl'.
+[18:11:08]	Александр Климов has spawned 'models/red_arrows/vest/russian_vest_snow.mdl'.
+[18:11:09]	Александр Климов has spawned 'models/red_arrows/vest/flakvest_snow.mdl'.
+[18:11:14]	Александр Климов has spawned 'models/red_arrows/vest/russian_vest_snow.mdl'.
+[18:12:15]	Александр Климов has spawned 'models/red_arrows/vest/russian_vest_snow.mdl'.
+[18:12:39]	Александр Климов has spawned 'models/red_arrows/headgear/helmet_6b27m_snow.mdl'.
+[18:12:40]	Александр Климов has spawned 'models/red_arrows/headgear/helmet_pasgt_snow.mdl'.
+[18:12:42]	Александр Климов has spawned 'models/red_arrows/headgear/helmet_6b27m_snow.mdl'.
+[18:17:58]	Александр Климов entered observer.
+[18:17:59]	Александр Климов exited observer at their location.
+[18:17:59]	֍ Aime-moi ֍ has connected.
+[18:18:07]	Александр Климов entered observer.
+[18:18:08]	Александр Климов exited observer at their location.
+[18:18:15]	Александр Климов entered observer.
+[18:18:22]	Александр Климов exited observer at their location.
+[18:18:30]	Александр Климов entered observer.
+[18:18:40]	Александр Климов exited observer at their location.
+[18:18:42]	Александр Климов entered observer.
+[18:18:43]	Александр Климов exited observer at their location.
+[18:18:48]	Александр Климов entered observer.
+[18:18:51]	Александр Климов exited observer at their location.
+[18:20:21]	֍ Aime-moi ֍ loaded the character 'Артем Петров'
+[18:21:17]	Артем Петров entered observer.
+[18:21:17]	Артем Петров exited observer at their location.
+[18:21:18]	Артем Петров entered observer.
+[18:21:26]	Артем Петров entered observer.
+[18:21:27]	Артем Петров entered observer.
+[18:21:30]	Артем Петров exited observer at their location.
+[18:21:42]	Александр Климов entered observer.
+[18:21:43]	Александр Климов exited observer at their location.
+[18:21:44]	Александр Климов entered observer.
+[18:21:45]	Александр Климов exited observer at their location.
+[18:21:58]	Артем Петров entered observer.
+[18:21:59]	Артем Петров has taken 51 damage from Александр Климов.
+[18:21:59]	Артем Петров has taken 51 damage from Александр Климов.
+[18:21:59]	Александр Климов has killed Артем Петров with arccw_m4a1.
+[18:22:01]	Артем Петров entered observer.
+[18:22:08]	Артем Петров exited observer at their location.
+[18:22:12]	Александр Климов has taken 90 damage from Артем Петров.
+[18:22:12]	Артем Петров has killed Александр Климов with meleearts_staff_bamboo.
+[18:22:17]	Александр Климов ran 'Equip' on item 'M4' (#411)
+[18:22:21]	Артем Петров has taken 51 damage from Александр Климов.
+[18:22:34]	Александр Климов has spawned a 'Entity [12][ent_jack_gmod_ezfragnade]'.
+[18:22:40]	Артем Петров has taken 51 damage from Александр Климов.
+[18:22:40]	Александр Климов has killed Артем Петров with arccw_m4a1.
+[18:22:53]	Артем Петров entered observer.
+[18:22:56]	Артем Петров exited observer at their location.
+[18:22:59]	Александр Климов has taken 22 damage from Артем Петров.
+[18:22:59]	Александр Климов has taken 26 damage from Артем Петров.
+[18:22:59]	Александр Климов has taken 26 damage from Артем Петров.
+[18:22:59]	Александр Климов has taken 26 damage from Артем Петров.
+[18:22:59]	Артем Петров has killed Александр Климов with arccw_mifl_fas2_m3.
+[18:23:04]	֍ Aime-moi ֍ (STEAM_0:0:424879351) has disconnected.
+[18:23:10]	Александр Климов ran 'Equip' on item 'M4' (#411)
+[18:23:18]	Александр Климов entered observer.
+[18:23:19]	Александр Климов exited observer at their location.
+[18:23:21]	Александр Климов entered observer.
+[18:23:23]	Александр Климов exited observer at their location.
+[18:23:24]	Александр Климов entered observer.
+[18:23:26]	Александр Климов exited observer at their location.
+[18:23:47]	Александр Климов entered observer.
+[18:23:54]	Александр Климов exited observer at their location.
+[18:24:18]	֍ Aime-moi ֍ has connected.
+[18:24:55]	Александр Климов used command '/CharSetModel Ал models/player/combine_specialforce_1.mdl'.
+[18:25:12]	֍ Aime-moi ֍ loaded the character 'Артем Петров'
+[18:25:29]	Артем Петров has taken 50 damage from Александр Климов.
+[18:25:29]	Артем Петров has taken 50 damage from Александр Климов.
+[18:25:29]	Александр Климов has killed Артем Петров with arccw_m4a1.
+[18:25:39]	Артем Петров used command '/CharSetModel Артем models/player/t_phoenix.mdl'.
+[18:25:53]	Александр Климов has taken 56 damage from Артем Петров.
+[18:25:58]	Александр Климов has taken 56 damage from Артем Петров.
+[18:25:58]	Артем Петров has killed Александр Климов with arccw_mifl_fas2_m79.
+[18:26:03]	Александр Климов entered observer.
+[18:26:13]	Александр Климов exited observer at their location.
+[18:26:46]	Артем Петров used command '/CharSetModel Артем models/player/phoenix.mdl'.
+[18:26:54]	Александр Климов entered observer.
+[18:26:55]	Артем Петров entered observer.
+[18:26:59]	Артем Петров exited observer at their location.
+[18:27:02]	Александр Климов exited observer at their location.
+[18:27:03]	Артем Петров entered observer.
+[18:27:04]	Артем Петров exited observer at their location.
+[18:27:06]	Александр Климов ran 'Equip' on item 'M4' (#411)
+[18:27:12]	Артем Петров has spawned a 'Entity [15][arccw_ammo_smg1_grenade_large]'.
+[18:27:14]	Артем Петров entered observer.
+[18:27:15]	Артем Петров exited observer at their location.
+[18:27:16]	Артем Петров entered observer.
+[18:27:23]	Артем Петров exited observer at their location.
+[18:27:29]	Артем Петров has taken 51 damage from Александр Климов.
+[18:27:30]	Артем Петров has taken 13 damage from Александр Климов.
+[18:28:16]	Артем Петров entered observer.
+[18:28:17]	Артем Петров exited observer at their location.
+[18:28:20]	Артем Петров has spawned a 'Entity [135][arccw_ammo_smg1_grenade_large]'.
+[18:28:29]	Александр Климов has spawned a 'Entity [135][ent_jack_gmod_ezsmokenade]'.
+[18:28:53]	Александр Климов has spawned a 'Entity [140][ent_jack_gmod_ezcsnade]'.
+[18:29:03]	Артем Петров has taken 1 damage from Александр Климов.
+[18:29:03]	Артем Петров has taken 2 damage from Александр Климов.
+[18:29:04]	Артем Петров has taken 2 damage from Александр Климов.
+[18:29:04]	Артем Петров has taken 1 damage from Александр Климов.
+[18:29:05]	Артем Петров has taken 4 damage from Александр Климов.
+[18:29:06]	Артем Петров has taken 3 damage from Александр Климов.
+[18:29:06]	Артем Петров has taken 4 damage from Александр Климов.
+[18:29:07]	Артем Петров has taken 52 damage from Александр Климов.
+[18:29:07]	Александр Климов has killed Артем Петров with arccw_m4a1.
+[18:29:10]	Артем Петров entered observer.
+[18:29:15]	Артем Петров exited observer at their location.
+[18:29:19]	Александр Климов entered observer.
+[18:29:24]	Александр Климов exited observer at their location.
+[18:29:29]	Артем Петров has taken 51 damage from Александр Климов.
+[18:29:35]	Артем Петров has taken 13 damage from Александр Климов.
+[18:29:35]	Артем Петров has taken 51 damage from Александр Климов.
+[18:29:35]	Александр Климов has killed Артем Петров with arccw_m4a1.
+[18:29:42]	Артем Петров entered observer.
+[18:29:45]	Артем Петров exited observer at their location.
+[18:29:45]	Артем Петров entered observer.
+[18:29:46]	Артем Петров exited observer at their location.
+[18:29:52]	Артем Петров entered observer.
+[18:29:52]	Артем Петров exited observer at their location.
+[18:29:53]	Артем Петров entered observer.
+[18:29:54]	Артем Петров exited observer at their location.
+[18:29:56]	Артем Петров entered observer.
+[18:29:57]	Артем Петров exited observer at their location.
+[18:30:00]	Артем Петров entered observer.
+[18:30:02]	Артем Петров exited observer at their location.
+[18:30:03]	Артем Петров entered observer.
+[18:30:04]	Артем Петров exited observer at their location.
+[18:30:06]	Артем Петров entered observer.
+[18:30:06]	Артем Петров exited observer at their location.
+[18:31:17]	Артем Петров has spawned a 'Entity [137][arccw_ammo_smg1_large]'.
+[18:31:18]	Артем Петров has spawned a 'Entity [137][arccw_ammo_smg1_large]'.
+[18:31:22]	Артем Петров has spawned a 'Entity [137][arccw_ammo_ar2_large]'.
+[18:31:24]	Артем Петров has spawned a 'Entity [137][arccw_ammo_ar2]'.
+[18:31:25]	Артем Петров has spawned a 'Entity [140][arccw_ammo_pistol_large]'.
+[18:31:38]	Александр Климов has spawned a 'Entity [137][ent_jack_gmod_ezammo]'.
+[18:31:43]	Артем Петров entered observer.
+[18:31:43]	Артем Петров exited observer at their location.
+[18:31:50]	Артем Петров entered observer.
+[18:31:50]	Артем Петров exited observer at their location.
+[18:31:51]	Артем Петров entered observer.
+[18:31:52]	Артем Петров exited observer at their location.
+[18:31:54]	Артем Петров entered observer.
+[18:31:54]	Артем Петров exited observer at their location.
+[18:32:02]	Артем Петров entered observer.
+[18:32:06]	Артем Петров exited observer at their location.
+[18:32:08]	Артем Петров entered observer.
+[18:32:08]	Артем Петров exited observer at their location.
+[18:32:13]	Артем Петров entered observer.
+[18:32:15]	Артем Петров exited observer at their location.
+[18:32:22]	Артем Петров entered observer.
+[18:32:22]	Артем Петров exited observer at their location.
+[18:32:24]	Артем Петров entered observer.
+[18:32:24]	Артем Петров exited observer at their location.
+[18:32:31]	Артем Петров entered observer.
+[18:32:32]	Артем Петров exited observer at their location.
+[18:32:32]	Артем Петров entered observer.
+[18:32:33]	Артем Петров exited observer at their location.
+[18:32:34]	Артем Петров entered observer.
+[18:32:35]	Артем Петров exited observer at their location.
+[18:32:37]	Артем Петров entered observer.
+[18:32:38]	Артем Петров exited observer at their location.
+[18:32:40]	Артем Петров entered observer.
+[18:32:41]	Артем Петров exited observer at their location.
+[18:32:43]	Александр Климов has taken 42 damage from Артем Петров.
+[18:32:44]	Артем Петров entered observer.
+[18:32:45]	Артем Петров exited observer at their location.
+[18:32:49]	Артем Петров entered observer.
+[18:32:49]	Артем Петров exited observer at their location.
+[18:32:50]	Александр Климов has spawned a 'Entity [87][ent_jack_gmod_ezflashbang]'.
+[18:32:55]	Александр Климов has taken 6 damage from Артем Петров.
+[18:32:59]	Артем Петров entered observer.
+[18:33:02]	Артем Петров exited observer at their location.
+[18:33:04]	Артем Петров entered observer.
+[18:33:05]	Артем Петров exited observer at their location.
+[18:33:11]	Артем Петров has taken 52 damage from Александр Климов.
+[18:33:15]	Артем Петров has taken 52 damage from Александр Климов.
+[18:33:15]	Александр Климов has killed Артем Петров with arccw_m4a1.
+[18:33:17]	Артем Петров entered observer.
+[18:33:24]	Артем Петров exited observer at their location.
+[18:33:26]	Артем Петров has spawned a 'Entity [12][ent_jack_gmod_ezimpactnade]'.
+[18:33:37]	Артем Петров has taken 71 damage from Александр Климов.
+[18:33:37]	Александр Климов has taken 93 damage from Александр Климов.
+[18:33:37]	Александр Климов has killed Александр Климов.
+[18:33:40]	Александр Климов entered observer.
+[18:33:45]	Артем Петров entered observer.
+[18:33:46]	Артем Петров exited observer at their location.
+[18:33:46]	Александр Климов exited observer at their location.
+[18:33:53]	Александр Климов ran 'Equip' on item 'M4' (#411)
+[18:33:54]	Александр Климов entered observer.
+[18:33:58]	Александр Климов exited observer at their location.
+[18:34:05]	Артем Петров entered observer.
+[18:34:06]	Артем Петров exited observer at their location.
+[18:34:13]	Артем Петров entered observer.
+[18:34:14]	Александр Климов entered observer.
+[18:34:14]	Артем Петров exited observer at their location.
+[18:34:14]	Александр Климов exited observer at their location.
+[18:34:14]	Артем Петров entered observer.
+[18:34:16]	Артем Петров exited observer at their location.
+[18:34:16]	Артем Петров entered observer.
+[18:34:17]	Артем Петров exited observer at their location.
+[18:34:18]	Артем Петров entered observer.
+[18:34:19]	Артем Петров exited observer at their location.
+[18:34:20]	Артем Петров entered observer.
+[18:34:22]	Артем Петров exited observer at their location.
+[18:34:23]	Артем Петров entered observer.
+[18:34:23]	Артем Петров exited observer at their location.
+[18:34:24]	Артем Петров entered observer.
+[18:34:26]	Артем Петров exited observer at their location.
+[18:34:26]	Артем Петров entered observer.
+[18:34:27]	Артем Петров exited observer at their location.
+[18:34:29]	Артем Петров entered observer.
+[18:34:29]	Артем Петров exited observer at their location.
+[18:34:31]	Артем Петров entered observer.
+[18:34:31]	Артем Петров exited observer at their location.
+[18:34:32]	Артем Петров entered observer.
+[18:34:34]	Артем Петров exited observer at their location.
+[18:34:34]	Артем Петров entered observer.
+[18:34:36]	Артем Петров exited observer at their location.
+[18:34:36]	Артем Петров entered observer.
+[18:34:43]	Александр Климов entered observer.
+[18:34:43]	Артем Петров exited observer at their location.
+[18:34:43]	Александр Климов exited observer at their location.
+[18:34:47]	Артем Петров entered observer.
+[18:34:47]	Артем Петров exited observer at their location.
+[18:34:51]	Артем Петров has taken 104 damage from Александр Климов.
+[18:34:51]	Александр Климов has killed Артем Петров with arccw_m4a1.
+[18:34:53]	Артем Петров entered observer.
+[18:35:02]	Артем Петров exited observer at their location.
+[18:35:05]	Александр Климов has taken 14 damage from Артем Петров.
+[18:35:06]	Александр Климов has taken 14 damage from Артем Петров.
+[18:35:12]	Александр Климов has taken 58 damage from Артем Петров.
+[18:35:12]	Артем Петров has taken 13 damage from Александр Климов.
+[18:35:14]	Артем Петров has taken 13 damage from Александр Климов.
+[18:35:16]	Артем Петров has taken 13 damage from Александр Климов.
+[18:35:16]	Артем Петров has taken 13 damage from Александр Климов.
+[18:35:16]	Александр Климов has taken 15 damage from Артем Петров.
+[18:35:16]	Артем Петров has killed Александр Климов with arccw_mifl_fas2_g20.
+[18:35:19]	Александр Климов entered observer.
+[18:35:22]	Артем Петров entered observer.
+[18:35:22]	Артем Петров exited observer at their location.
+[18:35:29]	Александр Климов exited observer at their location.
+[18:35:31]	Александр Климов entered observer.
+[18:35:34]	Артем Петров entered observer.
+[18:35:36]	Артем Петров exited observer at their location.
+[18:35:38]	Александр Климов exited observer at their location.
+[18:35:41]	Александр Климов ran 'Equip' on item 'M4' (#411)
+[18:35:51]	Артем Петров entered observer.
+[18:35:53]	Артем Петров exited observer at their location.
+[18:35:53]	Артем Петров entered observer.
+[18:35:55]	Артем Петров exited observer at their location.
+[18:36:00]	Артем Петров entered observer.
+[18:36:01]	Артем Петров exited observer at their location.
+[18:36:06]	Артем Петров entered observer.
+[18:36:06]	Артем Петров exited observer at their location.
+[18:36:10]	Артем Петров entered observer.
+[18:36:11]	Артем Петров exited observer at their location.
+[18:36:14]	Артем Петров entered observer.
+[18:36:15]	Артем Петров exited observer at their location.
+[18:36:16]	Артем Петров entered observer.
+[18:36:17]	Артем Петров exited observer at their location.
+[18:36:18]	Артем Петров entered observer.
+[18:36:18]	Артем Петров exited observer at their location.
+[18:36:19]	Артем Петров entered observer.
+[18:36:19]	Артем Петров exited observer at their location.
+[18:36:20]	Артем Петров entered observer.
+[18:36:22]	Артем Петров exited observer at their location.
+[18:36:25]	Артем Петров entered observer.
+[18:36:26]	Артем Петров exited observer at their location.
+[18:36:26]	Артем Петров entered observer.
+[18:36:27]	Артем Петров exited observer at their location.
+[18:36:32]	Артем Петров entered observer.
+[18:36:35]	Артем Петров exited observer at their location.
+[18:36:39]	Артем Петров entered observer.
+[18:36:39]	Артем Петров exited observer at their location.
+[18:36:40]	Артем Петров entered observer.
+[18:36:41]	Артем Петров exited observer at their location.
+[18:36:43]	Артем Петров entered observer.
+[18:36:44]	Артем Петров exited observer at their location.
+[18:36:45]	Артем Петров entered observer.
+[18:36:47]	Александр Климов has spawned a 'Entity [179][ent_jack_gmod_ezflashbang]'.
+[18:36:48]	Артем Петров exited observer at their location.
+[18:36:48]	Артем Петров entered observer.
+[18:36:49]	Артем Петров exited observer at their location.
+[18:36:52]	Артем Петров entered observer.
+[18:36:53]	Артем Петров exited observer at their location.
+[18:36:53]	Александр Климов has spawned a 'Entity [180][ent_jack_gmod_ezflashbang]'.
+[18:36:55]	Артем Петров entered observer.
+[18:36:55]	Артем Петров exited observer at their location.
+[18:36:56]	Артем Петров entered observer.
+[18:36:56]	Александр Климов has taken 2 damage from Александр Климов.
+[18:36:56]	Артем Петров exited observer at their location.
+[18:36:57]	Артем Петров entered observer.
+[18:36:57]	Артем Петров exited observer at their location.
+[18:36:57]	Александр Климов has spawned a 'Entity [209][ent_jack_gmod_ezflashbang]'.
+[18:37:07]	Артем Петров entered observer.
+[18:37:09]	Артем Петров exited observer at their location.
+[18:37:12]	Артем Петров entered observer.
+[18:37:17]	Артем Петров exited observer at their location.
+[18:37:19]	Артем Петров entered observer.
+[18:37:20]	Артем Петров exited observer at their location.
+[18:37:22]	Александр Климов has taken 42 damage from worldspawn.
+[18:37:25]	Артем Петров entered observer.
+[18:37:25]	Артем Петров exited observer at their location.
+[18:37:26]	Артем Петров has taken 13 damage from Александр Климов.
+[18:37:26]	Артем Петров has taken 13 damage from Александр Климов.
+[18:37:26]	Александр Климов has taken 6 damage from Артем Петров.
+[18:37:26]	Александр Климов has taken 6 damage from Артем Петров.
+[18:37:26]	Артем Петров has taken 52 damage from Александр Климов.
+[18:37:26]	Александр Климов has killed Артем Петров with arccw_m4a1.
+[18:37:35]	Артем Петров has taken 51 damage from Александр Климов.
+[18:37:36]	Артем Петров entered observer.
+[18:37:40]	Артем Петров exited observer at their location.
+[18:37:41]	Александр Климов has spawned a 'Entity [14][ent_jack_gmod_ezfragnade]'.
+[18:37:45]	Александр Климов has taken 7 damage from Артем Петров.
+[18:37:45]	Александр Климов has taken 7 damage from Артем Петров.
+[18:37:45]	Александр Климов has taken 29 damage from Артем Петров.
+[18:37:45]	Александр Климов has taken 7 damage from Артем Петров.
+[18:37:45]	Артем Петров has killed Александр Климов with arccw_mifl_fas2_ks23.
+[18:37:49]	Артем Петров entered observer.
+[18:37:50]	Артем Петров exited observer at their location.
+[18:37:51]	Александр Климов entered observer.
+[18:37:54]	Артем Петров entered observer.
+[18:37:55]	Артем Петров exited observer at their location.
+[18:37:55]	Артем Петров entered observer.
+[18:37:55]	Александр Климов exited observer at their location.
+[18:37:58]	Александр Климов entered observer.
+[18:37:59]	Артем Петров exited observer at their location.
+[18:37:59]	Александр Климов exited observer at their location.
+[18:38:05]	Александр Климов entered observer.
+[18:38:06]	Александр Климов exited observer at their location.
+[18:38:33]	Артем Петров entered observer.
+[18:38:35]	Александр Климов entered observer.
+[18:38:36]	Артем Петров exited observer at their location.
+[18:38:37]	Артем Петров entered observer.
+[18:38:39]	Александр Климов exited observer at their location.
+[18:38:39]	Артем Петров exited observer at their location.
+[18:38:40]	Александр Климов entered observer.
+[18:38:42]	Александр Климов exited observer at their location.
+[18:38:44]	Александр Климов ran 'Equip' on item 'M4' (#411)
+[18:38:44]	Артем Петров entered observer.
+[18:38:50]	Артем Петров exited observer at their location.
+[18:38:56]	Артем Петров has taken 49 damage from Александр Климов.
+[18:38:56]	Александр Климов has killed Артем Петров with arccw_m4a1.
+[18:38:59]	Артем Петров entered observer.
+[18:39:04]	Артем Петров exited observer at their location.
+[18:39:09]	Артем Петров entered observer.
+[18:39:10]	Артем Петров exited observer at their location.
+[18:39:16]	Артем Петров entered observer.
+[18:39:16]	Артем Петров exited observer at their location.
+[18:39:17]	Александр Климов has taken 26 damage from Артем Петров.
+[18:39:17]	Александр Климов has taken 6 damage from Артем Петров.
+[18:39:17]	Александр Климов has taken 26 damage from Артем Петров.
+[18:39:17]	Александр Климов has taken 52 damage from Артем Петров.
+[18:39:17]	Артем Петров has killed Александр Климов with arccw_mifl_fas2_ks23.
+[18:39:22]	Александр Климов ran 'Equip' on item 'M4' (#411)
+[18:39:22]	Артем Петров entered observer.
+[18:39:23]	Артем Петров exited observer at their location.
+[18:39:25]	Артем Петров entered observer.
+[18:39:26]	Артем Петров exited observer at their location.
+[18:39:27]	Александр Климов has taken 23 damage from Артем Петров.
+[18:39:27]	Артем Петров has taken 51 damage from Александр Климов.
+[18:39:34]	Артем Петров entered observer.
+[18:39:35]	Артем Петров exited observer at their location.
+[18:39:42]	Артем Петров entered observer.
+[18:39:42]	Артем Петров exited observer at their location.
+[18:39:43]	Артем Петров has taken 103 damage from Александр Климов.
+[18:39:43]	Александр Климов has killed Артем Петров with arccw_m4a1.
+[18:39:50]	Артем Петров entered observer.
+[18:39:53]	Александр Климов entered observer.
+[18:39:53]	Александр Климов exited observer at their location.
+[18:39:57]	Артем Петров exited observer at their location.
+[18:40:08]	Артем Петров entered observer.
+[18:40:09]	Артем Петров exited observer at their location.
+[18:40:11]	Артем Петров has spawned a 'Entity [117][ent_jack_gmod_ezimpactnade]'.
+[18:40:17]	Артем Петров has taken 13 damage from Александр Климов.
+[18:40:17]	Артем Петров has taken 104 damage from Александр Климов.
+[18:40:17]	Александр Климов has killed Артем Петров with arccw_m4a1.
+[18:40:28]	Артем Петров entered observer.
+[18:40:30]	Артем Петров exited observer at their location.
+[18:40:46]	Артем Петров has spawned a 'Entity [143][ent_jack_gmod_ezsticknadebundle]'.
+[18:40:48]	Александр Климов has spawned a 'Entity [161][ent_jack_gmod_ezflashbang]'.
+[18:40:50]	Артем Петров has taken 497 damage from Артем Петров.
+[18:40:50]	Артем Петров has killed Артем Петров.
+[18:40:52]	Артем Петров entered observer.
+[18:40:59]	Александр Климов has taken 2 damage from Александр Климов.
+[18:41:03]	Артем Петров exited observer at their location.
+[18:41:06]	Артем Петров has spawned a 'Entity [143][ent_jack_gmod_ezsticknadebundle]'.
+[18:41:11]	Артем Петров has spawned a 'Entity [143][ent_jack_gmod_ezsticknadebundle]'.
+[18:41:15]	Артем Петров has taken 52 damage from Александр Климов.
+[18:41:15]	Артем Петров has taken 52 damage from Александр Климов.
+[18:41:15]	Александр Климов has killed Артем Петров with arccw_m4a1.
+[18:41:16]	Александр Климов has taken 279 damage from Артем Петров.
+[18:41:16]	Артем Петров has killed Александр Климов.
+[18:41:28]	Александр Климов entered observer.
+[18:41:39]	Артем Петров entered observer.
+[18:41:50]	Артем Петров exited observer at their location.
+[18:42:04]	Артем Петров has spawned a 'Entity [192][arccw_ammo_buckshot]'.
+[18:42:06]	Артем Петров entered observer.
+[18:42:09]	Артем Петров exited observer at their location.
+[18:42:09]	Артем Петров entered observer.
+[18:42:09]	Александр Климов exited observer at their location.
+[18:42:11]	Александр Климов ran 'Equip' on item 'M4' (#411)
+[18:42:12]	Артем Петров exited observer at their location.
+[18:42:13]	Артем Петров entered observer.
+[18:42:13]	Артем Петров exited observer at their location.
+[18:42:15]	Александр Климов has taken 4 damage from Артем Петров.
+[18:42:33]	Артем Петров entered observer.
+[18:42:34]	Артем Петров exited observer at their location.
+[18:42:38]	Артем Петров entered observer.
+[18:42:38]	Артем Петров exited observer at their location.
+[18:42:43]	Артем Петров entered observer.
+[18:42:43]	Артем Петров exited observer at their location.
+[18:42:46]	Артем Петров entered observer.
+[18:42:51]	Артем Петров exited observer at their location.
+[18:42:55]	Артем Петров entered observer.
+[18:42:56]	Артем Петров exited observer at their location.
+[18:43:08]	Артем Петров entered observer.
+[18:43:09]	Артем Петров exited observer at their location.
+[18:43:14]	Артем Петров entered observer.
+[18:44:18]	Артем Петров exited observer at their location.
+[18:44:19]	Артем Петров entered observer.
+[18:44:20]	Артем Петров exited observer at their location.
+[18:44:20]	Артем Петров entered observer.
+[18:44:22]	Артем Петров exited observer at their location.
+[18:44:23]	Артем Петров entered observer.
+[18:44:24]	Артем Петров exited observer at their location.
+[18:44:24]	Артем Петров entered observer.
+[18:44:25]	Артем Петров exited observer at their location.
+[18:44:27]	Артем Петров entered observer.
+[18:44:30]	Артем Петров exited observer at their location.
+[18:44:32]	Артем Петров entered observer.
+[18:44:33]	Артем Петров exited observer at their location.
+[18:44:36]	Артем Петров has taken 13 damage from Александр Климов.
+[18:44:43]	Артем Петров entered observer.
+[18:44:58]	Артем Петров exited observer at their location.
+[18:44:59]	Артем Петров entered observer.
+[18:45:00]	Артем Петров exited observer at their location.
+[18:45:01]	Артем Петров has taken 52 damage from Александр Климов.
+[18:45:01]	Александр Климов has taken 26 damage from Артем Петров.
+[18:45:01]	Александр Климов has taken 26 damage from Артем Петров.
+[18:45:01]	Александр Климов has taken 26 damage from Артем Петров.
+[18:45:03]	Артем Петров has taken 13 damage from Александр Климов.
+[18:45:03]	Артем Петров has taken 104 damage from Александр Климов.
+[18:45:03]	Александр Климов has killed Артем Петров with arccw_m4a1.
+[18:45:09]	Артем Петров entered observer.
+[18:45:10]	Артем Петров exited observer at their location.
+[18:45:14]	Артем Петров has spawned a 'Entity [143][arccw_ammo_buckshot_large]'.
+[18:45:15]	Артем Петров entered observer.
+[18:45:30]	Артем Петров exited observer at their location.
+[18:45:33]	Артем Петров has taken 52 damage from Александр Климов.
+[18:45:34]	Артем Петров has taken 13 damage from Александр Климов.
+[18:45:35]	Артем Петров has taken 52 damage from Александр Климов.
+[18:45:35]	Александр Климов has killed Артем Петров with arccw_m4a1.
+[18:45:46]	Артем Петров has spawned a 'Entity [212][arccw_ammo_buckshot_large]'.
+[18:45:47]	Артем Петров entered observer.
+[18:45:51]	Артем Петров exited observer at their location.
+[18:45:52]	Александр Климов ran 'Equip' on item 'M9' (#307)
+[18:45:54]	Артем Петров entered observer.
+[18:45:55]	Артем Петров exited observer at their location.
+[18:45:56]	Александр Климов has taken 25 damage from Артем Петров.
+[18:45:56]	Артем Петров has killed Александр Климов with arccw_mifl_fas2_ragingbull.
+[18:46:00]	Александр Климов entered observer.
+[18:46:05]	Артем Петров entered observer.
+[18:46:06]	Артем Петров exited observer at their location.
+[18:46:07]	Александр Климов exited observer at their location.
+[18:46:08]	Александр Климов has taken 54 damage from Артем Петров.
+[18:46:08]	Александр Климов has taken 54 damage from Артем Петров.
+[18:46:08]	Артем Петров has killed Александр Климов with arccw_mifl_fas2_ragingbull.
+[18:46:11]	Александр Климов entered observer.
+[18:46:16]	Александр Климов exited observer at their location.
+[18:46:20]	Артем Петров entered observer.
+[18:46:20]	Артем Петров exited observer at their location.
+[18:46:21]	Артем Петров entered observer.
+[18:46:22]	Артем Петров exited observer at their location.
+[18:46:23]	Артем Петров entered observer.
+[18:46:24]	Артем Петров exited observer at their location.
+[18:46:26]	Александр Климов has taken 25 damage from Артем Петров.
+[18:46:26]	Александр Климов has taken 25 damage from Артем Петров.
+[18:46:26]	Александр Климов has taken 25 damage from Артем Петров.
+[18:46:26]	Александр Климов has taken 24 damage from Артем Петров.
+[18:46:26]	Александр Климов has taken 24 damage from Артем Петров.
+[18:46:26]	Артем Петров has killed Александр Климов with arccw_mifl_fas2_ragingbull.
+[18:46:28]	Александр Климов entered observer.
+[18:46:34]	Александр Климов exited observer at their location.
+[18:46:36]	Александр Климов ran 'Equip' on item 'M4' (#411)
+[18:46:42]	Артем Петров has taken 13 damage from Александр Климов.
+[18:46:43]	Александр Климов has taken 25 damage from Артем Петров.
+[18:46:43]	Александр Климов has taken 25 damage from Артем Петров.
+[18:46:43]	Александр Климов has taken 6 damage from Артем Петров.
+[18:46:43]	Александр Климов has taken 25 damage from Артем Петров.
+[18:46:43]	Александр Климов has taken 6 damage from Артем Петров.
+[18:46:43]	Александр Климов has taken 6 damage from Артем Петров.
+[18:46:43]	Александр Климов has taken 6 damage from Артем Петров.
+[18:46:43]	Артем Петров has killed Александр Климов with arccw_mifl_fas2_ragingbull.
+[18:46:45]	Александр Климов entered observer.
+[18:46:51]	Артем Петров entered observer.
+[18:46:52]	Артем Петров exited observer at their location.
+[18:46:52]	Артем Петров entered observer.
+[18:46:56]	Артем Петров exited observer at their location.
+[18:46:58]	Артем Петров entered observer.
+[18:46:58]	Артем Петров exited observer at their location.
+[18:46:59]	Артем Петров entered observer.
+[18:47:00]	Александр Климов exited observer at their location.
+[18:47:02]	Артем Петров exited observer at their location.
+[18:47:02]	Александр Климов entered observer.
+[18:47:05]	Артем Петров entered observer.
+[18:47:08]	Александр Климов exited observer at their location.
+[18:47:10]	Артем Петров exited observer at their location.
+[18:47:11]	Александр Климов ran 'Equip' on item 'M4' (#411)
+[18:47:15]	Артем Петров entered observer.
+[18:47:15]	Артем Петров exited observer at their location.
+[18:47:15]	Артем Петров entered observer.
+[18:47:16]	Артем Петров exited observer at their location.
+[18:47:21]	Артем Петров entered observer.
+[18:47:21]	Артем Петров exited observer at their location.
+[18:47:22]	Артем Петров has taken 52 damage from Александр Климов.
+[18:47:22]	Артем Петров has taken 52 damage from Александр Климов.
+[18:47:22]	Александр Климов has killed Артем Петров with arccw_m4a1.
+[18:47:25]	Артем Петров entered observer.
+[18:47:32]	Артем Петров exited observer at their location.
+[18:47:32]	Артем Петров entered observer.
+[18:47:33]	Александр Климов has spawned a 'Entity [12][ent_jack_gmod_ezminimore]'.
+[18:47:33]	Артем Петров exited observer at their location.
+[18:47:36]	Артем Петров has spawned a 'Entity [12][ent_jack_gmod_ezimpactnade]'.
+[18:47:37]	Александр Климов has spawned a 'Entity [136][ent_jack_gmod_ezminimore]'.
+[18:47:47]	Артем Петров has spawned a 'Entity [12][ent_jack_gmod_ezsticknadebundle]'.
+[18:47:53]	Артем Петров entered observer.
+[18:47:53]	Артем Петров exited observer at their location.
+[18:47:58]	Артем Петров has spawned a 'Entity [12][ent_jack_gmod_ezsticknadebundle]'.
+[18:48:01]	Артем Петров entered observer.
+[18:48:02]	Артем Петров exited observer at their location.
+[18:48:05]	Артем Петров entered observer.
+[18:48:06]	Артем Петров exited observer at their location.
+[18:48:07]	Артем Петров has spawned a 'Entity [12][ent_jack_gmod_ezsticknadebundle]'.
+[18:48:11]	Артем Петров entered observer.
+[18:48:15]	Артем Петров exited observer at their location.
+[18:48:17]	Артем Петров has spawned a 'Entity [12][ent_jack_gmod_ezfirenade]'.
+[18:48:21]	Артем Петров entered observer.
+[18:48:24]	Артем Петров exited observer at their location.
+[18:48:26]	Артем Петров has spawned a 'Entity [12][ent_jack_gmod_ezimpactnade]'.
+[18:48:30]	Артем Петров has taken 68 damage from Артем Петров.
+[18:48:32]	Артем Петров entered observer.
+[18:48:34]	Артем Петров exited observer at their location.
+[18:48:39]	Артем Петров has spawned a 'Entity [143][ent_jack_gmod_ezfirenade]'.
+[18:48:42]	Артем Петров has taken 13 damage from Александр Климов.
+[18:48:43]	Артем Петров entered observer.
+[18:48:44]	Артем Петров exited observer at their location.
+[18:48:45]	Артем Петров has taken 52 damage from Александр Климов.
+[18:48:45]	Александр Климов has killed Артем Петров with arccw_m4a1.
+[18:48:47]	Артем Петров entered observer.
+[18:48:52]	Артем Петров exited observer at their location.
+[18:48:53]	Александр Климов has spawned a 'Entity [143][ent_jack_gmod_ezfragnade]'.
+[18:48:55]	Артем Петров has taken 50 damage from Александр Климов.
+[18:48:58]	Александр Климов has taken 100 damage from prop_physics.
+[18:48:58]	prop_physics has killed Александр Климов.
+[18:48:59]	Артем Петров has taken 5 damage from Артем Петров.
+[18:49:00]	Артем Петров entered observer.
+[18:49:00]	Артем Петров exited observer at their location.
+[18:49:01]	Артем Петров has taken 5 damage from Артем Петров.
+[18:49:01]	Артем Петров entered observer.
+[18:49:02]	Александр Климов entered observer.
+[18:49:12]	Александр Климов exited observer at their location.
+[18:49:15]	Александр Климов ran 'Equip' on item 'M4' (#411)
+[18:49:15]	Артем Петров exited observer at their location.
+[18:49:24]	Артем Петров entered observer.
+[18:49:25]	Артем Петров exited observer at their location.
+[18:49:25]	Артем Петров entered observer.
+[18:49:26]	Артем Петров exited observer at their location.
+[18:49:27]	Александр Климов has taken 5 damage from Артем Петров.
+[18:49:27]	Артем Петров has taken 5 damage from Артем Петров.
+[18:49:29]	Александр Климов has taken 5 damage from Артем Петров.
+[18:49:29]	Артем Петров has taken 5 damage from Артем Петров.
+[18:49:34]	Александр Климов has taken 12 damage from Артем Петров.
+[18:49:34]	Александр Климов has taken 49 damage from Артем Петров.
+[18:49:35]	Александр Климов has taken 12 damage from Артем Петров.
+[18:49:38]	Артем Петров entered observer.
+[18:49:39]	Артем Петров exited observer at their location.
+[18:49:46]	Артем Петров entered observer.
+[18:49:49]	Артем Петров exited observer at their location.
+[18:49:51]	Артем Петров entered observer.
+[18:49:52]	Артем Петров exited observer at their location.
+[18:49:54]	Александр Климов has taken 27 damage from Артем Петров.
+[18:49:54]	Артем Петров has killed Александр Климов with arccw_mifl_fas2_toz34.
+[18:49:56]	Александр Климов entered observer.
+[18:50:15]	Артем Петров entered observer.
+[18:50:20]	Артем Петров exited observer at their location.
+[18:50:29]	Артем Петров entered observer.
+[18:50:29]	Артем Петров exited observer at their location.
+[18:50:30]	Артем Петров entered observer.
+[18:50:33]	Александр Климов exited observer at their location.
+[18:50:35]	Артем Петров exited observer at their location.
+[18:50:35]	Александр Климов ran 'Equip' on item 'M4' (#411)
+[18:50:36]	Артем Петров entered observer.
+[18:50:36]	Артем Петров exited observer at their location.
+[18:50:40]	Артем Петров entered observer.
+[18:50:40]	Артем Петров exited observer at their location.
+[18:50:40]	Артем Петров entered observer.
+[18:50:43]	Александр Климов has spawned a 'Entity [143][ent_jack_gmod_ezcsnade]'.
+[18:50:46]	Артем Петров exited observer at their location.
+[18:50:48]	Артем Петров entered observer.
+[18:50:49]	Артем Петров exited observer at their location.
+[18:50:54]	Артем Петров has taken 1 damage from Александр Климов.
+[18:50:55]	Артем Петров has taken 2 damage from Александр Климов.
+[18:50:56]	Артем Петров has taken 3 damage from Александр Климов.
+[18:50:58]	Артем Петров entered observer.
+[18:51:00]	Артем Петров exited observer at their location.
+[18:51:03]	Артем Петров has spawned a 'Entity [399][ent_jack_gmod_ezstickynade]'.
+[18:51:06]	Артем Петров has taken 3 damage from Александр Климов.
+[18:51:06]	Артем Петров has taken 2 damage from Александр Климов.
+[18:51:07]	Артем Петров has taken 70 damage from Артем Петров.
+[18:51:07]	Артем Петров has killed Артем Петров.
+[18:51:09]	Артем Петров entered observer.
+[18:51:12]	Александр Климов has taken 5 damage from Артем Петров.
+[18:51:13]	Александр Климов has taken 5 damage from Артем Петров.
+[18:51:14]	Александр Климов has taken 5 damage from Артем Петров.
+[18:51:14]	Артем Петров exited observer at their location.
+[18:51:15]	Александр Климов entered observer.
+[18:51:17]	Александр Климов exited observer at their location.
+[18:51:18]	Александр Климов entered observer.
+[18:51:20]	Артем Петров entered observer.
+[18:51:21]	Александр Климов exited observer at their location.
+[18:51:24]	Артем Петров exited observer at their location.
+[18:51:26]	Артем Петров has taken 52 damage from Александр Климов.
+[18:51:26]	Артем Петров has taken 52 damage from Александр Климов.
+[18:51:26]	Александр Климов has killed Артем Петров with arccw_m4a1.
+[18:51:33]	Артем Петров entered observer.
+[18:51:34]	Артем Петров exited observer at their location.
+[18:51:35]	Александр Климов has taken 65 damage from Артем Петров.
+[18:51:36]	Артем Петров has taken 52 damage from Александр Климов.
+[18:51:37]	Александр Климов has taken 65 damage from Артем Петров.
+[18:51:37]	Артем Петров has killed Александр Климов with arccw_mifl_fas2_m4a1.
+[18:51:37]	Артем Петров has taken 13 damage from Александр Климов.
+[18:51:40]	Артем Петров entered observer.
+[18:51:41]	Артем Петров exited observer at their location.
+[18:51:41]	Александр Климов has taken 65 damage from Артем Петров.
+[18:51:42]	Александр Климов has taken 130 damage from Артем Петров.
+[18:51:42]	Артем Петров has killed Александр Климов with arccw_mifl_fas2_m4a1.
+[18:52:00]	Александр Климов has taken 267 damage from Артем Петров.
+[18:52:00]	Артем Петров has killed Александр Климов with arccw_mifl_fas2_deagle.
+[18:52:02]	Артем Петров entered observer.
+[18:52:02]	Александр Климов entered observer.
+[18:52:06]	Артем Петров exited observer at their location.
+[18:52:10]	Александр Климов exited observer at their location.
+[18:52:33]	Артем Петров has spawned a 'Entity [79][arccw_ammo_357_large]'.
+[18:52:41]	Артем Петров has spawned a 'Entity [79][sent_gladosquantumstoragedevice]'.
+[18:52:41]	Александр Климов has spawned a 'Entity [143][ent_jack_gmod_ezcsnade]'.
+[18:52:45]	Артем Петров has killed Артем Петров.
+[18:52:49]	Артем Петров entered observer.
+[18:52:56]	Артем Петров exited observer at their location.
+[18:53:04]	Артем Петров entered observer.
+[18:53:04]	Александр Климов ran 'Equip' on item 'M4' (#411)
+[18:53:04]	Артем Петров exited observer at their location.
+[18:53:07]	Артем Петров entered observer.
+[18:53:07]	Артем Петров exited observer at their location.
+[18:53:08]	Артем Петров has taken 13 damage from Александр Климов.
+[18:53:08]	Артем Петров has taken 103 damage from Александр Климов.
+[18:53:08]	Александр Климов has killed Артем Петров with arccw_m4a1.
+[18:53:11]	Артем Петров entered observer.
+[18:53:15]	Артем Петров exited observer at their location.
+[18:53:27]	Артем Петров has taken 104 damage from Александр Климов.
+[18:53:27]	Александр Климов has killed Артем Петров with arccw_m4a1.
+[18:53:29]	Артем Петров entered observer.
+[18:53:33]	Артем Петров exited observer at their location.
+[18:53:39]	Артем Петров entered observer.
+[18:53:40]	Артем Петров exited observer at their location.
+[18:53:40]	Артем Петров entered observer.
+[18:53:41]	Артем Петров exited observer at their location.
+[18:53:42]	Артем Петров entered observer.
+[18:53:43]	Артем Петров exited observer at their location.
+[18:53:43]	Александр Климов has killed Александр Климов.
+[18:53:44]	Артем Петров entered observer.
+[18:53:45]	Александр Климов entered observer.
+[18:53:46]	Артем Петров exited observer at their location.
+[18:53:46]	Артем Петров entered observer.
+[18:53:51]	Александр Климов exited observer at their location.
+[18:53:57]	Артем Петров exited observer at their location.
+[18:53:57]	Александр Климов ran 'Equip' on item 'M4' (#411)
+[18:53:59]	Артем Петров entered observer.
+[18:54:11]	Артем Петров exited observer at their location.
+[18:54:14]	Александр Климов entered observer.
+[18:54:15]	Артем Петров entered observer.
+[18:54:16]	Александр Климов exited observer at their location.
+[18:54:20]	Артем Петров exited observer at their location.
+[18:54:23]	Артем Петров has taken 13 damage from Александр Климов.
+[18:54:23]	Артем Петров has taken 104 damage from Александр Климов.
+[18:54:23]	Александр Климов has killed Артем Петров with arccw_m4a1.
+[18:54:25]	Артем Петров entered observer.
+[18:54:28]	Артем Петров exited observer at their location.
+[18:54:29]	Артем Петров entered observer.
+[18:54:30]	Артем Петров exited observer at their location.
+[18:54:31]	Артем Петров entered observer.
+[18:54:32]	Артем Петров exited observer at their location.
+[18:54:33]	Артем Петров entered observer.
+[18:54:34]	Артем Петров exited observer at their location.
+[18:54:37]	Артем Петров entered observer.
+[18:54:39]	Александр Климов entered observer.
+[18:54:40]	Александр Климов exited observer at their location.
+[18:54:40]	Артем Петров exited observer at their location.
+[18:54:43]	Артем Петров entered observer.
+[18:54:44]	Артем Петров exited observer at their location.
+[18:54:46]	Александр Климов entered observer.
+[18:54:46]	Александр Климов exited observer at their location.
+[18:54:48]	Артем Петров entered observer.
+[18:54:48]	Артем Петров exited observer at their location.
+[18:54:51]	Артем Петров has taken 52 damage from Александр Климов.
+[18:54:56]	Артем Петров has taken 51 damage from Александр Климов.
+[18:54:56]	Александр Климов has killed Артем Петров with arccw_m4a1.
+[18:55:00]	Артем Петров entered observer.
+[18:55:01]	Артем Петров exited observer at their location.
+[18:55:02]	Артем Петров entered observer.
+[18:55:03]	Александр Климов entered observer.
+[18:55:04]	Александр Климов exited observer at their location.
+[18:55:07]	Артем Петров exited observer at their location.
+[18:55:08]	Артем Петров entered observer.
+[18:55:09]	Артем Петров exited observer at their location.
+[18:55:11]	Александр Климов has taken 66 damage from Артем Петров.
+[18:55:11]	Александр Климов has taken 132 damage from Артем Петров.
+[18:55:11]	Артем Петров has killed Александр Климов with arccw_mifl_fas2_famas.
+[18:55:12]	Артем Петров entered observer.
+[18:55:13]	Артем Петров exited observer at their location.
+[18:55:13]	Александр Климов entered observer.
+[18:55:18]	Артем Петров has spawned a 'Entity [79][sent_quantumstoragedevice]'.
+[18:55:19]	Артем Петров has taken 1 damage from Артем Петров.
+[18:55:19]	Артем Петров has taken 1 damage from Артем Петров.
+[18:55:19]	Артем Петров has taken 1 damage from Артем Петров.
+[18:55:19]	Артем Петров has taken 1 damage from Артем Петров.
+[18:55:19]	Артем Петров has taken 1 damage from Артем Петров.
+[18:55:19]	Артем Петров has taken 1 damage from Артем Петров.
+[18:55:20]	Артем Петров has taken 1 damage from Артем Петров.
+[18:55:20]	Артем Петров has taken 1 damage from Артем Петров.
+[18:55:20]	Артем Петров has taken 1 damage from Артем Петров.
+[18:55:20]	Артем Петров has taken 1 damage from Артем Петров.
+[18:55:20]	Артем Петров has taken 1 damage from Артем Петров.
+[18:55:21]	Артем Петров has taken 1 damage from Артем Петров.
+[18:55:26]	Артем Петров entered observer.
+[18:55:26]	Артем Петров exited observer at their location.
+[18:55:28]	Александр Климов exited observer at their location.
+[18:55:31]	Артем Петров has spawned a 'Entity [198][sent_quantumstoragedevice]'.
+[18:55:31]	Александр Климов has taken 1 damage from Александр Климов.
+[18:55:31]	Артем Петров has taken 1 damage from Артем Петров.
+[18:55:31]	Александр Климов has taken 1 damage from Александр Климов.
+[18:55:31]	Артем Петров has taken 1 damage from Артем Петров.
+[18:55:31]	Александр Климов has taken 1 damage from Александр Климов.
+[18:55:31]	Артем Петров has taken 1 damage from Артем Петров.
+[18:55:32]	Александр Климов has taken 1 damage from Александр Климов.
+[18:55:32]	Артем Петров has taken 1 damage from Артем Петров.
+[18:55:32]	Александр Климов has taken 1 damage from Александр Климов.
+[18:55:32]	Артем Петров has taken 1 damage from Артем Петров.
+[18:55:32]	Александр Климов has taken 1 damage from Александр Климов.
+[18:55:32]	Артем Петров has taken 1 damage from Артем Петров.
+[18:55:32]	Александр Климов has taken 1 damage from Александр Климов.
+[18:55:32]	Артем Петров has taken 1 damage from Артем Петров.
+[18:55:32]	Александр Климов has taken 1 damage from Александр Климов.
+[18:55:32]	Артем Петров has taken 1 damage from Артем Петров.
+[18:55:33]	Александр Климов has taken 1 damage from Александр Климов.
+[18:55:33]	Артем Петров has taken 1 damage from Артем Петров.
+[18:55:33]	Александр Климов has taken 1 damage from Александр Климов.
+[18:55:33]	Артем Петров has taken 1 damage from Артем Петров.
+[18:55:33]	Александр Климов has taken 1 damage from Александр Климов.
+[18:55:33]	Артем Петров has taken 1 damage from Артем Петров.
+[18:55:33]	Александр Климов has taken 1 damage from Александр Климов.
+[18:55:33]	Артем Петров has taken 1 damage from Артем Петров.
+[18:55:33]	Александр Климов has taken 1 damage from Александр Климов.
+[18:55:33]	Артем Петров has taken 1 damage from Артем Петров.
+[18:55:34]	Александр Климов has taken 1 damage from Александр Климов.
+[18:55:34]	Артем Петров has taken 1 damage from Артем Петров.
+[18:55:34]	Александр Климов has taken 1 damage from Александр Климов.
+[18:55:34]	Александр Климов has taken 1 damage from Александр Климов.
+[18:55:34]	Александр Климов has taken 1 damage from Александр Климов.
+[18:55:34]	Александр Климов has taken 1 damage from Александр Климов.
+[18:55:35]	Александр Климов has taken 1 damage from Александр Климов.
+[18:55:35]	Александр Климов has taken 1 damage from Александр Климов.
+[18:55:35]	Александр Климов has taken 1 damage from Александр Климов.
+[18:55:35]	Александр Климов has taken 1 damage from Александр Климов.
+[18:55:35]	Александр Климов has taken 1 damage from Александр Климов.
+[18:55:36]	Александр Климов has spawned 'models/player/barney.mdl'.
+[18:55:36]	Александр Климов has taken 1 damage from Александр Климов.
+[18:55:36]	Александр Климов has taken 1 damage from Александр Климов.
+[18:55:36]	Александр Климов has taken 1 damage from Александр Климов.
+[18:55:36]	Александр Климов has taken 1 damage from Александр Климов.
+[18:55:36]	Александр Климов has taken 1 damage from Александр Климов.
+[18:55:37]	Александр Климов has taken 1 damage from Александр Климов.
+[18:55:37]	Александр Климов has taken 1 damage from Александр Климов.
+[18:55:37]	Александр Климов has taken 1 damage from Александр Климов.
+[18:55:37]	Александр Климов has taken 1 damage from Александр Климов.
+[18:55:37]	Александр Климов has taken 1 damage from Александр Климов.
+[18:55:38]	Александр Климов has taken 1 damage from Александр Климов.
+[18:55:38]	Александр Климов has taken 1 damage from Александр Климов.
+[18:55:38]	Александр Климов has taken 1 damage from Александр Климов.
+[18:55:38]	Александр Климов has taken 1 damage from Александр Климов.
+[18:55:38]	Александр Климов has taken 1 damage from Александр Климов.
+[18:55:41]	Александр Климов has taken 1 damage from Александр Климов.
+[18:55:41]	Александр Климов has taken 1 damage from Александр Климов.
+[18:55:41]	Александр Климов has taken 1 damage from Александр Климов.
+[18:55:42]	Александр Климов has taken 1 damage from Александр Климов.
+[18:55:42]	Александр Климов has taken 1 damage from Александр Климов.
+[18:55:42]	Александр Климов has taken 1 damage from Александр Климов.
+[18:55:42]	Александр Климов has taken 1 damage from Александр Климов.
+[18:55:42]	Александр Климов has taken 1 damage from Александр Климов.
+[18:55:43]	Александр Климов has taken 1 damage from Александр Климов.
+[18:55:43]	Александр Климов has taken 1 damage from Александр Климов.
+[18:55:43]	Александр Климов has taken 1 damage from Александр Климов.
+[18:55:43]	Александр Климов has taken 1 damage from Александр Климов.
+[18:55:43]	Александр Климов has taken 1 damage from Александр Климов.
+[18:55:53]	Александр Климов has taken 25 damage from Артем Петров.
+[18:56:10]	Александр Климов has taken 132 damage from Артем Петров.
+[18:56:10]	Артем Петров has killed Александр Климов with arccw_mifl_fas2_deagle.
+[18:56:11]	Александр Климов ran 'Equip' on item 'M9' (#307)
+[18:56:12]	Александр Климов entered observer.
+[18:56:15]	Александр Климов exited observer at their location.
+[18:56:18]	Артем Петров has taken 91 damage from Александр Климов.
+[18:56:18]	Александр Климов has killed Артем Петров with arccw_m9.
+[18:56:23]	Артем Петров entered observer.
+[18:56:24]	Александр Климов ran 'Equip' on item 'M4' (#411)
+[18:56:27]	Артем Петров exited observer at their location.
+[18:56:28]	Артем Петров entered observer.
+[18:56:28]	Артем Петров exited observer at their location.
+[18:56:29]	Артем Петров entered observer.
+[18:56:30]	Артем Петров exited observer at their location.
+[18:56:31]	Александр Климов entered observer.
+[18:56:33]	Артем Петров entered observer.
+[18:56:34]	Александр Климов exited observer at their location.
+[18:56:37]	Артем Петров exited observer at their location.
+[18:56:43]	Александр Климов entered observer.
+[18:56:46]	Артем Петров entered observer.
+[18:56:48]	Александр Климов exited observer at their location.
+[18:56:49]	Александр Климов entered observer.
+[18:56:50]	Александр Климов exited observer at their location.
+[18:56:51]	Александр Климов has taken 57 damage from Артем Петров.
+[18:56:51]	Александр Климов has taken 58 damage from Артем Петров.
+[18:56:51]	Артем Петров has killed Александр Климов with arccw_mifl_fas2_ks23.
+[18:56:53]	Александр Климов entered observer.
+[18:56:57]	Артем Петров exited observer at their location.
+[18:56:57]	Александр Климов exited observer at their location.
+[18:56:59]	Александр Климов has taken 56 damage from Артем Петров.
+[18:57:02]	Артем Петров entered observer.
+[18:57:03]	Александр Климов ran 'Equip' on item 'M4' (#411)
+[18:57:10]	Александр Климов has taken 27 damage from Артем Петров.
+[18:57:10]	Александр Климов has taken 28 damage from Артем Петров.
+[18:57:10]	Артем Петров has killed Александр Климов with arccw_mifl_fas2_ks23.
+[18:57:12]	Александр Климов entered observer.
+[18:57:13]	Артем Петров exited observer at their location.
+[18:57:24]	Александр Климов exited observer at their location.
+[18:57:34]	Артем Петров entered observer.
+[18:57:43]	Артем Петров exited observer at their location.
+[18:57:45]	Артем Петров entered observer.
+[18:57:45]	Артем Петров exited observer at their location.
+[18:57:47]	Артем Петров entered observer.
+[18:57:48]	Артем Петров exited observer at their location.
+[18:57:49]	Александр Климов has taken 103 damage from Артем Петров.
+[18:57:49]	Артем Петров has killed Александр Климов with arccw_mifl_fas2_m82.
+[18:57:51]	Александр Климов entered observer.
+[18:57:55]	Александр Климов exited observer at their location.
+[18:58:00]	Александр Климов ran 'Equip' on item 'M4' (#411)
+[18:58:00]	Артем Петров entered observer.
+[18:58:02]	Артем Петров exited observer at their location.
+[18:58:03]	Артем Петров entered observer.
+[18:58:03]	Артем Петров exited observer at their location.
+[18:58:05]	Александр Климов has taken 1 damage from Александр Климов.
+[18:58:05]	Артем Петров has taken 1 damage from Артем Петров.
+[18:58:06]	Александр Климов has taken 1 damage from Александр Климов.
+[18:58:06]	Артем Петров has taken 1 damage from Артем Петров.
+[18:58:06]	Александр Климов has taken 1 damage from Александр Климов.
+[18:58:06]	Артем Петров has taken 1 damage from Артем Петров.
+[18:58:06]	Александр Климов has taken 1 damage from Александр Климов.
+[18:58:06]	Артем Петров has taken 1 damage from Артем Петров.
+[18:58:06]	Александр Климов has taken 1 damage from Александр Климов.
+[18:58:06]	Артем Петров has taken 1 damage from Артем Петров.
+[18:58:06]	Александр Климов has taken 1 damage from Александр Климов.
+[18:58:06]	Артем Петров has taken 1 damage from Артем Петров.
+[18:58:07]	Александр Климов has taken 1 damage from Александр Климов.
+[18:58:07]	Артем Петров has taken 1 damage from Артем Петров.
+[18:58:07]	Александр Климов has taken 1 damage from Александр Климов.
+[18:58:07]	Артем Петров has taken 1 damage from Артем Петров.
+[18:58:07]	Александр Климов has taken 1 damage from Александр Климов.
+[18:58:07]	Артем Петров has taken 1 damage from Артем Петров.
+[18:58:07]	Александр Климов has taken 1 damage from Александр Климов.
+[18:58:07]	Артем Петров has taken 1 damage from Артем Петров.
+[18:58:07]	Александр Климов has taken 1 damage from Александр Климов.
+[18:58:07]	Артем Петров has taken 1 damage from Артем Петров.
+[18:58:08]	Александр Климов has taken 1 damage from Александр Климов.
+[18:58:08]	Артем Петров has taken 1 damage from Артем Петров.
+[18:58:08]	Александр Климов has taken 1 damage from Александр Климов.
+[18:58:13]	Артем Петров has spawned a 'Entity [136][ent_jack_gmod_ezsticknadebundle]'.
+[18:58:20]	Артем Петров entered observer.
+[18:58:20]	Артем Петров exited observer at their location.
+[18:58:27]	Артем Петров has taken 51 damage from Александр Климов.
+[18:58:29]	Артем Петров has taken 51 damage from Александр Климов.
+[18:58:29]	Александр Климов has killed Артем Петров with arccw_m4a1.
+[18:58:31]	Артем Петров entered observer.
+[18:58:36]	Артем Петров exited observer at their location.
+[18:58:39]	Александр Климов has taken 27 damage from Артем Петров.
+[18:58:41]	Артем Петров entered observer.
+[18:58:42]	Артем Петров exited observer at their location.
+[18:58:43]	Александр Климов has taken 109 damage from Артем Петров.
+[18:58:43]	Артем Петров has killed Александр Климов with arccw_mifl_fas2_g3.
+[18:58:48]	Артем Петров entered observer.
+[18:58:49]	Александр Климов entered observer.
+[18:58:53]	Александр Климов exited observer at their location.
+[18:58:57]	Александр Климов ran 'Equip' on item 'M4' (#411)
+[18:58:58]	Артем Петров exited observer at their location.
+[18:59:00]	Александр Климов entered observer.
+[18:59:01]	Артем Петров entered observer.
+[18:59:05]	Артем Петров exited observer at their location.
+[18:59:07]	Александр Климов exited observer at their location.
+[18:59:08]	Артем Петров entered observer.
+[18:59:08]	Артем Петров exited observer at their location.
+[18:59:09]	Артем Петров entered observer.
+[18:59:11]	Артем Петров exited observer at their location.
+[18:59:12]	Артем Петров entered observer.
+[18:59:15]	Артем Петров exited observer at their location.
+[18:59:16]	Артем Петров entered observer.
+[18:59:17]	Артем Петров exited observer at their location.
+[18:59:19]	Артем Петров entered observer.
+[18:59:20]	Артем Петров exited observer at their location.
+[18:59:21]	Александр Климов has taken 112 damage from Артем Петров.
+[18:59:21]	Артем Петров has killed Александр Климов with arccw_mifl_fas2_m82.
+[18:59:23]	Артем Петров entered observer.
+[18:59:23]	Александр Климов entered observer.
+[18:59:23]	Артем Петров exited observer at their location.
+[18:59:24]	Артем Петров entered observer.
+[18:59:25]	Артем Петров exited observer at their location.
+[18:59:25]	Артем Петров entered observer.
+[18:59:29]	Александр Климов exited observer at their location.
+[18:59:40]	Артем Петров exited observer at their location.
+[18:59:43]	Артем Петров entered observer.
+[18:59:43]	Артем Петров exited observer at their location.
+[18:59:44]	Артем Петров entered observer.
+[18:59:46]	Артем Петров exited observer at their location.
+[18:59:49]	Артем Петров entered observer.
+[18:59:49]	Артем Петров exited observer at their location.
+[18:59:51]	Артем Петров entered observer.
+[18:59:54]	Александр Климов has taken 109 damage from Артем Петров.
+[18:59:54]	Артем Петров has killed Александр Климов with arccw_mifl_fas2_m82.
+[18:59:56]	Артем Петров exited observer at their location.
+[18:59:59]	Артем Петров entered observer.
+[19:00:04]	Александр Климов entered observer.
+[19:00:04]	Артем Петров exited observer at their location.
+[19:00:05]	Артем Петров entered observer.
+[19:00:11]	Александр Климов exited observer at their location.
+[19:00:17]	Артем Петров exited observer at their location.
+[19:00:18]	Александр Климов has taken 984 damage from Артем Петров.
+[19:00:18]	Артем Петров has killed Александр Климов with arccw_mifl_fas2_m82.
+[19:00:19]	Артем Петров entered observer.
+[19:00:25]	Артем Петров exited observer at their location.
+[19:00:26]	Артем Петров entered observer.
+[19:00:35]	Артем Петров exited observer at their location.
+[19:00:42]	Артем Петров has spawned a 'Entity [212][arccw_ammo_buckshot]'.
+[19:00:43]	Артем Петров entered observer.
+[19:00:44]	Артем Петров exited observer at their location.
+[19:00:46]	Артем Петров entered observer.
+[19:00:48]	Артем Петров exited observer at their location.
+[19:00:51]	Артем Петров entered observer.
+[19:00:51]	Артем Петров exited observer at their location.
+[19:00:52]	Александр Климов ran 'Equip' on item 'M4' (#411)
+[19:00:55]	Артем Петров entered observer.
+[19:00:56]	Артем Петров exited observer at their location.
+[19:00:57]	Артем Петров entered observer.
+[19:00:59]	Артем Петров exited observer at their location.
+[19:01:07]	Артем Петров entered observer.
+[19:01:11]	Артем Петров exited observer at their location.
+[19:01:11]	Артем Петров entered observer.
+[19:01:12]	Артем Петров exited observer at their location.
+[19:01:13]	Артем Петров entered observer.
+[19:01:18]	Александр Климов entered observer.
+[19:01:19]	Александр Климов exited observer at their location.
+[19:01:20]	Артем Петров exited observer at their location.
+[19:01:20]	Артем Петров entered observer.
+[19:01:24]	Артем Петров exited observer at their location.
+[19:01:27]	Александр Климов has taken 56 damage from Артем Петров.
+[19:01:27]	Александр Климов has taken 55 damage from Артем Петров.
+[19:01:27]	Артем Петров has killed Александр Климов with arccw_mifl_fas2_ragingbull.
+[19:01:30]	Александр Климов entered observer.
+[19:01:45]	Александр Климов exited observer at their location.
+[19:01:47]	Александр Климов ran 'Equip' on item 'M4' (#411)
+[19:01:49]	Артем Петров entered observer.
+[19:01:50]	Артем Петров exited observer at their location.
+[19:01:53]	Артем Петров entered observer.
+[19:01:54]	Артем Петров exited observer at their location.
+[19:01:54]	Артем Петров entered observer.
+[19:01:54]	Артем Петров exited observer at their location.
+[19:01:56]	Артем Петров entered observer.
+[19:01:58]	Артем Петров exited observer at their location.
+[19:01:59]	Артем Петров entered observer.
+[19:01:59]	Артем Петров exited observer at their location.
+[19:02:30]	Артем Петров has taken 13 damage from Александр Климов.
+[19:02:30]	Артем Петров has taken 13 damage from Александр Климов.
+[19:02:30]	Артем Петров has taken 52 damage from Александр Климов.
+[19:02:30]	Артем Петров has taken 13 damage from Александр Климов.
+[19:02:30]	Артем Петров has taken 13 damage from Александр Климов.
+[19:02:30]	Александр Климов has killed Артем Петров with arccw_m4a1.
+[19:02:32]	Артем Петров entered observer.
+[19:02:37]	Артем Петров exited observer at their location.
+[19:02:43]	Артем Петров has spawned a 'Entity [81][arccw_ammo_buckshot]'.
+[19:02:46]	Артем Петров entered observer.
+[19:02:46]	Артем Петров exited observer at their location.
+[19:02:48]	Артем Петров entered observer.
+[19:02:49]	Артем Петров exited observer at their location.
+[19:02:51]	Артем Петров entered observer.
+[19:02:51]	Артем Петров exited observer at their location.
+[19:02:53]	Артем Петров entered observer.
+[19:02:53]	Артем Петров exited observer at their location.
+[19:02:57]	Артем Петров entered observer.
+[19:02:59]	Артем Петров exited observer at their location.
+[19:03:00]	Артем Петров has taken 52 damage from Александр Климов.
+[19:03:00]	Александр Климов has taken 28 damage from Артем Петров.
+[19:03:00]	Александр Климов has taken 27 damage from Артем Петров.
+[19:03:00]	Александр Климов has taken 27 damage from Артем Петров.
+[19:03:00]	Александр Климов has taken 27 damage from Артем Петров.
+[19:03:00]	Артем Петров has killed Александр Климов with arccw_mifl_fas2_ragingbull.
+[19:03:02]	Александр Климов entered observer.
+[19:03:08]	Артем Петров entered observer.
+[19:03:09]	Артем Петров exited observer at their location.
+[19:03:15]	Александр Климов exited observer at their location.
+[19:03:16]	Александр Климов ran 'Equip' on item 'M4' (#411)
+[19:03:17]	Артем Петров entered observer.
+[19:03:18]	Артем Петров exited observer at their location.
+[19:03:19]	Артем Петров entered observer.
+[19:03:20]	Артем Петров exited observer at their location.
+[19:03:23]	Александр Климов has taken 33 damage from Артем Петров.
+[19:03:25]	Александр Климов has taken 32 damage from Артем Петров.
+[19:03:27]	Артем Петров entered observer.
+[19:03:27]	Артем Петров exited observer at their location.
+[19:03:28]	Артем Петров entered observer.
+[19:03:30]	Артем Петров exited observer at their location.
+[19:03:33]	Александр Климов has taken 40 damage from Артем Петров.
+[19:03:33]	Артем Петров has killed Александр Климов with arccw_mifl_fas2_ragingbull.
+[19:03:33]	Артем Петров has taken 48 damage from worldspawn.
+[19:03:33]	worldspawn has killed Артем Петров.
+[19:03:35]	Александр Климов entered observer.
+[19:03:39]	Артем Петров entered observer.
+[19:03:42]	Александр Климов exited observer at their location.
+[19:03:45]	Артем Петров exited observer at their location.
+[19:03:45]	Александр Климов ran 'Equip' on item 'M4' (#411)
+[19:03:56]	Артем Петров entered observer.
+[19:03:58]	Артем Петров exited observer at their location.
+[19:04:00]	Артем Петров entered observer.
+[19:04:01]	Артем Петров exited observer at their location.
+[19:04:03]	Артем Петров entered observer.
+[19:04:03]	Артем Петров exited observer at their location.
+[19:04:05]	Артем Петров entered observer.
+[19:04:27]	Артем Петров exited observer at their location.
+[19:04:29]	Артем Петров has taken 51 damage from Александр Климов.
+[19:04:30]	Артем Петров has taken 13 damage from Александр Климов.
+[19:04:31]	Артем Петров has taken 13 damage from Александр Климов.
+[19:04:31]	Артем Петров has taken 13 damage from Александр Климов.
+[19:04:32]	Артем Петров entered observer.
+[19:04:33]	Артем Петров exited observer at their location.
+[19:04:34]	Артем Петров has taken 13 damage from Александр Климов.
+[19:04:34]	Александр Климов has killed Артем Петров with arccw_m4a1.
+[19:04:36]	Артем Петров entered observer.
+[19:04:46]	Александр Климов has taken 48 damage from worldspawn.
+[19:05:07]	Артем Петров exited observer at their location.
+[19:05:10]	Артем Петров entered observer.
+[19:05:10]	Артем Петров entered observer.
+[19:05:15]	Артем Петров entered observer.
+[19:05:15]	Артем Петров entered observer.
+[19:05:20]	Артем Петров exited observer at their location.
+[19:06:30]	Артем Петров entered observer.
+[19:06:35]	Артем Петров entered observer.
+[19:06:36]	Артем Петров exited observer at their location.
+[19:06:38]	Артем Петров entered observer.
+[19:06:43]	Артем Петров exited observer at their location.
+[19:06:44]	Александр Климов has spawned a 'Entity [104][ent_jack_gmod_ezminimore]'.
+[19:06:46]	Александр Климов has spawned a 'Entity [161][ent_jack_gmod_ezminimore]'.
+[19:06:48]	Александр Климов has spawned a 'Entity [197][ent_jack_gmod_ezminimore]'.
+[19:06:49]	Александр Климов has spawned a 'Entity [210][ent_jack_gmod_ezminimore]'.
+[19:06:50]	Александр Климов has spawned a 'Entity [212][ent_jack_gmod_ezminimore]'.
+[19:06:51]	Александр Климов has taken 2 damage from Александр Климов.
+[19:06:51]	Александр Климов has taken 2 damage from Александр Климов.
+[19:06:51]	Александр Климов has taken 10 damage from Александр Климов.
+[19:06:51]	Александр Климов has taken 2 damage from Александр Климов.
+[19:06:52]	Артем Петров has taken 2 damage from Александр Климов.
+[19:06:52]	Артем Петров has taken 2 damage from Александр Климов.
+[19:06:52]	Артем Петров has taken 10 damage from Александр Климов.
+[19:06:52]	Артем Петров has taken 10 damage from Александр Климов.
+[19:06:52]	Артем Петров has taken 2 damage from Александр Климов.
+[19:06:52]	Артем Петров has taken 2 damage from Александр Климов.
+[19:06:52]	Артем Петров has taken 2 damage from Александр Климов.
+[19:06:52]	Артем Петров has taken 2 damage from Александр Климов.
+[19:06:52]	Артем Петров has taken 2 damage from Александр Климов.
+[19:06:52]	Артем Петров has taken 2 damage from Александр Климов.
+[19:06:52]	Артем Петров has taken 2 damage from Александр Климов.
+[19:06:52]	Артем Петров has taken 2 damage from Александр Климов.
+[19:06:52]	Артем Петров has taken 2 damage from Александр Климов.
+[19:06:52]	Артем Петров has taken 2 damage from Александр Климов.
+[19:06:52]	Артем Петров has taken 2 damage from Александр Климов.
+[19:06:52]	Артем Петров has taken 2 damage from Александр Климов.
+[19:06:52]	Артем Петров has taken 2 damage from Александр Климов.
+[19:06:52]	Артем Петров has taken 2 damage from Александр Климов.
+[19:06:52]	Артем Петров has taken 10 damage from Александр Климов.
+[19:06:52]	Артем Петров has taken 2 damage from Александр Климов.
+[19:06:52]	Артем Петров has taken 2 damage from Александр Климов.
+[19:06:52]	Артем Петров has taken 10 damage from Александр Климов.
+[19:06:52]	Артем Петров has taken 2 damage from Александр Климов.
+[19:06:52]	Артем Петров has taken 2 damage from Александр Климов.
+[19:06:52]	Артем Петров has taken 2 damage from Александр Климов.
+[19:06:52]	Артем Петров has taken 2 damage from Александр Климов.
+[19:06:52]	Артем Петров has taken 2 damage from Александр Климов.
+[19:06:52]	Артем Петров has taken 2 damage from Александр Климов.
+[19:06:52]	Александр Климов has killed Артем Петров with ix_hands.
+[19:06:53]	Александр Климов has taken 2 damage from Александр Климов.
+[19:06:54]	Артем Петров entered observer.
+[19:06:58]	Александр Климов has spawned a 'Entity [79][ent_jack_gmod_ezminimore]'.
+[19:06:59]	Артем Петров exited observer at their location.
+[19:07:00]	Александр Климов has spawned a 'Entity [81][ent_jack_gmod_ezminimore]'.
+[19:07:02]	Александр Климов has spawned a 'Entity [210][ent_jack_gmod_ezminimore]'.
+[19:07:04]	Александр Климов has spawned a 'Entity [212][ent_jack_gmod_ezminimore]'.
+[19:07:05]	Артем Петров entered observer.
+[19:07:05]	Александр Климов has spawned a 'Entity [219][ent_jack_gmod_ezminimore]'.
+[19:07:06]	Александр Климов has spawned a 'Entity [161][ent_jack_gmod_ezminimore]'.
+[19:07:08]	Александр Климов has spawned a 'Entity [104][ent_jack_gmod_ezminimore]'.
+[19:07:10]	Александр Климов has spawned a 'Entity [161][ent_jack_gmod_ezminimore]'.
+[19:07:12]	Александр Климов has spawned a 'Entity [215][ent_jack_gmod_ezminimore]'.
+[19:07:13]	Александр Климов has spawned a 'Entity [222][ent_jack_gmod_ezminimore]'.
+[19:07:15]	Артем Петров has taken 2 damage from Александр Климов.
+[19:07:16]	Александр Климов has taken 2 damage from Александр Климов.
+[19:07:16]	Артем Петров has taken 10 damage from Александр Климов.
+[19:07:16]	Артем Петров has taken 2 damage from Александр Климов.
+[19:07:16]	Александр Климов has taken 2 damage from Александр Климов.
+[19:07:16]	Артем Петров has taken 2 damage from Александр Климов.
+[19:07:16]	Александр Климов has taken 2 damage from Александр Климов.
+[19:07:16]	Александр Климов has taken 10 damage from Александр Климов.
+[19:07:16]	Александр Климов has taken 2 damage from Александр Климов.
+[19:07:16]	Александр Климов has taken 2 damage from Александр Климов.
+[19:07:16]	Александр Климов has taken 2 damage from Александр Климов.
+[19:07:16]	Александр Климов has taken 2 damage from Александр Климов.
+[19:07:16]	Александр Климов has taken 10 damage from Александр Климов.
+[19:07:16]	Александр Климов has killed Александр Климов.
+[19:07:18]	Александр Климов entered observer.
+[19:07:22]	Александр Климов exited observer at their location.
+[19:07:24]	Артем Петров entered observer.
+[19:07:25]	Артем Петров entered observer.
+[19:07:26]	Александр Климов has spawned a 'Entity [81][ent_jack_gmod_ezweapon_rocketlauncher]'.
+[19:07:28]	Александр Климов has spawned a 'Entity [81][ent_jack_gmod_ezmunitions]'.
+[19:07:29]	Артем Петров exited observer at their location.
+[19:07:38]	Артем Петров has taken 124 damage from Александр Климов.
+[19:07:38]	Александр Климов has taken 43 damage from Александр Климов.
+[19:07:38]	Артем Петров has taken 143 damage from Александр Климов.
+[19:07:38]	Александр Климов has taken 87 damage from Александр Климов.
+[19:07:38]	Александр Климов has killed Александр Климов.
+[19:07:41]	Александр Климов entered observer.
+[19:07:46]	Александр Климов exited observer at their location.
+[19:07:51]	Александр Климов has taken 47 damage from worldspawn.
+[19:08:07]	Артем Петров entered observer.
+[19:08:08]	Артем Петров exited observer at their location.
+[19:08:10]	Артем Петров entered observer.
+[19:08:15]	Артем Петров exited observer at their location.
+[19:08:29]	Александр Климов has spawned a 'Entity [87][ent_jack_gmod_ezweapon_rocketlauncher]'.
+[19:08:31]	Александр Климов has spawned a 'Entity [87][ent_jack_gmod_ezmunitions]'.
+[19:08:38]	Артем Петров has taken 150 damage from Александр Климов.
+[19:08:38]	Александр Климов has taken 39 damage from Александр Климов.
+[19:08:38]	Артем Петров has taken 129 damage from Александр Климов.
+[19:08:45]	Александр Климов has taken 1000 damage from Артем Петров.
+[19:08:45]	Артем Петров has killed Александр Климов.
+[19:08:50]	Артем Петров entered observer.
+[19:08:51]	Артем Петров entered observer.
+[19:08:56]	Артем Петров exited observer at their location.
+[19:09:14]	Александр Климов has spawned a 'Entity [180][ent_jack_gmod_ezmunitions]'.
+[19:09:17]	Александр Климов has spawned a 'Entity [203][ent_jack_gmod_ezweapon_rocketlauncher]'.
+[19:09:25]	Александр Климов has taken 19 damage from Александр Климов.
+[19:09:25]	Артем Петров has taken 39 damage from Александр Климов.
+[19:09:25]	Александр Климов has taken 24 damage from Александр Климов.
+[19:09:25]	Артем Петров has taken 15 damage from Александр Климов.
+[19:09:25]	Александр Климов has taken 16 damage from Александр Климов.
+[19:09:25]	Артем Петров has taken 21 damage from Александр Климов.
+[19:09:25]	Артем Петров has taken 14 damage from Александр Климов.
+[19:09:25]	Александр Климов has taken 69 damage from Александр Климов.
+[19:09:25]	Александр Климов has killed Александр Климов.
+[19:09:25]	Артем Петров has taken 76 damage from Александр Климов.
+[19:09:32]	Александр Климов has spawned a 'Entity [180][ent_jack_gmod_ezweapon_rocketlauncher]'.
+[19:09:34]	Александр Климов has spawned a 'Entity [180][ent_jack_gmod_ezmunitions]'.
+[19:09:41]	Артем Петров entered observer.
+[19:09:41]	Артем Петров entered observer.
+[19:09:44]	Артем Петров exited observer at their location.
+[19:10:00]	Александр Климов used command '/CharSetModel Ал models/npc/combine_standard_officer.mdl'.
+[19:10:12]	Александр Климов has taken 1000 damage from Артем Петров.
+[19:10:12]	Артем Петров has killed Александр Климов.
+[19:10:17]	Александр Климов has spawned a 'Entity [203][ent_jack_gmod_ezmunitions]'.
+[19:10:18]	Александр Климов has spawned a 'Entity [210][ent_jack_gmod_ezweapon_rocketlauncher]'.
+[19:10:41]	Александр Климов has taken 16 damage from Александр Климов.
+[19:10:41]	Александр Климов has taken 24 damage from Александр Климов.
+[19:10:41]	Александр Климов has taken 9 damage from Александр Климов.
+[19:10:41]	Артем Петров has taken 140 damage from Александр Климов.
+[19:10:41]	Артем Петров has taken 138 damage from Александр Климов.
+[19:11:02]	Артем Петров has taken 127 damage from Александр Климов.
+[19:11:02]	Александр Климов has taken 130 damage from Александр Климов.
+[19:11:02]	Александр Климов has killed Александр Климов.
+[19:11:02]	Артем Петров has taken 136 damage from Александр Климов.
+[19:11:36]	Александр Климов has spawned a 'Entity [203][ent_jack_gmod_ezweapon_shotrevolver]'.
+[19:11:38]	Александр Климов has spawned a 'Entity [203][ent_jack_gmod_ezammo]'.
+[19:11:48]	Артем Петров entered observer.
+[19:11:48]	Артем Петров exited observer at their location.
+[19:11:49]	Артем Петров entered observer.
+[19:12:12]	Александр Климов has taken 1000 damage from Артем Петров.
+[19:12:12]	Артем Петров has killed Александр Климов.
+[19:12:16]	Александр Климов entered observer.
+[19:12:21]	Александр Климов exited observer at their location.
+[19:12:27]	Александр Климов has spawned a 'Entity [210][ent_jack_gmod_ezammo]'.
+[19:12:29]	Александр Климов has spawned a 'Entity [212][ent_jack_gmod_ezweapon_sas]'.
+[19:12:37]	Александр Климов has taken 1000 damage from Артем Петров.
+[19:12:37]	Артем Петров has killed Александр Климов.
+[19:12:40]	Александр Климов has spawned a 'Entity [210][ent_jack_gmod_ezweapon_sas]'.
+[19:12:42]	Александр Климов has spawned a 'Entity [210][ent_jack_gmod_ezammo]'.
+[19:12:54]	Александр Климов has taken 1000 damage from Артем Петров.
+[19:12:54]	Артем Петров has killed Александр Климов.
+[19:13:12]	Александр Климов has taken 1000 damage from Артем Петров.
+[19:13:12]	Артем Петров has killed Александр Климов.
+[19:13:15]	Александр Климов has spawned a 'Entity [210][ent_jack_gmod_ezmunitions]'.
+[19:13:17]	Александр Климов has spawned a 'Entity [223][ent_jack_gmod_ezweapon_mgl]'.
+[19:13:49]	Александр Климов has taken 43 damage from worldspawn.
+[19:13:52]	Александр Климов has taken 68 damage from Александр Климов.
+[19:13:52]	Александр Климов has killed Александр Климов.
+[19:14:00]	Александр Климов has spawned a 'Entity [212][ent_jack_gmod_ezweapon_gl]'.
+[19:14:06]	Александр Климов has spawned a 'Entity [233][ent_jack_gmod_ezmunitions]'.
+[19:14:08]	Артем Петров entered observer.
+[19:14:08]	Артем Петров exited observer at their location.
+[19:14:09]	Артем Петров entered observer.
+[19:14:11]	Александр Климов entered observer.
+[19:14:19]	Александр Климов exited observer at their location.
+[19:14:21]	Артем Петров exited observer at their location.
+[19:14:34]	Александр Климов has taken 61 damage from Александр Климов.
+[19:14:45]	Александр Климов has taken 15 damage from Александр Климов.
+[19:14:45]	Артем Петров has taken 41 damage from Александр Климов.
+[19:14:45]	Александр Климов has killed Артем Петров with wep_jack_gmod_gl.
+[19:14:47]	Артем Петров entered observer.
+[19:14:51]	Артем Петров exited observer at their location.
+[19:14:54]	Александр Климов has taken 80 damage from Александр Климов.
+[19:15:03]	Артем Петров has killed Артем Петров.
+[19:15:03]	Артем Петров has killed Артем Петров.
+[19:15:03]	Артем Петров has killed Артем Петров.
+[19:15:03]	Артем Петров has killed Артем Петров.
+[19:15:03]	Артем Петров has killed Артем Петров.
+[19:15:03]	Артем Петров has killed Артем Петров.
+[19:15:03]	Артем Петров has killed Артем Петров.
+[19:15:03]	Артем Петров has killed Артем Петров.
+[19:15:03]	Артем Петров has killed Артем Петров.
+[19:15:05]	Артем Петров entered observer.
+[19:15:08]	Артем Петров has killed Артем Петров.
+[19:15:08]	Артем Петров has killed Артем Петров.
+[19:15:08]	Артем Петров has killed Артем Петров.
+[19:15:08]	Артем Петров has killed Артем Петров.
+[19:15:08]	Артем Петров has killed Артем Петров.
+[19:15:08]	Артем Петров has killed Артем Петров.
+[19:15:08]	Артем Петров has killed Артем Петров.
+[19:15:08]	Артем Петров has killed Артем Петров.
+[19:15:08]	Артем Петров has killed Артем Петров.
+[19:15:08]	Александр Климов has taken 59 damage from Артем Петров.
+[19:15:08]	Артем Петров has killed Александр Климов.
+[19:15:10]	Артем Петров entered observer.
+[19:15:18]	Александр Климов entered observer.
+[19:15:20]	Артем Петров has killed Артем Петров.
+[19:15:20]	Артем Петров has killed Артем Петров.
+[19:15:20]	Артем Петров has killed Артем Петров.
+[19:15:21]	Артем Петров entered observer.
+[19:15:24]	Александр Климов exited observer at their location.
+[19:15:26]	Александр Климов has spawned a 'Entity [87][ent_jack_gmod_ezmunitions]'.
+[19:15:28]	Александр Климов has spawned a 'Entity [103][ent_jack_gmod_ezweapon_sas]'.
+[19:15:29]	Артем Петров has killed Артем Петров.
+[19:15:31]	Артем Петров entered observer.
+[19:15:33]	Александр Климов has spawned a 'Entity [87][ent_jack_gmod_ezammo]'.
+[19:15:39]	Артем Петров exited observer at their location.
+[19:15:41]	Артем Петров has spawned a 'Entity [87][ent_jack_gmod_ezclusterbomb]'.
+[19:15:55]	Артем Петров entered observer.
+[19:15:58]	Артем Петров exited observer at their location.
+[19:15:58]	Артем Петров entered observer.
+[19:16:02]	Александр Климов entered observer.
+[19:16:04]	Александр Климов exited observer at their location.
+[19:16:13]	Александр Климов has spawned a 'Entity [223][ent_jack_gmod_ezmunitions]'.
+[19:16:16]	Александр Климов has spawned a 'Entity [103][ent_jack_gmod_ezweapon_gl]'.
+[19:16:46]	Александр Климов has taken 20 damage from Александр Климов.
+[19:16:47]	Александр Климов has taken 242 damage from Артем Петров.
+[19:16:47]	Артем Петров has killed Александр Климов with ix_hands.
+[19:16:59]	Александр Климов ran 'drop' on item 'Контейнер гильз 12 Калибра' (#410)
+[19:16:59]	Александр Климов has lost a 'Контейнер гильз 12 Калибра' #410.
+[19:17:03]	Александр Климов ran 'take' on item 'Контейнер гильз 12 Калибра' (#410)
+[19:17:03]	Александр Климов has gained a 'Контейнер гильз 12 Калибра' #410.
+[19:17:13]	Александр Климов has taken 236 damage from Артем Петров.
+[19:17:13]	Артем Петров has killed Александр Климов with weapon_ied.
+[19:17:15]	Александр Климов entered observer.
+[19:17:18]	Александр Климов exited observer at their location.
+[19:17:26]	Александр Климов has taken 210 damage from Артем Петров.
+[19:17:26]	Артем Петров has killed Александр Климов with weapon_ied.
+[19:17:27]	Александр Климов entered observer.
+[19:17:29]	Артем Петров exited observer at their location.
+[19:17:30]	Александр Климов exited observer at their location.
+[19:17:56]	Артем Петров has taken 86 damage from Артем Петров.
+[19:18:15]	Артем Петров has taken 53 damage from Артем Петров.
+[19:18:15]	Артем Петров has killed Артем Петров.
+[19:18:17]	Артем Петров entered observer.
+[19:18:23]	Александр Климов entered observer.
+[19:18:25]	Артем Петров exited observer at their location.
+[19:18:26]	Александр Климов exited observer at their location.
+[19:19:00]	Артем Петров has taken 274 damage from Артем Петров.
+[19:19:00]	Артем Петров has killed Артем Петров.
+[19:19:03]	Артем Петров entered observer.
+[19:19:07]	Артем Петров exited observer at their location.
+[19:19:08]	Артем Петров entered observer.
+[19:19:09]	Артем Петров exited observer at their location.
+[19:19:17]	Александр Климов set spawnTime to '3'.
+[19:19:21]	Артем Петров has taken 40 damage from Артем Петров.
+[19:19:21]	Александр Климов has taken 127 damage from Артем Петров.
+[19:19:21]	Артем Петров has killed Александр Климов with weapon_physcannon.
+[19:19:24]	Александр Климов entered observer.
+[19:19:27]	Александр Климов exited observer at their location.
+[19:19:49]	Александр Климов has taken 289 damage from Артем Петров.
+[19:19:49]	Артем Петров has killed Александр Климов with weapon_physcannon.
+[19:19:53]	Александр Климов entered observer.
+[19:19:57]	Александр Климов exited observer at their location.
+[19:20:23]	Александр Климов has taken 254 damage from Артем Петров.
+[19:20:23]	Артем Петров has killed Александр Климов with weapon_physcannon.
+[19:20:27]	Александр Климов entered observer.
+[19:20:29]	Александр Климов exited observer at their location.
+[19:20:51]	Артем Петров has taken 274 damage from Артем Петров.
+[19:20:51]	Артем Петров has killed Артем Петров.
+[19:20:55]	Артем Петров entered observer.
+[19:20:58]	Артем Петров exited observer at their location.
+[19:21:22]	Артем Петров has taken 262 damage from Артем Петров.
+[19:21:22]	Артем Петров has killed Артем Петров.
+[19:21:27]	Артем Петров entered observer.
+[19:21:31]	Артем Петров exited observer at their location.
+[19:21:40]	Александр Климов has taken 105 damage from Артем Петров.
+[19:21:40]	Артем Петров has killed Александр Климов with weapon_physcannon.
+[19:21:44]	Александр Климов entered observer.
+[19:21:48]	Александр Климов exited observer at their location.
+[19:21:59]	Александр Климов has taken 18 damage from Артем Петров.
+[19:22:14]	Александр Климов has taken 41 damage from Артем Петров.
+[19:22:24]	Александр Климов has spawned a 'Entity [103][ent_jack_gmod_ezimpactnade]'.
+[19:22:31]	Александр Климов has spawned a 'Entity [103][ent_jack_gmod_ezimpactnade]'.
+[19:22:35]	Артем Петров has taken 50 damage from ent_jack_gmod_ezimpactnade.
+[19:22:35]	Артем Петров has taken 117 damage from Александр Климов.
+[19:22:35]	Александр Климов has killed Артем Петров with weapon_physcannon.
+[19:22:39]	Артем Петров entered observer.
+[19:22:43]	Артем Петров exited observer at their location.
+[19:23:00]	Александр Климов has spawned a 'Entity [203][ent_jack_gmod_eztnt]'.
+[19:23:10]	Артем Петров has taken 366 damage from Александр Климов.
+[19:23:10]	Александр Климов has killed Артем Петров with weapon_physcannon.
+[19:23:14]	Артем Петров entered observer.
+[19:23:17]	Артем Петров exited observer at their location.
+[19:23:18]	Александр Климов entered observer.
+[19:23:19]	Александр Климов exited observer at their location.
+[19:23:23]	Александр Климов has spawned a 'Entity [85][ent_jack_gmod_eztnt]'.
+[19:23:37]	Александр Климов has spawned a 'Entity [85][ent_jack_gmod_eztnt]'.
+[19:23:44]	Александр Климов has spawned a 'Entity [87][ent_jack_gmod_eztnt]'.
+[19:23:45]	Артем Петров has spawned a 'Entity [203][ent_jack_gmod_ezimpactnade]'.
+[19:23:54]	Артем Петров has taken 465 damage from Александр Климов.
+[19:23:54]	Александр Климов has killed Артем Петров with weapon_physcannon.
+[19:23:58]	Артем Петров entered observer.
+[19:24:00]	Артем Петров exited observer at their location.
+[19:24:00]	Александр Климов has spawned a 'Entity [85][ent_jack_gmod_eznade_timed]'.
+[19:24:10]	Артем Петров has taken 50 damage from Александр Климов.
+[19:24:10]	Артем Петров has taken 10 damage from Александр Климов.
+[19:24:10]	Артем Петров has taken 106 damage from Артем Петров.
+[19:24:10]	Артем Петров has killed Артем Петров.
+[19:24:15]	Артем Петров entered observer.
+[19:24:17]	Артем Петров exited observer at their location.
+[19:24:18]	Артем Петров has spawned a 'Entity [87][ent_jack_gmod_eznade_timed]'.
+[19:24:33]	Александр Климов has spawned a 'Entity [87][ent_jack_gmod_ezsticknade]'.
+[19:24:34]	Артем Петров has spawned a 'Entity [212][ent_jack_gmod_eznuke_small]'.
+[19:24:42]	Александр Климов entered observer.
+[19:24:45]	Артем Петров has spawned a 'Entity [87][ent_jack_gmod_eznuke]'.
+[19:24:49]	Артем Петров has taken 500 damage from Александр Климов.
+[19:24:49]	Александр Климов has killed Артем Петров with weapon_physcannon.
+[19:24:49]	Александр Климов exited observer at their location.
+[19:24:52]	Александр Климов entered observer.
+[19:24:53]	Александр Климов exited observer at their location.
+[19:24:54]	Артем Петров entered observer.
+[19:24:56]	Артем Петров exited observer at their location.
+[19:24:56]	Александр Климов has taken 3 damage from Артем Петров.
+[19:24:57]	Александр Климов has taken 1 damage from Александр Климов.
+[19:24:57]	Александр Климов has taken 2 damage from Артем Петров.
+[19:24:58]	Александр Климов has taken 1 damage from Александр Климов.
+[19:25:00]	Артем Петров has taken 2 damage from Артем Петров.
+[19:25:00]	Артем Петров has taken 2 damage from Артем Петров.
+[19:25:03]	Александр Климов has taken 2 damage from Артем Петров.
+[19:25:03]	Артем Петров has taken 4 damage from Артем Петров.
+[19:25:03]	Александр Климов has taken 1 damage from Александр Климов.
+[19:25:03]	Артем Петров has taken 1 damage from Артем Петров.
+[19:25:04]	Александр Климов has taken 1 damage from Александр Климов.
+[19:25:05]	Александр Климов has taken 1 damage from Александр Климов.
+[19:25:05]	Артем Петров has taken 1 damage from Артем Петров.
+[19:25:06]	Артем Петров has taken 1 damage from Артем Петров.
+[19:25:06]	Александр Климов has taken 3 damage from Артем Петров.
+[19:25:07]	Александр Климов has taken 1 damage from Александр Климов.
+[19:25:07]	Артем Петров has taken 1 damage from Артем Петров.
+[19:25:07]	Александр Климов has taken 2 damage from Артем Петров.
+[19:25:08]	Александр Климов has taken 662 damage from Артем Петров.
+[19:25:08]	Артем Петров has killed Александр Климов with weapon_physcannon.
+[19:25:08]	Артем Петров has taken 1042 damage from Артем Петров.
+[19:25:08]	Артем Петров has killed Артем Петров.
+[19:25:17]	Александр Климов entered observer.
+[19:25:21]	Александр Климов exited observer at their location.
+[19:25:24]	Александр Климов has taken 5 damage from Артем Петров.
+[19:25:30]	Александр Климов has taken 1 damage from Александр Климов.
+[19:25:30]	Александр Климов has spawned a 'NextBot [114][npc_sanic]'.
+[19:25:38]	Александр Климов has taken 1 damage from Александр Климов.
+[19:25:41]	Александр Климов has spawned a 'NextBot [114][npc_sasik]'.
+[19:25:43]	Александр Климов has taken 1 damage from Александр Климов.
+[19:25:45]	Александр Климов has taken 1 damage from Александр Климов.
+[19:25:48]	Александр Климов has taken 1 damage from Александр Климов.
+[19:25:50]	Александр Климов has taken 1 damage from Александр Климов.
+[19:25:51]	Александр Климов has taken 1 damage from Александр Климов.
+[19:25:54]	Александр Климов has taken 1 damage from Александр Климов.
+[19:25:57]	Александр Климов has taken 1 damage from Александр Климов.
+[19:25:59]	Александр Климов has taken 1 damage from Александр Климов.
+[19:25:59]	Александр Климов has spawned a 'Entity [114][npc_cover_resistance]'.
+[19:26:00]	Александр Климов has taken 1 damage from Александр Климов.
+[19:26:01]	Александр Климов has spawned a 'Entity [136][npc_cover_resistance]'.
+[19:26:01]	Александр Климов has taken 1 damage from Александр Климов.
+[19:26:03]	Александр Климов has taken 1 damage from Александр Климов.
+[19:26:05]	Александр Климов has taken 1 damage from Александр Климов.
+[19:26:07]	Александр Климов has spawned a 'Entity [114][npc_cover_resistance]'.
+[19:26:08]	Александр Климов has taken 1 damage from Александр Климов.
+[19:26:09]	Александр Климов has spawned a 'Entity [141][npc_cover_resistance]'.
+[19:26:12]	Александр Климов has taken 1 damage from Александр Климов.
+[19:26:15]	Александр Климов has spawned a 'Entity [114][npc_cover_resistance_low]'.
+[19:26:15]	Александр Климов has taken 1 damage from Александр Климов.
+[19:26:16]	Александр Климов has taken 1 damage from Александр Климов.
+[19:26:17]	Александр Климов has spawned a 'Entity [114][npc_cover_resistance_low]'.
+[19:26:18]	Александр Климов has spawned a 'Entity [178][npc_cover_resistance_low]'.
+[19:26:18]	Александр Климов has taken 1 damage from Александр Климов.
+[19:26:19]	Александр Климов has taken 1 damage from Александр Климов.
+[19:26:19]	Александр Климов has spawned a 'Entity [114][npc_cover_resistance_low]'.
+[19:26:21]	Александр Климов has spawned a 'Entity [114][npc_cover_resistance_low]'.
+[19:26:24]	Александр Климов has taken 1 damage from Александр Климов.
+[19:26:25]	Александр Климов has taken 1 damage from Александр Климов.
+[19:26:29]	Александр Климов has taken 1 damage from Александр Климов.
+[19:26:31]	Александр Климов has taken 1 damage from Александр Климов.
+[19:26:33]	Александр Климов has spawned a 'Entity [114][npc_cover_resistance_low]'.
+[19:26:33]	Александр Климов has taken 1 damage from Александр Климов.
+[19:26:34]	Александр Климов has taken 1 damage from Александр Климов.
+[19:26:35]	Александр Климов has taken 1 damage from Александр Климов.
+[19:26:37]	Александр Климов has taken 1 damage from Александр Климов.
+[19:26:38]	Александр Климов has spawned a 'Entity [178][npc_cover_resistance_low]'.
+[19:26:39]	Александр Климов has spawned a 'Entity [114][npc_cover_resistance_low]'.
+[19:26:39]	Александр Климов has taken 1 damage from Александр Климов.
+[19:26:47]	Александр Климов entered observer.
+[19:26:50]	Александр Климов has spawned a 'Entity [114][npc_knocking_cop]'.
+[19:26:52]	Александр Климов exited observer at their location.
+[19:26:53]	Александр Климов has spawned a 'Entity [136][npc_knocking_cop]'.
+[19:26:55]	Александр Климов has spawned a 'Entity [114][npc_knocking_cop]'.
+[19:26:57]	Александр Климов has spawned a 'Entity [114][npc_knocking_cop]'.
+[19:26:59]	Александр Климов has spawned a 'Entity [137][npc_knocking_cop]'.
+[19:27:01]	Александр Климов has spawned a 'Entity [114][npc_knocking_cop]'.
+[19:27:10]	Александр Климов has spawned a 'Entity [137][npc_knocking_cop]'.
+[19:27:12]	Александр Климов has spawned a 'Entity [114][npc_knocking_cop]'.
+[19:27:20]	Александр Климов entered observer.
+[19:27:25]	Александр Климов has spawned a 'Entity [114][npc_knocking_cop]'.
+[19:27:28]	Александр Климов has spawned a 'Entity [114][npc_knocking_cop]'.
+[19:27:30]	Александр Климов exited observer at their location.
+[19:29:14]	Александр Климов entered observer.
+[19:29:16]	Александр Климов exited observer at their location.
+[19:29:53]	Александр Климов entered observer.
+[19:29:54]	Александр Климов has spawned a 'Entity [136][npc_crouched_shooting_metrocop]'.
+[19:29:56]	Александр Климов exited observer at their location.
+[19:30:05]	Александр Климов has taken 12 damage from Артем Петров.
+[19:30:08]	Александр Климов has taken 4 damage from Артем Петров.
+[19:30:46]	Александр Климов has taken 12 damage from Артем Петров.
+[19:30:58]	Александр Климов has taken 12 damage from Артем Петров.
+[19:31:07]	Александр Климов has taken 18 damage from Артем Петров.
+[19:31:13]	Александр Климов has taken 9 damage from Артем Петров.
+[19:31:13]	Артем Петров has killed Александр Климов with meleearts_spear_truepushbroom.
+[19:31:24]	Александр Климов has taken 12 damage from Артем Петров.
+[19:31:34]	Артем Петров has taken 75 damage from Александр Климов.
+[19:31:37]	Александр Климов has taken 6 damage from Артем Петров.
+[19:31:48]	Артем Петров has taken 75 damage from Александр Климов.
+[19:31:48]	Александр Климов has killed Артем Петров with meleearts_bludgeon_crowbar.
+[19:31:52]	Артем Петров entered observer.
+[19:31:56]	Артем Петров exited observer at their location.
+[19:32:05]	Александр Климов has taken 36 damage from Артем Петров.
+[19:32:05]	Александр Климов has taken 21 damage from Артем Петров.
+[19:32:14]	Александр Климов has taken 15 damage from Артем Петров.
+[19:32:15]	Артем Петров has taken 75 damage from Александр Климов.
+[19:32:17]	Артем Петров has taken 126 damage from Александр Климов.
+[19:32:17]	Александр Климов has killed Артем Петров with meleearts_bludgeon_crowbar.
+[19:32:25]	Артем Петров has taken 75 damage from Александр Климов.
+[19:32:25]	Александр Климов has taken 54 damage from Артем Петров.
+[19:32:25]	Артем Петров has killed Александр Климов with meleearts_spear_harpoon.
+[19:32:29]	Александр Климов entered observer.
+[19:32:33]	Александр Климов exited observer at their location.
+[19:32:57]	Александр Климов has taken 7 damage from Артем Петров.
+[19:32:58]	Артем Петров has taken 51 damage from Александр Климов.
+[19:32:58]	Александр Климов has killed Артем Петров with meleearts_axe_fireaxe.
+[19:33:03]	Артем Петров entered observer.
+[19:33:10]	Артем Петров exited observer at their location.
+[19:33:11]	Александр Климов entered observer.
+[19:33:11]	Александр Климов exited observer at their location.
+[19:33:16]	Артем Петров has taken 16 damage from Александр Климов.
+[19:33:23]	Артем Петров has taken 12 damage from Александр Климов.
+[19:33:24]	Артем Петров entered observer.
+[19:33:30]	Артем Петров exited observer at their location.
+[19:33:35]	Александр Климов has taken 15 damage from Артем Петров.
+[19:33:56]	Александр Климов has taken 35 damage from Артем Петров.
+[19:33:56]	Александр Климов has taken 5 damage from meleeartsthrowable.
+[19:34:06]	Артем Петров entered observer.
+[19:34:11]	Артем Петров exited observer at their location.
+[19:34:14]	Артем Петров entered observer.
+[19:34:14]	Артем Петров exited observer at their location.
+[19:34:17]	Александр Климов has taken 12 damage from Артем Петров.
+[19:34:29]	Александр Климов has taken 6 damage from Артем Петров.
+[19:34:36]	Александр Климов has taken 6 damage from Артем Петров.
+[19:34:47]	Артем Петров has taken 15 damage from Александр Климов.
+[19:34:48]	Артем Петров has taken 0 damage from Александр Климов.
+[19:34:48]	Артем Петров has taken 24 damage from Александр Климов.
+[19:34:49]	Артем Петров has taken 0 damage from Александр Климов.
+[19:34:50]	Артем Петров has taken 15 damage from Александр Климов.
+[19:34:50]	Артем Петров has taken 0 damage from Александр Климов.
+[19:34:51]	Артем Петров has taken 15 damage from Александр Климов.
+[19:34:51]	Александр Климов has killed Артем Петров with meleearts_blade_pencil.
+[19:34:54]	Артем Петров has taken 0 damage from Александр Климов.
+[19:34:55]	Артем Петров has taken 0 damage from Александр Климов.
+[19:34:56]	Артем Петров entered observer.
+[19:35:01]	Александр Климов entered observer.
+[19:35:02]	Артем Петров exited observer at their location.
+[19:35:02]	Артем Петров entered observer.
+[19:35:04]	Александр Климов exited observer at their location.
+[19:35:05]	Артем Петров exited observer at their location.
+[19:35:23]	Александр Климов has taken 66 damage from Артем Петров.
+[19:35:23]	Артем Петров has killed Александр Климов with meleearts_bludgeon_roadsign.
+[19:35:29]	Александр Климов has taken 150 damage from Артем Петров.
+[19:35:29]	Артем Петров has killed Александр Климов with meleearts_bludgeon_roadsign.
+[19:35:33]	Александр Климов entered observer.
+[19:35:37]	Александр Климов exited observer at their location.
+[19:35:42]	Александр Климов has taken 69 damage from Артем Петров.
+[19:35:43]	Александр Климов has taken 108 damage from Артем Петров.
+[19:35:43]	Артем Петров has killed Александр Климов with meleearts_bludgeon_roadsign.
+[19:35:54]	Александр Климов has taken 40 damage from Артем Петров.
+[19:35:54]	Александр Климов has taken 5 damage from meleeartsthrowable.
+[19:36:17]	Александр Климов has taken 40 damage from Артем Петров.
+[19:36:17]	Александр Климов has taken 20 damage from meleeartsthrowable.
+[19:36:17]	meleeartsthrowable has killed Александр Климов.
+[19:36:22]	Александр Климов entered observer.
+[19:36:26]	Александр Климов exited observer at their location.
+[19:36:31]	Александр Климов has taken 120 damage from Артем Петров.
+[19:36:31]	Артем Петров has killed Александр Климов with meleearts_gun.
+[19:36:41]	Артем Петров entered observer.
+[19:36:43]	Артем Петров exited observer at their location.
+[19:36:51]	Артем Петров has taken 120 damage from Александр Климов.
+[19:36:51]	Александр Климов has killed Артем Петров with meleearts_gun.
+[19:36:55]	Артем Петров entered observer.
+[19:37:02]	Артем Петров exited observer at their location.
+[19:37:05]	Артем Петров entered observer.
+[19:37:06]	Артем Петров exited observer at their location.
+[19:37:10]	Александр Климов has taken 60 damage from Артем Петров.
+[19:37:10]	Александр Климов has taken 60 damage from Артем Петров.
+[19:37:10]	Артем Петров has killed Александр Климов with meleearts_gun.
+[19:37:18]	Александр Климов has spawned a 'Entity [136][ent_jack_gmod_ezammo]'.
+[19:37:23]	Александр Климов has spawned a 'Entity [136][item_ammo_357_large]'.
+[19:37:24]	Александр Климов has spawned a 'Entity [234][item_ammo_357_large]'.
+[19:37:24]	Александр Климов has spawned a 'Entity [235][item_ammo_357_large]'.
+[19:37:25]	Александр Климов has spawned a 'Entity [136][item_ammo_smg1_large]'.
+[19:37:25]	Александр Климов has spawned a 'Entity [234][item_ammo_smg1_large]'.
+[19:37:25]	Александр Климов has spawned a 'Entity [235][item_ammo_smg1_large]'.
+[19:37:25]	Александр Климов has spawned a 'Entity [344][item_ammo_smg1_large]'.
+[19:37:26]	Александр Климов has spawned a 'Entity [354][item_ammo_pistol_large]'.
+[19:37:26]	Александр Климов has spawned a 'Entity [136][item_ammo_pistol_large]'.
+[19:37:26]	Александр Климов has spawned a 'Entity [368][item_ammo_pistol_large]'.
+[19:37:26]	Александр Климов has spawned a 'Entity [234][item_ammo_pistol_large]'.
+[19:37:27]	Александр Климов entered observer.
+[19:37:31]	Александр Климов exited observer at their location.
+[19:37:33]	Артем Петров has taken 120 damage from Александр Климов.
+[19:37:33]	Александр Климов has killed Артем Петров with meleearts_gun.
+[19:37:38]	Артем Петров entered observer.
+[19:37:42]	Артем Петров exited observer at their location.
+[19:37:44]	Александр Климов has taken 54 damage from Артем Петров.
+[19:38:01]	Артем Петров has taken 45 damage from Александр Климов.
+[19:38:04]	Артем Петров has taken 11 damage from Александр Климов.
+[19:38:05]	Александр Климов has taken 9 damage from Артем Петров.
+[19:38:05]	Александр Климов has taken 3 damage from Артем Петров.
+[19:38:05]	Александр Климов has taken 3 damage from Артем Петров.
+[19:38:05]	Александр Климов has taken 3 damage from Артем Петров.
+[19:38:06]	Александр Климов has taken 0 damage from Артем Петров.
+[19:38:06]	Александр Климов has taken 9 damage from Артем Петров.
+[19:38:06]	Александр Климов has taken 6 damage from Артем Петров.
+[19:38:06]	Александр Климов has taken 6 damage from Артем Петров.
+[19:38:06]	Александр Климов has taken 6 damage from Артем Петров.
+[19:38:06]	Артем Петров has killed Александр Климов with meleearts_blade_pencil.
+[19:38:09]	Александр Климов has taken 0 damage from Артем Петров.
+[19:38:09]	Александр Климов has taken 0 damage from Артем Петров.
+[19:38:10]	Александр Климов has taken 0 damage from Артем Петров.
+[19:38:10]	Александр Климов has taken 0 damage from Артем Петров.
+[19:38:10]	Александр Климов has taken 0 damage from Артем Петров.
+[19:38:11]	Александр Климов has taken 0 damage from Артем Петров.
+[19:38:11]	Александр Климов has taken 0 damage from Артем Петров.
+[19:38:11]	Александр Климов has taken 0 damage from Артем Петров.
+[19:38:11]	Александр Климов has taken 0 damage from Артем Петров.
+[19:38:12]	Александр Климов has taken 0 damage from Артем Петров.
+[19:38:14]	Александр Климов entered observer.
+[19:38:17]	Александр Климов exited observer at their location.
+[19:38:24]	Артем Петров has taken 141 damage from Александр Климов.
+[19:38:24]	Александр Климов has killed Артем Петров with meleearts_blade_greatsword.
+[19:38:27]	Артем Петров has taken 3 damage from Александр Климов.
+[19:38:28]	Артем Петров has taken 3 damage from Александр Климов.
+[19:38:29]	Артем Петров entered observer.
+[19:38:33]	Артем Петров exited observer at their location.
+[19:38:35]	Александр Климов has taken 54 damage from Артем Петров.
+[19:38:38]	Александр Климов has taken 15 damage from Артем Петров.
+[19:38:54]	Артем Петров has taken 21 damage from Александр Климов.
+[19:38:55]	Артем Петров has taken 2 damage from Александр Климов.
+[19:38:56]	Артем Петров has taken 2 damage from Александр Климов.
+[19:38:56]	Артем Петров has taken 69 damage from Александр Климов.
+[19:38:59]	Артем Петров has taken 60 damage from Александр Климов.
+[19:38:59]	Александр Климов has killed Артем Петров with meleearts_blade_sickle.
+[19:39:02]	Артем Петров has taken 2 damage from Александр Климов.
+[19:39:03]	Артем Петров has taken 2 damage from Александр Климов.
+[19:39:04]	Артем Петров has taken 2 damage from Александр Климов.
+[19:39:05]	Артем Петров has taken 2 damage from Александр Климов.
+[19:39:07]	Артем Петров has taken 60 damage from Александр Климов.
+[19:39:08]	Артем Петров has taken 2 damage from Александр Климов.
+[19:39:09]	Артем Петров has taken 2 damage from Александр Климов.
+[19:39:10]	Александр Климов has taken 6 damage from Артем Петров.
+[19:39:10]	Артем Петров has taken 2 damage from Александр Климов.
+[19:39:11]	Артем Петров has taken 45 damage from Александр Климов.
+[19:39:11]	Александр Климов has killed Артем Петров with meleearts_blade_sickle.
+[19:39:14]	Артем Петров has taken 2 damage from Александр Климов.
+[19:39:15]	Артем Петров has taken 2 damage from Александр Климов.
+[19:39:16]	Артем Петров has taken 2 damage from Александр Климов.
+[19:39:17]	Артем Петров has taken 2 damage from Александр Климов.
+[19:39:22]	Артем Петров has taken 60 damage from Александр Климов.
+[19:39:23]	Артем Петров has taken 2 damage from Александр Климов.
+[19:39:23]	Артем Петров has taken 24 damage from Александр Климов.
+[19:39:24]	Артем Петров has taken 2 damage from Александр Климов.
+[19:39:24]	Артем Петров has taken 2 damage from Александр Климов.
+[19:39:25]	Артем Петров has taken 2 damage from Александр Климов.
+[19:39:25]	Артем Петров has taken 2 damage from Александр Климов.
+[19:39:26]	Артем Петров has taken 2 damage from Александр Климов.
+[19:39:31]	Александр Климов has taken 21 damage from Артем Петров.
+[19:39:31]	Артем Петров has killed Александр Климов with meleearts_staff_poolcue.
+[19:39:35]	Александр Климов entered observer.
+[19:39:40]	Александр Климов exited observer at their location.
+[19:39:50]	Александр Климов has taken 148 damage from Артем Петров.
+[19:39:50]	Артем Петров has killed Александр Климов with meleearts_bludgeon_roadsign.
+[19:39:55]	Александр Климов entered observer.
+[19:39:56]	Артем Петров has spawned a 'Entity [354][item_healthkit]'.
+[19:39:56]	Артем Петров has spawned a 'Entity [374][item_healthkit]'.
+[19:39:56]	Артем Петров has spawned a 'Entity [380][item_healthkit]'.
+[19:39:57]	Артем Петров has spawned a 'Entity [354][item_healthkit]'.
+[19:39:58]	Александр Климов exited observer at their location.
+[19:40:09]	Артем Петров has taken 66 damage from Александр Климов.
+[19:40:19]	Артем Петров has taken 94 damage from Александр Климов.
+[19:40:19]	Александр Климов has killed Артем Петров with meleearts_axe_trenchaxe.
+[19:40:27]	Артем Петров has taken 22 damage from Александр Климов.
+[19:40:36]	Александр Климов has taken 90 damage from Артем Петров.
+[19:40:36]	Александр Климов has taken 90 damage from Артем Петров.
+[19:40:36]	Артем Петров has killed Александр Климов with meleearts_throwable_blade.
+[19:41:08]	Артем Петров has taken 16 damage from Александр Климов.
+[19:41:13]	Александр Климов has taken 90 damage from Артем Петров.
+[19:41:13]	Александр Климов has taken 90 damage from Артем Петров.
+[19:41:13]	Артем Петров has killed Александр Климов with meleearts_throwable_blade.
+[19:41:20]	Артем Петров has taken 60 damage from Александр Климов.
+[19:41:31]	Александр Климов has taken 90 damage from Артем Петров.
+[19:41:31]	Александр Климов has taken 90 damage from Артем Петров.
+[19:41:31]	Артем Петров has killed Александр Климов with meleearts_throwable_blade.
+[19:41:35]	Александр Климов has taken 90 damage from Артем Петров.
+[19:41:57]	Александр Климов has taken 90 damage from Артем Петров.
+[19:41:57]	Артем Петров has killed Александр Климов with meleearts_throwable_blade.
+[19:42:43]	Артем Петров has taken 12 damage from Александр Климов.
+[19:42:43]	Александр Климов has killed Артем Петров with meleearts_spear_bayonetrifle.
+[19:42:48]	Артем Петров entered observer.
+[19:42:51]	Артем Петров exited observer at their location.
+[19:42:55]	Артем Петров has taken 12 damage from Александр Климов.
+[19:42:56]	Александр Климов has taken 27 damage from Артем Петров.
+[19:42:57]	Александр Климов has taken 33 damage from Артем Петров.
+[19:42:58]	Александр Климов has taken 27 damage from Артем Петров.
+[19:43:00]	Александр Климов has taken 33 damage from Артем Петров.
+[19:43:00]	Артем Петров has killed Александр Климов with meleearts_bludgeon_sledgehammer.
+[19:43:16]	Артем Петров has taken 7 damage from Александр Климов.
+[19:43:16]	Александр Климов has taken 30 damage from Артем Петров.
+[19:43:18]	Александр Климов has taken 3 damage from Артем Петров.
+[19:43:19]	Артем Петров has taken 75 damage from Александр Климов.
+[19:43:30]	Александр Климов has taken 24 damage from Артем Петров.
+[19:43:33]	Артем Петров has taken 68 damage from Александр Климов.
+[19:43:33]	Александр Климов has killed Артем Петров with meleearts_bludgeon_gun.
+[19:43:53]	Александр Климов has taken 39 damage from Артем Петров.
+[19:43:55]	Артем Петров has taken 60 damage from Александр Климов.
+[19:43:57]	Артем Петров has taken 2 damage from Александр Климов.
+[19:44:05]	Артем Петров has taken 12 damage from Александр Климов.
+[19:44:06]	Александр Климов has taken 23 damage from Артем Петров.
+[19:44:06]	Артем Петров has killed Александр Климов with meleearts_axe_iceaxe.
+[19:44:10]	Александр Климов entered observer.
+[19:44:17]	Александр Климов exited observer at their location.
+[19:44:19]	Александр Климов has taken 3 damage from Артем Петров.
+[19:44:20]	Александр Климов has taken 6 damage from Артем Петров.
+[19:44:20]	Александр Климов has taken 6 damage from Артем Петров.
+[19:44:20]	Александр Климов has taken 3 damage from Артем Петров.
+[19:44:20]	Александр Климов has taken 6 damage from Артем Петров.
+[19:44:20]	Александр Климов has taken 6 damage from Артем Петров.
+[19:44:20]	Александр Климов has taken 9 damage from Артем Петров.
+[19:44:21]	Александр Климов has taken 0 damage from Артем Петров.
+[19:44:21]	Александр Климов has taken 0 damage from Артем Петров.
+[19:44:21]	Александр Климов has taken 3 damage from Артем Петров.
+[19:44:21]	Александр Климов has taken 0 damage from Артем Петров.
+[19:44:21]	Александр Климов has taken 0 damage from Артем Петров.
+[19:44:21]	Александр Климов has taken 3 damage from Артем Петров.
+[19:44:22]	Александр Климов has taken 0 damage from Артем Петров.
+[19:44:22]	Александр Климов has taken 3 damage from Артем Петров.
+[19:44:22]	Александр Климов has taken 0 damage from Артем Петров.
+[19:44:22]	Александр Климов has taken 0 damage from Артем Петров.
+[19:44:22]	Александр Климов has taken 3 damage from Артем Петров.
+[19:44:22]	Александр Климов has taken 0 damage from Артем Петров.
+[19:44:23]	Александр Климов has taken 3 damage from Артем Петров.
+[19:44:23]	Александр Климов has taken 0 damage from Артем Петров.
+[19:44:23]	Александр Климов has taken 3 damage from Артем Петров.
+[19:44:23]	Александр Климов has taken 0 damage from Артем Петров.
+[19:44:23]	Александр Климов has taken 3 damage from Артем Петров.
+[19:44:23]	Александр Климов has taken 3 damage from Артем Петров.
+[19:44:23]	Александр Климов has taken 0 damage from Артем Петров.
+[19:44:23]	Александр Климов has taken 3 damage from Артем Петров.
+[19:44:23]	Александр Климов has taken 3 damage from Артем Петров.
+[19:44:23]	Александр Климов has taken 0 damage from Артем Петров.
+[19:44:24]	Александр Климов has taken 0 damage from Артем Петров.
+[19:44:24]	Александр Климов has taken 3 damage from Артем Петров.
+[19:44:24]	Александр Климов has taken 0 damage from Артем Петров.
+[19:44:24]	Александр Климов has taken 0 damage from Артем Петров.
+[19:44:24]	Александр Климов has taken 0 damage from Артем Петров.
+[19:44:24]	Александр Климов has taken 6 damage from Артем Петров.
+[19:44:24]	Александр Климов has taken 0 damage from Артем Петров.
+[19:44:24]	Александр Климов has taken 0 damage from Артем Петров.
+[19:44:24]	Александр Климов has taken 9 damage from Артем Петров.
+[19:44:24]	Артем Петров has killed Александр Климов with meleearts_blade_pencil.
+[19:44:27]	Александр Климов has taken 0 damage from Артем Петров.
+[19:44:27]	Александр Климов has taken 0 damage from Артем Петров.
+[19:44:28]	Александр Климов has taken 0 damage from Артем Петров.
+[19:44:28]	Александр Климов has taken 0 damage from Артем Петров.
+[19:44:28]	Александр Климов has taken 0 damage from Артем Петров.
+[19:44:28]	Александр Климов has taken 0 damage from Артем Петров.
+[19:44:28]	Александр Климов has taken 0 damage from Артем Петров.
+[19:44:29]	Александр Климов has taken 0 damage from Артем Петров.
+[19:44:29]	Александр Климов has taken 0 damage from Артем Петров.
+[19:44:29]	Александр Климов has taken 0 damage from Артем Петров.
+[19:44:29]	Александр Климов has taken 0 damage from Артем Петров.
+[19:44:30]	Александр Климов has taken 0 damage from Артем Петров.
+[19:44:30]	Александр Климов entered observer.
+[19:44:33]	Александр Климов exited observer at their location.
+[19:44:35]	Артем Петров has taken 204 damage from Александр Климов.
+[19:44:35]	Александр Климов has killed Артем Петров with meleearts_bludgeon_sledgehammer.
+[19:44:39]	Артем Петров entered observer.
+[19:44:43]	Артем Петров exited observer at their location.
+[19:44:45]	Артем Петров has taken 69 damage from Александр Климов.
+[19:44:52]	Артем Петров has taken 18 damage from Александр Климов.
+[19:45:04]	Артем Петров has taken 14 damage from Александр Климов.
+[19:45:04]	Александр Климов has killed Артем Петров with meleearts_spear_harpoon.
+[19:45:14]	Александр Климов has taken 78 damage from Артем Петров.
+[19:45:20]	Александр Климов has taken 114 damage from Артем Петров.
+[19:45:20]	Артем Петров has killed Александр Климов with meleearts_bludgeon_roadsign.
+[19:45:25]	Александр Климов entered observer.
+[19:45:29]	Артем Петров has taken 60 damage from Александр Климов.
+[19:45:30]	Александр Климов exited observer at their location.
+[19:45:31]	Артем Петров entered observer.
+[19:45:33]	Артем Петров exited observer at their location.
+[19:45:44]	Александр Климов has taken 66 damage from Артем Петров.
+[19:45:53]	Артем Петров has taken 15 damage from Александр Климов.
+[19:45:54]	Александр Климов has taken 66 damage from Артем Петров.
+[19:45:54]	Артем Петров has killed Александр Климов with meleearts_bludgeon_roadsign.
+[19:45:58]	Артем Петров has spawned a 'Entity [141][item_healthcharger]'.
+[19:45:59]	Артем Петров has spawned a 'Entity [397][item_healthkit]'.
+[19:45:59]	Артем Петров has spawned a 'Entity [398][item_healthkit]'.
+[19:46:00]	Артем Петров has spawned a 'Entity [399][item_healthkit]'.
+[19:46:21]	Александр Климов has taken 120 damage from Артем Петров.
+[19:46:21]	Артем Петров has killed Александр Климов with meleearts_gun.
+[19:46:25]	Александр Климов entered observer.
+[19:46:30]	Александр Климов exited observer at their location.
+[19:46:43]	Артем Петров entered observer.
+[19:46:45]	Артем Петров exited observer at their location.
+[19:46:49]	Артем Петров has taken 33 damage from Александр Климов.
+[19:46:50]	Артем Петров has taken 21 damage from Александр Климов.
+[19:46:50]	Артем Петров has taken 1 damage from Александр Климов.
+[19:46:50]	Артем Петров has taken 42 damage from Александр Климов.
+[19:46:51]	Артем Петров has taken 1 damage from Александр Климов.
+[19:46:51]	Александр Климов has taken 6 damage from Артем Петров.
+[19:46:51]	Артем Петров has taken 1 damage from Александр Климов.
+[19:46:52]	Артем Петров has taken 7 damage from Александр Климов.
+[19:46:52]	Александр Климов has killed Артем Петров with meleearts_blade_throwingknife.
+[19:46:55]	Артем Петров has taken 1 damage from Александр Климов.
+[19:46:56]	Артем Петров has taken 1 damage from Александр Климов.
+[19:46:56]	Артем Петров has taken 1 damage from Александр Климов.
+[19:46:57]	Артем Петров has taken 1 damage from Александр Климов.
+[19:46:58]	Артем Петров has taken 1 damage from Александр Климов.
+[19:46:58]	Артем Петров has taken 66 damage from Александр Климов.
+[19:46:59]	Артем Петров has taken 1 damage from Александр Климов.
+[19:47:00]	Артем Петров has taken 1 damage from Александр Климов.
+[19:47:01]	Артем Петров has taken 1 damage from Александр Климов.
+[19:47:01]	Александр Климов has taken 2 damage from Артем Петров.
+[19:47:02]	Артем Петров has taken 1 damage from Александр Климов.
+[19:47:03]	Артем Петров has taken 66 damage from Александр Климов.
+[19:47:03]	Александр Климов has killed Артем Петров with meleearts_blade_throwingknife.
+[19:47:06]	Артем Петров has taken 1 damage from Александр Климов.
+[19:47:07]	Артем Петров has taken 1 damage from Александр Климов.
+[19:47:08]	Артем Петров entered observer.
+[19:47:11]	Александр Климов has taken 225 damage from Артем Петров.
+[19:47:11]	Артем Петров has killed Александр Климов with meleearts_bludgeon_roadsign.
+[19:47:14]	Артем Петров exited observer at their location.
+[19:47:18]	Александр Климов entered observer.
+[19:47:22]	Александр Климов exited observer at their location.
+[19:47:24]	Артем Петров entered observer.
+[19:47:26]	Артем Петров exited observer at their location.
+[19:47:32]	Александр Климов has taken 120 damage from Артем Петров.
+[19:47:32]	Артем Петров has killed Александр Климов with meleearts_gun.
+[19:47:37]	Артем Петров entered observer.
+[19:47:38]	Артем Петров exited observer at their location.
+[19:47:45]	Артем Петров entered observer.
+[19:47:46]	Артем Петров exited observer at their location.
+[19:47:50]	Александр Климов entered observer.
+[19:47:52]	Александр Климов exited observer at their location.
+[19:47:54]	Артем Петров entered observer.
+[19:47:55]	Артем Петров exited observer at their location.
+[19:48:03]	Александр Климов has taken 15 damage from Артем Петров.
+[19:48:03]	Александр Климов has taken 60 damage from Артем Петров.
+[19:48:07]	Александр Климов has taken 12 damage from Артем Петров.
+[19:48:07]	Артем Петров has taken 69 damage from Александр Климов.
+[19:48:20]	Артем Петров has taken 102 damage from Александр Климов.
+[19:48:20]	Александр Климов has killed Артем Петров with meleearts_bludgeon_roadsign.
+[19:48:25]	Артем Петров entered observer.
+[19:48:28]	Артем Петров exited observer at their location.
+[19:48:29]	Александр Климов has taken 27 damage from Артем Петров.
+[19:48:29]	Артем Петров has killed Александр Климов with meleearts_staff_poolcue.
+[19:48:31]	Артем Петров entered observer.
+[19:48:38]	Артем Петров exited observer at their location.
+[19:48:42]	Артем Петров entered observer.
+[19:48:58]	֍ Aime-moi ֍ (STEAM_0:0:424879351) has disconnected.

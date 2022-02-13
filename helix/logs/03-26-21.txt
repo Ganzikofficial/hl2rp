@@ -1,0 +1,155 @@
+[16:16:19]	Г@H3NK has connected.
+[16:16:49]	Г@H3NK loaded the character 'D47.MPF-DvL.514'
+[16:21:49]	D47.MPF-DvL.514 has gained 50 tokens.
+[16:26:49]	D47.MPF-DvL.514 has gained 50 tokens.
+[16:31:49]	D47.MPF-DvL.514 has gained 50 tokens.
+[16:32:36]	D47.MPF-DvL.514 ran 'EquipUn' on item 'M4' (#398)
+[16:32:37]	D47.MPF-DvL.514 ran 'Equip' on item 'M4' (#398)
+[16:32:51]	D47.MPF-DvL.514 entered observer.
+[16:36:49]	D47.MPF-DvL.514 has gained 50 tokens.
+[16:41:32]	D47.MPF-DvL.514 has spawned a 'Entity [576][ent_jack_gmod_ezweapon_mgl]'.
+[16:41:36]	D47.MPF-DvL.514 has spawned a 'Entity [576][ent_jack_gmod_ezmunitions]'.
+[16:41:49]	D47.MPF-DvL.514 has gained 50 tokens.
+[16:42:11]	D47.MPF-DvL.514 has spawned a 'Entity [1487][ent_jack_gmod_ezweapon_car]'.
+[16:42:20]	D47.MPF-DvL.514 has spawned a 'Entity [1486][ent_jack_gmod_ezammo]'.
+[16:42:52]	D47.MPF-DvL.514 has spawned a 'Entity [1487][ent_jack_gmod_ezweapon_pas]'.
+[16:43:03]	D47.MPF-DvL.514 has spawned a 'Entity [576][ent_jack_gmod_ezammo]'.
+[16:46:31]	D47.MPF-DvL.514 has spawned a 'Entity [1487][ent_jack_gmod_ezammo]'.
+[16:46:49]	D47.MPF-DvL.514 has gained 50 tokens.
+[16:48:09]	D47.MPF-DvL.514 has spawned a 'Entity [1503][ent_jack_gmod_ezweapon_lmg]'.
+[16:48:13]	D47.MPF-DvL.514 has spawned a 'Entity [1503][ent_jack_gmod_ezweapon_flm]'.
+[16:48:20]	D47.MPF-DvL.514 has spawned a 'Entity [1498][ent_jack_gmod_ezweapon_mmg]'.
+[16:48:40]	D47.MPF-DvL.514 has spawned a 'Entity [1487][ent_jack_gmod_ezammo]'.
+[16:49:06]	D47.MPF-DvL.514 entered observer.
+[16:50:32]	D47.MPF-DvL.514 exited observer at their location.
+[16:50:37]	D47.MPF-DvL.514 entered observer.
+[16:50:44]	D47.MPF-DvL.514 exited observer at their location.
+[16:50:46]	D47.MPF-DvL.514 entered observer.
+[16:50:49]	D47.MPF-DvL.514 exited observer at their location.
+[16:51:03]	D47.MPF-DvL.514 entered observer.
+[16:51:22]	D47.MPF-DvL.514 exited observer at their location.
+[16:51:23]	D47.MPF-DvL.514 entered observer.
+[16:51:33]	D47.MPF-DvL.514 exited observer at their location.
+[16:51:49]	D47.MPF-DvL.514 has gained 50 tokens.
+[16:51:58]	D47.MPF-DvL.514 entered observer.
+[16:52:20]	D47.MPF-DvL.514 exited observer at their location.
+[16:52:20]	D47.MPF-DvL.514 entered observer.
+[16:52:21]	D47.MPF-DvL.514 exited observer at their location.
+[16:53:35]	D47.MPF-DvL.514 entered observer.
+[16:53:36]	D47.MPF-DvL.514 exited observer at their location.
+[16:53:41]	D47.MPF-DvL.514 entered observer.
+[16:53:43]	D47.MPF-DvL.514 exited observer at their location.
+[16:54:47]	D47.MPF-DvL.514 entered observer.
+[16:54:55]	D47.MPF-DvL.514 exited observer at their location.
+[16:56:02]	Г@H3NK loaded the character 'OTA-ECHO.OWS-55309'
+[16:56:03]	OTA-ECHO.OWS-55309 entered observer.
+[16:56:05]	OTA-ECHO.OWS-55309 exited observer at their location.
+[16:56:11]	OTA-ECHO.OWS-55309 has spawned a 'Entity [576][ent_jack_gmod_ezammo]'.
+[16:56:13]	OTA-ECHO.OWS-55309 has spawned a 'Entity [577][ent_jack_gmod_ezammo]'.
+[16:56:18]	OTA-ECHO.OWS-55309 has spawned a 'Entity [1486][ent_jack_gmod_ezweapon_rocketlauncher]'.
+[16:56:20]	OTA-ECHO.OWS-55309 has spawned a 'Entity [1487][ent_jack_gmod_ezweapon_rocketlauncher]'.
+[16:56:25]	OTA-ECHO.OWS-55309 has spawned a 'Entity [1496][ent_jack_gmod_ezmunitions]'.
+[16:56:52]	OTA-ECHO.OWS-55309 has taken 25 damage from OTA-ECHO.OWS-55309.
+[16:56:52]	OTA-ECHO.OWS-55309 has taken 13 damage from OTA-ECHO.OWS-55309.
+[16:57:04]	OTA-ECHO.OWS-55309 has taken 25 damage from OTA-ECHO.OWS-55309.
+[16:57:04]	OTA-ECHO.OWS-55309 has taken 13 damage from OTA-ECHO.OWS-55309.
+[16:57:28]	OTA-ECHO.OWS-55309 has spawned a 'Entity [3194][ent_jack_gmod_ezweapon_lmg]'.
+[16:58:32]	OTA-ECHO.OWS-55309 entered observer.
+[16:58:35]	OTA-ECHO.OWS-55309 exited observer at their location.
+[16:58:54]	OTA-ECHO.OWS-55309 entered observer.
+[16:58:56]	OTA-ECHO.OWS-55309 exited observer at their location.
+[17:00:49]	OTA-ECHO.OWS-55309 entered observer.
+[17:00:56]	OTA-ECHO.OWS-55309 exited observer at their location.
+[17:01:02]	OTA-ECHO.OWS-55309 has gained 40 tokens.
+[17:01:35]	OTA-ECHO.OWS-55309 entered observer.
+[17:01:40]	OTA-ECHO.OWS-55309 exited observer at their location.
+[17:01:41]	OTA-ECHO.OWS-55309 entered observer.
+[17:01:42]	OTA-ECHO.OWS-55309 exited observer at their location.
+[17:02:01]	OTA-ECHO.OWS-55309 has taken 24 damage from OTA-ECHO.OWS-55309.
+[17:02:01]	OTA-ECHO.OWS-55309 has taken 8 damage from OTA-ECHO.OWS-55309.
+[17:02:03]	OTA-ECHO.OWS-55309 entered observer.
+[17:02:11]	OTA-ECHO.OWS-55309 exited observer at their location.
+[17:02:11]	OTA-ECHO.OWS-55309 entered observer.
+[17:02:12]	OTA-ECHO.OWS-55309 exited observer at their location.
+[17:02:19]	OTA-ECHO.OWS-55309 entered observer.
+[17:02:20]	OTA-ECHO.OWS-55309 exited observer at their location.
+[17:02:34]	OTA-ECHO.OWS-55309 entered observer.
+[17:02:36]	OTA-ECHO.OWS-55309 exited observer at their location.
+[17:03:21]	OTA-ECHO.OWS-55309 entered observer.
+[17:03:22]	OTA-ECHO.OWS-55309 exited observer at their location.
+[17:03:27]	OTA-ECHO.OWS-55309 entered observer.
+[17:03:28]	OTA-ECHO.OWS-55309 exited observer at their location.
+[17:03:30]	OTA-ECHO.OWS-55309 entered observer.
+[17:03:31]	OTA-ECHO.OWS-55309 exited observer at their location.
+[17:03:40]	OTA-ECHO.OWS-55309 has taken 25 damage from OTA-ECHO.OWS-55309.
+[17:03:40]	OTA-ECHO.OWS-55309 has taken 12 damage from OTA-ECHO.OWS-55309.
+[17:03:44]	OTA-ECHO.OWS-55309 entered observer.
+[17:03:45]	OTA-ECHO.OWS-55309 exited observer at their location.
+[17:03:47]	OTA-ECHO.OWS-55309 has taken 15 damage from OTA-ECHO.OWS-55309.
+[17:03:47]	OTA-ECHO.OWS-55309 has taken 25 damage from OTA-ECHO.OWS-55309.
+[17:04:07]	OTA-ECHO.OWS-55309 entered observer.
+[17:04:09]	OTA-ECHO.OWS-55309 exited observer at their location.
+[17:04:15]	OTA-ECHO.OWS-55309 has spawned a 'Entity [1496][ent_jack_gmod_ezmunitions]'.
+[17:04:18]	OTA-ECHO.OWS-55309 entered observer.
+[17:04:18]	OTA-ECHO.OWS-55309 exited observer at their location.
+[17:04:28]	OTA-ECHO.OWS-55309 entered observer.
+[17:04:31]	OTA-ECHO.OWS-55309 has spawned a 'NPC [1496][npc_citizen]'.
+[17:04:32]	OTA-ECHO.OWS-55309 has spawned a 'NPC [1504][npc_citizen]'.
+[17:04:33]	OTA-ECHO.OWS-55309 has spawned a 'NPC [1513][npc_citizen]'.
+[17:04:34]	OTA-ECHO.OWS-55309 has spawned a 'NPC [1582][npc_citizen]'.
+[17:04:39]	OTA-ECHO.OWS-55309 exited observer at their location.
+[17:04:44]	OTA-ECHO.OWS-55309 entered observer.
+[17:04:46]	OTA-ECHO.OWS-55309 exited observer at their location.
+[17:05:01]	OTA-ECHO.OWS-55309 has spawned a 'Entity [1496][ent_jack_gmod_ezweapon_mmg]'.
+[17:05:04]	OTA-ECHO.OWS-55309 has spawned a 'Entity [1496][ent_jack_gmod_ezammo]'.
+[17:05:08]	OTA-ECHO.OWS-55309 entered observer.
+[17:05:11]	OTA-ECHO.OWS-55309 exited observer at their location.
+[17:05:28]	OTA-ECHO.OWS-55309 entered observer.
+[17:05:31]	OTA-ECHO.OWS-55309 has spawned a 'NPC [1512][npc_citizen]'.
+[17:05:32]	OTA-ECHO.OWS-55309 has spawned a 'NPC [1582][npc_citizen]'.
+[17:05:33]	OTA-ECHO.OWS-55309 has spawned a 'NPC [1594][npc_citizen]'.
+[17:05:34]	OTA-ECHO.OWS-55309 has spawned a 'NPC [1618][npc_citizen]'.
+[17:05:35]	OTA-ECHO.OWS-55309 has spawned a 'NPC [1621][npc_citizen]'.
+[17:05:36]	OTA-ECHO.OWS-55309 has spawned a 'NPC [1496][npc_citizen]'.
+[17:05:37]	OTA-ECHO.OWS-55309 has spawned a 'NPC [1625][npc_citizen]'.
+[17:05:40]	OTA-ECHO.OWS-55309 exited observer at their location.
+[17:05:40]	OTA-ECHO.OWS-55309 entered observer.
+[17:05:42]	OTA-ECHO.OWS-55309 exited observer at their location.
+[17:06:02]	OTA-ECHO.OWS-55309 has gained 40 tokens.
+[17:06:15]	OTA-ECHO.OWS-55309 entered observer.
+[17:06:16]	OTA-ECHO.OWS-55309 exited observer at their location.
+[17:06:59]	Г@H3NK created the character 'D47.MPF-RCT.723'
+[17:06:59]	D47.MPF-RCT.723 has gained a 'Наручники' #409.
+[17:06:59]	D47.MPF-RCT.723 has gained a 'ID Карточка' #410.
+[17:07:04]	Г@H3NK loaded the character 'D47.MPF-RCT.723'
+[17:07:23]	D47.MPF-RCT.723 entered observer.
+[17:07:25]	D47.MPF-RCT.723 exited observer at their location.
+[17:07:29]	D47.MPF-RCT.723 entered observer.
+[17:07:30]	D47.MPF-RCT.723 exited observer at their location.
+[17:07:32]	D47.MPF-RCT.723 entered observer.
+[17:07:33]	D47.MPF-RCT.723 exited observer at their location.
+[17:08:32]	D47.MPF.SHIELD.417 used command '/CharSetName D47 D47.MPF.SHIELD.417'.
+[17:09:01]	D47.MPF.SHIELD.417 entered observer.
+[17:09:02]	D47.MPF.SHIELD.417 exited observer at their location.
+[17:09:02]	D47.MPF.SHIELD.417 has taken 182 damage from worldspawn.
+[17:09:02]	worldspawn has killed D47.MPF.SHIELD.417.
+[17:09:17]	D47.MPF.SHIELD.417 entered observer.
+[17:09:21]	D47.MPF.SHIELD.417 exited observer at their location.
+[17:09:23]	D47.MPF.SHIELD.417 entered observer.
+[17:09:26]	D47.MPF.SHIELD.417 exited observer at their location.
+[17:09:34]	D47.MPF.SHIELD.417 entered observer.
+[17:09:35]	D47.MPF.SHIELD.417 exited observer at their location.
+[17:09:35]	D47.MPF.SHIELD.417 entered observer.
+[17:09:36]	D47.MPF.SHIELD.417 exited observer at their location.
+[17:09:43]	D47.MPF.SHIELD.417 has taken 999 damage from worldspawn.
+[17:09:43]	worldspawn has killed D47.MPF.SHIELD.417.
+[17:09:43]	D47.MPF.SHIELD.417 has killed D47.MPF.SHIELD.417.
+[17:10:57]	Г@H3NK (STEAM_0:0:65326356) deleted character 'D47.MPF.SHIELD.417'
+[17:11:02]	Г@H3NK loaded the character 'D47.MPF-DvL.514'
+[17:11:04]	D47.MPF-DvL.514 entered observer.
+[17:11:05]	D47.MPF-DvL.514 exited observer at their location.
+[17:11:08]	D47.MPF-DvL.514 entered observer.
+[17:12:46]	D47.MPF-DvL.514 exited observer at their location.
+[17:14:00]	D47.MPF-DvL.514 used command '/SpawnAdd metropolice metropolice_scanner'.
+[22:55:28]	Г@H3NK has connected.
+[22:56:47]	Г@H3NK loaded the character 'D47.MPF-DvL.514'

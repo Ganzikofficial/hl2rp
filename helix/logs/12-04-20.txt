@@ -1,0 +1,985 @@
+[01:38:56]	Г@H3NK has connected.
+[01:39:33]	Г@H3NK loaded the character 'Александр Климов'
+[01:39:56]	Александр Климов ran 'Equip' on item 'ДС Дробовик' (#91)
+[01:39:57]	Александр Климов ran 'EquipUn' on item 'FAMAS' (#90)
+[01:39:58]	Александр Климов ran 'Equip' on item 'ДС Дробовик' (#91)
+[01:41:45]	Александр Климов has spawned a 'Entity [83][arccw_ammo_buckshot_large]'.
+[01:42:01]	Александр Климов has spawned 'models/items/sniper_round_box.mdl'.
+[01:42:03]	Александр Климов has spawned 'models/items/arccw/magnum_ammo.mdl'.
+[01:42:05]	Александр Климов has spawned 'models/items/arccw/magnum_ammo_closed.mdl'.
+[01:42:09]	Александр Климов has spawned 'models/items/arccw/rifle_ammo.mdl'.
+[01:42:16]	Александр Климов has spawned 'models/items/arccw/smg_ammo.mdl'.
+[01:42:20]	Александр Климов has spawned 'models/items/arccw/sniper_ammo.mdl'.
+[01:42:26]	Александр Климов has spawned 'models/items/arccw/magnum_ammo.mdl'.
+[01:42:34]	Александр Климов has spawned 'models/items/arccw/rifle_ammo.mdl'.
+[01:42:38]	Александр Климов entered observer.
+[01:43:02]	Александр Климов exited observer at their location.
+[01:48:21]	Г@H3NK has connected.
+[01:48:37]	Г@H3NK loaded the character 'Александр Климов'
+[01:55:10]	Александр Климов ran 'EquipUn' on item 'ДС Дробовик' (#91)
+[01:55:11]	Александр Климов ran 'Equip' on item 'FAMAS' (#90)
+[01:56:14]	Александр Климов has spawned a 'Entity [80][item_healthkit]'.
+[01:56:14]	Александр Климов has spawned a 'Entity [81][item_healthkit]'.
+[01:56:14]	Александр Климов has spawned a 'Entity [82][item_healthkit]'.
+[02:04:13]	Александр Климов entered observer.
+[02:04:14]	Александр Климов exited observer at their location.
+[02:04:25]	Александр Климов entered observer.
+[02:04:27]	Александр Климов exited observer at their location.
+[02:04:30]	Александр Климов has spawned 'models/weapons/w_boom_m3super90.mdl'.
+[02:04:36]	Александр Климов has spawned 'models/weapons/w_beef_m3super90.mdl'.
+[02:04:40]	Александр Климов has spawned 'models/weapons/w_ak47.mdl'.
+[02:04:50]	Александр Климов has spawned 'models/weapons/w_ak74.mdl'.
+[02:05:00]	Александр Климов has spawned 'models/weapons/w_zistol.mdl'.
+[02:05:04]	Александр Климов has spawned 'models/weapons/w_venicase_passenger.mdl'.
+[02:05:13]	Александр Климов has spawned 'models/props_wasteland/amaria_container1.mdl'.
+[02:05:14]	Александр Климов entered observer.
+[02:05:18]	Александр Климов has spawned 'models/props_lab/amariaclb.mdl'.
+[02:05:23]	Александр Климов has spawned 'models/props_lab/amaria_works.mdl'.
+[02:05:27]	Александр Климов has spawned 'models/props/cs_assault/amariabrd.mdl'.
+[02:05:29]	Александр Климов has spawned 'models/props_fortifications/sandbags_corner1.mdl'.
+[02:05:31]	Александр Климов has spawned 'models/props_junk/meleeblock007a.mdl'.
+[02:05:35]	Александр Климов has spawned 'models/jaanus/atgun.mdl'.
+[02:05:43]	Александр Климов has spawned 'models/dean/gtaiv/weapons/rpg_w_rocket.mdl'.
+[02:05:46]	Александр Климов has spawned 'models/flyboi/littlebird/littlebirdt_fb.mdl'.
+[02:05:54]	Александр Климов has spawned 'models/flyboi/hind/mi24_fb.mdl'.
+[02:05:58]	Александр Климов has spawned 'models/bf2bb.mdl'.
+[02:06:00]	Александр Климов has spawned 'models/dogmeat.mdl'.
+[02:06:02]	Александр Климов has spawned 'models/t70test.mdl'.
+[02:06:08]	Александр Климов has spawned 'models/uazjeep.mdl'.
+[02:06:12]	Александр Климов has spawned 'models/citizen_radio.mdl'.
+[02:06:38]	Александр Климов has spawned 'models/props_c17/SuitCase001a.mdl'.
+[02:06:41]	Александр Климов exited observer at their location.
+[02:06:41]	Александр Климов has spawned 'models/props_c17/SuitCase001a.mdl'.
+[02:06:43]	Александр Климов has spawned 'models/props_c17/SuitCase_Passenger_Physics.mdl'.
+[02:07:46]	Александр Климов has spawned 'models/maxofs2d/lamp_flashlight.mdl'.
+[02:07:51]	Александр Климов has spawned 'models/dav0r/buttons/switch.mdl'.
+[02:09:03]	Александр Климов has spawned 'models/w_357ammobox.mdl'.
+[02:09:06]	Александр Климов has spawned 'models/w_9mmarclip.mdl'.
+[02:09:09]	Александр Климов has spawned 'models/w_9mmarclip.mdl'.
+[02:09:12]	Александр Климов has spawned 'models/w_357ammobox.mdl'.
+[02:09:48]	Александр Климов has spawned 'models/n_blox_12.mdl'.
+[02:09:51]	Александр Климов has spawned 'models/n_blox_48.mdl'.
+[02:09:56]	Александр Климов has spawned 'models/n_blox_96.mdl'.
+[02:10:00]	Александр Климов has spawned 'models/ministrider.mdl'.
+[02:10:02]	Александр Климов has spawned 'models/hl1plr.mdl'.
+[02:10:03]	Александр Климов has spawned 'models/holo.mdl'.
+[02:10:06]	Александр Климов has spawned 'models/hl1plr.mdl'.
+[02:10:10]	Александр Климов has spawned 'models/hl1plr.mdl'.
+[02:10:14]	Александр Климов has spawned 'models/forklift.mdl'.
+[02:10:19]	Александр Климов has spawned 'models/doctor.mdl'.
+[02:10:28]	Александр Климов has spawned 'models/bennet.mdl'.
+[02:10:37]	Александр Климов has spawned 'models/abone_template1.mdl'.
+[02:10:39]	Александр Климов has spawned 'models/abone_template1.mdl'.
+[02:10:44]	Александр Климов has spawned 'models/acoustic.mdl'.
+[02:16:41]	Александр Климов has gained a 'Handheld Radio' #93.
+[02:16:41]	Александр Климов used command '/CharGiveItem А handheld_radio'.
+[02:16:48]	Александр Климов ran 'Frequency' on item 'Handheld Radio' (#93)
+[02:17:07]	Александр Климов ran 'Frequency' on item 'Handheld Radio' (#93)
+[02:17:14]	Александр Климов ran 'Toggle' on item 'Handheld Radio' (#93)
+[02:19:02]	Александр Климов ran 'Frequency' on item 'Портативная рация' (#93)
+[02:19:18]	Александр Климов ran 'Toggle' on item 'Портативная рация' (#93)
+[02:19:19]	Александр Климов ran 'Toggle' on item 'Портативная рация' (#93)
+[02:19:21]	Александр Климов ran 'Frequency' on item 'Портативная рация' (#93)
+[02:20:06]	Г@H3NK loaded the character 'MPF-I4.51977'
+[02:20:11]	MPF-I4.51977 entered observer.
+[02:20:15]	MPF-I4.51977 exited observer at their location.
+[02:20:19]	MPF-I4.51977 entered observer.
+[02:20:25]	MPF-I4.51977 exited observer at their location.
+[02:20:32]	MPF-I4.51977 ran 'Frequency' on item 'Портативная рация' (#39)
+[02:20:40]	MPF-I4.51977 used command '/SetFreq 101.2'.
+[02:20:42]	MPF-I4.51977 ran 'Frequency' on item 'Портативная рация' (#39)
+[02:20:44]	MPF-I4.51977 ran 'Toggle' on item 'Портативная рация' (#39)
+[02:20:47]	MPF-I4.51977 ran 'Toggle' on item 'Портативная рация' (#39)
+[02:20:49]	MPF-I4.51977 ran 'drop' on item 'M3 Super 90' (#66)
+[02:20:49]	MPF-I4.51977 has lost a 'M3 Super 90' #66.
+[02:21:08]	MPF-I4.51977 has gained a 'Фонарик' #94.
+[02:21:08]	MPF-I4.51977 used command '/CharGiveItem I4 flashlight'.
+[02:23:21]	MPF-I4.51977 used command '/CharGiveFlag I4 zip'.
+[02:23:50]	MPF-I4.51977 has gained a 'Zip Tie' #95.
+[02:23:50]	MPF-I4.51977 used command '/CharGiveItem I4 zip'.
+[02:23:55]	MPF-I4.51977 ran 'drop' on item 'Zip Tie' (#95)
+[02:23:55]	MPF-I4.51977 has lost a 'Zip Tie' #95.
+[02:25:06]	MPF-I4.51977 has gained 300 tokens.
+[02:27:22]	MPF-I4.51977 has spawned 'models/gibs/manhack_gib03.mdl'.
+[02:27:26]	MPF-I4.51977 has spawned 'models/gibs/metal_gib2.mdl'.
+[02:27:29]	MPF-I4.51977 has spawned 'models/gibs/helicopter_brokenpiece_03.mdl'.
+[02:27:33]	MPF-I4.51977 has spawned 'models/gibs/scanner_gib02.mdl'.
+[02:27:36]	MPF-I4.51977 has spawned 'models/gibs/shield_scanner_gib1.mdl'.
+[02:28:01]	MPF-I4.51977 has spawned 'models/props_c17/tools_pliers01a.mdl'.
+[02:28:48]	MPF-I4.51977 has spawned 'models/props_citizen_tech/firetrap_buttonpad.mdl'.
+[02:29:31]	MPF-I4.51977 has spawned 'models/props_junk/vent001_chunk8.mdl'.
+[02:29:33]	MPF-I4.51977 has spawned 'models/props_junk/vent001_chunk8.mdl'.
+[02:29:53]	MPF-I4.51977 has spawned 'models/props_junk/glassjug01_chunk02.mdl'.
+[02:30:05]	MPF-I4.51977 has spawned 'models/props_junk/garbage_glassbottle003a_chunk01.mdl'.
+[02:30:06]	MPF-I4.51977 has gained 300 tokens.
+[02:30:09]	MPF-I4.51977 has spawned 'models/props_junk/vent001_chunk6.mdl'.
+[02:30:11]	MPF-I4.51977 has spawned 'models/props_junk/vent001_chunk4.mdl'.
+[02:30:12]	MPF-I4.51977 has spawned 'models/props_junk/vent001_chunk6.mdl'.
+[02:30:13]	MPF-I4.51977 has spawned 'models/props_junk/vent001_chunk7.mdl'.
+[02:30:18]	MPF-I4.51977 has spawned 'models/props_junk/vent001.mdl'.
+[02:30:21]	MPF-I4.51977 has spawned 'models/props_junk/rock001a.mdl'.
+[02:30:26]	MPF-I4.51977 has spawned 'models/props_lab/pipesystem03d.mdl'.
+[02:30:30]	MPF-I4.51977 has spawned 'models/props_lab/tpplug.mdl'.
+[02:30:37]	MPF-I4.51977 has spawned 'models/props_lab/box01a.mdl'.
+[02:30:51]	MPF-I4.51977 has spawned 'models/props_lab/labpart.mdl'.
+[02:30:59]	MPF-I4.51977 has spawned 'models/props_lab/pipesystem02e.mdl'.
+[02:31:01]	MPF-I4.51977 has spawned 'models/props_lab/pipesystem01b.mdl'.
+[02:31:07]	MPF-I4.51977 has spawned 'models/props_lab/powerbox02b.mdl'.
+[02:31:08]	MPF-I4.51977 has spawned 'models/props_lab/powerbox01a.mdl'.
+[02:31:09]	MPF-I4.51977 has spawned 'models/props_lab/powerbox02a.mdl'.
+[02:31:13]	MPF-I4.51977 has spawned 'models/props_lab/crystalholder_claw.mdl'.
+[02:31:17]	MPF-I4.51977 has spawned 'models/props_lab/blastdoor001a.mdl'.
+[02:31:21]	MPF-I4.51977 has spawned 'models/props_lab/blastdoor001a.mdl'.
+[02:31:26]	MPF-I4.51977 has spawned 'models/props_lab/generatortube.mdl'.
+[02:31:27]	MPF-I4.51977 has spawned 'models/props_lab/generatorconsole.mdl'.
+[02:35:06]	MPF-I4.51977 has gained 300 tokens.
+[02:35:53]	MPF-I4.51977 has gained a 'Идентификационная карточка гражданина' #95.
+[02:35:53]	MPF-I4.51977 used command '/CharGiveItem I4 cid'.
+[02:40:31]	MPF-I4.51977 has gained 300 tokens.
+[02:43:43]	MPF-I4.51977 used command '/Dispatch F'.
+[02:45:07]	MPF-I4.51977 ran 'Frequency' on item 'Портативная рация' (#39)
+[02:45:09]	MPF-I4.51977 used command '/SetFreq 101.2'.
+[02:48:31]	MPF-I4.51977 ran 'Frequency' on item 'Портативная рация' (#39)
+[02:50:03]	MPF-I4.51977 has gained 300 tokens.
+[02:54:13]	Г@H3NK loaded the character 'OTA-ECHO.OWS-57367'
+[02:55:43]	OTA-ECHO.OWS-57367 has spawned 'models/props_wasteland/laundry_cart001.mdl'.
+[02:55:50]	OTA-ECHO.OWS-57367 has enabled persistence for 'models/props_wasteland/laundry_cart001.mdl'.
+[02:55:53]	OTA-ECHO.OWS-57367 has disabled persistence for 'models/props_wasteland/laundry_cart001.mdl'.
+[02:56:18]	OTA-ECHO.OWS-57367 has gained 0 tokens.
+[02:56:18]	OTA-ECHO.OWS-57367 ordered a shipment
+[02:56:24]	OTA-ECHO.OWS-57367 has gained a 'Фонарик' #96.
+[02:56:24]	OTA-ECHO.OWS-57367 took 'Фонарик' from the shipment
+[02:56:24]	OTA-ECHO.OWS-57367 has gained a 'Фонарик' #97.
+[02:56:24]	OTA-ECHO.OWS-57367 took 'Фонарик' from the shipment
+[02:56:24]	OTA-ECHO.OWS-57367 has gained a 'Фонарик' #98.
+[02:56:24]	OTA-ECHO.OWS-57367 took 'Фонарик' from the shipment
+[02:56:25]	OTA-ECHO.OWS-57367 has gained a 'Фонарик' #99.
+[02:56:25]	OTA-ECHO.OWS-57367 took 'Фонарик' from the shipment
+[02:56:25]	OTA-ECHO.OWS-57367 has gained a 'Фонарик' #100.
+[02:56:25]	OTA-ECHO.OWS-57367 took 'Фонарик' from the shipment
+[02:56:25]	OTA-ECHO.OWS-57367 has gained a 'Фонарик' #101.
+[02:56:25]	OTA-ECHO.OWS-57367 took 'Фонарик' from the shipment
+[02:56:26]	OTA-ECHO.OWS-57367 has gained a 'Фонарик' #102.
+[02:56:26]	OTA-ECHO.OWS-57367 took 'Фонарик' from the shipment
+[02:56:26]	OTA-ECHO.OWS-57367 has gained a 'Фонарик' #103.
+[02:56:26]	OTA-ECHO.OWS-57367 took 'Фонарик' from the shipment
+[02:56:26]	OTA-ECHO.OWS-57367 has gained a 'Фонарик' #104.
+[02:56:26]	OTA-ECHO.OWS-57367 took 'Фонарик' from the shipment
+[02:56:27]	OTA-ECHO.OWS-57367 has gained a 'Фонарик' #105.
+[02:56:27]	OTA-ECHO.OWS-57367 took 'Фонарик' from the shipment
+[02:56:27]	OTA-ECHO.OWS-57367 has spawned a 'Weapon [109][arccw_db]'.
+[02:56:39]	OTA-ECHO.OWS-57367 has spawned a 'Weapon [88][arccw_db]'.
+[02:56:52]	OTA-ECHO.OWS-57367 ran 'EquipUn' on item 'M3 Super 90' (#69)
+[02:56:54]	OTA-ECHO.OWS-57367 ran 'drop' on item '.9mm Pistol' (#47)
+[02:56:54]	OTA-ECHO.OWS-57367 has lost a '.9mm Pistol' #47.
+[02:57:25]	OTA-ECHO.OWS-57367 has gained a 'Glock' #106.
+[02:57:25]	OTA-ECHO.OWS-57367 used command '/CharGiveItem OTA glock'.
+[02:57:28]	OTA-ECHO.OWS-57367 ran 'Equip' on item 'Glock' (#106)
+[02:57:29]	OTA-ECHO.OWS-57367 ran 'EquipUn' on item 'Glock' (#106)
+[02:57:31]	OTA-ECHO.OWS-57367 ran 'drop' on item 'Фонарик' (#100)
+[02:57:31]	OTA-ECHO.OWS-57367 has lost a 'Фонарик' #100.
+[02:57:32]	OTA-ECHO.OWS-57367 ran 'drop' on item 'Фонарик' (#101)
+[02:57:32]	OTA-ECHO.OWS-57367 has lost a 'Фонарик' #101.
+[02:57:34]	OTA-ECHO.OWS-57367 ran 'drop' on item 'Фонарик' (#105)
+[02:57:34]	OTA-ECHO.OWS-57367 has lost a 'Фонарик' #105.
+[02:57:35]	OTA-ECHO.OWS-57367 ran 'drop' on item 'Фонарик' (#104)
+[02:57:35]	OTA-ECHO.OWS-57367 has lost a 'Фонарик' #104.
+[02:57:35]	OTA-ECHO.OWS-57367 ran 'drop' on item 'Фонарик' (#103)
+[02:57:35]	OTA-ECHO.OWS-57367 has lost a 'Фонарик' #103.
+[02:57:36]	OTA-ECHO.OWS-57367 ran 'drop' on item 'Фонарик' (#102)
+[02:57:36]	OTA-ECHO.OWS-57367 has lost a 'Фонарик' #102.
+[02:57:37]	OTA-ECHO.OWS-57367 ran 'drop' on item 'Фонарик' (#98)
+[02:57:37]	OTA-ECHO.OWS-57367 has lost a 'Фонарик' #98.
+[02:57:38]	OTA-ECHO.OWS-57367 ran 'drop' on item 'Фонарик' (#99)
+[02:57:38]	OTA-ECHO.OWS-57367 has lost a 'Фонарик' #99.
+[02:57:39]	OTA-ECHO.OWS-57367 ran 'drop' on item 'Фонарик' (#96)
+[02:57:39]	OTA-ECHO.OWS-57367 has lost a 'Фонарик' #96.
+[02:57:39]	OTA-ECHO.OWS-57367 ran 'drop' on item 'Фонарик' (#97)
+[02:57:39]	OTA-ECHO.OWS-57367 has lost a 'Фонарик' #97.
+[02:57:55]	OTA-ECHO.OWS-57367 has gained 0 tokens.
+[02:57:55]	OTA-ECHO.OWS-57367 ordered a shipment
+[02:58:01]	OTA-ECHO.OWS-57367 took 'Фонарик' from the shipment
+[02:58:02]	OTA-ECHO.OWS-57367 has gained a 'Фонарик' #108.
+[02:58:02]	OTA-ECHO.OWS-57367 took 'Фонарик' from the shipment
+[02:58:03]	OTA-ECHO.OWS-57367 has gained a 'Фонарик' #109.
+[02:58:03]	OTA-ECHO.OWS-57367 took 'Фонарик' from the shipment
+[02:58:03]	OTA-ECHO.OWS-57367 has gained a 'Фонарик' #110.
+[02:58:03]	OTA-ECHO.OWS-57367 took 'Фонарик' from the shipment
+[02:58:03]	OTA-ECHO.OWS-57367 has gained a 'Фонарик' #111.
+[02:58:03]	OTA-ECHO.OWS-57367 took 'Фонарик' from the shipment
+[02:58:04]	OTA-ECHO.OWS-57367 has gained a 'Фонарик' #112.
+[02:58:04]	OTA-ECHO.OWS-57367 took 'Фонарик' from the shipment
+[02:58:04]	OTA-ECHO.OWS-57367 has gained a 'Фонарик' #113.
+[02:58:04]	OTA-ECHO.OWS-57367 took 'Фонарик' from the shipment
+[02:58:04]	OTA-ECHO.OWS-57367 has gained a 'Фонарик' #114.
+[02:58:04]	OTA-ECHO.OWS-57367 took 'Фонарик' from the shipment
+[02:58:05]	OTA-ECHO.OWS-57367 has gained a 'Фонарик' #115.
+[02:58:05]	OTA-ECHO.OWS-57367 took 'Фонарик' from the shipment
+[02:58:05]	OTA-ECHO.OWS-57367 has gained a 'Фонарик' #116.
+[02:58:05]	OTA-ECHO.OWS-57367 took 'Фонарик' from the shipment
+[02:58:13]	OTA-ECHO.OWS-57367 has gained 0 tokens.
+[02:58:13]	OTA-ECHO.OWS-57367 ordered a shipment
+[02:58:17]	OTA-ECHO.OWS-57367 has gained a 'Фонарик' #117.
+[02:58:17]	OTA-ECHO.OWS-57367 took 'Фонарик' from the shipment
+[02:58:17]	OTA-ECHO.OWS-57367 has gained a 'Фонарик' #118.
+[02:58:17]	OTA-ECHO.OWS-57367 took 'Фонарик' from the shipment
+[02:58:17]	OTA-ECHO.OWS-57367 has gained a 'Фонарик' #119.
+[02:58:17]	OTA-ECHO.OWS-57367 took 'Фонарик' from the shipment
+[02:58:26]	OTA-ECHO.OWS-57367 ran 'drop' on item 'Фонарик' (#118)
+[02:58:26]	OTA-ECHO.OWS-57367 has lost a 'Фонарик' #118.
+[02:58:26]	OTA-ECHO.OWS-57367 ran 'drop' on item 'Фонарик' (#117)
+[02:58:26]	OTA-ECHO.OWS-57367 has lost a 'Фонарик' #117.
+[02:58:28]	OTA-ECHO.OWS-57367 ran 'drop' on item 'Фонарик' (#116)
+[02:58:28]	OTA-ECHO.OWS-57367 has lost a 'Фонарик' #116.
+[02:58:29]	OTA-ECHO.OWS-57367 ran 'drop' on item 'Фонарик' (#115)
+[02:58:29]	OTA-ECHO.OWS-57367 has lost a 'Фонарик' #115.
+[02:58:30]	OTA-ECHO.OWS-57367 ran 'drop' on item 'Фонарик' (#114)
+[02:58:30]	OTA-ECHO.OWS-57367 has lost a 'Фонарик' #114.
+[02:58:30]	OTA-ECHO.OWS-57367 ran 'drop' on item 'Фонарик' (#119)
+[02:58:30]	OTA-ECHO.OWS-57367 has lost a 'Фонарик' #119.
+[02:58:31]	OTA-ECHO.OWS-57367 ran 'drop' on item 'Фонарик' (#113)
+[02:58:31]	OTA-ECHO.OWS-57367 has lost a 'Фонарик' #113.
+[02:58:32]	OTA-ECHO.OWS-57367 ran 'drop' on item 'Фонарик' (#112)
+[02:58:32]	OTA-ECHO.OWS-57367 has lost a 'Фонарик' #112.
+[02:58:32]	OTA-ECHO.OWS-57367 ran 'drop' on item 'Фонарик' (#110)
+[02:58:32]	OTA-ECHO.OWS-57367 has lost a 'Фонарик' #110.
+[02:58:33]	OTA-ECHO.OWS-57367 ran 'drop' on item 'Фонарик' (#111)
+[02:58:33]	OTA-ECHO.OWS-57367 has lost a 'Фонарик' #111.
+[02:58:33]	OTA-ECHO.OWS-57367 ran 'drop' on item 'Фонарик' (#108)
+[02:58:33]	OTA-ECHO.OWS-57367 has lost a 'Фонарик' #108.
+[02:58:34]	OTA-ECHO.OWS-57367 ran 'drop' on item 'Фонарик' (#109)
+[02:58:34]	OTA-ECHO.OWS-57367 has lost a 'Фонарик' #109.
+[02:58:39]	OTA-ECHO.OWS-57367 has gained a 'Фонарик' #120.
+[02:58:39]	OTA-ECHO.OWS-57367 took 'Фонарик' from the shipment
+[02:58:39]	OTA-ECHO.OWS-57367 has gained a 'Фонарик' #121.
+[02:58:39]	OTA-ECHO.OWS-57367 took 'Фонарик' from the shipment
+[02:58:40]	OTA-ECHO.OWS-57367 has gained a 'Фонарик' #122.
+[02:58:40]	OTA-ECHO.OWS-57367 took 'Фонарик' from the shipment
+[02:58:40]	OTA-ECHO.OWS-57367 has gained a 'Фонарик' #123.
+[02:58:40]	OTA-ECHO.OWS-57367 took 'Фонарик' from the shipment
+[02:58:40]	OTA-ECHO.OWS-57367 has gained a 'Фонарик' #124.
+[02:58:40]	OTA-ECHO.OWS-57367 took 'Фонарик' from the shipment
+[02:58:41]	OTA-ECHO.OWS-57367 has gained a 'Фонарик' #125.
+[02:58:41]	OTA-ECHO.OWS-57367 took 'Фонарик' from the shipment
+[02:58:41]	OTA-ECHO.OWS-57367 has gained a 'Фонарик' #126.
+[02:58:41]	OTA-ECHO.OWS-57367 took 'Фонарик' from the shipment
+[02:58:45]	OTA-ECHO.OWS-57367 ran 'drop' on item 'Фонарик' (#125)
+[02:58:45]	OTA-ECHO.OWS-57367 has lost a 'Фонарик' #125.
+[02:58:46]	OTA-ECHO.OWS-57367 ran 'drop' on item 'Фонарик' (#124)
+[02:58:46]	OTA-ECHO.OWS-57367 has lost a 'Фонарик' #124.
+[02:58:47]	OTA-ECHO.OWS-57367 ran 'drop' on item 'Фонарик' (#122)
+[02:58:47]	OTA-ECHO.OWS-57367 has lost a 'Фонарик' #122.
+[02:58:47]	OTA-ECHO.OWS-57367 ran 'drop' on item 'Фонарик' (#123)
+[02:58:47]	OTA-ECHO.OWS-57367 has lost a 'Фонарик' #123.
+[02:58:48]	OTA-ECHO.OWS-57367 ran 'drop' on item 'Фонарик' (#120)
+[02:58:48]	OTA-ECHO.OWS-57367 has lost a 'Фонарик' #120.
+[02:58:48]	OTA-ECHO.OWS-57367 ran 'drop' on item 'Фонарик' (#121)
+[02:58:48]	OTA-ECHO.OWS-57367 has lost a 'Фонарик' #121.
+[02:58:50]	OTA-ECHO.OWS-57367 ran 'drop' on item 'Фонарик' (#126)
+[02:58:50]	OTA-ECHO.OWS-57367 has lost a 'Фонарик' #126.
+[02:59:31]	OTA-ECHO.OWS-57367 entered observer.
+[02:59:32]	OTA-ECHO.OWS-57367 exited observer at their location.
+[02:59:54]	OTA-ECHO.OWS-57367 ran 'Equip' on item 'M3 Super 90' (#69)
+[03:00:13]	OTA-ECHO.OWS-57367 has gained 40 tokens.
+[03:00:41]	OTA-ECHO.OWS-57367 has taken 55 damage from worldspawn.
+[03:01:22]	OTA-ECHO.OWS-57367 has taken 55 damage from worldspawn.
+[03:01:26]	OTA-ECHO.OWS-57367 entered observer.
+[03:01:28]	OTA-ECHO.OWS-57367 exited observer at their location.
+[03:01:30]	OTA-ECHO.OWS-57367 has taken 55 damage from worldspawn.
+[03:01:31]	worldspawn has killed OTA-ECHO.OWS-57367.
+[03:02:35]	OTA-ECHO.OWS-57367 used command '/CharGiveItem OTA famas'.
+[03:02:37]	OTA-ECHO.OWS-57367 ran 'drop' on item 'M3 Super 90' (#69)
+[03:02:37]	OTA-ECHO.OWS-57367 has lost a 'M3 Super 90' #69.
+[03:02:38]	OTA-ECHO.OWS-57367 has gained a 'FAMAS' #107.
+[03:02:38]	OTA-ECHO.OWS-57367 used command '/CharGiveItem OTA famas'.
+[03:02:39]	OTA-ECHO.OWS-57367 ran 'Equip' on item 'FAMAS' (#107)
+[03:02:44]	OTA-ECHO.OWS-57367 has spawned a 'Entity [162][item_ammo_ar2_large]'.
+[03:02:46]	OTA-ECHO.OWS-57367 has spawned a 'Entity [162][item_ammo_smg1_large]'.
+[03:05:39]	OTA-ECHO.OWS-57367 used command '/BecomeClass EOW'.
+[03:05:45]	OTA-ECHO.OWS-57367 used command '/BecomeClass Elite'.
+[03:05:54]	OTA-ECHO.OWS-57367 used command '/BecomeClass Elite_soldier'.
+[03:06:16]	OTA-ECHO.OWS-57367 used command '/BecomeClass elite_overwatch_soldier'.
+[03:08:05]	OTA-ECHO.OWS-57367 has lost 20 tokens.
+[03:08:05]	OTA-ECHO.OWS-57367 ordered a shipment
+[03:08:10]	OTA-ECHO.OWS-57367 has gained a 'Request Device' #108.
+[03:08:10]	OTA-ECHO.OWS-57367 took 'Request Device' from the shipment
+[03:08:20]	OTA-ECHO.OWS-57367 used command '/Request 101'.
+[03:08:29]	OTA-ECHO.OWS-57367 used command '/Request ammo'.
+[03:08:38]	OTA-ECHO.OWS-57367 used command '/ViewObjectives'.
+[03:09:03]	OTA-ECHO.OWS-57367 used command '/ViewData OTA'.
+[03:09:36]	OTA-ECHO.OWS-57367 has gained 40 tokens.
+[03:09:44]	OTA-ECHO.OWS-57367 entered observer.
+[03:09:44]	OTA-ECHO.OWS-57367 exited observer at their location.
+[03:11:01]	OTA-ECHO.OWS-57367 destroyed a 'M3 Super 90' #69.
+[03:11:39]	OTA-ECHO.OWS-57367 ran 'drop' on item 'Request Device' (#108)
+[03:11:39]	OTA-ECHO.OWS-57367 has lost a 'Request Device' #108.
+[03:12:40]	Г@H3NK loaded the character 'Alexander Klimov'
+[03:28:07]	Г@H3NK loaded the character 'Александр Климов'
+[03:29:54]	Г@H3NK loaded the character 'Alexander Klimov'
+[03:30:12]	Alexander Klimov has gained a 'Consumables Permit' #108.
+[03:30:12]	Alexander Klimov used command '/CharGiveItem A permit'.
+[03:35:41]	Alexander Klimov has spawned 'models/noesis/donut.mdl'.
+[03:35:48]	Alexander Klimov has spawned 'models/noesis/donut.mdl'.
+[03:43:10]	Alexander Klimov has gained 0 tokens.
+[03:43:10]	Alexander Klimov ordered a shipment
+[03:43:15]	Alexander Klimov has gained a 'Китайская лапша' #109.
+[03:43:15]	Alexander Klimov took 'Китайская лапша' from the shipment
+[03:43:15]	Alexander Klimov has gained a 'Китайская лапша' #110.
+[03:43:15]	Alexander Klimov took 'Китайская лапша' from the shipment
+[03:43:16]	Alexander Klimov has gained a 'Китайская лапша' #111.
+[03:43:16]	Alexander Klimov took 'Китайская лапша' from the shipment
+[03:43:16]	Alexander Klimov has gained a 'Китайская лапша' #112.
+[03:43:16]	Alexander Klimov took 'Китайская лапша' from the shipment
+[03:43:16]	Alexander Klimov has gained a 'Китайская лапша' #113.
+[03:43:16]	Alexander Klimov took 'Китайская лапша' from the shipment
+[03:43:16]	Alexander Klimov has gained a 'Китайская лапша' #114.
+[03:43:16]	Alexander Klimov took 'Китайская лапша' from the shipment
+[03:43:17]	Alexander Klimov has gained a 'Китайская лапша' #115.
+[03:43:17]	Alexander Klimov took 'Китайская лапша' from the shipment
+[03:43:17]	Alexander Klimov has gained a 'Китайская лапша' #116.
+[03:43:17]	Alexander Klimov took 'Китайская лапша' from the shipment
+[03:43:17]	Alexander Klimov has gained a 'Китайская лапша' #117.
+[03:43:17]	Alexander Klimov took 'Китайская лапша' from the shipment
+[03:43:17]	Alexander Klimov has gained a 'Китайская лапша' #118.
+[03:43:17]	Alexander Klimov took 'Китайская лапша' from the shipment
+[03:43:30]	Alexander Klimov ran 'Eat' on item 'Китайская лапша' (#113)
+[03:43:31]	Alexander Klimov ran 'Eat' on item 'Китайская лапша' (#109)
+[03:51:24]	Г@H3NK created the character 'FFFFFFFFFFFFFFFFF'
+[03:51:24]	FFFFFFFFFFFFFFFFF has gained a 'UMP-45' #119.
+[03:51:24]	FFFFFFFFFFFFFFFFF has gained a '.9mm Патроны' #120.
+[03:51:24]	FFFFFFFFFFFFFFFFF has gained a '.9mm Патроны' #121.
+[03:51:29]	Г@H3NK loaded the character 'FFFFFFFFFFFFFFFFF'
+[03:51:55]	FFFFFFFFFFFFFFFFF ran 'Equip' on item 'UMP-45' (#119)
+[03:51:59]	FFFFFFFFFFFFFFFFF ran 'use' on item '.9mm Патроны' (#120)
+[03:52:00]	FFFFFFFFFFFFFFFFF ran 'use' on item '.9mm Патроны' (#121)
+[03:52:11]	FFFFFFFFFFFFFFFFF ran 'EquipUn' on item 'UMP-45' (#119)
+[03:52:29]	Г@H3NK created the character 'MPF-RCT.20965'
+[03:52:29]	MPF-RCT.20965 has gained a 'Glock' #120.
+[03:52:29]	MPF-RCT.20965 has gained a '.9mm Патроны' #121.
+[03:52:29]	MPF-RCT.20965 has gained a '.9mm Патроны' #122.
+[03:52:32]	Г@H3NK (STEAM_0:0:65326356) deleted character 'FFFFFFFFFFFFFFFFF'
+[03:52:42]	Г@H3NK loaded the character 'MPF-RCT.20965'
+[03:57:42]	MPF-RCT.20965 has gained 300 tokens.
+[04:02:42]	MPF-RCT.20965 has gained 300 tokens.
+[04:06:49]	MPF-RCT.20965 entered observer.
+[04:07:41]	MPF-RCT.20965 exited observer at their location.
+[04:07:42]	MPF-RCT.20965 has gained 300 tokens.
+[04:08:20]	MPF-RCT.20965 entered observer.
+[04:08:20]	MPF-RCT.20965 exited observer at their location.
+[04:08:28]	MPF-RCT.20965 entered observer.
+[04:08:47]	MPF-RCT.20965 exited observer at their location.
+[04:08:51]	MPF-RCT.20965 ran 'Equip' on item 'Glock' (#120)
+[04:08:55]	MPF-RCT.20965 ran 'use' on item '.9mm Патроны' (#121)
+[04:10:22]	MPF-RCT.20965 entered observer.
+[04:10:29]	MPF-RCT.20965 exited observer at their location.
+[04:10:30]	MPF-RCT.20965 entered observer.
+[04:10:32]	MPF-RCT.20965 exited observer at their location.
+[04:10:51]	MPF-RCT.20965 entered observer.
+[04:10:53]	MPF-RCT.20965 exited observer at their location.
+[04:10:54]	MPF-RCT.20965 entered observer.
+[04:10:55]	MPF-RCT.20965 exited observer at their location.
+[04:11:03]	MPF-RCT.20965 entered observer.
+[04:11:12]	MPF-RCT.20965 exited observer at their location.
+[04:11:12]	MPF-RCT.20965 entered observer.
+[04:11:13]	MPF-RCT.20965 exited observer at their location.
+[04:11:20]	MPF-RCT.20965 entered observer.
+[04:11:24]	MPF-RCT.20965 exited observer at their location.
+[04:11:43]	MPF-RCT.20965 entered observer.
+[04:11:47]	MPF-RCT.20965 exited observer at their location.
+[04:12:02]	MPF-RCT.20965 entered observer.
+[04:12:04]	MPF-RCT.20965 exited observer at their location.
+[04:12:42]	MPF-RCT.20965 has gained 300 tokens.
+[04:13:19]	MPF-RCT.20965 used command '/ActMotion'.
+[04:13:21]	MPF-RCT.20965 used command '/ExitAct'.
+[04:13:24]	MPF-RCT.20965 used command '/ActMotion 3'.
+[04:13:25]	MPF-RCT.20965 used command '/ActMotion 2'.
+[04:13:29]	MPF-RCT.20965 used command '/ActMotion 2'.
+[04:13:32]	MPF-RCT.20965 used command '/ActMotion 2'.
+[04:13:35]	MPF-RCT.20965 used command '/ActMotion 1'.
+[04:14:50]	MPF-RCT.20965 has spawned a 'Entity [163][arccw_ammo_pistol_large]'.
+[04:17:42]	MPF-RCT.20965 has gained 300 tokens.
+[04:18:59]	MPF-RCT.20965 used command '/CharEditBodygroup'.
+[04:20:07]	MPF-RCT.20965 has changed MPF-RCT.20965's bodygroups.
+[04:20:08]	MPF-RCT.20965 has changed MPF-RCT.20965's bodygroups.
+[04:22:42]	MPF-RCT.20965 has gained 300 tokens.
+[04:22:44]	MPF-RCT.20965 has spawned a 'Entity [120][arccw_ammo_ar2_large]'.
+[04:26:25]	Г@H3NK has connected.
+[04:27:07]	Г@H3NK loaded the character 'MPF-RCT.20965'
+[04:27:19]	MPF-RCT.20965 ran 'EquipUn' on item 'Glock' (#120)
+[04:27:34]	MPF-RCT.20965 used command '/CharGiveItem MPF fn57'.
+[04:27:48]	MPF-RCT.20965 used command '/CharGiveItem MPF fn'.
+[04:28:11]	Г@H3NK has connected.
+[04:28:33]	Г@H3NK loaded the character 'MPF-RCT.20965'
+[04:28:48]	MPF-RCT.20965 used command '/CharGiveItem MPF fn'.
+[04:28:51]	MPF-RCT.20965 used command '/CharGiveItem MPF fn57'.
+[04:29:10]	MPF-RCT.20965 used command '/CharGiveItem MPF five-seven'.
+[04:30:06]	Г@H3NK has connected.
+[04:30:30]	Г@H3NK loaded the character 'MPF-RCT.20965'
+[04:30:40]	MPF-RCT.20965 used command '/CharGiveItem MPF fn'.
+[04:30:53]	MPF-RCT.20965 has gained a 'Five-seveN' #123.
+[04:30:53]	MPF-RCT.20965 used command '/CharGiveItem MPF fn57'.
+[04:30:59]	MPF-RCT.20965 ran 'Equip' on item 'Five-seveN' (#123)
+[04:31:07]	MPF-RCT.20965 has spawned a 'Entity [83][arccw_ammo_smg1_large]'.
+[04:32:35]	MPF-RCT.20965 ran 'EquipUn' on item 'Five-seveN' (#123)
+[16:42:37]	Г@H3NK has connected.
+[16:47:37]	Г@H3NK loaded the character 'MPF-RCT.20965'
+[16:47:40]	MPF-RCT.20965 ran 'Equip' on item 'Five-seveN' (#123)
+[16:48:16]	MPF-RCT.20965 entered observer.
+[16:48:17]	MPF-RCT.20965 exited observer at their location.
+[16:48:17]	MPF-RCT.20965 has taken 195 damage from worldspawn.
+[16:48:17]	worldspawn has killed MPF-RCT.20965.
+[16:48:43]	MPF-RCT.20965 ran 'Equip' on item 'Five-seveN' (#123)
+[16:55:29]	Г@H3NK has connected.
+[16:56:32]	Г@H3NK loaded the character 'MPF-I4.51977'
+[17:20:01]	Г@H3NK has connected.
+[17:22:02]	Г@H3NK loaded the character 'MPF-I4.51977'
+[17:27:04]	MPF-I4.51977 has gained 300 tokens.
+[17:28:20]	Bot01 has connected.
+[17:28:20]	Bot01 loaded the character 'Bot01'
+[17:28:29]	Bot02 has connected.
+[17:28:29]	Bot02 loaded the character 'Bot02'
+[17:29:15]	MPF-I4.51977 used command '/ViewData bot01'.
+[17:29:17]	MPF-I4.51977 used command '/ViewData bot02'.
+[17:29:44]	MPF-I4.51977 has changed Bot01's bodygroups.
+[17:30:08]	MPF-I4.51977 has gained a 'Five-seveN' #124.
+[17:30:08]	MPF-I4.51977 used command '/CharGiveItem MPF fn57'.
+[17:30:10]	MPF-I4.51977 ran 'Equip' on item 'Five-seveN' (#124)
+[17:30:12]	MPF-I4.51977 ran 'EquipUn' on item 'Glock' (#92)
+[17:30:13]	MPF-I4.51977 ran 'Equip' on item 'Five-seveN' (#124)
+[17:30:26]	MPF-I4.51977 has gained a 'Средний калибр патронов' #125.
+[17:30:26]	MPF-I4.51977 used command '/CharGiveItem MPF smg1ammo'.
+[17:30:48]	MPF-I4.51977 ran 'use' on item 'Средний калибр патронов' (#125)
+[17:30:53]	Bot01 has taken 25 damage from MPF-I4.51977.
+[17:30:56]	Bot01 has taken 25 damage from MPF-I4.51977.
+[17:30:56]	Bot01 has taken 25 damage from MPF-I4.51977.
+[17:30:57]	Bot01 has taken 25 damage from MPF-I4.51977.
+[17:30:57]	Bot01 has taken 24 damage from MPF-I4.51977.
+[17:30:57]	Bot01 has taken 24 damage from MPF-I4.51977.
+[17:30:58]	Bot01 has taken 24 damage from MPF-I4.51977.
+[17:30:58]	Bot01 has taken 24 damage from MPF-I4.51977.
+[17:30:58]	Bot01 has taken 24 damage from MPF-I4.51977.
+[17:30:59]	Bot01 has taken 24 damage from MPF-I4.51977.
+[17:30:59]	Bot01 has taken 24 damage from MPF-I4.51977.
+[17:30:59]	Bot01 has taken 24 damage from MPF-I4.51977.
+[17:30:59]	MPF-I4.51977 has killed Bot01 with arccw_fiveseven.
+[17:34:00]	MPF-I4.51977 has spawned 'models/items/ammopack_small.mdl'.
+[17:34:07]	MPF-I4.51977 has spawned 'models/items/ammopack_large.mdl'.
+[17:34:20]	MPF-I4.51977 has spawned 'models/items/ammopack_medium.mdl'.
+[17:34:40]	MPF-I4.51977 has spawned 'models/Items/BoxFlares.mdl'.
+[17:34:48]	MPF-I4.51977 has spawned 'models/Items/357ammobox.mdl'.
+[17:34:49]	MPF-I4.51977 has spawned 'models/Items/357ammo.mdl'.
+[17:34:53]	MPF-I4.51977 has spawned 'models/Items/357ammo.mdl'.
+[17:34:57]	MPF-I4.51977 has spawned 'models/Items/357ammobox.mdl'.
+[17:34:59]	MPF-I4.51977 has spawned 'models/Items/357ammobox.mdl'.
+[17:36:16]	MPF-I4.51977 has spawned 'models/Items/item_item_crate.mdl'.
+[17:40:40]	MPF-I4.51977 has gained 300 tokens.
+[17:45:39]	MPF-I4.51977 has gained 300 tokens.
+[17:50:40]	MPF-I4.51977 has gained 300 tokens.
+[18:03:39]	MPF-I4.51977 has spawned 'models/Items/BoxMRounds.mdl'.
+[18:03:44]	MPF-I4.51977 has spawned 'models/Items/BoxMRounds.mdl'.
+[18:13:47]	MPF-I4.51977 has gained 300 tokens.
+[18:19:20]	MPF-I4.51977 has spawned 'models/Items/BoxBuckshot.mdl'.
+[18:19:52]	Г@H3NK loaded the character 'Александр Климов'
+[18:19:54]	Александр Климов entered observer.
+[18:20:08]	Александр Климов exited observer at their location.
+[18:22:09]	Александр Климов ran 'EquipUn' on item 'FAMAS' (#90)
+[18:22:11]	Александр Климов ran 'Equip' on item 'ДС Дробовик' (#91)
+[18:22:13]	Александр Климов ran 'EquipUn' on item 'ДС Дробовик' (#91)
+[18:22:16]	Александр Климов ran 'drop' on item 'FAMAS' (#90)
+[18:22:16]	Александр Климов has lost a 'FAMAS' #90.
+[18:26:23]	Александр Климов ran 'Equip' on item 'ДС Дробовик' (#91)
+[18:45:36]	Г@H3NK has connected.
+[18:46:34]	Г@H3NK loaded the character 'Александр Климов'
+[18:46:54]	Александр Климов has gained a 'Коробочка среднекалиберных патрон' #125.
+[18:46:54]	Александр Климов used command '/CharGiveItem А ssmg1ammo'.
+[18:48:28]	Александр Климов has gained a 'Гильзы' #126.
+[18:48:28]	Александр Климов used command '/CharGiveItem А sshotgunammo'.
+[18:48:37]	Александр Климов has gained a 'Ящик гильз' #127.
+[18:48:37]	Александр Климов used command '/CharGiveItem А shotgunammo'.
+[18:50:28]	Александр Климов ran 'use' on item 'Ящик гильз' (#127)
+[18:51:21]	Александр Климов ran 'use' on item 'Коробочка с гильзами' (#126)
+[18:51:25]	Александр Климов ran 'use' on item 'Коробочка среднекалиберных патрон' (#125)
+[18:51:26]	Александр Климов has gained a 'Ящик гильз' #125.
+[18:51:26]	Александр Климов used command '/CharGiveItem А shotgunammo'.
+[18:51:28]	Александр Климов ran 'drop' on item 'Ящик гильз' (#125)
+[18:51:28]	Александр Климов has lost a 'Ящик гильз' #125.
+[18:54:49]	Александр Климов set scoreboardRecognition to '[false]'.
+[18:54:52]	Александр Климов set scoreboardRecognition to '[true]'.
+[18:54:52]	Александр Климов set scoreboardRecognition to '[false]'.
+[18:58:25]	Александр Климов entered observer.
+[18:58:29]	Александр Климов exited observer at their location.
+[18:58:32]	Bot03 has connected.
+[18:58:32]	Bot03 loaded the character 'Bot03'
+[18:58:35]	Александр Климов entered observer.
+[18:58:37]	Александр Климов exited observer at their location.
+[18:58:55]	Bot03 has taken 117 damage from Александр Климов.
+[18:58:55]	Bot03 has taken 117 damage from Александр Климов.
+[18:58:55]	Bot03 has taken 117 damage from Александр Климов.
+[18:58:55]	Александр Климов has killed Bot03 with arccw_db.
+[18:59:15]	Bot03 has taken 28 damage from Александр Климов.
+[18:59:15]	Bot03 has taken 111 damage from Александр Климов.
+[18:59:15]	Bot03 has taken 223 damage from Александр Климов.
+[18:59:15]	Александр Климов has killed Bot03 with arccw_db.
+[18:59:57]	Александр Климов entered observer.
+[18:59:58]	Александр Климов exited observer at their location.
+[19:02:03]	Александр Климов used command '/CharSearch'.
+[19:02:46]	Г@H3NK loaded the character 'OTA-ECHO.OWS-57367'
+[19:03:04]	OTA-ECHO.OWS-57367 entered observer.
+[19:03:05]	OTA-ECHO.OWS-57367 exited observer at their location.
+[19:03:18]	OTA-ECHO.OWS-57367 entered observer.
+[19:03:20]	OTA-ECHO.OWS-57367 exited observer at their location.
+[19:04:48]	֍ Aime-moi ֍ has connected.
+[19:04:53]	OTA-ECHO.OWS-57367 used command '/CharDesc !'.
+[19:05:23]	֍ Aime-moi ֍ loaded the character 'OTA-ECHO.OWS-34096'
+[19:05:35]	OTA-ECHO.OWS-34096 used command '/BecomeClass EOW'.
+[19:05:39]	OTA-ECHO.OWS-34096 used command '/BecomeClass EOs'.
+[19:05:42]	OTA-ECHO.OWS-34096 used command '/BecomeClass EOS'.
+[19:05:42]	OTA-ECHO.OWS-34096 entered observer.
+[19:05:51]	OTA-ECHO.OWS-34096 exited observer at their location.
+[19:06:18]	OTA-ECHO.OWS-34096 used command '/BecomeClass Elite_Overwatch_soldier'.
+[19:06:19]	OTA-ECHO.OWS-57367 used command '/BecomeClass elite_overwatch_soldier'.
+[19:06:49]	OTA-ECHO.OWS-34096 has taken 36 damage from OTA-ECHO.OWS-57367.
+[19:06:49]	OTA-ECHO.OWS-34096 has taken 9 damage from OTA-ECHO.OWS-57367.
+[19:06:49]	OTA-ECHO.OWS-34096 has taken 36 damage from OTA-ECHO.OWS-57367.
+[19:06:50]	OTA-ECHO.OWS-34096 has taken 9 damage from OTA-ECHO.OWS-57367.
+[19:06:53]	OTA-ECHO.OWS-34096 has taken 36 damage from OTA-ECHO.OWS-57367.
+[19:06:54]	OTA-ECHO.OWS-34096 used command '/CharSetName OTA OTA-ECHO.EOS-34096'.
+[19:06:57]	OTA-ECHO.OWS-34096 ran 'Equip' on item 'Pulse-Rifle' (#26)
+[19:07:02]	OTA-ECHO.EOS-34096 has taken 22 damage from OTA-ECHO.OWS-34096.
+[19:07:02]	OTA-ECHO.EOS-34096 has taken 22 damage from OTA-ECHO.OWS-34096.
+[19:07:02]	OTA-ECHO.EOS-34096 has taken 22 damage from OTA-ECHO.OWS-34096.
+[19:07:02]	OTA-ECHO.EOS-34096 has taken 22 damage from OTA-ECHO.OWS-34096.
+[19:07:02]	OTA-ECHO.EOS-34096 has taken 22 damage from OTA-ECHO.OWS-34096.
+[19:07:02]	OTA-ECHO.EOS-34096 has taken 22 damage from OTA-ECHO.OWS-34096.
+[19:07:02]	OTA-ECHO.EOS-34096 has taken 22 damage from OTA-ECHO.OWS-34096.
+[19:07:03]	OTA-ECHO.EOS-34096 has taken 22 damage from OTA-ECHO.OWS-34096.
+[19:07:03]	OTA-ECHO.EOS-34096 has taken 22 damage from OTA-ECHO.OWS-34096.
+[19:07:03]	OTA-ECHO.EOS-34096 has taken 22 damage from OTA-ECHO.OWS-34096.
+[19:07:03]	OTA-ECHO.EOS-34096 has taken 11 damage from OTA-ECHO.OWS-34096.
+[19:07:03]	OTA-ECHO.EOS-34096 has taken 11 damage from OTA-ECHO.OWS-34096.
+[19:07:03]	OTA-ECHO.EOS-34096 has taken 11 damage from OTA-ECHO.OWS-34096.
+[19:07:03]	OTA-ECHO.EOS-34096 has taken 11 damage from OTA-ECHO.OWS-34096.
+[19:07:03]	OTA-ECHO.EOS-34096 entered observer.
+[19:07:06]	OTA-ECHO.EOS-34096 exited observer at their location.
+[19:07:12]	OTA-ECHO.OWS-34096 has spawned a 'Entity [691][item_battery]'.
+[19:07:12]	OTA-ECHO.OWS-34096 has spawned a 'Entity [692][item_battery]'.
+[19:07:15]	OTA-ECHO.OWS-34096 has spawned a 'Entity [691][item_battery]'.
+[19:07:16]	OTA-ECHO.OWS-34096 has spawned a 'Entity [692][item_battery]'.
+[19:07:17]	OTA-ECHO.OWS-34096 has spawned a 'Entity [691][item_battery]'.
+[19:07:17]	OTA-ECHO.OWS-34096 has spawned a 'Entity [692][item_healthkit]'.
+[19:07:45]	OTA-ECHO.EOS-34096 entered observer.
+[19:07:46]	OTA-ECHO.EOS-34096 has gained 40 tokens.
+[19:07:48]	OTA-ECHO.EOS-34096 exited observer at their location.
+[19:07:53]	OTA-ECHO.OWS-34096 ran 'use' on item 'Pulse-Rifle Energy' (#27)
+[19:07:54]	OTA-ECHO.OWS-34096 ran 'use' on item 'Pulse-Rifle Energy' (#28)
+[19:07:56]	OTA-ECHO.OWS-34096 has spawned a 'Entity [691][item_ammo_ar2_altfire]'.
+[19:07:58]	OTA-ECHO.OWS-34096 has spawned a 'Entity [691][item_ammo_ar2_altfire]'.
+[19:08:26]	OTA-ECHO.EOS-34096 has taken 22 damage from OTA-ECHO.OWS-34096.
+[19:08:27]	OTA-ECHO.EOS-34096 has taken 22 damage from OTA-ECHO.OWS-34096.
+[19:08:27]	OTA-ECHO.OWS-34096 has killed OTA-ECHO.EOS-34096 with weapon_ar2.
+[19:08:45]	OTA-ECHO.EOS-34096 entered observer.
+[19:08:57]	OTA-ECHO.EOS-34096 exited observer at their location.
+[19:09:13]	OTA-ECHO.OWS-34096 entered observer.
+[19:09:18]	OTA-ECHO.OWS-34096 used command '/AreaEdit'.
+[19:09:23]	OTA-ECHO.EOS-34096 entered observer.
+[19:09:51]	OTA-ECHO.OWS-34096 has added area "Главная площадь".
+[19:09:55]	OTA-ECHO.OWS-34096 has removed area "Главная площадь".
+[19:10:06]	OTA-ECHO.EOS-34096 exited observer at their location.
+[19:10:12]	OTA-ECHO.EOS-34096 used command '/AreaEdit'.
+[19:10:13]	OTA-ECHO.EOS-34096 entered observer.
+[19:10:21]	OTA-ECHO.OWS-34096 has added area "Ул. Главная".
+[19:10:23]	OTA-ECHO.OWS-34096 has gained 40 tokens.
+[19:10:37]	OTA-ECHO.OWS-34096 used command '/AreaEdit'.
+[19:10:39]	OTA-ECHO.OWS-34096 has removed area "Ул. Главная".
+[19:10:59]	OTA-ECHO.OWS-34096 has added area "Ул. Главная".
+[19:11:57]	OTA-ECHO.OWS-34096 has added area "КПП-2".
+[19:12:46]	OTA-ECHO.EOS-34096 has gained 40 tokens.
+[19:12:52]	OTA-ECHO.EOS-34096 exited observer at their location.
+[19:14:13]	OTA-ECHO.EOS-34096 entered observer.
+[19:14:14]	OTA-ECHO.EOS-34096 exited observer at their location.
+[19:14:22]	OTA-ECHO.EOS-34096 entered observer.
+[19:14:27]	OTA-ECHO.EOS-34096 exited observer at their location.
+[19:15:36]	OTA-ECHO.OWS-34096 has added area "Ул. Имени Александра".
+[19:15:54]	OTA-ECHO.OWS-34096 has added area "Блок Б".
+[19:16:23]	OTA-ECHO.OWS-34096 has added area "Блок Б.".
+[19:16:38]	OTA-ECHO.EOS-34096 used command '/TextAdd Жилой Блок 'Б''.
+[19:16:43]	OTA-ECHO.EOS-34096 entered observer.
+[19:16:45]	OTA-ECHO.EOS-34096 exited observer at their location.
+[19:16:47]	OTA-ECHO.EOS-34096 entered observer.
+[19:16:48]	OTA-ECHO.EOS-34096 exited observer at their location.
+[19:16:51]	OTA-ECHO.EOS-34096 entered observer.
+[19:16:55]	OTA-ECHO.EOS-34096 exited observer at their location.
+[19:16:56]	OTA-ECHO.OWS-34096 has added area "Новая зона".
+[19:16:58]	OTA-ECHO.OWS-34096 has removed area "Блок Б.".
+[19:17:02]	OTA-ECHO.OWS-34096 has removed area "Новая зона".
+[19:17:14]	OTA-ECHO.OWS-34096 has added area "Блок Б.".
+[19:17:26]	OTA-ECHO.EOS-34096 used command '/TextAdd Нексус'.
+[19:17:29]	OTA-ECHO.EOS-34096 entered observer.
+[19:17:33]	OTA-ECHO.EOS-34096 exited observer at their location.
+[19:17:36]	OTA-ECHO.OWS-34096 has added area "Двор блока Б".
+[19:17:50]	OTA-ECHO.EOS-34096 entered observer.
+[19:17:54]	OTA-ECHO.EOS-34096 exited observer at their location.
+[19:18:00]	OTA-ECHO.EOS-34096 entered observer.
+[19:18:10]	OTA-ECHO.EOS-34096 used command '/AreaEdit'.
+[19:18:12]	OTA-ECHO.OWS-34096 has removed area "Жилой блок "Б"".
+[19:18:17]	OTA-ECHO.EOS-34096 exited observer at their location.
+[19:18:22]	OTA-ECHO.OWS-34096 has added area "Блок А".
+[19:18:34]	OTA-ECHO.EOS-34096 used command '/TextRemove'.
+[19:18:42]	OTA-ECHO.OWS-34096 has added area "КПП-1".
+[19:18:44]	OTA-ECHO.EOS-34096 used command '/TextAdd Жилой Блок 'А''.
+[19:18:47]	OTA-ECHO.OWS-34096 has removed area "Блок А".
+[19:18:52]	OTA-ECHO.EOS-34096 used command '/AreaEdit'.
+[19:18:54]	OTA-ECHO.EOS-34096 entered observer.
+[19:19:02]	OTA-ECHO.OWS-34096 exited observer at their location.
+[19:19:04]	OTA-ECHO.OWS-34096 entered observer.
+[19:19:06]	OTA-ECHO.OWS-34096 used command '/AreaEdit'.
+[19:19:11]	OTA-ECHO.EOS-34096 has gained 40 tokens.
+[19:19:11]	OTA-ECHO.OWS-34096 has gained 40 tokens.
+[19:19:21]	OTA-ECHO.OWS-34096 has added area "Блок А".
+[19:19:57]	OTA-ECHO.OWS-34096 has added area "Ул. имени Тёмышкина".
+[19:20:16]	OTA-ECHO.OWS-34096 has added area "Запретный сектор".
+[19:20:21]	OTA-ECHO.EOS-34096 exited observer at their location.
+[19:20:23]	OTA-ECHO.EOS-34096 ran 'Equip' on item 'FAMAS' (#107)
+[19:20:34]	OTA-ECHO.EOS-34096 ran 'use' on item 'Ящик мелкокалиберных патронов' (#49)
+[19:20:37]	OTA-ECHO.EOS-34096 has spawned a 'Entity [764][arccw_ammo_smg1_large]'.
+[19:20:38]	OTA-ECHO.OWS-34096 has added area "Ул. имени Кошкина".
+[19:20:41]	Bot03 has taken 36 damage from OTA-ECHO.EOS-34096.
+[19:20:41]	Bot03 has taken 36 damage from OTA-ECHO.EOS-34096.
+[19:20:41]	Bot03 has taken 9 damage from OTA-ECHO.EOS-34096.
+[19:20:42]	Bot03 has taken 36 damage from OTA-ECHO.EOS-34096.
+[19:20:42]	Bot03 has taken 36 damage from OTA-ECHO.EOS-34096.
+[19:20:42]	Bot03 has taken 36 damage from OTA-ECHO.EOS-34096.
+[19:20:42]	Bot03 has taken 36 damage from OTA-ECHO.EOS-34096.
+[19:20:42]	Bot03 has taken 36 damage from OTA-ECHO.EOS-34096.
+[19:20:42]	Bot03 has taken 36 damage from OTA-ECHO.EOS-34096.
+[19:20:42]	OTA-ECHO.EOS-34096 has killed Bot03 with arccw_famas.
+[19:20:48]	OTA-ECHO.EOS-34096 entered observer.
+[19:20:49]	OTA-ECHO.EOS-34096 exited observer at their location.
+[19:20:52]	OTA-ECHO.EOS-34096 entered observer.
+[19:21:04]	OTA-ECHO.EOS-34096 exited observer at their location.
+[19:25:04]	֍ Aime-moi ֍ loaded the character 'MPF-I4.50266'
+[19:25:21]	MPF-I4.50266 used command '/BecomeClass Scanner'.
+[19:25:26]	MPF-I4.50266 entered observer.
+[19:25:29]	MPF-I4.50266 exited observer at their location.
+[19:26:27]	MPF-CHIELD.50266 used command '/CharSetName MPF MPF-CHIELD.50266'.
+[19:26:30]	OTA-ECHO.EOS-34096 has gained 40 tokens.
+[19:26:46]	[OOC] OTA-ECHO.EOS-34096: c SHIELD
+[19:26:54]	MPF-SHIELD.50266 used command '/CharSetName MPF MPF-SHIELD.50266'.
+[19:27:06]	MPF-SHIELD.50266 used command '/BecomeClass Shield'.
+[19:27:13]	MPF-SHIELD.50266 used command '/BecomeClass Scanner'.
+[19:27:22]	MPF-SHIELD.50266 used command '/BecomeClass MPS'.
+[19:27:29]	MPF-SHIELD.50266 used command '/BecomeClass Scanner'.
+[19:27:46]	MPF-SCN.50266 used command '/CharSetName MPF MPF-SCN.50266'.
+[19:27:50]	MPF-SCN.50266 used command '/BecomeClass Scanner'.
+[19:28:03]	MPF-SCN.50266 used command '/BecomeClass Metropolice Scanner'.
+[19:28:23]	OTA-ECHO.EOS-34096 used command '/CharSetClass MPF Metropolice Scanner'.
+[19:28:52]	OTA-ECHO.EOS-34096 used command '/CharSetModel MPF models/Combine_Scanner.mdl'.
+[19:29:05]	OTA-ECHO.EOS-34096 has taken 5 damage from MPF-SCN.50266.
+[19:29:08]	OTA-ECHO.EOS-34096 has taken 5 damage from MPF-SCN.50266.
+[19:29:11]	OTA-ECHO.EOS-34096 has taken 5 damage from MPF-SCN.50266.
+[19:29:13]	OTA-ECHO.EOS-34096 used command '/CharGetUp'.
+[19:29:15]	MPF-SCN.50266 entered observer.
+[19:29:17]	OTA-ECHO.EOS-34096 has taken 500 damage from worldspawn.
+[19:29:17]	worldspawn has killed OTA-ECHO.EOS-34096.
+[19:29:21]	MPF-SCN.50266 exited observer at their location.
+[19:30:03]	OTA-ECHO.EOS-34096 ran 'drop' on item 'Glock' (#106)
+[19:30:03]	OTA-ECHO.EOS-34096 has lost a 'Glock' #106.
+[19:30:03]	MPF-SCN.50266 has gained 300 tokens.
+[19:30:08]	OTA-ECHO.EOS-34096 ran 'take' on item 'Glock' (#106)
+[19:30:08]	OTA-ECHO.EOS-34096 has gained a 'Glock' #106.
+[19:30:49]	Г@H3NK (STEAM_0:0:65326356) deleted character 'OTA-ECHO.EOS-34096'
+[19:30:59]	Г@H3NK (STEAM_0:0:65326356) deleted character 'MPF-RCT.20965'
+[19:31:02]	Г@H3NK loaded the character 'MPF-I4.51977'
+[19:31:19]	MPF-I4.51977 has taken 60 damage from worldspawn.
+[19:31:56]	MPF-I4.51977 has taken 5 damage from MPF-SCN.50266.
+[19:31:56]	MPF-I4.51977 has taken 5 damage from MPF-SCN.50266.
+[19:31:57]	MPF-SCN.50266 has taken 25 damage from MPF-I4.51977.
+[19:31:57]	MPF-I4.51977 has taken 5 damage from MPF-SCN.50266.
+[19:31:57]	MPF-SCN.50266 has taken 25 damage from MPF-I4.51977.
+[19:32:00]	MPF-SCN.50266 entered observer.
+[19:32:06]	MPF-I4.51977 has taken 100 damage from worldspawn.
+[19:32:07]	MPF-I4.51977 has taken 100 damage from worldspawn.
+[19:32:07]	worldspawn has killed MPF-I4.51977.
+[19:32:14]	MPF-SCN.50266 exited observer at their location.
+[19:32:15]	MPF-SCN.50266 entered observer.
+[19:32:17]	MPF-SCN.50266 exited observer at their location.
+[19:32:33]	MPF-I4.51977 ran 'Equip' on item 'Five-seveN' (#124)
+[19:32:41]	MPF-SCN.50266 entered observer.
+[19:32:43]	MPF-SCN.50266 exited observer at their location.
+[19:32:45]	MPF-SCN.50266 has taken 25 damage from MPF-I4.51977.
+[19:32:45]	MPF-SCN.50266 has taken 25 damage from MPF-I4.51977.
+[19:32:45]	MPF-I4.51977 has taken 5 damage from MPF-SCN.50266.
+[19:32:46]	MPF-I4.51977 has taken 5 damage from MPF-SCN.50266.
+[19:32:47]	MPF-I4.51977 has taken 5 damage from MPF-SCN.50266.
+[19:32:51]	MPF-SCN.50266 has taken 23 damage from MPF-I4.51977.
+[19:33:02]	MPF-SCN.50266 entered observer.
+[19:33:03]	MPF-SCN.50266 exited observer at their location.
+[19:33:03]	MPF-I4.51977 has spawned a 'Entity [767][arccw_ammo_pistol_large]'.
+[19:33:05]	MPF-I4.51977 has taken 5 damage from MPF-SCN.50266.
+[19:33:05]	MPF-I4.51977 has taken 5 damage from MPF-SCN.50266.
+[19:33:07]	MPF-I4.51977 has spawned a 'Entity [769][arccw_ammo_smg1_large]'.
+[19:33:11]	MPF-SCN.50266 has taken 23 damage from MPF-I4.51977.
+[19:33:17]	MPF-I4.51977 has taken 5 damage from MPF-SCN.50266.
+[19:33:19]	MPF-I4.51977 has taken 5 damage from MPF-SCN.50266.
+[19:33:19]	MPF-SCN.50266 has taken 24 damage from MPF-I4.51977.
+[19:33:19]	MPF-SCN.50266 has taken 24 damage from MPF-I4.51977.
+[19:33:20]	MPF-SCN.50266 has taken 24 damage from MPF-I4.51977.
+[19:33:20]	MPF-I4.51977 has killed MPF-SCN.50266 with arccw_fiveseven.
+[19:34:08]	MPF-SCN.50266 has taken 24 damage from MPF-I4.51977.
+[19:34:08]	MPF-SCN.50266 has taken 0 damage from MPF-I4.51977.
+[19:34:19]	MPF-SCN.50266 has taken 24 damage from MPF-I4.51977.
+[19:34:19]	MPF-SCN.50266 has taken 0 damage from MPF-I4.51977.
+[19:34:20]	MPF-SCN.50266 has taken 24 damage from MPF-I4.51977.
+[19:34:20]	MPF-SCN.50266 has taken 0 damage from MPF-I4.51977.
+[19:34:20]	MPF-SCN.50266 has taken 24 damage from MPF-I4.51977.
+[19:34:20]	MPF-SCN.50266 has taken 0 damage from MPF-I4.51977.
+[19:34:20]	MPF-SCN.50266 has taken 24 damage from MPF-I4.51977.
+[19:34:20]	MPF-I4.51977 has killed MPF-SCN.50266 with arccw_fiveseven.
+[19:34:20]	MPF-SCN.50266 has taken 0 damage from MPF-I4.51977.
+[19:34:26]	֍ Aime-moi ֍ (STEAM_0:0:424879351) deleted character 'MPF-SCN.50266'
+[19:34:30]	֍ Aime-moi ֍ loaded the character 'Альберт Кольм'
+[19:34:39]	MPF-I4.51977 entered observer.
+[19:34:41]	MPF-I4.51977 exited observer at their location.
+[19:34:41]	MPF-I4.51977 entered observer.
+[19:34:42]	MPF-I4.51977 exited observer at their location.
+[19:34:43]	MPF-I4.51977 entered observer.
+[19:34:51]	MPF-I4.51977 exited observer at their location.
+[19:34:53]	֍ Aime-moi ֍ created the character 'Артем Каллов'
+[19:34:53]	Артем Каллов has gained a 'Чемодан' #126.
+[19:34:53]	Артем Каллов has gained a 'Идентификационная карточка гражданина' #127.
+[19:34:57]	֍ Aime-moi ֍ loaded the character 'Артем Каллов'
+[19:35:05]	Артем Каллов used command '/CharSetModel Артем models/Items/hevsuit.mdl'.
+[19:35:17]	MPF-I4.51977 used command '/ViewData А'.
+[19:35:31]	MPF-I4.51977 used command '/ViewObjectives'.
+[19:35:41]	Артем Каллов entered observer.
+[19:35:45]	Артем Каллов exited observer at their location.
+[19:35:57]	Артем Каллов entered observer.
+[19:35:57]	Артем Каллов exited observer at their location.
+[19:35:58]	Артем Каллов entered observer.
+[19:35:59]	Артем Каллов exited observer at their location.
+[19:36:03]	MPF-I4.51977 has gained 300 tokens.
+[19:36:04]	Артем Каллов entered observer.
+[19:36:05]	Артем Каллов exited observer at their location.
+[19:36:07]	Артем Каллов entered observer.
+[19:36:08]	Артем Каллов exited observer at their location.
+[19:36:08]	Артем Каллов entered observer.
+[19:36:19]	Артем Каллов exited observer at their location.
+[19:36:20]	Артем Каллов entered observer.
+[19:36:21]	Артем Каллов exited observer at their location.
+[19:36:26]	Артем Каллов entered observer.
+[19:36:29]	Артем Каллов exited observer at their location.
+[19:36:35]	Артем Каллов has taken 88 damage from Артем Каллов.
+[19:36:43]	Артем Каллов entered observer.
+[19:36:47]	Артем Каллов exited observer at their location.
+[19:36:49]	MPF-I4.51977 has taken 32 damage from Артем Каллов.
+[19:36:51]	MPF-I4.51977 has taken 32 damage from Артем Каллов.
+[19:36:51]	MPF-I4.51977 has taken 32 damage from Артем Каллов.
+[19:36:51]	MPF-I4.51977 has taken 32 damage from Артем Каллов.
+[19:36:51]	MPF-I4.51977 has taken 31 damage from Артем Каллов.
+[19:36:52]	MPF-I4.51977 has taken 32 damage from Артем Каллов.
+[19:36:52]	Артем Каллов has killed MPF-I4.51977 with arccw_minimi.
+[19:36:58]	Артем Каллов has spawned a 'Entity [691][item_healthkit]'.
+[19:36:58]	Артем Каллов has spawned a 'Entity [692][item_healthkit]'.
+[19:36:58]	Артем Каллов has spawned a 'Entity [707][item_healthkit]'.
+[19:36:59]	Артем Каллов has spawned a 'Entity [691][item_suit]'.
+[19:37:01]	Артем Каллов has spawned a 'Entity [691][item_suit]'.
+[19:37:03]	Артем Каллов has spawned a 'Entity [691][item_healthkit]'.
+[19:37:05]	Артем Каллов has spawned a 'Entity [691][item_battery]'.
+[19:37:05]	Артем Каллов has spawned a 'Entity [692][item_battery]'.
+[19:37:05]	Артем Каллов has spawned a 'Entity [707][item_battery]'.
+[19:37:05]	Артем Каллов has spawned a 'Entity [714][item_battery]'.
+[19:37:06]	Артем Каллов has spawned a 'Entity [766][item_battery]'.
+[19:37:06]	Артем Каллов has spawned a 'Entity [839][item_battery]'.
+[19:37:07]	Артем Каллов has spawned a 'Entity [691][item_battery]'.
+[19:37:09]	MPF-I4.51977 entered observer.
+[19:37:17]	MPF-I4.51977 exited observer at their location.
+[19:37:24]	MPF-I4.51977 has taken 50 damage from Артем Каллов.
+[19:37:26]	MPF-I4.51977 has taken 50 damage from Артем Каллов.
+[19:37:34]	MPF-I4.51977 has taken 32 damage from Артем Каллов.
+[19:37:35]	MPF-I4.51977 has taken 32 damage from Артем Каллов.
+[19:37:36]	MPF-I4.51977 has taken 32 damage from Артем Каллов.
+[19:37:37]	MPF-I4.51977 has taken 32 damage from Артем Каллов.
+[19:37:37]	Артем Каллов has killed MPF-I4.51977 with arccw_minimi.
+[19:37:50]	Артем Каллов used command '/CharSetModel Артем models/props_trainstation/train001.mdl'.
+[19:37:58]	Артем Каллов entered observer.
+[19:38:00]	MPF-I4.51977 entered observer.
+[19:38:01]	MPF-I4.51977 exited observer at their location.
+[19:38:04]	Артем Каллов exited observer at their location.
+[19:38:08]	Артем Каллов entered observer.
+[19:38:08]	Артем Каллов exited observer at their location.
+[19:38:12]	Артем Каллов entered observer.
+[19:38:12]	Артем Каллов exited observer at their location.
+[19:38:27]	Артем Каллов has taken 122 damage from MPF-I4.51977.
+[19:38:27]	Артем Каллов has taken 122 damage from MPF-I4.51977.
+[19:38:27]	MPF-I4.51977 has killed Артем Каллов with arccw_shorty.
+[19:38:31]	MPF-I4.51977 has spawned a 'Entity [690][arccw_ammo_buckshot_large]'.
+[19:38:47]	Артем Каллов used command '/CharSetModel Артем models/bots/scout/bot_scout.mdl'.
+[19:38:59]	Артем Каллов entered observer.
+[19:39:01]	Артем Каллов exited observer at their location.
+[19:39:03]	MPF-I4.51977 has taken 50 damage from Артем Каллов.
+[19:39:03]	MPF-I4.51977 has taken 50 damage from Артем Каллов.
+[19:39:04]	MPF-I4.51977 has taken 50 damage from Артем Каллов.
+[19:39:05]	MPF-I4.51977 has taken 51 damage from Артем Каллов.
+[19:39:05]	Артем Каллов has killed MPF-I4.51977 with arccw_melee_knife.
+[19:39:16]	Артем Каллов used command '/CharSetModel Артем models/props_halloween/ghost_no_hat.mdl'.
+[19:39:23]	MPF-I4.51977 has spawned a 'Entity [687][arccw_ammo_buckshot_large]'.
+[19:39:24]	Артем Каллов entered observer.
+[19:39:25]	MPF-I4.51977 has spawned a 'Entity [707][arccw_ammo_buckshot_large]'.
+[19:39:29]	Bot03 has taken 131 damage from MPF-I4.51977.
+[19:39:29]	Bot03 has taken 130 damage from MPF-I4.51977.
+[19:39:29]	Bot03 has taken 131 damage from MPF-I4.51977.
+[19:39:29]	MPF-I4.51977 has killed Bot03 with arccw_shorty.
+[19:39:32]	Артем Каллов exited observer at their location.
+[19:39:36]	Артем Каллов entered observer.
+[19:39:47]	Артем Каллов used command '/CharSetModel Артем models/bots/demo/bot_sentry_buster.mdl'.
+[19:39:50]	Артем Каллов exited observer at their location.
+[19:40:02]	Артем Каллов entered observer.
+[19:40:10]	Артем Каллов used command '/CharSetModel Артем models/player/hwm/spy.mdl'.
+[19:40:16]	Артем Каллов exited observer at their location.
+[19:40:23]	MPF-I4.51977 ran 'Equip' on item 'Five-seveN' (#124)
+[19:40:28]	MPF-I4.51977 has spawned a 'Entity [702][arccw_ammo_pistol_large]'.
+[19:40:29]	MPF-I4.51977 has spawned a 'Entity [707][arccw_ammo_357]'.
+[19:40:29]	MPF-I4.51977 has spawned a 'Entity [840][arccw_ammo_smg1_large]'.
+[19:40:33]	Bot03 has taken 17 damage from MPF-I4.51977.
+[19:40:36]	Bot03 has taken 4 damage from MPF-I4.51977.
+[19:40:38]	Bot03 has taken 17 damage from MPF-I4.51977.
+[19:40:40]	Bot03 has taken 17 damage from MPF-I4.51977.
+[19:40:42]	Bot03 has taken 17 damage from MPF-I4.51977.
+[19:40:43]	Bot03 has taken 17 damage from MPF-I4.51977.
+[19:40:44]	Bot03 has taken 17 damage from MPF-I4.51977.
+[19:40:47]	MPF-I4.51977 has taken 37 damage from Артем Каллов.
+[19:40:47]	Артем Каллов has taken 6 damage from Артем Каллов.
+[19:40:52]	Артем Каллов entered observer.
+[19:40:56]	Bot03 has taken 17 damage from MPF-I4.51977.
+[19:40:59]	Артем Каллов used command '/CharSetModel Артем models/player/hwm/engineer.mdl'.
+[19:41:00]	Bot03 has taken 17 damage from MPF-I4.51977.
+[19:41:01]	Bot03 has taken 4 damage from MPF-I4.51977.
+[19:41:02]	Артем Каллов exited observer at their location.
+[19:41:06]	MPF-I4.51977 has gained 300 tokens.
+[19:41:08]	Bot03 has taken 17 damage from MPF-I4.51977.
+[19:41:08]	Bot03 has taken 17 damage from MPF-I4.51977.
+[19:41:10]	Bot03 has taken 4 damage from MPF-I4.51977.
+[19:41:11]	Bot03 has taken 17 damage from MPF-I4.51977.
+[19:41:12]	Bot03 has taken 4 damage from MPF-I4.51977.
+[19:41:17]	Bot03 has taken 17 damage from MPF-I4.51977.
+[19:41:22]	Bot03 has taken 4 damage from MPF-I4.51977.
+[19:41:31]	Bot03 has taken 4 damage from MPF-I4.51977.
+[19:41:32]	Bot03 has taken 33 damage from MPF-I4.51977.
+[19:41:34]	Bot03 has taken 16 damage from MPF-I4.51977.
+[19:41:35]	Артем Каллов has taken 50 damage from MPF-I4.51977.
+[19:41:35]	Артем Каллов has taken 25 damage from MPF-I4.51977.
+[19:41:35]	Артем Каллов has changed MPF-I4.51977's bodygroups.
+[19:41:35]	Артем Каллов has taken 25 damage from MPF-I4.51977.
+[19:41:35]	MPF-I4.51977 has killed Артем Каллов with arccw_fiveseven.
+[19:41:45]	Bot03 has taken 33 damage from MPF-I4.51977.
+[19:41:45]	MPF-I4.51977 has killed Bot03 with arccw_fiveseven.
+[19:41:52]	Артем Каллов entered observer.
+[19:41:58]	Артем Каллов used command '/CharSetModel Артем models/props_2fort/cow001_reference.mdl'.
+[19:41:59]	Артем Каллов exited observer at their location.
+[19:42:05]	Артем Каллов has taken 77 damage from MPF-I4.51977.
+[19:42:05]	Артем Каллов has taken 77 damage from MPF-I4.51977.
+[19:42:05]	MPF-I4.51977 has killed Артем Каллов with arccw_shorty.
+[19:42:05]	Артем Каллов entered observer.
+[19:42:22]	Артем Каллов has taken 48 damage from MPF-I4.51977.
+[19:42:22]	Артем Каллов has taken 49 damage from MPF-I4.51977.
+[19:42:25]	Артем Каллов used command '/CharSetModel Артем models/props_training/target_medic.mdl'.
+[19:42:26]	Bot03 has taken 27 damage from MPF-I4.51977.
+[19:42:26]	Bot03 has taken 27 damage from MPF-I4.51977.
+[19:42:26]	Bot03 has taken 108 damage from MPF-I4.51977.
+[19:42:28]	Bot03 has taken 112 damage from MPF-I4.51977.
+[19:42:28]	Bot03 has taken 112 damage from MPF-I4.51977.
+[19:42:28]	MPF-I4.51977 has killed Bot03 with arccw_shorty.
+[19:42:32]	Артем Каллов entered observer.
+[19:43:04]	Артем Каллов used command '/CharGiveFlag Артем CVcenrptv'.
+[19:43:08]	Артем Каллов has spawned 'models/props_training/target_medic.mdl'.
+[19:43:10]	Артем Каллов has spawned 'models/props_training/target_medic.mdl'.
+[19:43:12]	Артем Каллов has spawned 'models/props_training/target_medic.mdl'.
+[19:43:13]	Артем Каллов has spawned 'models/props_training/target_medic.mdl'.
+[19:43:14]	Артем Каллов has spawned 'models/props_training/target_medic.mdl'.
+[19:43:16]	Артем Каллов has spawned 'models/props_training/target_medic.mdl'.
+[19:43:19]	Артем Каллов has spawned 'models/props_training/target_medic.mdl'.
+[19:43:20]	Артем Каллов has spawned 'models/props_training/target_medic.mdl'.
+[19:43:21]	Артем Каллов has spawned 'models/props_training/target_medic.mdl'.
+[19:43:22]	Артем Каллов has spawned 'models/props_training/target_medic.mdl'.
+[19:43:23]	Артем Каллов has spawned 'models/props_training/target_medic.mdl'.
+[19:43:23]	MPF-I4.51977 ran 'take' on item 'FAMAS' (#90)
+[19:43:23]	MPF-I4.51977 has gained a 'FAMAS' #90.
+[19:43:23]	Артем Каллов has spawned 'models/props_training/target_medic.mdl'.
+[19:43:24]	MPF-I4.51977 ran 'Equip' on item 'FAMAS' (#90)
+[19:43:24]	Артем Каллов has spawned 'models/props_training/target_medic.mdl'.
+[19:43:25]	Артем Каллов has spawned 'models/props_training/target_medic.mdl'.
+[19:43:31]	Артем Каллов has spawned 'models/props_training/target_medic.mdl'.
+[19:43:32]	Артем Каллов has spawned 'models/props_training/target_medic.mdl'.
+[19:43:34]	Артем Каллов has spawned 'models/props_training/target_medic.mdl'.
+[19:43:35]	Артем Каллов has spawned 'models/props_training/target_medic.mdl'.
+[19:43:37]	Артем Каллов has spawned 'models/props_training/target_medic.mdl'.
+[19:43:39]	Bot03 has taken 36 damage from MPF-I4.51977.
+[19:43:39]	Bot03 has taken 9 damage from MPF-I4.51977.
+[19:43:39]	Bot03 has taken 9 damage from MPF-I4.51977.
+[19:43:39]	Bot03 has taken 9 damage from MPF-I4.51977.
+[19:43:39]	Bot03 has taken 36 damage from MPF-I4.51977.
+[19:43:39]	Bot03 has taken 9 damage from MPF-I4.51977.
+[19:43:40]	Bot03 has taken 36 damage from MPF-I4.51977.
+[19:43:40]	Bot03 has taken 9 damage from MPF-I4.51977.
+[19:43:40]	Bot03 has taken 72 damage from MPF-I4.51977.
+[19:43:40]	Bot03 has taken 36 damage from MPF-I4.51977.
+[19:43:40]	Bot03 has taken 72 damage from MPF-I4.51977.
+[19:43:40]	MPF-I4.51977 has killed Bot03 with arccw_famas.
+[19:43:40]	Артем Каллов has spawned 'models/props_training/target_medic.mdl'.
+[19:43:42]	Артем Каллов has spawned 'models/props_training/target_medic.mdl'.
+[19:43:42]	Артем Каллов has spawned 'models/props_training/target_medic.mdl'.
+[19:43:45]	Артем Каллов has spawned 'models/props_training/target_medic.mdl'.
+[19:43:46]	Артем Каллов has spawned 'models/props_training/target_medic.mdl'.
+[19:43:47]	Артем Каллов has spawned 'models/props_training/target_medic.mdl'.
+[19:43:48]	Артем Каллов has spawned 'models/props_training/target_medic.mdl'.
+[19:43:49]	Артем Каллов has spawned 'models/props_training/target_medic.mdl'.
+[19:43:50]	Артем Каллов has spawned 'models/props_training/target_medic.mdl'.
+[19:43:53]	Артем Каллов has spawned 'models/props_training/target_medic.mdl'.
+[19:43:54]	Артем Каллов has spawned 'models/props_training/target_medic.mdl'.
+[19:44:08]	Bot03 has taken 33 damage from MPF-I4.51977.
+[19:44:10]	Артем Каллов used command '/CharSetModel Артем models/props_movies/campervan/campervan.mdl'.
+[19:44:13]	Артем Каллов exited observer at their location.
+[19:44:37]	Артем Каллов has spawned a 'Entity [690][item_healthkit]'.
+[19:44:37]	Артем Каллов has spawned a 'Entity [850][item_healthkit]'.
+[19:44:37]	Артем Каллов has spawned a 'Entity [884][item_healthkit]'.
+[19:44:46]	MPF-I4.51977 has taken 65 damage from Артем Каллов.
+[19:44:46]	Артем Каллов has taken 83 damage from MPF-I4.51977.
+[19:44:46]	MPF-I4.51977 has killed Артем Каллов with arccw_shorty.
+[19:45:05]	Артем Каллов used command '/CharSetModel Артем models/props_spytech/rocket002_skybox.mdl'.
+[19:45:20]	Артем Каллов used command '/CharSetModel Артем models/props_soho/bus001.mdl'.
+[19:45:31]	Артем Каллов entered observer.
+[19:45:33]	Артем Каллов exited observer at their location.
+[19:45:39]	Артем Каллов entered observer.
+[19:45:42]	Артем Каллов exited observer at their location.
+[19:46:02]	Артем Каллов used command '/CharSetModel Артем models/props_manor/coffin_01.mdl'.
+[19:46:06]	MPF-I4.51977 has gained 300 tokens.
+[19:46:15]	Артем Каллов entered observer.
+[19:46:24]	Артем Каллов used command '/CharSetModel Артем models/props_trainyard/bomb_cart.mdl'.
+[19:46:25]	Артем Каллов exited observer at their location.
+[19:46:31]	Артем Каллов has taken 22 damage from MPF-I4.51977.
+[19:46:31]	Артем Каллов has taken 22 damage from MPF-I4.51977.
+[19:46:32]	Артем Каллов has taken 22 damage from MPF-I4.51977.
+[19:46:32]	Артем Каллов has taken 22 damage from MPF-I4.51977.
+[19:46:32]	Артем Каллов has taken 22 damage from MPF-I4.51977.
+[19:46:32]	MPF-I4.51977 has killed Артем Каллов with arccw_fiveseven.
+[19:46:52]	Артем Каллов entered observer.
+[19:47:17]	MPF-I4.51977 entered observer.
+[19:47:20]	MPF-I4.51977 exited observer at their location.
+[19:47:31]	Артем Каллов used command '/CharSetModel Артем models/Humans/Group02/Male_01.mdl'.
+[19:47:31]	Артем Каллов exited observer at their location.
+[19:47:43]	MPF-I4.51977 used command '/CharEditBodygroup'.
+[19:47:45]	Артем Каллов has spawned a 'Entity [32][gmod_sent_vehicle_fphysics_base]'.
+[19:47:52]	MPF-I4.51977 has changed MPF-I4.51977's bodygroups.
+[19:47:54]	MPF-I4.51977 entered observer.
+[19:47:57]	MPF-I4.51977 exited observer at their location.
+[19:48:04]	MPF-I4.51977 has taken 50 damage from gmod_sent_vehicle_fphysics_base.
+[19:48:04]	MPF-I4.51977 has taken 200 damage from worldspawn.
+[19:48:04]	worldspawn has killed MPF-I4.51977.
+[19:48:09]	Артем Каллов entered observer.
+[19:48:17]	Артем Каллов exited observer at their location.
+[19:48:19]	Артем Каллов has spawned a 'Entity [32][gmod_sent_vehicle_fphysics_base]'.
+[19:48:23]	MPF-I4.51977 entered observer.
+[19:48:26]	Артем Каллов has taken 2 damage from worldspawn.
+[19:48:27]	Артем Каллов entered observer.
+[19:48:32]	MPF-I4.51977 exited observer at their location.
+[19:48:36]	֍ Aime-moi ֍ (STEAM_0:0:424879351) has disconnected.

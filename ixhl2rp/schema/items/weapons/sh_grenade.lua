@@ -1,0 +1,9 @@
+ITEM.name = "Граната"
+ITEM.description = "Маленькая граната MK3A2 зеленого цвета, взрывающаяся через несколько секунд после броска."
+ITEM.model = "models/weapons/w_grenade.mdl"
+ITEM.class = "weapon_frag"
+ITEM.weaponCategory = "grenade"
+ITEM.classes = {CLASS_EOW}
+ITEM.flag = "V"
+ITEM.width = 1
+ITEM.height = 1

@@ -1,0 +1,1068 @@
+[00:03:15]	D47.MPF-OfC.717 used command '/Request mage'.
+[00:05:25]	Г@H3NK loaded the character 'D47.MPF-RCT.763'
+[00:06:18]	Г@H3NK loaded the character 'Александр Климов'
+[00:06:22]	Александр Климов ran 'Equip' on item 'M9' (#307)
+[00:06:34]	Г@H3NK loaded the character 'Алекс Климов'
+[00:08:20]	Алекс Климов ran 'drop' on item 'HK UMP-9' (#364)
+[00:08:20]	Алекс Климов has lost a 'HK UMP-9' #364.
+[00:08:22]	Алекс Климов ran 'take' on item 'HK UMP-9' (#364)
+[00:08:22]	Алекс Климов has gained a 'HK UMP-9' #364.
+[00:08:24]	Алекс Климов ran 'Equip' on item 'HK UMP-9' (#364)
+[00:08:26]	Алекс Климов ran 'EquipUn' on item 'M9' (#350)
+[00:08:26]	Алекс Климов ran 'Equip' on item 'HK UMP-9' (#364)
+[00:09:08]	Г@H3NK loaded the character 'Александр Климов'
+[00:13:03]	Александр Климов used command '/Radio 1'.
+[00:13:30]	Александр Климов used command '/Radio 1'.
+[00:13:52]	Александр Климов has taken 150 damage from Александр Климов.
+[00:13:52]	Александр Климов has killed Александр Климов.
+[00:13:57]	Александр Климов ran 'Equip' on item 'M9' (#307)
+[00:15:29]	Александр Климов entered observer.
+[00:15:30]	Александр Климов exited observer at their location.
+[00:15:30]	Александр Климов has taken 231 damage from worldspawn.
+[00:15:30]	worldspawn has killed Александр Климов.
+[00:15:34]	Александр Климов ran 'Equip' on item 'M9' (#307)
+[00:16:02]	Г@H3NK loaded the character 'D47.MPF-OfC.717'
+[00:16:35]	D47.MPF-OfC.717 ran 'Equip' on item 'HK UMP-9' (#318)
+[00:16:43]	D47.MPF-OfC.717 entered observer.
+[00:16:45]	D47.MPF-OfC.717 exited observer at their location.
+[00:16:51]	Г@H3NK loaded the character 'Алекс Климов'
+[00:16:59]	Алекс Климов entered observer.
+[00:17:05]	Алекс Климов exited observer at their location.
+[00:17:10]	Алекс Климов entered observer.
+[00:17:13]	Алекс Климов exited observer at their location.
+[00:18:20]	Алекс Климов used command '/ActLean 2'.
+[00:18:27]	Алекс Климов used command '/ActPant'.
+[00:18:29]	Алекс Климов used command '/ExitAct'.
+[00:18:38]	Алекс Климов used command '/ActStand 2'.
+[00:18:42]	Алекс Климов used command '/ActStand 3'.
+[00:18:42]	Алекс Климов used command '/ExitAct'.
+[00:18:44]	Алекс Климов used command '/ActStand 3'.
+[00:18:47]	Алекс Климов used command '/ExitAct'.
+[00:18:49]	Алекс Климов used command '/ActStand 1'.
+[00:18:51]	Алекс Климов used command '/ExitAct'.
+[00:18:55]	Алекс Климов used command '/ActStand 4'.
+[00:18:58]	Алекс Климов used command '/ExitAct'.
+[00:19:05]	Алекс Климов used command '/ActWindow 3'.
+[00:19:07]	Алекс Климов used command '/ExitAct'.
+[00:49:21]	Алекс Климов entered observer.
+[00:49:22]	Алекс Климов exited observer at their location.
+[00:49:35]	Алекс Климов has spawned a 'NPC [501][npc_citizen]'.
+[00:49:43]	Алекс Климов has spawned a 'NPC [501][npc_citizen]'.
+[00:50:04]	Алекс Климов has spawned a 'NPC [1272][npc_metropolice_elite]'.
+[00:50:08]	Алекс Климов has spawned a 'NPC [1272][npc_metropolice_elite]'.
+[00:50:12]	Алекс Климов has spawned a 'NPC [1272][npc_metropolice_elite]'.
+[00:50:16]	Алекс Климов has spawned a 'NPC [1283][npc_metropolice_elite]'.
+[00:50:21]	Алекс Климов has spawned a 'NPC [1272][npc_metropolice_elite]'.
+[01:06:42]	Г@H3NK has connected.
+[01:07:32]	Г@H3NK loaded the character 'Алекс Климов'
+[01:07:35]	Алекс Климов ran 'Equip' on item 'M9' (#350)
+[01:14:12]	Г@H3NK has connected.
+[01:14:53]	Г@H3NK loaded the character 'Александр Климов'
+[01:17:37]	Александр Климов used command '/CharSetModel А models/player/group01/male_09.mdl'.
+[01:23:53]	Г@H3NK loaded the character 'D47.MPF-RCT.763'
+[01:24:15]	D47.MPF-RCT.763 used command '/CharSetModel D47 models/player/police.mdl'.
+[01:28:53]	D47.MPF-RCT.763 has gained 100 tokens.
+[01:32:09]	Г@H3NK loaded the character 'D47.MPF-OfC.717'
+[01:32:59]	D47.MPF-OfC.717 has spawned 'models/dpfilms/metropolice/biote_police.mdl'.
+[01:33:05]	D47.MPF-OfC.717 has spawned 'models/dpfilms/metropolice/policetrench.mdl'.
+[01:33:15]	D47.MPF-OfC.717 used command '/CharSetModel D47 models/dpfilms/metropolice/policetrench.mdl'.
+[01:33:38]	D47.MPF-OfC.717 used command '/CharSetModel D47 models/dpfilms/metropolice/playermodels/pm_hl2concept.mdl'.
+[01:37:09]	D47.MPF-OfC.717 has gained 100 tokens.
+[01:42:09]	D47.MPF-OfC.717 has gained 100 tokens.
+[01:47:09]	D47.MPF-OfC.717 has gained 100 tokens.
+[01:51:08]	D47.MPF-OfC.717 used command '/CharSetModel D47 models/dpfilms/metropolice/playermodels/pm_phoenix_police.mdl'.
+[01:51:23]	D47.MPF-OfC.717 used command '/CharSetModel D47 models/dpfilms/metropolice/playermodels/pm_elite_police.mdl'.
+[01:52:09]	D47.MPF-OfC.717 has gained 100 tokens.
+[01:57:19]	D47.MPF-OfC.717 has gained 100 tokens.
+[01:59:37]	Г@H3NK loaded the character 'Алекс Климов'
+[02:00:17]	Алекс Климов used command '/CharSetModel Ал models/barnes/refugee/male_09.mdl'.
+[02:00:36]	Алекс Климов used command '/CharSetModel Ал models/barnes/citizen/female_01.mdl'.
+[02:00:42]	Алекс Климов entered observer.
+[02:00:45]	Алекс Климов exited observer at their location.
+[02:01:11]	Алекс Климов used command '/CharSetModel Ал models/c08cop.mdl'.
+[02:02:02]	Алекс Климов used command '/CharSetModel Ал models/player/labcoats/male_09.mdl'.
+[02:04:01]	Алекс Климов ran 'Equip' on item 'Импульсная-Винтовка' (#365)
+[02:04:02]	Алекс Климов ran 'EquipUn' on item 'HK UMP-9' (#364)
+[02:04:02]	Алекс Климов ran 'Equip' on item 'Импульсная-Винтовка' (#365)
+[02:04:13]	Алекс Климов ran 'Equip' on item 'HK UMP-9' (#364)
+[02:04:14]	Алекс Климов ran 'EquipUn' on item 'Импульсная-Винтовка' (#365)
+[02:04:14]	Алекс Климов ran 'Equip' on item 'HK UMP-9' (#364)
+[02:05:21]	Алекс Климов used command '/CharSetModel Ал models/drem/cch/male_04.mdl'.
+[02:05:39]	Алекс Климов used command '/CharSetModel Ал models/drem/cch/npc/male_04.mdl'.
+[02:06:31]	Алекс Климов has spawned 'models/player/fall_winter/female_04_b.mdl'.
+[02:06:33]	Алекс Климов entered observer.
+[02:06:34]	Алекс Климов exited observer at their location.
+[02:07:06]	Алекс Климов used command '/CharSetModel Ал models/player/fall_winter/male_04.mdl'.
+[02:12:56]	Алекс Климов has taken 8 damage from worldspawn.
+[02:16:37]	Алекс Климов has spawned a 'NPC [1342][npc_metropolice]'.
+[02:16:53]	Алекс Климов has spawned a 'NPC [1342][npc_metropolice]'.
+[02:16:55]	Алекс Климов has taken 14 damage from npc_metropolice.
+[02:16:57]	Алекс Климов has taken 28 damage from npc_metropolice.
+[02:16:57]	Алекс Климов has taken 4 damage from npc_metropolice.
+[02:17:02]	Алекс Климов has spawned a 'NPC [1367][npc_metropolice]'.
+[02:17:02]	Алекс Климов has spawned a 'NPC [1342][npc_metropolice]'.
+[02:17:20]	Алекс Климов has taken 22 damage from worldspawn.
+[02:17:58]	Алекс Климов entered observer.
+[02:17:59]	Алекс Климов has spawned a 'NPC [1342][npc_metropolice]'.
+[02:18:00]	Алекс Климов has spawned a 'NPC [1365][npc_metropolice]'.
+[02:18:01]	Алекс Климов exited observer at their location.
+[02:18:08]	Алекс Климов has taken 23 damage from npc_metropolice.
+[02:18:08]	npc_metropolice has killed Алекс Климов.
+[02:19:24]	Алекс Климов ran 'Equip' on item 'Импульсная-Винтовка' (#365)
+[02:19:37]	Алекс Климов ran 'drop' on item 'Импульсная-Винтовка' (#365)
+[02:19:37]	Алекс Климов has lost a 'Импульсная-Винтовка' #365.
+[02:19:56]	Алекс Климов ran 'drop' on item 'Чемодан' (#336)
+[02:19:56]	Алекс Климов has lost a 'Чемодан' #336.
+[02:19:56]	Алекс Климов has lost a 'HK UMP-9' #364.
+[02:19:59]	Алекс Климов ran 'take' on item 'Чемодан' (#336)
+[02:19:59]	Алекс Климов has gained a 'Чемодан' #336.
+[02:19:59]	Алекс Климов has gained a 'HK UMP-9' #364.
+[02:20:17]	Алекс Климов has gained a 'M4' #367.
+[02:20:17]	Алекс Климов used command '/CharGiveItem Ал m4a1'.
+[02:20:26]	Алекс Климов ran 'Equip' on item 'M4' (#367)
+[02:21:37]	Алекс Климов has spawned a 'Entity [572][ent_jack_gmod_ezarmor_riot]'.
+[02:21:42]	Алекс Климов has spawned a 'Entity [572][ent_jack_gmod_ezarmor_mtorso]'.
+[02:22:20]	Алекс Климов has spawned a 'Entity [572][ent_jack_gmod_ezantimatter]'.
+[02:22:21]	Алекс Климов has spawned a 'Entity [573][ent_jack_gmod_ezammo]'.
+[02:22:53]	Алекс Климов has spawned a 'Entity [1344][ent_jack_gmod_ezarmor_mltorso]'.
+[02:23:05]	Алекс Климов has spawned a 'Entity [572][ent_jack_gmod_ezarmor_mhead]'.
+[02:23:09]	Алекс Климов has spawned a 'Entity [572][ent_jack_gmod_ezarmor_rioth]'.
+[02:23:34]	Алекс Климов has spawned a 'Entity [1344][ent_jack_gmod_ezarmor_mhead]'.
+[02:24:20]	Алекс Климов ran 'Equip' on item 'M9' (#350)
+[02:32:30]	Алекс Климов has spawned a 'Entity [1350][ent_jack_gmod_ezarmor_gasmask]'.
+[02:32:41]	Алекс Климов has spawned a 'Entity [572][ent_jack_gmod_ezarmor_slforearm]'.
+[02:32:43]	Алекс Климов has spawned a 'Entity [573][ent_jack_gmod_ezarmor_srforearm]'.
+[02:32:50]	Алекс Климов has spawned a 'Entity [1350][ent_jack_gmod_ezarmor_spelvis]'.
+[02:32:58]	Алекс Климов has spawned a 'Entity [1350][ent_jack_gmod_ezarmor_srcalf]'.
+[02:33:00]	Алекс Климов has spawned a 'Entity [1365][ent_jack_gmod_ezarmor_slcalf]'.
+[02:33:57]	Алекс Климов has spawned a 'NPC [1350][npc_metropolice]'.
+[02:34:00]	Алекс Климов has spawned a 'NPC [1368][npc_metropolice]'.
+[02:34:08]	Алекс Климов has spawned a 'Entity [572][ent_jack_gmod_ezcsnade]'.
+[02:35:12]	Алекс Климов entered observer.
+[02:35:34]	Алекс Климов exited observer at their location.
+[02:35:56]	Алекс Климов entered observer.
+[02:37:13]	Алекс Климов has spawned 'models/blu/tanks/tiger_gib_1.mdl'.
+[02:37:17]	Алекс Климов has spawned 'models/blu/tanks/tiger.mdl'.
+[02:37:20]	Алекс Климов has spawned 'models/blu/tanks/t90ms_gib_2.mdl'.
+[02:37:22]	Алекс Климов has spawned 'models/blu/tanks/leopard2a7_gib_1.mdl'.
+[02:37:23]	Алекс Климов has spawned 'models/blu/tanks/leopard2a7_gib_2.mdl'.
+[02:37:25]	Алекс Климов has spawned 'models/blu/tanks/leopard2a7.mdl'.
+[02:37:29]	Алекс Климов has spawned 'models/blu/conscript_apc.mdl'.
+[02:37:30]	Алекс Климов has spawned 'models/blu/tanks/leopard2a7.mdl'.
+[02:37:32]	Алекс Климов has spawned 'models/blu/tanks/leopard2a7_gib_1.mdl'.
+[02:37:41]	Алекс Климов has spawned 'models/blu/tanks/leopard2a7_gib_2.mdl'.
+[02:37:47]	Алекс Климов has spawned 'models/blu/tanks/leopard2a7_gib_3.mdl'.
+[02:39:10]	Алекс Климов has spawned 'models/blu/moskvich/moskvich.mdl'.
+[02:39:17]	Алекс Климов has spawned 'models/blu/hatchback/pw_hatchback.mdl'.
+[02:39:49]	Алекс Климов has spawned 'models/props_vehicles/car001a_hatchback.mdl'.
+[02:40:47]	Алекс Климов exited observer at their location.
+[02:40:49]	Алекс Климов entered observer.
+[02:40:58]	Алекс Климов has spawned a 'Entity [472][gmod_sent_vehicle_fphysics_base]'.
+[02:41:01]	Алекс Климов exited observer at their location.
+[02:41:47]	Алекс Климов entered observer.
+[02:42:00]	Алекс Климов exited observer at their location.
+[02:43:29]	Алекс Климов entered observer.
+[02:43:31]	Алекс Климов exited observer at their location.
+[02:45:51]	Алекс Климов has spawned a 'NPC [2332][npc_metropolice]'.
+[11:21:45]	Г@H3NK has connected.
+[11:23:37]	Г@H3NK loaded the character 'Алекс Климов'
+[11:23:49]	Алекс Климов has spawned a 'Entity [454][ent_jack_gmod_ezarmor_mtorso]'.
+[11:24:09]	Г@H3NK loaded the character 'D47.MPF-OfC.717'
+[11:24:30]	D47.MPF-OfC.717 used command '/CharSetModel D47 models/dpfilms/metropolice/playermodels/pm_elite_police.mdl'.
+[11:26:44]	D47.MPF-OfC.717 entered observer.
+[11:26:51]	D47.MPF-OfC.717 exited observer at their location.
+[11:27:15]	Г@H3NK loaded the character 'Алекс Климов'
+[11:27:47]	Алекс Климов has spawned a 'NPC [454][npc_metropolice]'.
+[11:27:49]	Алекс Климов has taken 13 damage from npc_metropolice.
+[11:27:52]	Алекс Климов has spawned a 'NPC [455][npc_metropolice]'.
+[11:27:54]	Алекс Климов has spawned a 'NPC [1257][npc_metropolice]'.
+[11:27:55]	Алекс Климов has spawned a 'NPC [455][npc_metropolice]'.
+[11:27:59]	Алекс Климов has spawned a 'NPC [1259][npc_metropolice]'.
+[11:28:03]	Алекс Климов has taken 14 damage from npc_metropolice.
+[11:28:43]	Алекс Климов entered observer.
+[11:28:44]	Алекс Климов exited observer at their location.
+[11:36:59]	Г@H3NK has connected.
+[11:38:11]	Г@H3NK loaded the character 'D47.MPF-OfC.717'
+[11:38:37]	D47.MPF-OfC.717 used command '/CharSetModel D47 models/dpfilms/metropolice/playermodels/pm_elite_police.mdl'.
+[11:43:11]	D47.MPF-OfC.717 has gained 100 tokens.
+[11:48:11]	D47.MPF-OfC.717 has gained 100 tokens.
+[11:53:11]	D47.MPF-OfC.717 has gained 100 tokens.
+[11:58:12]	D47.MPF-OfC.717 has gained 100 tokens.
+[12:03:11]	D47.MPF-OfC.717 has gained 100 tokens.
+[12:08:11]	D47.MPF-OfC.717 has gained 100 tokens.
+[12:13:11]	D47.MPF-OfC.717 has gained 100 tokens.
+[12:18:11]	D47.MPF-OfC.717 has gained 100 tokens.
+[12:23:11]	D47.MPF-OfC.717 has gained 100 tokens.
+[12:28:11]	D47.MPF-OfC.717 has gained 100 tokens.
+[12:33:12]	D47.MPF-OfC.717 has gained 100 tokens.
+[12:38:11]	D47.MPF-OfC.717 has gained 100 tokens.
+[12:43:11]	D47.MPF-OfC.717 has gained 100 tokens.
+[12:48:11]	D47.MPF-OfC.717 has gained 100 tokens.
+[12:53:11]	D47.MPF-OfC.717 has gained 100 tokens.
+[12:53:37]	Г@H3NK loaded the character 'Алекс Климов'
+[12:53:41]	Алекс Климов entered observer.
+[12:53:47]	Алекс Климов exited observer at their location.
+[12:53:49]	Алекс Климов entered observer.
+[12:53:52]	Алекс Климов exited observer at their location.
+[12:53:59]	Алекс Климов entered observer.
+[12:54:01]	Алекс Климов exited observer at their location.
+[12:58:35]	Алекс Климов has taken 36 damage from worldspawn.
+[12:59:44]	Алекс Климов used command '/CharSetModel Ал models/combine/humans/male_09.mdl'.
+[13:01:01]	Алекс Климов has spawned 'models/dpfilms/metropolice/hdite_police.mdl'.
+[13:01:05]	Алекс Климов has spawned 'models/dpfilms/metropolice/medte_police.mdl'.
+[13:01:08]	Алекс Климов has spawned 'models/dpfilms/metropolice/urbte_police.mdl'.
+[13:01:27]	Алекс Климов used command '/CharSetModel Ал models/dpfilms/metropolice/urbte_police.mdl'.
+[13:02:08]	Алекс Климов used command '/CharSetModel Ал models/purvis/male_01_metrocop.mdl'.
+[13:02:38]	Алекс Климов used command '/CharSetModel Ал models/barnes/refugee/male_09.mdl'.
+[13:03:00]	Г@H3NK loaded the character 'D47.MPF-OfC.717'
+[13:03:21]	D47.MPF-OfC.717 has spawned 'models/Police.mdl'.
+[13:03:46]	D47.MPF-OfC.717 has spawned 'models/Police.mdl'.
+[13:04:14]	D47.MPF-OfC.717 has spawned 'models/player/police.mdl'.
+[13:04:16]	D47.MPF-OfC.717 has spawned 'models/player/swat.mdl'.
+[13:04:29]	D47.MPF-OfC.717 used command '/CharSetModel D47 models/player/swat.mdl'.
+[13:08:00]	D47.MPF-OfC.717 has gained 100 tokens.
+[13:13:00]	D47.MPF-OfC.717 has gained 100 tokens.
+[13:18:00]	D47.MPF-OfC.717 has gained 100 tokens.
+[13:23:00]	D47.MPF-OfC.717 has gained 100 tokens.
+[13:28:00]	D47.MPF-OfC.717 has gained 100 tokens.
+[13:33:00]	D47.MPF-OfC.717 has gained 100 tokens.
+[13:38:00]	D47.MPF-OfC.717 has gained 100 tokens.
+[13:43:00]	D47.MPF-OfC.717 has gained 100 tokens.
+[13:48:00]	D47.MPF-OfC.717 has gained 100 tokens.
+[13:53:00]	D47.MPF-OfC.717 has gained 100 tokens.
+[13:58:00]	D47.MPF-OfC.717 has gained 100 tokens.
+[14:03:00]	D47.MPF-OfC.717 has gained 100 tokens.
+[14:08:00]	D47.MPF-OfC.717 has gained 100 tokens.
+[14:13:00]	D47.MPF-OfC.717 has gained 100 tokens.
+[14:18:00]	D47.MPF-OfC.717 has gained 100 tokens.
+[14:23:00]	D47.MPF-OfC.717 has gained 100 tokens.
+[14:26:13]	D47.MPF-OfC.717 has spawned a 'Entity [1337][ent_jack_gmod_ezfragnade]'.
+[14:26:18]	D47.MPF-OfC.717 has taken 160 damage from D47.MPF-OfC.717.
+[14:26:18]	D47.MPF-OfC.717 has killed D47.MPF-OfC.717.
+[14:28:00]	D47.MPF-OfC.717 has gained 100 tokens.
+[14:30:45]	D47.MPF-OfC.717 has spawned 'models/dpfilms/metropolice/playermodels/pm_phoenix_police.mdl'.
+[14:33:33]	D47.MPF-OfC.717 used command '/CharSetModel D47 models/dpfilms/metropolice/playermodels/pm_phoenix_police.mdl'.
+[14:33:42]	D47.MPF-OfC.717 ran 'Equip' on item 'HK UMP-9' (#318)
+[14:35:20]	Г@H3NK has connected.
+[14:37:57]	Г@H3NK loaded the character 'D47.MPF-OfC.717'
+[14:38:16]	D47.MPF-OfC.717 used command '/CharSetModel D47 models/dpfilms/metropolice/playermodels/pm_phoenix_police.mdl'.
+[14:43:28]	D47.MPF-OfC.717 has gained 100 tokens.
+[14:48:28]	D47.MPF-OfC.717 has gained 100 tokens.
+[14:53:28]	D47.MPF-OfC.717 has gained 100 tokens.
+[14:58:28]	D47.MPF-OfC.717 has gained 100 tokens.
+[15:03:28]	D47.MPF-OfC.717 has gained 100 tokens.
+[15:08:28]	D47.MPF-OfC.717 has gained 100 tokens.
+[15:13:28]	D47.MPF-OfC.717 has gained 100 tokens.
+[15:18:28]	D47.MPF-OfC.717 has gained 100 tokens.
+[15:22:37]	D47.MPF-OfC.717 used command '/CharSetModel D47 models/dpfilms/metropolice/playermodels/pm_phoenix_police.mdl'.
+[15:23:28]	D47.MPF-OfC.717 has gained 100 tokens.
+[15:28:28]	D47.MPF-OfC.717 has gained 100 tokens.
+[15:33:28]	D47.MPF-OfC.717 has gained 100 tokens.
+[15:38:28]	D47.MPF-OfC.717 has gained 100 tokens.
+[15:38:41]	D47.MPF-OfC.717 has spawned a 'NPC [1281][npc_monk]'.
+[15:43:24]	D47.MPF-OfC.717 entered observer.
+[15:43:29]	D47.MPF-OfC.717 has gained 100 tokens.
+[15:43:30]	D47.MPF-OfC.717 has spawned a 'NPC [1276][npc_aheli]'.
+[15:43:32]	D47.MPF-OfC.717 exited observer at their location.
+[15:43:34]	D47.MPF-OfC.717 entered observer.
+[15:43:37]	D47.MPF-OfC.717 has spawned a 'NPC [1281][npc_sacktick]'.
+[15:43:38]	D47.MPF-OfC.717 exited observer at their location.
+[15:43:40]	D47.MPF-OfC.717 has spawned a 'NPC [1337][npc_sacktick]'.
+[15:43:54]	D47.MPF-OfC.717 has taken 1 damage from npc_sacktick.
+[15:43:55]	D47.MPF-OfC.717 has taken 1 damage from npc_sacktick.
+[15:43:55]	D47.MPF-OfC.717 has taken 1 damage from npc_sacktick.
+[15:43:58]	D47.MPF-OfC.717 has spawned a 'NPC [1281][npc_turret_floor]'.
+[15:44:05]	D47.MPF-OfC.717 has spawned a 'NPC [1281][npc_conscript]'.
+[15:44:11]	D47.MPF-OfC.717 has spawned a 'NPC [1276][npc_conscript]'.
+[15:44:13]	D47.MPF-OfC.717 has spawned a 'NPC [1281][npc_conscript]'.
+[15:44:15]	D47.MPF-OfC.717 has spawned a 'NPC [1276][npc_conscript]'.
+[15:44:17]	D47.MPF-OfC.717 has taken 2 damage from npc_conscript.
+[15:44:18]	D47.MPF-OfC.717 has taken 6 damage from npc_conscript.
+[15:44:19]	D47.MPF-OfC.717 has taken 6 damage from npc_conscript.
+[15:44:19]	D47.MPF-OfC.717 has taken 2 damage from npc_conscript.
+[15:44:20]	D47.MPF-OfC.717 has taken 6 damage from npc_conscript.
+[15:44:21]	D47.MPF-OfC.717 has taken 2 damage from npc_conscript.
+[15:44:22]	D47.MPF-OfC.717 has taken 6 damage from npc_conscript.
+[15:44:26]	D47.MPF-OfC.717 has spawned a 'NPC [1276][npc_metropolice_elite]'.
+[15:44:28]	D47.MPF-OfC.717 has taken 6 damage from npc_metropolice_elite.
+[15:44:28]	D47.MPF-OfC.717 has taken 6 damage from npc_metropolice_elite.
+[15:44:28]	D47.MPF-OfC.717 has taken 6 damage from npc_metropolice_elite.
+[15:44:28]	D47.MPF-OfC.717 has taken 6 damage from npc_metropolice_elite.
+[15:44:28]	D47.MPF-OfC.717 has taken 6 damage from npc_metropolice_elite.
+[15:44:28]	D47.MPF-OfC.717 has taken 6 damage from npc_metropolice_elite.
+[15:44:28]	D47.MPF-OfC.717 has taken 6 damage from npc_metropolice_elite.
+[15:44:28]	D47.MPF-OfC.717 has taken 6 damage from npc_metropolice_elite.
+[15:44:29]	D47.MPF-OfC.717 has taken 6 damage from npc_metropolice_elite.
+[15:44:29]	D47.MPF-OfC.717 has taken 6 damage from npc_metropolice_elite.
+[15:44:29]	D47.MPF-OfC.717 has taken 6 damage from npc_metropolice_elite.
+[15:44:29]	D47.MPF-OfC.717 has taken 6 damage from npc_metropolice_elite.
+[15:44:29]	D47.MPF-OfC.717 has taken 6 damage from npc_metropolice_elite.
+[15:44:29]	D47.MPF-OfC.717 has taken 6 damage from npc_metropolice_elite.
+[15:44:29]	D47.MPF-OfC.717 has taken 6 damage from npc_metropolice_elite.
+[15:44:29]	D47.MPF-OfC.717 has taken 6 damage from npc_metropolice_elite.
+[15:44:29]	D47.MPF-OfC.717 has taken 6 damage from npc_metropolice_elite.
+[15:44:30]	D47.MPF-OfC.717 has taken 6 damage from npc_metropolice_elite.
+[15:44:30]	D47.MPF-OfC.717 has taken 6 damage from npc_metropolice_elite.
+[15:44:30]	D47.MPF-OfC.717 has taken 6 damage from npc_metropolice_elite.
+[15:44:30]	D47.MPF-OfC.717 has taken 6 damage from npc_metropolice_elite.
+[15:44:30]	D47.MPF-OfC.717 has taken 6 damage from npc_metropolice_elite.
+[15:44:30]	D47.MPF-OfC.717 has taken 6 damage from npc_metropolice_elite.
+[15:44:30]	D47.MPF-OfC.717 has taken 6 damage from npc_metropolice_elite.
+[15:44:30]	D47.MPF-OfC.717 has taken 6 damage from npc_metropolice_elite.
+[15:44:30]	D47.MPF-OfC.717 has taken 6 damage from npc_metropolice_elite.
+[15:44:30]	npc_metropolice_elite has killed D47.MPF-OfC.717.
+[15:44:32]	D47.MPF-OfC.717 entered observer.
+[15:44:33]	D47.MPF-OfC.717 exited observer at their location.
+[15:44:37]	D47.MPF-OfC.717 has spawned a 'NPC [509][npc_combine_guard]'.
+[15:44:38]	D47.MPF-OfC.717 has taken 5 damage from npc_combine_guard.
+[15:44:38]	D47.MPF-OfC.717 has taken 5 damage from npc_combine_guard.
+[15:44:38]	D47.MPF-OfC.717 has taken 5 damage from npc_combine_guard.
+[15:44:38]	D47.MPF-OfC.717 has taken 5 damage from npc_combine_guard.
+[15:44:38]	D47.MPF-OfC.717 has taken 5 damage from npc_combine_guard.
+[15:44:38]	D47.MPF-OfC.717 has taken 5 damage from npc_combine_guard.
+[15:44:39]	D47.MPF-OfC.717 has taken 5 damage from npc_combine_guard.
+[15:44:39]	D47.MPF-OfC.717 has taken 5 damage from npc_combine_guard.
+[15:44:39]	D47.MPF-OfC.717 has taken 5 damage from npc_combine_guard.
+[15:44:39]	D47.MPF-OfC.717 has taken 5 damage from npc_combine_guard.
+[15:44:39]	D47.MPF-OfC.717 has taken 5 damage from npc_combine_guard.
+[15:44:39]	D47.MPF-OfC.717 has taken 5 damage from npc_combine_guard.
+[15:44:40]	D47.MPF-OfC.717 has taken 5 damage from npc_combine_guard.
+[15:44:40]	D47.MPF-OfC.717 has taken 5 damage from npc_combine_guard.
+[15:44:40]	D47.MPF-OfC.717 has taken 5 damage from npc_combine_guard.
+[15:44:40]	D47.MPF-OfC.717 has taken 5 damage from npc_combine_guard.
+[15:44:40]	D47.MPF-OfC.717 has taken 5 damage from npc_combine_guard.
+[15:44:40]	D47.MPF-OfC.717 has taken 5 damage from npc_combine_guard.
+[15:44:41]	D47.MPF-OfC.717 has taken 5 damage from npc_combine_guard.
+[15:44:41]	D47.MPF-OfC.717 has taken 5 damage from npc_combine_guard.
+[15:44:41]	D47.MPF-OfC.717 has taken 5 damage from npc_combine_guard.
+[15:44:41]	D47.MPF-OfC.717 has taken 5 damage from npc_combine_guard.
+[15:44:41]	D47.MPF-OfC.717 has taken 5 damage from npc_combine_guard.
+[15:44:41]	D47.MPF-OfC.717 has taken 5 damage from npc_combine_guard.
+[15:44:42]	D47.MPF-OfC.717 has taken 5 damage from npc_combine_guard.
+[15:44:42]	D47.MPF-OfC.717 has taken 5 damage from npc_combine_guard.
+[15:44:42]	D47.MPF-OfC.717 has taken 5 damage from npc_combine_guard.
+[15:44:43]	D47.MPF-OfC.717 has taken 5 damage from npc_combine_guard.
+[15:44:43]	D47.MPF-OfC.717 has taken 5 damage from npc_combine_guard.
+[15:44:43]	D47.MPF-OfC.717 has taken 5 damage from npc_combine_guard.
+[15:44:43]	D47.MPF-OfC.717 has taken 5 damage from npc_combine_guard.
+[15:44:43]	D47.MPF-OfC.717 has taken 5 damage from npc_combine_guard.
+[15:44:43]	D47.MPF-OfC.717 has taken 5 damage from npc_combine_guard.
+[15:44:58]	D47.MPF-OfC.717 has taken 5 damage from npc_combine_guard.
+[15:44:58]	D47.MPF-OfC.717 has taken 5 damage from npc_combine_guard.
+[15:44:58]	D47.MPF-OfC.717 has taken 5 damage from npc_combine_guard.
+[15:44:58]	D47.MPF-OfC.717 has taken 5 damage from npc_combine_guard.
+[15:44:58]	D47.MPF-OfC.717 has taken 5 damage from npc_combine_guard.
+[15:44:58]	D47.MPF-OfC.717 has taken 5 damage from npc_combine_guard.
+[15:44:59]	D47.MPF-OfC.717 has taken 5 damage from npc_combine_guard.
+[15:44:59]	npc_combine_guard has killed D47.MPF-OfC.717.
+[15:45:02]	D47.MPF-OfC.717 entered observer.
+[15:45:05]	D47.MPF-OfC.717 has spawned a 'NPC [1282][npc_wscanner_trio]'.
+[15:45:06]	D47.MPF-OfC.717 exited observer at their location.
+[15:45:08]	D47.MPF-OfC.717 has spawned a 'NPC [1282][npc_wscanner]'.
+[15:45:14]	D47.MPF-OfC.717 has taken 5 damage from npc_combine_guard.
+[15:45:14]	D47.MPF-OfC.717 has taken 5 damage from npc_combine_guard.
+[15:45:14]	D47.MPF-OfC.717 has taken 5 damage from npc_combine_guard.
+[15:45:14]	D47.MPF-OfC.717 has taken 5 damage from npc_combine_guard.
+[15:45:14]	D47.MPF-OfC.717 has taken 5 damage from npc_combine_guard.
+[15:45:14]	D47.MPF-OfC.717 has taken 5 damage from npc_combine_guard.
+[15:45:22]	D47.MPF-OfC.717 ran 'Equip' on item 'HK UMP-9' (#318)
+[15:45:35]	D47.MPF-OfC.717 has spawned a 'NPC [509][npc_metropolice_elite]'.
+[15:45:43]	D47.MPF-OfC.717 has spawned a 'NPC [509][npc_metropolice_elite]'.
+[15:45:45]	D47.MPF-OfC.717 has taken 6 damage from npc_metropolice_elite.
+[15:45:45]	D47.MPF-OfC.717 has taken 6 damage from npc_metropolice_elite.
+[15:45:45]	D47.MPF-OfC.717 has taken 6 damage from npc_metropolice_elite.
+[15:45:45]	D47.MPF-OfC.717 has taken 6 damage from npc_metropolice_elite.
+[15:45:45]	D47.MPF-OfC.717 has taken 6 damage from npc_metropolice_elite.
+[15:45:45]	D47.MPF-OfC.717 has taken 6 damage from npc_metropolice_elite.
+[15:45:45]	D47.MPF-OfC.717 has taken 6 damage from npc_metropolice_elite.
+[15:45:45]	D47.MPF-OfC.717 has taken 6 damage from npc_metropolice_elite.
+[15:45:45]	D47.MPF-OfC.717 has taken 6 damage from npc_metropolice_elite.
+[15:45:45]	D47.MPF-OfC.717 has taken 6 damage from npc_metropolice_elite.
+[15:45:46]	D47.MPF-OfC.717 has taken 6 damage from npc_metropolice_elite.
+[15:45:46]	D47.MPF-OfC.717 has taken 6 damage from npc_metropolice_elite.
+[15:45:46]	D47.MPF-OfC.717 has taken 6 damage from npc_metropolice_elite.
+[15:45:46]	D47.MPF-OfC.717 has taken 6 damage from npc_metropolice_elite.
+[15:45:46]	D47.MPF-OfC.717 has taken 6 damage from npc_metropolice_elite.
+[15:45:46]	D47.MPF-OfC.717 has taken 6 damage from npc_metropolice_elite.
+[15:45:46]	D47.MPF-OfC.717 has taken 6 damage from npc_metropolice_elite.
+[15:45:46]	D47.MPF-OfC.717 has taken 6 damage from npc_metropolice_elite.
+[15:45:46]	D47.MPF-OfC.717 has taken 6 damage from npc_metropolice_elite.
+[15:45:47]	D47.MPF-OfC.717 has taken 6 damage from npc_metropolice_elite.
+[15:45:47]	D47.MPF-OfC.717 has taken 6 damage from npc_metropolice_elite.
+[15:45:47]	D47.MPF-OfC.717 has taken 6 damage from npc_metropolice_elite.
+[15:45:47]	D47.MPF-OfC.717 has taken 6 damage from npc_metropolice_elite.
+[15:45:47]	D47.MPF-OfC.717 has taken 6 damage from npc_metropolice_elite.
+[15:45:58]	D47.MPF-OfC.717 has spawned 'models/dpfilms/metropolice/playermodels/pm_skull_police.mdl'.
+[15:46:02]	D47.MPF-OfC.717 has spawned 'models/dpfilms/metropolice/playermodels/pm_urban_police.mdl'.
+[15:46:10]	D47.MPF-OfC.717 has spawned 'models/dpfilms/metropolice/playermodels/pm_urban_police.mdl'.
+[15:46:13]	D47.MPF-OfC.717 has spawned 'models/dpfilms/metropolice/playermodels/pm_tribal_police.mdl'.
+[15:46:15]	D47.MPF-OfC.717 has spawned 'models/dpfilms/metropolice/playermodels/pm_hdpolice.mdl'.
+[15:46:16]	D47.MPF-OfC.717 has spawned 'models/dpfilms/metropolice/playermodels/pm_hl2beta_police.mdl'.
+[15:46:18]	D47.MPF-OfC.717 has spawned 'models/dpfilms/metropolice/playermodels/pm_hl2concept.mdl'.
+[15:46:18]	D47.MPF-OfC.717 has spawned 'models/dpfilms/metropolice/playermodels/pm_hl2beta_police.mdl'.
+[15:46:39]	D47.MPF-OfC.717 has spawned 'models/dpfilms/metropolice/playermodels/pm_hl2beta_police.mdl'.
+[15:46:40]	D47.MPF-OfC.717 has spawned 'models/dpfilms/metropolice/playermodels/pm_hl2concept.mdl'.
+[15:46:41]	D47.MPF-OfC.717 has spawned 'models/dpfilms/metropolice/playermodels/pm_hdpolice.mdl'.
+[15:46:45]	D47.MPF-OfC.717 has spawned 'models/dpfilms/metropolice/urban_police.mdl'.
+[15:46:48]	D47.MPF-OfC.717 has spawned 'models/dpfilms/metropolice/playermodels/pm_female_police.mdl'.
+[15:46:50]	D47.MPF-OfC.717 has spawned 'models/dpfilms/metropolice/playermodels/pm_urban_police.mdl'.
+[15:46:53]	D47.MPF-OfC.717 has spawned 'models/dpfilms/metropolice/playermodels/pm_tron_police_cn.mdl'.
+[15:46:54]	D47.MPF-OfC.717 has spawned 'models/dpfilms/metropolice/playermodels/pm_hl2concept.mdl'.
+[15:46:56]	D47.MPF-OfC.717 has spawned 'models/dpfilms/metropolice/playermodels/pm_hunter_police.mdl'.
+[15:46:59]	D47.MPF-OfC.717 has spawned 'models/dpfilms/metropolice/playermodels/pm_phoenix_police.mdl'.
+[15:47:01]	D47.MPF-OfC.717 has spawned 'models/dpfilms/metropolice/playermodels/pm_police_bt.mdl'.
+[15:47:08]	D47.MPF-OfC.717 has spawned 'models/dpfilms/metropolice/playermodels/pm_policetrench.mdl'.
+[15:47:17]	D47.MPF-OfC.717 used command '/CharSetModel D47 models/dpfilms/metropolice/playermodels/pm_policetrench.mdl'.
+[15:47:49]	D47.MPF-OfC.717 has spawned 'models/dpfilms/metropolice/props/elite_gasmask.mdl'.
+[15:47:55]	D47.MPF-OfC.717 has spawned 'models/dpfilms/metropolice/playermodels/pm_arctic_police.mdl'.
+[15:47:56]	D47.MPF-OfC.717 has spawned 'models/dpfilms/metropolice/playermodels/pm_badass_police.mdl'.
+[15:47:58]	D47.MPF-OfC.717 has spawned 'models/dpfilms/metropolice/playermodels/pm_badass_police.mdl'.
+[15:48:29]	D47.MPF-OfC.717 has gained 100 tokens.
+[15:48:33]	D47.MPF-OfC.717 has spawned 'models/nova/chair_office02.mdl'.
+[15:48:39]	D47.MPF-OfC.717 has spawned 'models/maxofs2d/camera.mdl'.
+[15:48:50]	D47.MPF-OfC.717 has spawned 'models/xqm/jetbody3.mdl'.
+[15:48:50]	D47.MPF-OfC.717 entered observer.
+[15:48:52]	D47.MPF-OfC.717 exited observer at their location.
+[15:49:15]	D47.MPF-OfC.717 used command '/CharSetModel D47 models/props_c17/FurnitureToilet001a.mdl'.
+[15:49:28]	D47.MPF-OfC.717 entered observer.
+[15:49:29]	D47.MPF-OfC.717 exited observer at their location.
+[15:49:30]	D47.MPF-OfC.717 entered observer.
+[15:49:32]	D47.MPF-OfC.717 exited observer at their location.
+[15:50:03]	D47.MPF-OfC.717 used command '/CharSetModel D47 models/Roller.mdl'.
+[15:51:34]	D47.MPF-OfC.717 has taken 119 damage from D47.MPF-OfC.717.
+[15:51:36]	D47.MPF-OfC.717 has taken 119 damage from D47.MPF-OfC.717.
+[15:51:36]	D47.MPF-OfC.717 has killed D47.MPF-OfC.717.
+[15:53:29]	D47.MPF-OfC.717 has gained 100 tokens.
+[15:58:29]	D47.MPF-OfC.717 has gained 100 tokens.
+[16:00:28]	D47.MPF-OfC.717 used command '/CharSetModel D47 models/dpfilms/metropolice/playermodels/pm_policetrench.mdl'.
+[16:01:49]	֍ Aime-moi ֍ has connected.
+[16:03:04]	֍ Aime-moi ֍ loaded the character 'D47.MPF-RCT.167'
+[16:03:06]	D47.MPF-RCT.167 entered observer.
+[16:03:07]	D47.MPF-RCT.167 exited observer at their location.
+[16:03:11]	D47.MPF-RCT.167 entered observer.
+[16:03:29]	D47.MPF-OfC.717 has gained 100 tokens.
+[16:04:09]	D47.MPF-OfC.717 has taken 8 damage from worldspawn.
+[16:04:14]	D47.MPF-OfC.717 entered observer.
+[16:04:23]	D47.MPF-OfC.717 exited observer at their location.
+[16:04:27]	D47.MPF-OfC.717 has taken 65 damage from worldspawn.
+[16:04:27]	D47.MPF-OfC.717 entered observer.
+[16:04:28]	D47.MPF-OfC.717 exited observer at their location.
+[16:04:50]	D47.MPF-OfC.717 entered observer.
+[16:04:52]	D47.MPF-OfC.717 exited observer at their location.
+[16:05:11]	D47.MPF-OfC.717 entered observer.
+[16:05:12]	D47.MPF-OfC.717 exited observer at their location.
+[16:05:40]	D47.MPF-OfC.717 entered observer.
+[16:05:44]	D47.MPF-OfC.717 exited observer at their location.
+[16:05:47]	D47.MPF-OfC.717 entered observer.
+[16:05:50]	D47.MPF-OfC.717 exited observer at their location.
+[16:07:11]	D47.MPF-OfC.717 entered observer.
+[16:07:25]	D47.MPF-OfC.717 exited observer at their location.
+[16:08:04]	D47.MPF-RCT.167 has gained 100 tokens.
+[16:08:29]	D47.MPF-OfC.717 has gained 100 tokens.
+[16:11:46]	֍ Aime-moi ֍ (STEAM_0:0:424879351) has disconnected.
+[16:13:29]	D47.MPF-OfC.717 has gained 100 tokens.
+[16:18:30]	D47.MPF-OfC.717 has gained 100 tokens.
+[16:23:30]	D47.MPF-OfC.717 has gained 100 tokens.
+[16:28:30]	D47.MPF-OfC.717 has gained 100 tokens.
+[16:33:30]	D47.MPF-OfC.717 has gained 100 tokens.
+[16:36:25]	D47.MPF-OfC.717 has spawned a 'Entity [2482][ent_jack_gmod_ezarmor_rioth]'.
+[16:36:26]	D47.MPF-OfC.717 has spawned a 'Entity [2486][ent_jack_gmod_ezarmor_riot]'.
+[16:36:39]	D47.MPF-OfC.717 has spawned a 'Entity [1340][ent_jack_gmod_ezarmor_rioth]'.
+[16:38:33]	D47.MPF-OfC.717 has gained 100 tokens.
+[16:39:01]	D47.MPF-OfC.717 entered observer.
+[16:39:03]	D47.MPF-OfC.717 exited observer at their location.
+[16:39:04]	D47.MPF-OfC.717 entered observer.
+[16:39:05]	D47.MPF-OfC.717 exited observer at their location.
+[16:39:05]	D47.MPF-OfC.717 entered observer.
+[16:39:07]	D47.MPF-OfC.717 exited observer at their location.
+[16:39:07]	D47.MPF-OfC.717 entered observer.
+[16:39:09]	D47.MPF-OfC.717 exited observer at their location.
+[16:39:09]	D47.MPF-OfC.717 entered observer.
+[16:39:10]	D47.MPF-OfC.717 exited observer at their location.
+[16:39:13]	D47.MPF-OfC.717 has spawned a 'Entity [1342][ent_jack_gmod_ezarmor_mtorso]'.
+[16:39:24]	D47.MPF-OfC.717 has spawned a 'NPC [1340][npc_combine_s]'.
+[16:39:24]	D47.MPF-OfC.717 has taken 4 damage from npc_combine_s.
+[16:39:25]	D47.MPF-OfC.717 has taken 4 damage from npc_combine_s.
+[16:39:25]	D47.MPF-OfC.717 has taken 2 damage from npc_combine_s.
+[16:39:27]	D47.MPF-OfC.717 has spawned a 'NPC [1340][npc_combine_s]'.
+[16:39:36]	D47.MPF-OfC.717 has taken 2 damage from npc_combine_s.
+[16:39:37]	D47.MPF-OfC.717 has taken 4 damage from npc_combine_s.
+[16:39:37]	D47.MPF-OfC.717 has taken 2 damage from npc_combine_s.
+[16:39:38]	D47.MPF-OfC.717 has taken 11 damage from npc_combine_s.
+[16:39:38]	D47.MPF-OfC.717 has taken 4 damage from npc_combine_s.
+[16:39:42]	D47.MPF-OfC.717 has taken 4 damage from npc_combine_s.
+[16:39:48]	D47.MPF-OfC.717 has taken 2 damage from npc_combine_s.
+[16:39:48]	D47.MPF-OfC.717 has taken 2 damage from npc_combine_s.
+[16:39:48]	D47.MPF-OfC.717 has taken 4 damage from npc_combine_s.
+[16:39:48]	D47.MPF-OfC.717 has taken 2 damage from npc_combine_s.
+[16:39:48]	D47.MPF-OfC.717 has taken 2 damage from npc_combine_s.
+[16:39:49]	D47.MPF-OfC.717 has taken 2 damage from npc_combine_s.
+[16:39:50]	D47.MPF-OfC.717 has taken 11 damage from npc_combine_s.
+[16:39:50]	npc_combine_s has killed D47.MPF-OfC.717.
+[16:41:19]	D47.MPF-OfC.717 entered observer.
+[16:41:37]	D47.MPF-OfC.717 exited observer at their location.
+[16:41:44]	D47.MPF-OfC.717 entered observer.
+[16:42:36]	D47.MPF-OfC.717 exited observer at their location.
+[16:42:37]	D47.MPF-OfC.717 entered observer.
+[16:42:42]	D47.MPF-OfC.717 exited observer at their location.
+[16:43:34]	D47.MPF-OfC.717 has gained 100 tokens.
+[16:48:34]	D47.MPF-OfC.717 has gained 100 tokens.
+[16:53:34]	D47.MPF-OfC.717 used command '/CharSetModel D47 models/dpfilms/metropolice/playermodels/pm_phoenix_police.mdl'.
+[16:53:34]	D47.MPF-OfC.717 has gained 100 tokens.
+[16:53:35]	D47.MPF-OfC.717 entered observer.
+[16:53:47]	D47.MPF-OfC.717 exited observer at their location.
+[16:53:51]	D47.MPF-OfC.717 entered observer.
+[16:54:03]	D47.MPF-OfC.717 exited observer at their location.
+[16:54:08]	D47.MPF-OfC.717 entered observer.
+[16:54:13]	D47.MPF-OfC.717 exited observer at their location.
+[16:56:05]	D47.MPF-OfC.717 has spawned 'models/props/stairhalf.mdl'.
+[16:57:16]	D47.MPF-OfC.717 has spawned 'models/props/wood_cap2.mdl'.
+[16:58:06]	D47.MPF-OfC.717 entered observer.
+[16:58:08]	D47.MPF-OfC.717 exited observer at their location.
+[16:58:40]	D47.MPF-OfC.717 has gained 100 tokens.
+[17:03:40]	D47.MPF-OfC.717 has gained 100 tokens.
+[17:08:40]	D47.MPF-OfC.717 has gained 100 tokens.
+[17:13:40]	D47.MPF-OfC.717 has gained 100 tokens.
+[17:18:40]	D47.MPF-OfC.717 has gained 100 tokens.
+[17:23:40]	D47.MPF-OfC.717 has gained 100 tokens.
+[17:28:40]	D47.MPF-OfC.717 has gained 100 tokens.
+[17:33:40]	D47.MPF-OfC.717 has gained 100 tokens.
+[17:38:40]	D47.MPF-OfC.717 has gained 100 tokens.
+[17:40:23]	D47.MPF-OfC.717 entered observer.
+[17:40:32]	D47.MPF-OfC.717 has spawned a 'Entity [1276][ix_vendor]'.
+[17:40:35]	D47.MPF-OfC.717 has spawned a 'Entity [1336][ix_vendor]'.
+[17:40:36]	D47.MPF-OfC.717 exited observer at their location.
+[17:41:06]	D47.MPF-OfC.717 used the 'John Doe' vendor.
+[17:43:52]	D47.MPF-OfC.717 has gained 100 tokens.
+[17:45:48]	D47.MPF-OfC.717 has gained a 'Scrap Metal' #369.
+[17:45:48]	D47.MPF-OfC.717 used command '/CharGiveItem D47 scrap_metal'.
+[17:45:53]	D47.MPF-OfC.717 used the 'Васька' vendor.
+[17:46:20]	D47.MPF-OfC.717 used the 'Васька' vendor.
+[17:46:31]	D47.MPF-OfC.717 has gained 5 tokens.
+[17:47:26]	D47.MPF-OfC.717 has taken 10 damage from worldspawn.
+[17:47:29]	D47.MPF-OfC.717 ran 'Equip' on item 'HK UMP-9' (#318)
+[17:48:13]	D47.MPF-OfC.717 ran 'Equip' on item 'Five-seveN' (#124)
+[17:48:53]	D47.MPF-OfC.717 has gained 100 tokens.
+[17:49:06]	D47.MPF-OfC.717 has taken 10 damage from trigger_hurt.
+[17:49:06]	D47.MPF-OfC.717 has taken 10 damage from trigger_hurt.
+[17:49:09]	D47.MPF-OfC.717 has taken 10 damage from trigger_hurt.
+[17:49:10]	D47.MPF-OfC.717 has taken 10 damage from trigger_hurt.
+[17:49:24]	D47.MPF-OfC.717 has taken 10 damage from trigger_hurt.
+[17:49:24]	D47.MPF-OfC.717 has taken 10 damage from trigger_hurt.
+[17:49:27]	D47.MPF-OfC.717 has taken 10 damage from trigger_hurt.
+[17:49:27]	D47.MPF-OfC.717 has taken 10 damage from trigger_hurt.
+[17:53:53]	D47.MPF-OfC.717 has gained 100 tokens.
+[17:58:53]	D47.MPF-OfC.717 has gained 100 tokens.
+[18:03:53]	D47.MPF-OfC.717 has gained 100 tokens.
+[18:08:53]	D47.MPF-OfC.717 has gained 100 tokens.
+[18:13:53]	D47.MPF-OfC.717 has gained 100 tokens.
+[18:18:53]	D47.MPF-OfC.717 has gained 100 tokens.
+[18:23:53]	D47.MPF-OfC.717 has gained 100 tokens.
+[18:28:53]	D47.MPF-OfC.717 has gained 100 tokens.
+[18:33:53]	D47.MPF-OfC.717 has gained 100 tokens.
+[18:38:53]	D47.MPF-OfC.717 has gained 100 tokens.
+[18:43:53]	D47.MPF-OfC.717 has gained 100 tokens.
+[18:48:53]	D47.MPF-OfC.717 has gained 100 tokens.
+[18:53:53]	D47.MPF-OfC.717 has gained 100 tokens.
+[18:58:53]	D47.MPF-OfC.717 has gained 100 tokens.
+[19:03:53]	D47.MPF-OfC.717 has gained 100 tokens.
+[19:08:53]	D47.MPF-OfC.717 has gained 100 tokens.
+[19:13:53]	D47.MPF-OfC.717 has gained 100 tokens.
+[19:18:53]	D47.MPF-OfC.717 has gained 100 tokens.
+[19:23:53]	D47.MPF-OfC.717 has gained 100 tokens.
+[19:28:53]	D47.MPF-OfC.717 has gained 100 tokens.
+[19:31:30]	D47.MPF-OfC.717 has spawned 'models/metropolice/c08.mdl'.
+[19:31:32]	D47.MPF-OfC.717 has spawned 'models/metropolice/c08.mdl'.
+[19:31:34]	D47.MPF-OfC.717 has spawned 'models/player/metropolice/c08.mdl'.
+[19:31:49]	D47.MPF-OfC.717 used command '/CharSetModel d47 models/player/metropolice/c08.mdl'.
+[19:33:14]	֍ Aime-moi ֍ has connected.
+[19:33:54]	D47.MPF-OfC.717 has gained 100 tokens.
+[19:35:48]	֍ Aime-moi ֍ loaded the character 'D47.MPF-RL.814'
+[19:35:51]	D47.MPF-RL.814 entered observer.
+[19:36:00]	D47.MPF-OfC.717 has spawned a 'Entity [1380][ent_jack_gmod_ezarmor_riot]'.
+[19:36:16]	D47.MPF-RL.814 exited observer at their location.
+[19:37:16]	D47.MPF-RL.814 has spawned 'models/dpfilms/metropolice/arcte_police.mdl'.
+[19:37:19]	D47.MPF-RL.814 has spawned 'models/dpfilms/metropolice/bette_police.mdl'.
+[19:37:24]	D47.MPF-RL.814 has spawned 'models/dpfilms/metropolice/medte_police.mdl'.
+[19:37:26]	D47.MPF-RL.814 has spawned 'models/dpfilms/metropolice/medice_bt.mdl'.
+[19:37:29]	D47.MPF-RL.814 has spawned 'models/dpfilms/metropolice/rette_police.mdl'.
+[19:37:31]	D47.MPF-RL.814 has spawned 'models/dpfilms/metropolice/urbicetrench.mdl'.
+[19:37:33]	D47.MPF-RL.814 has spawned 'models/dpfilms/metropolice/urbte_police.mdl'.
+[19:37:34]	D47.MPF-RL.814 has spawned 'models/dpfilms/metropolice/zomicetrench.mdl'.
+[19:37:36]	D47.MPF-RL.814 has spawned 'models/dpfilms/metropolice/zomte_police.mdl'.
+[19:37:37]	D47.MPF-RL.814 has spawned 'models/dpfilms/metropolice/zomice_bt.mdl'.
+[19:37:40]	D47.MPF-RL.814 has spawned 'models/dpfilms/metropolice/stete_police.mdl'.
+[19:37:43]	D47.MPF-RL.814 has spawned 'models/dpfilms/metropolice/steice_bt.mdl'.
+[19:37:46]	D47.MPF-RL.814 has spawned 'models/dpfilms/metropolice/blaice_bt.mdl'.
+[19:37:47]	D47.MPF-RL.814 has spawned 'models/dpfilms/metropolice/bioice_bt.mdl'.
+[19:37:49]	D47.MPF-RL.814 has spawned 'models/dpfilms/metropolice/bette_police.mdl'.
+[19:37:53]	D47.MPF-RL.814 has spawned 'models/dpfilms/metropolice/arcice_bt.mdl'.
+[19:37:55]	D47.MPF-RL.814 has spawned 'models/dpfilms/metropolice/arcicetrench.mdl'.
+[19:37:56]	D47.MPF-RL.814 has spawned 'models/dpfilms/metropolice/arcicetrench.mdl'.
+[19:37:59]	D47.MPF-RL.814 has spawned 'models/dpfilms/metropolice/arcte_police.mdl'.
+[19:38:04]	D47.MPF-RL.814 has spawned 'models/dpfilms/metropolice/bette_police.mdl'.
+[19:38:06]	D47.MPF-RL.814 has spawned 'models/dpfilms/metropolice/arcicetrench.mdl'.
+[19:38:09]	D47.MPF-RL.814 has spawned 'models/dpfilms/metropolice/bioicetrench.mdl'.
+[19:38:13]	D47.MPF-RL.814 has spawned 'models/dpfilms/metropolice/phoicetrench.mdl'.
+[19:38:15]	D47.MPF-RL.814 has spawned 'models/dpfilms/metropolice/medicetrench.mdl'.
+[19:38:17]	D47.MPF-RL.814 has spawned 'models/dpfilms/metropolice/hunicetrench.mdl'.
+[19:38:20]	D47.MPF-RL.814 has spawned 'models/dpfilms/metropolice/hdite_police.mdl'.
+[19:38:22]	D47.MPF-RL.814 has spawned 'models/dpfilms/metropolice/frgte_police.mdl'.
+[19:38:25]	D47.MPF-RL.814 has spawned 'models/dpfilms/metropolice/frgicetrench.mdl'.
+[19:38:28]	D47.MPF-RL.814 has spawned 'models/dpfilms/metropolice/zomicetrench.mdl'.
+[19:38:31]	D47.MPF-RL.814 has spawned 'models/dpfilms/metropolice/eliicetrench.mdl'.
+[19:38:40]	֍ Aime-moi ֍ (STEAM_0:0:424879351) has disconnected.
+[19:38:56]	D47.MPF-OfC.717 has gained 100 tokens.
+[19:39:07]	D47.MPF-OfC.717 entered observer.
+[19:39:25]	D47.MPF-OfC.717 exited observer at their location.
+[19:41:08]	Г@H3NK loaded the character 'OTA-ECHO.OWS-55309'
+[19:41:11]	OTA-ECHO.OWS-55309 entered observer.
+[19:41:13]	OTA-ECHO.OWS-55309 exited observer at their location.
+[19:42:42]	OTA-ECHO.OWS-55309 used command '/Dispatch C17'.
+[19:42:54]	OTA-ECHO.OWS-55309 used command '/Broadcast C17'.
+[19:43:25]	Г@H3NK loaded the character 'Александр Климов'
+[19:44:59]	Александр Климов entered observer.
+[19:45:04]	Александр Климов exited observer at their location.
+[19:47:49]	Александр Климов entered observer.
+[19:48:00]	Александр Климов exited observer at their location.
+[19:48:27]	Александр Климов has spawned a 'Entity [569][npc_arrest_citizen_wall]'.
+[19:48:34]	Александр Климов has spawned a 'Entity [569][npc_arrest_citizen_wall]'.
+[19:48:36]	Александр Климов has spawned a 'Entity [509][npc_arrest_citizen_ground]'.
+[19:50:09]	Г@H3NK loaded the character 'D47.MPF-OfC.717'
+[19:50:58]	D47.MPF-OfC.717 entered observer.
+[19:51:05]	D47.MPF-OfC.717 exited observer at their location.
+[19:51:22]	D47.MPF-OfC.717 entered observer.
+[19:51:24]	D47.MPF-OfC.717 exited observer at their location.
+[19:51:26]	D47.MPF-OfC.717 entered observer.
+[19:51:26]	D47.MPF-OfC.717 exited observer at their location.
+[19:55:09]	D47.MPF-OfC.717 has gained 100 tokens.
+[20:00:16]	Г@H3NK has connected.
+[20:01:59]	Г@H3NK loaded the character 'D47.MPF-OfC.717'
+[20:02:05]	D47.MPF-OfC.717 entered observer.
+[20:02:11]	D47.MPF-OfC.717 exited observer at their location.
+[20:02:12]	D47.MPF-OfC.717 entered observer.
+[20:02:18]	D47.MPF-OfC.717 exited observer at their location.
+[20:02:19]	D47.MPF-OfC.717 entered observer.
+[20:02:19]	D47.MPF-OfC.717 exited observer at their location.
+[20:02:20]	D47.MPF-OfC.717 entered observer.
+[20:02:21]	D47.MPF-OfC.717 exited observer at their location.
+[20:02:24]	D47.MPF-OfC.717 entered observer.
+[20:03:06]	D47.MPF-OfC.717 exited observer at their location.
+[20:03:12]	D47.MPF-OfC.717 has taken 14 damage from worldspawn.
+[20:03:13]	D47.MPF-OfC.717 entered observer.
+[20:03:26]	D47.MPF-OfC.717 exited observer at their location.
+[20:03:36]	D47.MPF-OfC.717 has taken 38 damage from worldspawn.
+[20:03:37]	D47.MPF-OfC.717 entered observer.
+[20:03:44]	D47.MPF-OfC.717 exited observer at their location.
+[20:03:57]	D47.MPF-OfC.717 has spawned 'models/props_junk/wood_crate002a.mdl'.
+[20:04:02]	D47.MPF-OfC.717 has spawned 'models/props_junk/wood_crate001a.mdl'.
+[20:04:13]	֍ Aime-moi ֍ has connected.
+[20:05:40]	֍ Aime-moi ֍ loaded the character 'OTA-ECHO.OWS-34096'
+[20:06:05]	D47.MPF-OfC.717 entered observer.
+[20:06:06]	OTA-ECHO.OWS-34096 entered observer.
+[20:06:14]	OTA-ECHO.OWS-34096 exited observer at their location.
+[20:06:16]	D47.MPF-OfC.717 exited observer at their location.
+[20:06:20]	D47.MPF-OfC.717 entered observer.
+[20:06:24]	OTA-ECHO.OWS-34096 entered observer.
+[20:06:28]	OTA-ECHO.OWS-34096 exited observer at their location.
+[20:06:29]	OTA-ECHO.OWS-34096 entered observer.
+[20:06:31]	OTA-ECHO.OWS-34096 exited observer at their location.
+[20:06:32]	D47.MPF-OfC.717 exited observer at their location.
+[20:06:32]	D47.MPF-OfC.717 entered observer.
+[20:06:32]	OTA-ECHO.OWS-34096 entered observer.
+[20:06:35]	OTA-ECHO.OWS-34096 exited observer at their location.
+[20:06:37]	D47.MPF-OfC.717 exited observer at their location.
+[20:06:39]	D47.MPF-OfC.717 entered observer.
+[20:06:39]	D47.MPF-OfC.717 exited observer at their location.
+[20:06:40]	D47.MPF-OfC.717 entered observer.
+[20:06:47]	D47.MPF-OfC.717 exited observer at their location.
+[20:06:58]	OTA-ECHO.OWS-34096 used command '/CharSetModel 340 models/cckredone/cckredux.mdl'.
+[20:07:00]	D47.MPF-OfC.717 used command '/CharSetModel D47 models/Roller.mdl'.
+[20:07:04]	D47.MPF-OfC.717 has gained 100 tokens.
+[20:07:13]	OTA-ECHO.OWS-34096 used command '/CharSetModel 340 models/cckredone/cckredux.mdl'.
+[20:07:23]	D47.MPF-OfC.717 has taken 29 damage from OTA-ECHO.OWS-34096.
+[20:07:23]	D47.MPF-OfC.717 has taken 29 damage from OTA-ECHO.OWS-34096.
+[20:07:28]	OTA-ECHO.OWS-34096 entered observer.
+[20:07:30]	D47.MPF-OfC.717 has taken 120 damage from D47.MPF-OfC.717.
+[20:07:30]	D47.MPF-OfC.717 has killed D47.MPF-OfC.717.
+[20:07:32]	OTA-ECHO.OWS-34096 exited observer at their location.
+[20:07:40]	D47.MPF-OfC.717 entered observer.
+[20:07:43]	D47.MPF-OfC.717 exited observer at their location.
+[20:07:50]	D47.MPF-OfC.717 has spawned a 'Entity [1348][ent_jack_gmod_ezarmor_rioth]'.
+[20:09:13]	D47.MPF-OfC.717 has taken 16 damage from OTA-ECHO.OWS-34096.
+[20:09:30]	D47.MPF-OfC.717 has taken 16 damage from OTA-ECHO.OWS-34096.
+[20:09:45]	OTA-ECHO.OWS-34096 entered observer.
+[20:09:52]	OTA-ECHO.OWS-34096 exited observer at their location.
+[20:10:24]	OTA-ECHO.OWS-34096 used command '/CharSetModel 340 models/Combine_Soldier.mdl'.
+[20:10:44]	OTA-ECHO.OWS-34096 has gained 40 tokens.
+[20:11:48]	D47.MPF-OfC.717 has taken 40 damage from OTA-ECHO.OWS-34096.
+[20:11:48]	D47.MPF-OfC.717 has taken 90 damage from point_hurt.
+[20:11:55]	OTA-ECHO.OWS-34096 entered observer.
+[20:11:56]	OTA-ECHO.OWS-34096 exited observer at their location.
+[20:12:05]	D47.MPF-OfC.717 has gained 100 tokens.
+[20:12:15]	D47.MPF-OfC.717 has taken 16 damage from OTA-ECHO.OWS-34096.
+[20:12:22]	OTA-ECHO.OWS-34096 has taken 120 damage from D47.MPF-OfC.717.
+[20:12:27]	D47.MPF-OfC.717 entered observer.
+[20:12:28]	D47.MPF-OfC.717 exited observer at their location.
+[20:12:31]	D47.MPF-OfC.717 has taken 3 damage from OTA-ECHO.OWS-34096.
+[20:12:31]	OTA-ECHO.OWS-34096 has taken 60 damage from D47.MPF-OfC.717.
+[20:12:32]	OTA-ECHO.OWS-34096 has taken 15 damage from D47.MPF-OfC.717.
+[20:12:34]	D47.MPF-OfC.717 has taken 6 damage from OTA-ECHO.OWS-34096.
+[20:12:51]	D47.MPF-OfC.717 has taken 165 damage from OTA-ECHO.OWS-34096.
+[20:12:51]	OTA-ECHO.OWS-34096 has killed D47.MPF-OfC.717 with weapon_pulsebeamrifle.
+[20:12:53]	OTA-ECHO.OWS-34096 entered observer.
+[20:12:56]	OTA-ECHO.OWS-34096 exited observer at their location.
+[20:13:07]	OTA-ECHO.OWS-34096 entered observer.
+[20:13:11]	OTA-ECHO.OWS-34096 exited observer at their location.
+[20:13:12]	D47.MPF-OfC.717 entered observer.
+[20:13:13]	D47.MPF-OfC.717 exited observer at their location.
+[20:13:16]	OTA-ECHO.OWS-34096 entered observer.
+[20:13:17]	OTA-ECHO.OWS-34096 exited observer at their location.
+[20:13:23]	D47.MPF-OfC.717 has taken 6 damage from OTA-ECHO.OWS-34096.
+[20:13:23]	D47.MPF-OfC.717 has taken 8 damage from OTA-ECHO.OWS-34096.
+[20:13:24]	D47.MPF-OfC.717 has taken 3 damage from OTA-ECHO.OWS-34096.
+[20:13:24]	D47.MPF-OfC.717 has taken 6 damage from OTA-ECHO.OWS-34096.
+[20:13:24]	D47.MPF-OfC.717 has taken 8 damage from OTA-ECHO.OWS-34096.
+[20:13:24]	D47.MPF-OfC.717 has taken 6 damage from OTA-ECHO.OWS-34096.
+[20:13:24]	D47.MPF-OfC.717 has taken 8 damage from OTA-ECHO.OWS-34096.
+[20:13:24]	D47.MPF-OfC.717 has taken 3 damage from OTA-ECHO.OWS-34096.
+[20:13:24]	D47.MPF-OfC.717 has taken 6 damage from OTA-ECHO.OWS-34096.
+[20:13:24]	D47.MPF-OfC.717 has taken 8 damage from OTA-ECHO.OWS-34096.
+[20:13:24]	D47.MPF-OfC.717 has taken 8 damage from OTA-ECHO.OWS-34096.
+[20:13:24]	D47.MPF-OfC.717 has taken 4 damage from OTA-ECHO.OWS-34096.
+[20:13:24]	D47.MPF-OfC.717 has taken 6 damage from OTA-ECHO.OWS-34096.
+[20:13:24]	D47.MPF-OfC.717 has taken 8 damage from OTA-ECHO.OWS-34096.
+[20:13:25]	D47.MPF-OfC.717 has taken 4 damage from OTA-ECHO.OWS-34096.
+[20:13:25]	D47.MPF-OfC.717 has taken 6 damage from OTA-ECHO.OWS-34096.
+[20:13:25]	D47.MPF-OfC.717 has taken 8 damage from OTA-ECHO.OWS-34096.
+[20:13:25]	D47.MPF-OfC.717 has taken 6 damage from OTA-ECHO.OWS-34096.
+[20:13:25]	D47.MPF-OfC.717 has taken 8 damage from OTA-ECHO.OWS-34096.
+[20:13:25]	D47.MPF-OfC.717 has taken 4 damage from OTA-ECHO.OWS-34096.
+[20:13:25]	D47.MPF-OfC.717 has taken 6 damage from OTA-ECHO.OWS-34096.
+[20:13:25]	D47.MPF-OfC.717 has taken 8 damage from OTA-ECHO.OWS-34096.
+[20:13:26]	D47.MPF-OfC.717 has taken 4 damage from OTA-ECHO.OWS-34096.
+[20:13:26]	D47.MPF-OfC.717 has taken 6 damage from OTA-ECHO.OWS-34096.
+[20:13:26]	D47.MPF-OfC.717 has taken 8 damage from OTA-ECHO.OWS-34096.
+[20:13:26]	D47.MPF-OfC.717 has taken 4 damage from OTA-ECHO.OWS-34096.
+[20:13:26]	D47.MPF-OfC.717 has taken 6 damage from OTA-ECHO.OWS-34096.
+[20:13:26]	D47.MPF-OfC.717 has taken 4 damage from OTA-ECHO.OWS-34096.
+[20:13:26]	D47.MPF-OfC.717 has taken 6 damage from OTA-ECHO.OWS-34096.
+[20:13:26]	D47.MPF-OfC.717 has taken 8 damage from OTA-ECHO.OWS-34096.
+[20:13:26]	D47.MPF-OfC.717 has taken 8 damage from OTA-ECHO.OWS-34096.
+[20:13:31]	D47.MPF-OfC.717 has taken 8 damage from OTA-ECHO.OWS-34096.
+[20:13:31]	OTA-ECHO.OWS-34096 has killed D47.MPF-OfC.717 with weapon_pbff-ar.
+[20:13:32]	OTA-ECHO.OWS-34096 entered observer.
+[20:13:36]	OTA-ECHO.OWS-34096 exited observer at their location.
+[20:13:43]	OTA-ECHO.OWS-34096 entered observer.
+[20:13:45]	OTA-ECHO.OWS-34096 has killed OTA-ECHO.OWS-34096.
+[20:13:49]	OTA-ECHO.OWS-34096 entered observer.
+[20:13:53]	OTA-ECHO.OWS-34096 exited observer at their location.
+[20:13:54]	D47.MPF-OfC.717 entered observer.
+[20:13:57]	D47.MPF-OfC.717 exited observer at their location.
+[20:15:05]	D47.MPF-OfC.717 has taken 54 damage from OTA-ECHO.OWS-34096.
+[20:15:05]	OTA-ECHO.OWS-34096 has killed D47.MPF-OfC.717 with weapon_combatshotgun.
+[20:15:14]	D47.MPF-OfC.717 entered observer.
+[20:15:16]	D47.MPF-OfC.717 exited observer at their location.
+[20:15:21]	D47.MPF-OfC.717 has spawned a 'Entity [1343][ent_jack_gmod_ezarmor_maska]'.
+[20:15:23]	D47.MPF-OfC.717 has spawned a 'Entity [1343][ent_jack_gmod_ezarmor_mhtorso]'.
+[20:15:26]	D47.MPF-OfC.717 has spawned a 'Entity [46][ent_jack_gmod_ezarmor_srcalf]'.
+[20:15:28]	D47.MPF-OfC.717 has spawned a 'Entity [574][ent_jack_gmod_ezarmor_slcalf]'.
+[20:15:30]	D47.MPF-OfC.717 has spawned a 'Entity [46][ent_jack_gmod_ezarmor_srforearm]'.
+[20:15:32]	D47.MPF-OfC.717 has spawned a 'Entity [574][ent_jack_gmod_ezarmor_slforearm]'.
+[20:15:41]	D47.MPF-OfC.717 has taken 3 damage from OTA-ECHO.OWS-34096.
+[20:15:46]	OTA-ECHO.OWS-34096 has gained 40 tokens.
+[20:15:49]	D47.MPF-OfC.717 has taken 2 damage from OTA-ECHO.OWS-34096.
+[20:15:49]	D47.MPF-OfC.717 has taken 2 damage from OTA-ECHO.OWS-34096.
+[20:15:51]	D47.MPF-OfC.717 has taken 2 damage from OTA-ECHO.OWS-34096.
+[20:15:52]	D47.MPF-OfC.717 has taken 2 damage from OTA-ECHO.OWS-34096.
+[20:15:52]	D47.MPF-OfC.717 has taken 2 damage from OTA-ECHO.OWS-34096.
+[20:15:52]	D47.MPF-OfC.717 has taken 2 damage from OTA-ECHO.OWS-34096.
+[20:15:53]	D47.MPF-OfC.717 has taken 2 damage from OTA-ECHO.OWS-34096.
+[20:15:53]	D47.MPF-OfC.717 has taken 2 damage from OTA-ECHO.OWS-34096.
+[20:15:53]	D47.MPF-OfC.717 has taken 5 damage from OTA-ECHO.OWS-34096.
+[20:15:53]	D47.MPF-OfC.717 has taken 24 damage from OTA-ECHO.OWS-34096.
+[20:15:54]	D47.MPF-OfC.717 has taken 24 damage from OTA-ECHO.OWS-34096.
+[20:15:54]	D47.MPF-OfC.717 has taken 24 damage from OTA-ECHO.OWS-34096.
+[20:15:54]	D47.MPF-OfC.717 has taken 24 damage from OTA-ECHO.OWS-34096.
+[20:15:54]	D47.MPF-OfC.717 has taken 24 damage from OTA-ECHO.OWS-34096.
+[20:15:54]	D47.MPF-OfC.717 has taken 24 damage from OTA-ECHO.OWS-34096.
+[20:15:54]	D47.MPF-OfC.717 has taken 24 damage from OTA-ECHO.OWS-34096.
+[20:15:54]	OTA-ECHO.OWS-34096 has killed D47.MPF-OfC.717 with weapon_minigun.
+[20:15:57]	D47.MPF-OfC.717 entered observer.
+[20:15:59]	D47.MPF-OfC.717 exited observer at their location.
+[20:16:56]	D47.MPF-OfC.717 has taken 7 damage from OTA-ECHO.OWS-34096.
+[20:17:07]	OTA-ECHO.OWS-34096 entered observer.
+[20:17:09]	OTA-ECHO.OWS-34096 exited observer at their location.
+[20:17:13]	OTA-ECHO.OWS-34096 entered observer.
+[20:17:14]	OTA-ECHO.OWS-34096 exited observer at their location.
+[20:17:25]	D47.MPF-OfC.717 has taken 104 damage from OTA-ECHO.OWS-34096.
+[20:17:45]	D47.MPF-OfC.717 has taken 104 damage from OTA-ECHO.OWS-34096.
+[20:17:45]	OTA-ECHO.OWS-34096 has killed D47.MPF-OfC.717 with weapon_str.
+[20:17:47]	D47.MPF-OfC.717 entered observer.
+[20:17:49]	D47.MPF-OfC.717 exited observer at their location.
+[20:17:51]	D47.MPF-OfC.717 has spawned a 'Entity [1349][ent_jack_gmod_ezarmor_maska]'.
+[20:17:52]	OTA-ECHO.OWS-34096 entered observer.
+[20:17:53]	OTA-ECHO.OWS-34096 exited observer at their location.
+[20:18:31]	OTA-ECHO.OWS-34096 entered observer.
+[20:18:33]	D47.MPF-OfC.717 has taken 29 damage from OTA-ECHO.OWS-34096.
+[20:18:33]	D47.MPF-OfC.717 has taken 82 damage from point_hurt.
+[20:18:43]	D47.MPF-OfC.717 has taken 16 damage from OTA-ECHO.OWS-34096.
+[20:18:44]	D47.MPF-OfC.717 has taken 67 damage from point_hurt.
+[20:19:00]	OTA-ECHO.OWS-34096 exited observer at their location.
+[20:19:02]	D47.MPF-OfC.717 has taken 1 damage from OTA-ECHO.OWS-34096.
+[20:19:02]	D47.MPF-OfC.717 has taken 2 damage from OTA-ECHO.OWS-34096.
+[20:19:02]	D47.MPF-OfC.717 entered observer.
+[20:19:03]	OTA-ECHO.OWS-34096 entered observer.
+[20:19:07]	D47.MPF-OfC.717 exited observer at their location.
+[20:19:08]	OTA-ECHO.OWS-34096 exited observer at their location.
+[20:19:09]	D47.MPF-OfC.717 has taken 1 damage from OTA-ECHO.OWS-34096.
+[20:19:09]	D47.MPF-OfC.717 has taken 2 damage from OTA-ECHO.OWS-34096.
+[20:19:09]	D47.MPF-OfC.717 has taken 0 damage from OTA-ECHO.OWS-34096.
+[20:19:10]	D47.MPF-OfC.717 has taken 2 damage from OTA-ECHO.OWS-34096.
+[20:19:10]	OTA-ECHO.OWS-34096 has killed D47.MPF-OfC.717 with weapon_pbff-pdw.
+[20:19:12]	D47.MPF-OfC.717 entered observer.
+[20:19:14]	D47.MPF-OfC.717 exited observer at their location.
+[20:19:20]	OTA-ECHO.OWS-34096 has taken 5 damage from D47.MPF-OfC.717.
+[20:19:21]	OTA-ECHO.OWS-34096 has taken 5 damage from D47.MPF-OfC.717.
+[20:19:22]	OTA-ECHO.OWS-34096 has taken 5 damage from D47.MPF-OfC.717.
+[20:19:24]	OTA-ECHO.OWS-34096 used command '/CharGetUp'.
+[20:19:26]	OTA-ECHO.OWS-34096 has taken 2 damage from D47.MPF-OfC.717.
+[20:19:26]	OTA-ECHO.OWS-34096 has taken 50 damage from worldspawn.
+[20:19:27]	OTA-ECHO.OWS-34096 has taken 2 damage from D47.MPF-OfC.717.
+[20:19:30]	OTA-ECHO.OWS-34096 has taken 2 damage from D47.MPF-OfC.717.
+[20:19:31]	OTA-ECHO.OWS-34096 has taken 2 damage from D47.MPF-OfC.717.
+[20:19:34]	OTA-ECHO.OWS-34096 has taken 2 damage from D47.MPF-OfC.717.
+[20:19:34]	֍ Aime-moi ֍ (STEAM_0:0:424879351) deleted character 'OTA-ECHO.OWS-34096'
+[20:19:43]	֍ Aime-moi ֍ created the character 'D47.MPF-RCT.054'
+[20:19:43]	D47.MPF-RCT.054 has gained a 'Наручники' #370.
+[20:19:43]	D47.MPF-RCT.054 has gained a 'ID Карточка' #371.
+[20:19:43]	֍ Aime-moi ֍ loaded the character 'D47.MPF-RCT.054'
+[20:19:45]	D47.MPF-OfC.717 ran 'Equip' on item 'Five-seveN' (#124)
+[20:19:46]	D47.MPF-RCT.054 entered observer.
+[20:19:49]	D47.MPF-RCT.054 exited observer at their location.
+[20:19:50]	D47.MPF-RCT.054 has taken 49 damage from D47.MPF-OfC.717.
+[20:19:59]	D47.MPF-RCT.054 has spawned a 'Entity [44][item_healthkit]'.
+[20:20:23]	D47.MPF-RCT.054 has spawned 'models/dpfilms/metropolice/arcicetrench.mdl'.
+[20:20:31]	D47.MPF-RCT.054 has spawned 'models/dpfilms/metropolice/police_bt.mdl'.
+[20:20:41]	D47.MPF-OfC.717 used command '/CharSetModel D47.MPF-OfC models/dpfilms/metropolice/playermodels/pm_policetrench.mdl'.
+[20:20:47]	D47.MPF-RCT.054 used command '/CharSetModel 054 models/dpfilms/metropolice/rtb_police.mdl'.
+[20:21:01]	D47.MPF-OfC.717 has spawned 'models/dpfilms/metropolice/playermodels/pm_elite_police.mdl'.
+[20:21:43]	D47.MPF-OfC.717 used command '/BecomeClass Elite'.
+[20:21:52]	D47.MPF-RCT.054 used command '/CharSetModel 054 models/dpfilms/metropolice/playermodels/pm_rtb_police.mdl'.
+[20:21:58]	D47.MPF-RCT.054 used command '/CharSetModel 054 models/dpfilms/metropolice/playermodels/pm_rtb_police.mdl'.
+[20:22:18]	D47.MPF-OfC.717 has gained 100 tokens.
+[20:22:39]	D47.MPF-OfC.717 has taken 32 damage from D47.MPF-RCT.054.
+[20:24:14]	D47.MPF-OfC.717 has taken 9 damage from D47.MPF-RCT.054.
+[20:24:21]	D47.MPF-OfC.717 has spawned 'models/dpfilms/metropolice/playermodels/pm_rogue_police.mdl'.
+[20:24:28]	D47.MPF-OfC.717 has spawned 'models/dpfilms/metropolice/playermodels/pm_police_bt.mdl'.
+[20:24:32]	D47.MPF-RCT.054 entered observer.
+[20:24:32]	D47.MPF-RCT.054 exited observer at their location.
+[20:24:43]	D47.MPF-RCT.054 has gained 100 tokens.
+[20:24:50]	D47.MPF-RCT.054 used command '/CharSetModel 054 models/dpfilms/metropolice/playermodels/pm_zombie_police.mdl'.
+[20:24:59]	D47.MPF-OfC.717 has taken 5 damage from D47.MPF-RCT.054.
+[20:25:05]	D47.MPF-OfC.717 has taken 5 damage from D47.MPF-RCT.054.
+[20:25:06]	D47.MPF-OfC.717 has taken 5 damage from D47.MPF-RCT.054.
+[20:25:06]	D47.MPF-OfC.717 has taken 5 damage from D47.MPF-RCT.054.
+[20:25:07]	D47.MPF-OfC.717 has taken 5 damage from D47.MPF-RCT.054.
+[20:25:09]	D47.MPF-OfC.717 has taken 5 damage from D47.MPF-RCT.054.
+[20:25:10]	D47.MPF-OfC.717 has taken 5 damage from D47.MPF-RCT.054.
+[20:25:11]	D47.MPF-OfC.717 has taken 5 damage from D47.MPF-RCT.054.
+[20:25:11]	D47.MPF-OfC.717 has taken 5 damage from D47.MPF-RCT.054.
+[20:25:35]	D47.MPF-RCT.054 entered observer.
+[20:25:37]	D47.MPF-RCT.054 exited observer at their location.
+[20:25:47]	D47.MPF-OfC.717 has taken 24 damage from D47.MPF-RCT.054.
+[20:25:47]	D47.MPF-OfC.717 has taken 24 damage from D47.MPF-RCT.054.
+[20:25:48]	D47.MPF-OfC.717 has taken 16 damage from D47.MPF-RCT.054.
+[20:25:48]	D47.MPF-OfC.717 has taken 12 damage from D47.MPF-RCT.054.
+[20:25:48]	D47.MPF-OfC.717 has taken 12 damage from D47.MPF-RCT.054.
+[20:25:48]	D47.MPF-OfC.717 has taken 13 damage from D47.MPF-RCT.054.
+[20:25:49]	D47.MPF-OfC.717 has taken 12 damage from D47.MPF-RCT.054.
+[20:25:57]	D47.MPF-RCT.054 entered observer.
+[20:25:59]	D47.MPF-RCT.054 exited observer at their location.
+[20:25:59]	D47.MPF-RCT.054 entered observer.
+[20:26:03]	D47.MPF-RCT.054 exited observer at their location.
+[20:26:12]	D47.MPF-OfC.717 has taken 24 damage from D47.MPF-RCT.054.
+[20:26:12]	D47.MPF-RCT.054 has killed D47.MPF-OfC.717 with weapon_minigun.
+[20:26:14]	D47.MPF-RCT.054 entered observer.
+[20:26:28]	D47.MPF-RCT.054 exited observer at their location.
+[20:26:29]	D47.MPF-OfC.717 entered observer.
+[20:26:40]	D47.MPF-RCT.054 used command '/CharSetModel 054 models/dpfilms/metropolice/playermodels/pm_skull_police.mdl'.
+[20:26:46]	D47.MPF-RCT.054 entered observer.
+[20:26:52]	D47.MPF-RCT.054 exited observer at their location.
+[20:27:03]	D47.MPF-RCT.054 entered observer.
+[20:27:12]	D47.MPF-RCT.054 exited observer at their location.
+[20:27:18]	D47.MPF-OfC.717 has gained 100 tokens.
+[20:27:58]	D47.MPF-RCT.054 entered observer.
+[20:28:01]	D47.MPF-RCT.054 exited observer at their location.
+[20:28:35]	D47.MPF-OfC.717 exited observer at their location.
+[20:28:46]	D47.MPF-OfC.717 has spawned 'models/dpfilms/metropolice/playermodels/pm_civil_medic.mdl'.
+[20:29:16]	D47.MPF-OfC.717 has taken 8 damage from D47.MPF-RCT.054.
+[20:29:17]	D47.MPF-OfC.717 has taken 8 damage from D47.MPF-RCT.054.
+[20:29:18]	D47.MPF-OfC.717 has taken 8 damage from D47.MPF-RCT.054.
+[20:29:18]	D47.MPF-OfC.717 has taken 8 damage from D47.MPF-RCT.054.
+[20:29:18]	D47.MPF-OfC.717 has taken 8 damage from D47.MPF-RCT.054.
+[20:29:19]	D47.MPF-OfC.717 has taken 8 damage from D47.MPF-RCT.054.
+[20:29:19]	D47.MPF-OfC.717 has taken 8 damage from D47.MPF-RCT.054.
+[20:29:19]	D47.MPF-OfC.717 has taken 8 damage from D47.MPF-RCT.054.
+[20:29:20]	D47.MPF-OfC.717 has taken 8 damage from D47.MPF-RCT.054.
+[20:29:39]	D47.MPF-OfC.717 has taken 8 damage from D47.MPF-RCT.054.
+[20:29:40]	D47.MPF-OfC.717 has taken 8 damage from D47.MPF-RCT.054.
+[20:29:40]	D47.MPF-OfC.717 has taken 8 damage from D47.MPF-RCT.054.
+[20:29:40]	D47.MPF-OfC.717 entered observer.
+[20:29:42]	D47.MPF-RCT.054 entered observer.
+[20:29:43]	D47.MPF-RCT.054 has gained 100 tokens.
+[20:29:45]	D47.MPF-OfC.717 exited observer at their location.
+[20:29:46]	D47.MPF-OfC.717 entered observer.
+[20:30:12]	D47.MPF-OfC.717 exited observer at their location.
+[20:30:14]	D47.MPF-OfC.717 entered observer.
+[20:30:16]	D47.MPF-OfC.717 exited observer at their location.
+[20:30:17]	D47.MPF-RCT.054 exited observer at their location.
+[20:30:23]	D47.MPF-RCT.054 used command '/CharSetModel 054 models/metropolice/male_09.mdl'.
+[20:30:31]	D47.MPF-OfC.717 used command '/SpawnAdd Metropolice'.
+[20:30:37]	D47.MPF-OfC.717 used command '/SpawnAdd Metropolice'.
+[20:30:41]	D47.MPF-OfC.717 used command '/SpawnAdd Metropolice'.
+[20:30:44]	D47.MPF-OfC.717 used command '/SpawnAdd Metropolice'.
+[20:30:49]	D47.MPF-OfC.717 used command '/SpawnAdd Metropolice'.
+[20:30:53]	D47.MPF-OfC.717 used command '/SpawnAdd Metropolice'.
+[20:30:58]	D47.MPF-OfC.717 used command '/SpawnAdd Metropolice'.
+[20:31:02]	D47.MPF-OfC.717 used command '/SpawnAdd Metropolice'.
+[20:31:06]	D47.MPF-OfC.717 used command '/SpawnAdd Metropolice'.
+[20:31:10]	D47.MPF-OfC.717 used command '/SpawnAdd Metropolice'.
+[20:31:14]	D47.MPF-OfC.717 used command '/SpawnAdd Metropolice'.
+[20:31:18]	D47.MPF-OfC.717 used command '/SpawnAdd Metropolice'.
+[20:31:21]	D47.MPF-OfC.717 used command '/SpawnAdd Metropolice'.
+[20:31:22]	D47.MPF-RCT.054 has spawned a 'Entity [41][free_bodygroupr]'.
+[20:31:30]	D47.MPF-RCT.054 used command '/CharEditBodygroup'.
+[20:31:41]	D47.MPF-OfC.717 entered observer.
+[20:31:42]	D47.MPF-OfC.717 exited observer at their location.
+[20:31:55]	D47.MPF-OfC.717 has spawned a 'NPC [45][npc_metropolice]'.
+[20:31:56]	D47.MPF-OfC.717 has taken 35 damage from npc_metropolice.
+[20:31:57]	D47.MPF-OfC.717 has taken 17 damage from npc_metropolice.
+[20:31:58]	D47.MPF-OfC.717 has taken 35 damage from npc_metropolice.
+[20:31:59]	D47.MPF-OfC.717 has taken 17 damage from npc_metropolice.
+[20:31:59]	npc_metropolice has killed D47.MPF-OfC.717.
+[20:32:06]	D47.MPF-OfC.717 has spawned a 'NPC [41][npc_metropolice]'.
+[20:32:07]	D47.MPF-OfC.717 has taken 17 damage from npc_metropolice.
+[20:32:08]	D47.MPF-OfC.717 has taken 17 damage from npc_metropolice.
+[20:32:09]	D47.MPF-OfC.717 has taken 17 damage from npc_metropolice.
+[20:32:10]	D47.MPF-OfC.717 has taken 17 damage from npc_metropolice.
+[20:32:11]	D47.MPF-OfC.717 has taken 17 damage from npc_metropolice.
+[20:32:12]	D47.MPF-OfC.717 has taken 17 damage from npc_metropolice.
+[20:32:13]	D47.MPF-OfC.717 has spawned a 'NPC [44][npc_metropolice]'.
+[20:32:14]	D47.MPF-OfC.717 has taken 35 damage from npc_metropolice.
+[20:32:15]	D47.MPF-OfC.717 has spawned a 'NPC [41][npc_metropolice]'.
+[20:32:15]	D47.MPF-OfC.717 has taken 17 damage from npc_metropolice.
+[20:32:16]	D47.MPF-OfC.717 has taken 17 damage from npc_metropolice.
+[20:32:16]	D47.MPF-OfC.717 has spawned a 'NPC [1352][npc_metropolice]'.
+[20:32:17]	D47.MPF-OfC.717 has taken 17 damage from npc_metropolice.
+[20:32:17]	D47.MPF-OfC.717 has taken 17 damage from npc_metropolice.
+[20:32:17]	npc_metropolice has killed D47.MPF-OfC.717.
+[20:32:18]	D47.MPF-OfC.717 has gained 100 tokens.
+[20:32:20]	D47.MPF-OfC.717 has taken 33 damage from npc_metropolice.
+[20:32:21]	D47.MPF-OfC.717 has taken 4 damage from npc_metropolice.
+[20:32:21]	D47.MPF-OfC.717 has taken 4 damage from npc_metropolice.
+[20:32:21]	D47.MPF-OfC.717 has taken 17 damage from npc_metropolice.
+[20:32:22]	D47.MPF-OfC.717 has taken 17 damage from npc_metropolice.
+[20:32:22]	D47.MPF-OfC.717 has taken 35 damage from npc_metropolice.
+[20:32:22]	D47.MPF-OfC.717 has taken 17 damage from npc_metropolice.
+[20:32:23]	D47.MPF-OfC.717 has taken 17 damage from npc_metropolice.
+[20:32:24]	D47.MPF-OfC.717 has taken 35 damage from npc_metropolice.
+[20:32:26]	D47.MPF-RCT.054 has spawned 'models/dpfilms/metropolice/bette_police.mdl'.
+[20:32:27]	D47.MPF-OfC.717 has spawned a 'NPC [42][npc_metropolice]'.
+[20:32:28]	D47.MPF-RCT.054 has spawned 'models/dpfilms/metropolice/arcte_police.mdl'.
+[20:32:29]	D47.MPF-OfC.717 has taken 17 damage from npc_metropolice.
+[20:32:29]	npc_metropolice has killed D47.MPF-OfC.717.
+[20:32:29]	D47.MPF-RCT.054 has spawned 'models/dpfilms/metropolice/arcicetrench.mdl'.
+[20:32:31]	D47.MPF-RCT.054 has spawned 'models/dpfilms/metropolice/troice_bt.mdl'.
+[20:32:31]	D47.MPF-OfC.717 has taken 17 damage from npc_metropolice.
+[20:32:33]	D47.MPF-OfC.717 has taken 35 damage from npc_metropolice.
+[20:32:34]	D47.MPF-RCT.054 has spawned 'models/dpfilms/metropolice/troicetrench.mdl'.
+[20:32:34]	D47.MPF-OfC.717 has taken 35 damage from npc_metropolice.
+[20:32:34]	D47.MPF-OfC.717 has taken 17 damage from npc_metropolice.
+[20:32:35]	D47.MPF-OfC.717 has taken 17 damage from npc_metropolice.
+[20:32:36]	D47.MPF-RCT.054 entered observer.
+[20:32:45]	D47.MPF-RCT.054 exited observer at their location.
+[20:32:48]	D47.MPF-RCT.054 has spawned 'models/dpfilms/metropolice/retice_bt.mdl'.
+[20:32:49]	D47.MPF-RCT.054 has spawned 'models/dpfilms/metropolice/urbicetrench.mdl'.
+[20:32:51]	D47.MPF-RCT.054 has spawned 'models/dpfilms/metropolice/retice_bt.mdl'.
+[20:32:52]	D47.MPF-RCT.054 has spawned 'models/dpfilms/metropolice/reticetrench.mdl'.
+[20:32:58]	D47.MPF-RCT.054 used command '/CharSetModel 054 models/dpfilms/metropolice/reticetrench.mdl'.
+[20:33:08]	D47.MPF-RCT.054 has spawned 'models/dpfilms/metropolice/trenchcoat_i1.mdl'.
+[20:33:10]	D47.MPF-RCT.054 has spawned 'models/dpfilms/metropolice/trenchcoat_i2.mdl'.
+[20:33:11]	D47.MPF-RCT.054 has spawned 'models/dpfilms/metropolice/trenchcoat_i3.mdl'.
+[20:33:14]	D47.MPF-RCT.054 has spawned 'models/dpfilms/metropolice/trenchcoat_i4.mdl'.
+[20:33:18]	D47.MPF-RCT.054 has spawned 'models/dpfilms/metropolice/trenchcoat_ofc.mdl'.
+[20:33:19]	D47.MPF-RCT.054 has spawned 'models/dpfilms/metropolice/trenchcoat_medic.mdl'.
+[20:33:35]	D47.MPF-RCT.054 used command '/CharSetModel 054 models/dpfilms/metropolice/playermodels/pm_hd_barney_ep1.mdl'.
+[20:33:40]	֍ Aime-moi ֍ (STEAM_0:0:424879351) has disconnected.
+[20:34:32]	D47.MPF-OfC.717 used the 'Арсенал' vendor.
+[20:34:42]	D47.MPF-OfC.717 used the 'Арсенал' vendor.
+[20:34:47]	D47.MPF-OfC.717 has gained 0 tokens.
+[20:34:47]	D47.MPF-OfC.717 has gained a 'Ящик 9×19 мм патронов' #373.
+[20:34:48]	D47.MPF-OfC.717 has gained 0 tokens.
+[20:34:48]	D47.MPF-OfC.717 has gained a 'Ящик 9×19 мм патронов' #374.
+[20:34:49]	D47.MPF-OfC.717 has gained 0 tokens.
+[20:34:53]	D47.MPF-OfC.717 ran 'take' on item 'Ящик 9×19 мм патронов' (#375)
+[20:34:54]	D47.MPF-OfC.717 ran 'use' on item 'Ящик 9×19 мм патронов' (#375)
+[20:34:55]	D47.MPF-OfC.717 used the 'Арсенал' vendor.
+[20:35:02]	D47.MPF-OfC.717 ran 'use' on item 'Ящик 9×19 мм патронов' (#373)
+[20:35:02]	D47.MPF-OfC.717 ran 'use' on item 'Ящик 9×19 мм патронов' (#374)
+[20:35:04]	D47.MPF-OfC.717 ran 'Equip' on item 'HK UMP-9' (#318)
+[20:35:32]	D47.MPF-OfC.717 ran 'drop' on item 'Five-seveN' (#124)
+[20:35:32]	D47.MPF-OfC.717 has lost a 'Five-seveN' #124.
+[20:35:36]	D47.MPF-OfC.717 used the 'Арсенал' vendor.
+[20:35:39]	D47.MPF-OfC.717 has gained 0 tokens.
+[20:35:39]	D47.MPF-OfC.717 has gained a 'M9' #376.
+[20:35:42]	D47.MPF-OfC.717 ran 'drop' on item 'M9' (#376)
+[20:35:42]	D47.MPF-OfC.717 has lost a 'M9' #376.
+[20:35:44]	D47.MPF-OfC.717 ran 'take' on item 'M9' (#376)
+[20:35:44]	D47.MPF-OfC.717 has gained a 'M9' #376.
+[20:35:46]	D47.MPF-OfC.717 ran 'Equip' on item 'M9' (#376)
+[20:37:18]	D47.MPF-OfC.717 has gained 100 tokens.
+[20:42:18]	D47.MPF-OfC.717 has gained 100 tokens.
+[20:44:01]	D47.MPF-OfC.717 ran 'take' on item 'Five-seveN' (#124)
+[20:44:01]	D47.MPF-OfC.717 has gained a 'Five-seveN' #124.
+[20:44:04]	D47.MPF-OfC.717 ran 'Equip' on item 'Five-seveN' (#124)
+[20:44:05]	D47.MPF-OfC.717 ran 'EquipUn' on item 'M9' (#376)
+[20:44:06]	D47.MPF-OfC.717 ran 'Equip' on item 'Five-seveN' (#124)
+[20:47:18]	D47.MPF-OfC.717 has gained 100 tokens.
+[20:52:18]	D47.MPF-OfC.717 has gained 100 tokens.
+[20:57:18]	D47.MPF-OfC.717 has gained 100 tokens.
+[21:02:18]	D47.MPF-OfC.717 has gained 100 tokens.
+[21:07:18]	D47.MPF-OfC.717 has gained 100 tokens.
+[21:12:18]	D47.MPF-OfC.717 has gained 100 tokens.
+[21:17:18]	D47.MPF-OfC.717 has gained 100 tokens.
+[21:22:18]	D47.MPF-OfC.717 has gained 100 tokens.
+[21:27:18]	D47.MPF-OfC.717 has gained 100 tokens.
+[21:32:18]	D47.MPF-OfC.717 has gained 100 tokens.
+[21:37:18]	D47.MPF-OfC.717 has gained 100 tokens.
+[21:42:18]	D47.MPF-OfC.717 has gained 100 tokens.
+[21:47:18]	D47.MPF-OfC.717 has gained 100 tokens.
+[21:52:18]	D47.MPF-OfC.717 has gained 100 tokens.
+[21:57:18]	D47.MPF-OfC.717 has gained 100 tokens.
+[22:02:18]	D47.MPF-OfC.717 has gained 100 tokens.
+[22:07:18]	D47.MPF-OfC.717 has gained 100 tokens.
+[22:12:18]	D47.MPF-OfC.717 has gained 100 tokens.
+[22:17:18]	D47.MPF-OfC.717 has gained 100 tokens.
+[22:19:35]	D47.MPF-OfC.717 entered observer.
+[22:19:56]	D47.MPF-OfC.717 used command '/AreaEdit'.
+[22:20:13]	D47.MPF-OfC.717 has removed area "Нексус Надзор".
+[22:21:26]	D47.MPF-OfC.717 has added area "Нексус Надзор".
+[22:22:01]	D47.MPF-OfC.717 has removed area "Ж/Д".
+[22:22:18]	D47.MPF-OfC.717 has gained 100 tokens.
+[22:23:02]	D47.MPF-OfC.717 has added area "Ж/Д".
+[22:27:18]	D47.MPF-OfC.717 has gained 100 tokens.
+[22:32:18]	D47.MPF-OfC.717 has gained 100 tokens.
+[22:37:18]	D47.MPF-OfC.717 has gained 100 tokens.
+[22:42:18]	D47.MPF-OfC.717 has gained 100 tokens.
+[22:47:18]	D47.MPF-OfC.717 has gained 100 tokens.
+[22:52:26]	D47.MPF-OfC.717 has gained 100 tokens.
+[23:05:19]	D47.MPF-OfC.717 has gained 100 tokens.
+[23:10:31]	D47.MPF-OfC.717 has gained 100 tokens.
+[23:16:35]	D47.MPF-OfC.717 has gained 100 tokens.
+[23:21:58]	D47.MPF-OfC.717 has gained 100 tokens.
+[23:32:33]	D47.MPF-OfC.717 has gained 100 tokens.
+[23:42:39]	D47.MPF-OfC.717 has gained 100 tokens.
+[23:47:43]	D47.MPF-OfC.717 has gained 100 tokens.
+[23:52:46]	D47.MPF-OfC.717 has gained 100 tokens.
+[23:57:47]	D47.MPF-OfC.717 has gained 100 tokens.

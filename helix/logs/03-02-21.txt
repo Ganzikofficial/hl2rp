@@ -1,0 +1,1985 @@
+[00:58:36]	Г@H3NK has connected.
+[00:59:15]	Г@H3NK loaded the character 'Александр Климов'
+[01:03:56]	Александр Климов has spawned a 'NPC [615][monster_scientist]'.
+[01:04:07]	Александр Климов has spawned a 'NPC [607][monster_barney]'.
+[01:04:09]	Александр Климов has taken 5 damage from monster_barney.
+[01:04:10]	Александр Климов has taken 5 damage from monster_barney.
+[01:04:10]	Александр Климов has taken 5 damage from monster_barney.
+[01:04:10]	Александр Климов has taken 1 damage from monster_barney.
+[01:05:58]	Александр Климов has spawned a 'NPC [607][npc_citizen]'.
+[01:06:09]	Александр Климов has spawned a 'NPC [607][npc_citizen]'.
+[01:06:12]	Александр Климов has spawned a 'NPC [617][npc_citizen]'.
+[01:16:19]	Александр Климов entered observer.
+[01:16:20]	Александр Климов exited observer at their location.
+[01:16:21]	Александр Климов entered observer.
+[01:16:27]	Александр Климов exited observer at their location.
+[01:17:00]	Александр Климов entered observer.
+[01:17:07]	Александр Климов exited observer at their location.
+[01:18:25]	Александр Климов entered observer.
+[01:18:27]	Александр Климов exited observer at their location.
+[01:21:50]	Г@H3NK has connected.
+[01:22:52]	Г@H3NK loaded the character 'Александр Климов'
+[01:24:20]	Александр Климов used command '/CharGiveItem Александр xm'.
+[01:24:25]	Александр Климов ran 'drop' on item 'HK UMP-45' (#279)
+[01:24:25]	Александр Климов has lost a 'HK UMP-45' #279.
+[01:24:30]	Александр Климов ran 'drop' on item 'Фонарик' (#52)
+[01:24:30]	Александр Климов has lost a 'Фонарик' #52.
+[01:24:34]	Александр Климов ran 'take' on item 'Фонарик' (#52)
+[01:24:34]	Александр Климов has gained a 'Фонарик' #52.
+[01:24:38]	Александр Климов used command '/CharGiveItem Александр xm'.
+[01:24:42]	Александр Климов has gained a 'M1014' #298.
+[01:24:42]	Александр Климов used command '/CharGiveItem Александр xm'.
+[01:26:32]	Г@H3NK has connected.
+[01:27:10]	Г@H3NK loaded the character 'Александр Климов'
+[01:27:21]	Александр Климов has spawned 'models/weapons/w_shot_xm1014.mdl'.
+[01:28:42]	Г@H3NK has connected.
+[01:29:21]	Г@H3NK loaded the character 'Александр Климов'
+[01:29:48]	Александр Климов has spawned 'models/weapons/w_shot_xm1014.mdl'.
+[01:29:50]	Александр Климов has spawned 'models/weapons/w_shot_m3super90.mdl'.
+[01:31:43]	Г@H3NK has connected.
+[01:32:26]	Г@H3NK loaded the character 'Александр Климов'
+[01:32:51]	Александр Климов ran 'Equip' on item 'M1014' (#298)
+[01:34:18]	Г@H3NK has connected.
+[01:35:03]	Г@H3NK loaded the character 'Александр Климов'
+[01:35:30]	Александр Климов ran 'drop' on item 'Benelli M3 Super 90' (#189)
+[01:35:30]	Александр Климов has lost a 'Benelli M3 Super 90' #189.
+[01:35:32]	Александр Климов ran 'take' on item 'HK UMP-45' (#279)
+[01:35:32]	Александр Климов has gained a 'HK UMP-45' #279.
+[01:37:28]	Г@H3NK has connected.
+[01:38:07]	Г@H3NK loaded the character 'Александр Климов'
+[01:39:25]	Г@H3NK has connected.
+[01:40:07]	Г@H3NK loaded the character 'Александр Климов'
+[01:40:19]	Александр Климов has spawned 'models/weapons/w_smg_ump45.mdl'.
+[01:40:50]	Александр Климов has spawned 'models/weapons/w_pist_glock18.mdl'.
+[01:40:52]	Александр Климов has spawned 'models/weapons/w_pist_fiveseven.mdl'.
+[01:40:56]	Александр Климов has spawned 'models/weapons/w_pist_p228.mdl'.
+[01:41:15]	Александр Климов has spawned 'models/weapons/w_rif_m4a1.mdl'.
+[01:41:21]	Александр Климов has spawned 'models/weapons/w_rif_sg552.mdl'.
+[01:41:34]	Александр Климов has spawned 'models/weapons/w_rif_famas.mdl'.
+[01:41:36]	Александр Климов has spawned 'models/weapons/w_rif_ak47.mdl'.
+[01:41:41]	Александр Климов has spawned 'models/weapons/w_snip_awp.mdl'.
+[01:42:09]	Александр Климов has spawned 'models/weapons/w_mach_m249para.mdl'.
+[01:43:34]	Александр Климов ran 'drop' on item 'HK UMP-45' (#279)
+[01:43:34]	Александр Климов has lost a 'HK UMP-45' #279.
+[01:43:36]	Александр Климов ran 'take' on item 'HK UMP-45' (#279)
+[01:43:36]	Александр Климов has gained a 'HK UMP-45' #279.
+[01:43:49]	Александр Климов has spawned 'models/weapons/w_pist_deagle.mdl'.
+[01:45:36]	Александр Климов has spawned 'models/weapons/w_snip_scout.mdl'.
+[01:47:16]	Г@H3NK has connected.
+[01:47:58]	Г@H3NK loaded the character 'Александр Климов'
+[01:50:28]	Г@H3NK has connected.
+[01:51:09]	Г@H3NK loaded the character 'Александр Климов'
+[01:51:26]	Александр Климов has spawned 'models/weapons/w_smg_ump45.mdl'.
+[01:52:22]	Александр Климов has spawned 'models/xeon133/offroad/off-road-80.mdl'.
+[01:52:26]	Александр Климов has spawned 'models/xeon133/offroad/off-road-20.mdl'.
+[01:52:34]	Александр Климов has spawned 'models/xeon133/offroad/off-road-30.mdl'.
+[01:53:07]	Александр Климов has spawned a 'NPC [379][npc_breen]'.
+[01:53:22]	Александр Климов has spawned a 'NPC [592][npc_breen]'.
+[01:53:46]	Александр Климов entered observer.
+[01:54:00]	Александр Климов exited observer at their location.
+[01:55:04]	Александр Климов entered observer.
+[01:55:12]	Александр Климов exited observer at their location.
+[01:55:17]	Александр Климов has spawned a 'NPC [592][npc_citizen]'.
+[01:55:31]	Александр Климов has spawned a 'NPC [608][npc_citizen]'.
+[01:55:45]	Александр Климов has spawned a 'NPC [592][npc_citizen]'.
+[01:55:47]	Александр Климов entered observer.
+[01:55:49]	Александр Климов exited observer at their location.
+[01:55:54]	Александр Климов entered observer.
+[01:56:00]	Александр Климов exited observer at their location.
+[01:56:02]	Александр Климов entered observer.
+[01:56:05]	Александр Климов exited observer at their location.
+[01:57:09]	Александр Климов entered observer.
+[01:57:13]	Александр Климов exited observer at their location.
+[01:57:23]	Александр Климов has spawned a 'Entity [610][ent_jack_gmod_ezarmor_respirator]'.
+[01:57:40]	Александр Климов has spawned a 'Entity [592][ent_jack_gmod_ezfragnade]'.
+[01:58:24]	Александр Климов has spawned a 'Entity [592][ent_jack_gmod_ezweapon_magpistol]'.
+[01:58:36]	Александр Климов has spawned a 'Entity [590][ent_jack_gmod_ezammo]'.
+[01:58:55]	Александр Климов has spawned a 'Entity [591][ent_jack_gmod_ezweapon_rocketlauncher]'.
+[01:59:19]	Александр Климов has spawned a 'Entity [591][ent_jack_gmod_ezmunitions]'.
+[01:59:32]	Александр Климов has taken 7 damage from Александр Климов.
+[01:59:32]	Александр Климов has taken 23 damage from Александр Климов.
+[01:59:32]	Александр Климов has taken 17 damage from Александр Климов.
+[01:59:33]	Александр Климов has taken 11 damage from Александр Климов.
+[01:59:39]	Александр Климов entered observer.
+[01:59:40]	Александр Климов exited observer at their location.
+[02:00:09]	Александр Климов has spawned a 'Entity [614][npc_cover_refugee]'.
+[02:00:17]	Александр Климов entered observer.
+[02:00:20]	Александр Климов exited observer at their location.
+[02:01:04]	Александр Климов has spawned a 'Entity [590][ent_jack_gmod_ezarmor_srforearm]'.
+[02:01:06]	Александр Климов has spawned a 'Entity [591][ent_jack_gmod_ezarmor_slforearm]'.
+[02:01:11]	Александр Климов has spawned a 'Entity [610][ent_jack_gmod_ezarmor_mtorso]'.
+[02:03:52]	Александр Климов has spawned a 'Entity [615][ent_jack_gmod_ezarmor_mhtorso]'.
+[02:08:57]	Г@H3NK has connected.
+[02:09:57]	Г@H3NK loaded the character 'Александр Климов'
+[02:11:40]	Г@H3NK has connected.
+[02:22:44]	Г@H3NK loaded the character 'Александр Климов'
+[02:23:56]	Г@H3NK has connected.
+[02:24:27]	Г@H3NK loaded the character 'Александр Климов'
+[02:25:13]	Александр Климов has spawned 'models/weapons/w_smg_ump45.mdl'.
+[02:25:15]	Александр Климов has spawned 'models/weapons/w_shot_xm1014.mdl'.
+[02:25:32]	Александр Климов has spawned 'models/weapons/w_pist_deagle.mdl'.
+[02:25:40]	Александр Климов has spawned 'models/weapons/w_mach_m249para.mdl'.
+[02:29:56]	Г@H3NK has connected.
+[02:30:39]	Г@H3NK loaded the character 'Александр Климов'
+[02:31:14]	Александр Климов used command '/CharGiveItem Александр para'.
+[02:31:16]	Александр Климов ran 'drop' on item 'M1014' (#298)
+[02:31:16]	Александр Климов has lost a 'M1014' #298.
+[02:31:18]	Александр Климов has gained a 'FN Minimi' #299.
+[02:31:18]	Александр Климов used command '/CharGiveItem Александр para'.
+[02:31:27]	Александр Климов has spawned 'models/weapons/w_mach_m249para.mdl'.
+[02:31:45]	Александр Климов ran 'take' on item 'M1014' (#298)
+[02:31:51]	Александр Климов ran 'drop' on item 'FN Minimi' (#299)
+[02:31:51]	Александр Климов has lost a 'FN Minimi' #299.
+[02:31:54]	Александр Климов ran 'take' on item 'FN Minimi' (#299)
+[02:31:54]	Александр Климов has gained a 'FN Minimi' #299.
+[02:31:55]	Александр Климов ran 'Equip' on item 'FN Minimi' (#299)
+[09:39:35]	Г@H3NK has connected.
+[09:40:37]	Г@H3NK loaded the character 'Александр Климов'
+[09:44:08]	Александр Климов has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[09:44:09]	Александр Климов has taken 76 damage from Александр Климов.
+[09:44:09]	Александр Климов has killed Александр Климов.
+[09:44:09]	Александр Климов destroyed a 'M1014' #298.
+[09:44:55]	Александр Климов ran 'take' on item 'Benelli M3 Super 90' (#189)
+[09:44:57]	Александр Климов ran 'drop' on item 'HK UMP-45' (#279)
+[09:44:57]	Александр Климов has lost a 'HK UMP-45' #279.
+[09:44:59]	Александр Климов ran 'take' on item 'Benelli M3 Super 90' (#189)
+[09:44:59]	Александр Климов has gained a 'Benelli M3 Super 90' #189.
+[09:45:02]	Александр Климов ran 'Equip' on item 'Benelli M3 Super 90' (#189)
+[09:46:08]	Александр Климов ran 'EquipUn' on item 'Benelli M3 Super 90' (#189)
+[09:46:09]	Александр Климов ran 'Equip' on item 'FN Minimi' (#299)
+[09:47:30]	Александр Климов has spawned a 'NPC [612][npc_breen]'.
+[09:47:31]	Александр Климов has spawned a 'NPC [613][npc_breen]'.
+[09:47:32]	Александр Климов has spawned a 'NPC [614][npc_breen]'.
+[09:47:34]	Александр Климов has spawned a 'NPC [618][npc_breen]'.
+[09:47:35]	Александр Климов has spawned a 'NPC [619][npc_breen]'.
+[09:47:55]	Александр Климов has taken 8 damage from worldspawn.
+[09:48:43]	Александр Климов ran 'Equip' on item 'Benelli M3 Super 90' (#189)
+[09:48:44]	Александр Климов ran 'EquipUn' on item 'FN Minimi' (#299)
+[09:48:45]	Александр Климов ran 'Equip' on item 'Benelli M3 Super 90' (#189)
+[09:53:24]	Александр Климов has taken 22 damage from worldspawn.
+[09:54:37]	Александр Климов has taken 50 damage from worldspawn.
+[09:55:15]	Александр Климов has spawned a 'NPC [601][npc_metropolice]'.
+[09:56:27]	Александр Климов has spawned a 'NPC [1090][npc_metropolice]'.
+[09:56:28]	Александр Климов has taken 18 damage from npc_metropolice.
+[09:56:29]	Александр Климов has taken 18 damage from npc_metropolice.
+[09:56:29]	npc_metropolice has killed Александр Климов.
+[09:56:44]	Александр Климов has taken 5 damage from npc_metropolice.
+[09:56:44]	Александр Климов has taken 18 damage from npc_metropolice.
+[09:56:45]	Александр Климов has taken 36 damage from npc_metropolice.
+[09:56:48]	Александр Климов has taken 36 damage from npc_metropolice.
+[09:56:48]	Александр Климов has taken 18 damage from npc_metropolice.
+[09:56:48]	npc_metropolice has killed Александр Климов.
+[09:57:04]	Александр Климов has taken 37 damage from npc_metropolice.
+[09:57:05]	Александр Климов has taken 18 damage from npc_metropolice.
+[09:57:11]	Александр Климов has taken 4 damage from npc_metropolice.
+[09:57:21]	Александр Климов has taken 19 damage from npc_metropolice.
+[09:57:21]	Александр Климов has taken 19 damage from npc_metropolice.
+[09:57:21]	Александр Климов has taken 19 damage from npc_metropolice.
+[09:57:21]	npc_metropolice has killed Александр Климов.
+[09:57:44]	Г@H3NK loaded the character 'MPF-RCT.76375'
+[09:58:02]	MPF-RCT.76375 has spawned a 'Entity [596][ent_jack_gmod_ezammo]'.
+[09:59:22]	MPF-RCT.76375 entered observer.
+[09:59:28]	MPF-RCT.76375 has spawned a 'NPC [599][npc_metropolice]'.
+[09:59:29]	MPF-RCT.76375 exited observer at their location.
+[09:59:30]	MPF-RCT.76375 entered observer.
+[09:59:37]	MPF-RCT.76375 has spawned a 'NPC [596][npc_citizen]'.
+[09:59:41]	MPF-RCT.76375 exited observer at their location.
+[10:00:29]	MPF-RCT.76375 has taken 35 damage from worldspawn.
+[10:02:43]	MPF-RCT.76375 has spawned a 'Entity [636][npc_arrest_citizen_ground]'.
+[10:02:45]	MPF-RCT.76375 has spawned a 'Entity [620][npc_arrest_citizen_ground]'.
+[10:02:47]	MPF-RCT.76375 has gained 100 tokens.
+[10:03:15]	MPF-RCT.76375 has spawned a 'Entity [601][npc_kneeling_citizen]'.
+[10:03:33]	MPF-RCT.76375 has spawned a 'Entity [601][npc_welding_rebel]'.
+[10:03:46]	MPF-RCT.76375 has spawned a 'Entity [601][npc_stalker_working_no_console]'.
+[10:03:52]	MPF-RCT.76375 has spawned a 'Entity [601][npc_typing_kleiner]'.
+[10:07:48]	MPF-RCT.76375 has gained 100 tokens.
+[10:12:48]	MPF-RCT.76375 has gained 100 tokens.
+[10:17:48]	MPF-RCT.76375 has gained 100 tokens.
+[10:22:48]	MPF-RCT.76375 has gained 100 tokens.
+[10:27:48]	MPF-RCT.76375 has gained 100 tokens.
+[10:32:48]	MPF-RCT.76375 has gained 100 tokens.
+[10:37:48]	MPF-RCT.76375 has gained 100 tokens.
+[10:42:49]	MPF-RCT.76375 has gained 100 tokens.
+[10:43:33]	MPF-RCT.76375 entered observer.
+[10:43:37]	MPF-RCT.76375 exited observer at their location.
+[10:47:49]	MPF-RCT.76375 has gained 100 tokens.
+[10:47:54]	MPF-RCT.76375 has spawned 'models/weapons/w_pist_elite_single.mdl'.
+[10:52:02]	Г@H3NK has connected.
+[10:52:59]	Г@H3NK loaded the character 'MPF-RCT.76375'
+[10:54:07]	MPF-RCT.76375 has gained a 'M9' #300.
+[10:54:07]	MPF-RCT.76375 used command '/CharGiveItem MPF m9'.
+[10:54:15]	MPF-RCT.76375 ran 'Equip' on item 'M9' (#300)
+[10:54:16]	MPF-RCT.76375 ran 'EquipUn' on item 'Glock 18' (#251)
+[10:54:18]	MPF-RCT.76375 ran 'Equip' on item 'M9' (#300)
+[10:54:19]	MPF-RCT.76375 ran 'drop' on item 'Glock 18' (#251)
+[10:54:19]	MPF-RCT.76375 has lost a 'Glock 18' #251.
+[10:58:58]	MPF-RCT.76375 ran 'drop' on item 'ID Карточка' (#262)
+[10:58:58]	MPF-RCT.76375 has lost a 'ID Карточка' #262.
+[10:59:50]	MPF-RCT.76375 has spawned 'models/props_c17/oildrum001.mdl'.
+[11:01:35]	MPF-RCT.76375 entered observer.
+[11:01:40]	MPF-RCT.76375 exited observer at their location.
+[11:01:49]	MPF-RCT.76375 used command '/CharGiveItem MPF m3'.
+[11:01:55]	MPF-RCT.76375 has gained a 'Benelli M3 Super 90' #301.
+[11:01:55]	MPF-RCT.76375 used command '/CharGiveItem MPF m3'.
+[11:01:56]	MPF-RCT.76375 ran 'Equip' on item 'Benelli M3 Super 90' (#301)
+[11:02:15]	MPF-RCT.76375 ran 'EquipUn' on item 'Benelli M3 Super 90' (#301)
+[11:02:16]	MPF-RCT.76375 ran 'drop' on item 'Benelli M3 Super 90' (#301)
+[11:02:16]	MPF-RCT.76375 has lost a 'Benelli M3 Super 90' #301.
+[11:03:20]	MPF-RCT.76375 has gained 100 tokens.
+[11:05:42]	MPF-RCT.76375 has spawned a 'Entity [383][item_ammo_smg1_large]'.
+[11:16:17]	MPF-RCT.76375 has gained 100 tokens.
+[11:22:12]	MPF-RCT.76375 has gained 100 tokens.
+[11:27:12]	MPF-RCT.76375 has gained 100 tokens.
+[11:32:12]	MPF-RCT.76375 has gained 100 tokens.
+[11:34:04]	Г@H3NK loaded the character 'OTA-ECHO.OWS-55309'
+[11:39:04]	OTA-ECHO.OWS-55309 has gained 40 tokens.
+[11:50:58]	OTA-ECHO.OWS-55309 has gained a 'FN Minimi' #302.
+[11:50:58]	OTA-ECHO.OWS-55309 used command '/CharGiveItem OTA para'.
+[11:52:44]	Г@H3NK has connected.
+[11:53:32]	Г@H3NK loaded the character 'OTA-ECHO.OWS-55309'
+[11:53:49]	OTA-ECHO.OWS-55309 has spawned 'models/weapons/w_mach_m249para.mdl'.
+[11:54:07]	OTA-ECHO.OWS-55309 ran 'drop' on item 'FN Minimi' (#302)
+[11:54:07]	OTA-ECHO.OWS-55309 has lost a 'FN Minimi' #302.
+[11:54:10]	OTA-ECHO.OWS-55309 ran 'take' on item 'FN Minimi' (#302)
+[11:54:10]	OTA-ECHO.OWS-55309 has gained a 'FN Minimi' #302.
+[11:54:21]	OTA-ECHO.OWS-55309 ran 'Equip' on item 'FN Minimi' (#302)
+[11:54:22]	OTA-ECHO.OWS-55309 ran 'EquipUn' on item 'F1 FAMAS' (#245)
+[11:54:22]	OTA-ECHO.OWS-55309 ran 'Equip' on item 'FN Minimi' (#302)
+[11:54:24]	OTA-ECHO.OWS-55309 ran 'drop' on item 'F1 FAMAS' (#245)
+[11:54:24]	OTA-ECHO.OWS-55309 has lost a 'F1 FAMAS' #245.
+[11:57:15]	OTA-ECHO.OWS-55309 entered observer.
+[11:57:16]	OTA-ECHO.OWS-55309 exited observer at their location.
+[11:58:32]	OTA-ECHO.OWS-55309 has gained 40 tokens.
+[12:03:32]	OTA-ECHO.OWS-55309 has gained 40 tokens.
+[12:08:32]	OTA-ECHO.OWS-55309 has gained 40 tokens.
+[12:13:32]	OTA-ECHO.OWS-55309 has gained 40 tokens.
+[12:18:27]	OTA-ECHO.OWS-55309 entered observer.
+[12:18:32]	OTA-ECHO.OWS-55309 has gained 40 tokens.
+[12:18:37]	OTA-ECHO.OWS-55309 exited observer at their location.
+[12:20:24]	OTA-ECHO.OWS-55309 entered observer.
+[12:20:25]	OTA-ECHO.OWS-55309 exited observer at their location.
+[12:20:26]	OTA-ECHO.OWS-55309 entered observer.
+[12:20:42]	OTA-ECHO.OWS-55309 exited observer at their location.
+[12:20:45]	OTA-ECHO.OWS-55309 entered observer.
+[12:20:46]	OTA-ECHO.OWS-55309 exited observer at their location.
+[12:20:57]	OTA-ECHO.OWS-55309 entered observer.
+[12:21:00]	OTA-ECHO.OWS-55309 exited observer at their location.
+[12:21:01]	OTA-ECHO.OWS-55309 entered observer.
+[12:21:01]	OTA-ECHO.OWS-55309 exited observer at their location.
+[12:22:00]	OTA-ECHO.OWS-55309 entered observer.
+[12:22:01]	OTA-ECHO.OWS-55309 exited observer at their location.
+[12:23:32]	OTA-ECHO.OWS-55309 has gained 40 tokens.
+[12:24:51]	OTA-ECHO.OWS-55309 entered observer.
+[12:24:52]	OTA-ECHO.OWS-55309 exited observer at their location.
+[12:28:32]	OTA-ECHO.OWS-55309 has gained 40 tokens.
+[12:32:59]	Г@H3NK has connected.
+[12:33:42]	Г@H3NK loaded the character 'OTA-ECHO.OWS-55309'
+[12:35:25]	Г@H3NK has connected.
+[12:36:10]	Г@H3NK loaded the character 'OTA-ECHO.OWS-55309'
+[12:36:30]	OTA-ECHO.OWS-55309 entered observer.
+[12:36:50]	OTA-ECHO.OWS-55309 exited observer at their location.
+[12:36:59]	OTA-ECHO.OWS-55309 entered observer.
+[12:37:35]	OTA-ECHO.OWS-55309 exited observer at their location.
+[12:41:10]	OTA-ECHO.OWS-55309 has gained 40 tokens.
+[12:46:10]	OTA-ECHO.OWS-55309 has gained 40 tokens.
+[12:51:10]	OTA-ECHO.OWS-55309 has gained 40 tokens.
+[12:56:11]	OTA-ECHO.OWS-55309 has gained 40 tokens.
+[13:01:11]	OTA-ECHO.OWS-55309 has gained 40 tokens.
+[13:06:10]	OTA-ECHO.OWS-55309 has gained 40 tokens.
+[13:11:10]	OTA-ECHO.OWS-55309 has gained 40 tokens.
+[13:16:10]	OTA-ECHO.OWS-55309 has gained 40 tokens.
+[13:16:34]	OTA-ECHO.OWS-55309 entered observer.
+[13:16:38]	OTA-ECHO.OWS-55309 exited observer at their location.
+[13:16:41]	OTA-ECHO.OWS-55309 entered observer.
+[13:16:49]	OTA-ECHO.OWS-55309 exited observer at their location.
+[13:16:57]	OTA-ECHO.OWS-55309 entered observer.
+[13:17:10]	OTA-ECHO.OWS-55309 exited observer at their location.
+[13:17:11]	OTA-ECHO.OWS-55309 entered observer.
+[13:17:15]	OTA-ECHO.OWS-55309 exited observer at their location.
+[13:17:16]	OTA-ECHO.OWS-55309 entered observer.
+[13:17:16]	OTA-ECHO.OWS-55309 exited observer at their location.
+[13:17:22]	OTA-ECHO.OWS-55309 entered observer.
+[13:17:30]	OTA-ECHO.OWS-55309 exited observer at their location.
+[13:17:37]	OTA-ECHO.OWS-55309 entered observer.
+[13:17:50]	OTA-ECHO.OWS-55309 exited observer at their location.
+[13:17:51]	OTA-ECHO.OWS-55309 entered observer.
+[13:17:52]	OTA-ECHO.OWS-55309 exited observer at their location.
+[13:18:43]	OTA-ECHO.OWS-55309 has gained a 'MP5A3' #303.
+[13:18:43]	OTA-ECHO.OWS-55309 used command '/CharGiveItem OTA mp5'.
+[13:20:45]	Г@H3NK has connected.
+[13:43:02]	Г@H3NK loaded the character 'Александр Климов'
+[13:43:10]	Александр Климов ran 'drop' on item 'Benelli M3 Super 90' (#189)
+[13:43:10]	Александр Климов has lost a 'Benelli M3 Super 90' #189.
+[13:43:20]	Александр Климов has gained a 'MP5A3' #304.
+[13:43:20]	Александр Климов used command '/CharGiveItem Александр mp5'.
+[14:05:48]	Г@H3NK has connected.
+[14:06:21]	Г@H3NK loaded the character 'Александр Климов'
+[14:07:18]	Г@H3NK has connected.
+[14:07:55]	Г@H3NK loaded the character 'Александр Климов'
+[14:08:52]	Г@H3NK has connected.
+[14:09:23]	Г@H3NK loaded the character 'Александр Климов'
+[14:11:12]	Александр Климов ran 'Equip' on item 'MP5A3' (#304)
+[14:36:41]	Александр Климов has spawned a 'Entity [390][ent_jack_gmod_ezarmor_maska]'.
+[14:36:58]	Александр Климов has spawned a 'Entity [390][ent_jack_gmod_ezarmor_mtorso]'.
+[14:37:02]	Александр Климов has spawned a 'Entity [390][ent_jack_gmod_ezarmor_slforearm]'.
+[14:37:06]	Александр Климов has spawned a 'Entity [613][ent_jack_gmod_ezarmor_srforearm]'.
+[14:37:08]	Александр Климов has spawned a 'Entity [390][ent_jack_gmod_ezarmor_slcalf]'.
+[14:37:10]	Александр Климов has spawned a 'Entity [613][ent_jack_gmod_ezarmor_srcalf]'.
+[14:37:55]	Александр Климов ran 'EquipUn' on item 'MP5A3' (#304)
+[14:37:56]	Александр Климов ran 'Equip' on item 'FN Minimi' (#299)
+[14:38:31]	Александр Климов has spawned a 'NPC [613][npc_combine_s]'.
+[14:38:33]	Александр Климов has taken 1 damage from npc_combine_s.
+[14:38:34]	Александр Климов has taken 7 damage from npc_combine_s.
+[14:38:35]	Александр Климов has taken 1 damage from npc_combine_s.
+[14:38:37]	Александр Климов has spawned a 'NPC [613][npc_combine_s]'.
+[14:38:38]	Александр Климов has taken 7 damage from npc_combine_s.
+[14:38:38]	Александр Климов has taken 7 damage from npc_combine_s.
+[14:38:39]	Александр Климов has taken 1 damage from npc_combine_s.
+[14:38:39]	Александр Климов has taken 7 damage from npc_combine_s.
+[14:38:39]	Александр Климов has taken 1 damage from npc_combine_s.
+[14:38:40]	Александр Климов has taken 1 damage from npc_combine_s.
+[14:38:40]	Александр Климов has taken 1 damage from npc_combine_s.
+[14:38:43]	Александр Климов has spawned a 'NPC [389][npc_combine_s]'.
+[14:38:46]	Александр Климов has taken 1 damage from npc_combine_s.
+[14:38:46]	Александр Климов has taken 7 damage from npc_combine_s.
+[14:38:46]	Александр Климов has taken 7 damage from npc_combine_s.
+[14:38:46]	Александр Климов has taken 0 damage from npc_combine_s.
+[14:38:47]	Александр Климов has taken 1 damage from npc_combine_s.
+[14:38:47]	Александр Климов has taken 7 damage from npc_combine_s.
+[14:38:47]	Александр Климов has taken 0 damage from npc_combine_s.
+[14:38:48]	Александр Климов has taken 7 damage from npc_combine_s.
+[14:38:48]	Александр Климов has taken 0 damage from npc_combine_s.
+[14:39:22]	Александр Климов has spawned a 'Entity [619][item_healthkit]'.
+[14:39:22]	Александр Климов has spawned a 'Entity [620][item_healthkit]'.
+[14:39:23]	Александр Климов has spawned a 'Entity [621][item_healthkit]'.
+[14:39:23]	Александр Климов has spawned a 'Entity [622][item_healthkit]'.
+[14:39:25]	Александр Климов has spawned a 'Entity [619][item_battery]'.
+[14:39:25]	Александр Климов has spawned a 'Entity [389][item_battery]'.
+[14:39:25]	Александр Климов has spawned a 'Entity [613][item_battery]'.
+[14:39:25]	Александр Климов has spawned a 'Entity [620][item_battery]'.
+[14:39:25]	Александр Климов has spawned a 'Entity [621][item_battery]'.
+[14:39:26]	Александр Климов has spawned a 'Entity [619][item_battery]'.
+[14:39:27]	Александр Климов has spawned a 'Entity [389][item_battery]'.
+[14:39:31]	Александр Климов has spawned a 'NPC [389][npc_metropolice]'.
+[14:39:32]	Александр Климов has spawned a 'NPC [620][npc_metropolice]'.
+[14:39:33]	Александр Климов has spawned a 'NPC [613][npc_metropolice]'.
+[14:39:33]	Александр Климов has spawned a 'NPC [620][npc_metropolice]'.
+[14:39:34]	Александр Климов has spawned a 'NPC [619][npc_metropolice]'.
+[14:39:35]	Александр Климов has taken 12 damage from npc_metropolice.
+[14:39:35]	Александр Климов has taken 2 damage from npc_metropolice.
+[14:39:35]	Александр Климов has taken 2 damage from npc_metropolice.
+[14:39:35]	Александр Климов has taken 12 damage from npc_metropolice.
+[14:39:36]	Александр Климов has taken 12 damage from npc_metropolice.
+[14:39:36]	Александр Климов has taken 12 damage from npc_metropolice.
+[14:39:37]	Александр Климов has taken 2 damage from npc_metropolice.
+[14:39:37]	Александр Климов has taken 1 damage from npc_metropolice.
+[14:39:38]	Александр Климов has taken 12 damage from npc_metropolice.
+[14:39:38]	Александр Климов has taken 2 damage from npc_metropolice.
+[14:39:39]	Александр Климов has taken 12 damage from npc_metropolice.
+[14:39:39]	Александр Климов has taken 2 damage from npc_metropolice.
+[14:39:39]	Александр Климов has taken 2 damage from npc_metropolice.
+[14:39:39]	Александр Климов has taken 2 damage from npc_metropolice.
+[14:39:39]	Александр Климов has taken 2 damage from npc_metropolice.
+[14:39:39]	Александр Климов has taken 12 damage from npc_metropolice.
+[14:39:39]	Александр Климов has taken 2 damage from npc_metropolice.
+[14:39:39]	Александр Климов has taken 2 damage from npc_metropolice.
+[14:39:39]	Александр Климов has taken 12 damage from npc_metropolice.
+[14:39:46]	Александр Климов has spawned a 'NPC [389][npc_metropolice]'.
+[14:39:48]	Александр Климов has taken 2 damage from npc_metropolice.
+[14:39:48]	Александр Климов has taken 2 damage from npc_metropolice.
+[14:39:48]	Александр Климов has taken 2 damage from npc_metropolice.
+[14:39:48]	Александр Климов has taken 2 damage from npc_metropolice.
+[14:39:50]	Александр Климов has spawned a 'NPC [620][npc_metropolice]'.
+[14:39:56]	Александр Климов has spawned a 'NPC [620][npc_combine_s]'.
+[14:39:56]	Александр Климов has spawned a 'NPC [636][npc_combine_s]'.
+[14:39:57]	Александр Климов has taken 2 damage from npc_combine_s.
+[14:39:59]	Александр Климов has taken 2 damage from npc_combine_s.
+[14:41:08]	Александр Климов ran 'EquipUn' on item 'FN Minimi' (#299)
+[14:41:08]	Александр Климов ran 'Equip' on item 'MP5A3' (#304)
+[14:41:35]	Александр Климов has spawned a 'Entity [614][item_healthkit]'.
+[14:41:35]	Александр Климов has spawned a 'Entity [620][item_healthkit]'.
+[14:41:35]	Александр Климов has spawned a 'Entity [629][item_healthkit]'.
+[14:41:36]	Александр Климов has spawned a 'Entity [614][item_healthkit]'.
+[14:43:31]	Александр Климов has spawned a 'Entity [614][ent_jack_gmod_ezarmor_lhead]'.
+[14:43:37]	Александр Климов has spawned a 'Entity [614][ent_jack_gmod_ezarmor_mltorso]'.
+[14:43:51]	Александр Климов has spawned a 'Entity [614][ent_jack_gmod_ezarmor_lrthigh]'.
+[14:43:56]	Александр Климов has spawned a 'Entity [614][ent_jack_gmod_ezarmor_headset]'.
+[14:43:59]	Александр Климов has spawned a 'Entity [614][ent_jack_gmod_ezarmor_srforearm]'.
+[14:52:22]	Александр Климов ran 'EquipUn' on item 'MP5A3' (#304)
+[14:52:23]	Александр Климов ran 'Equip' on item 'FN Minimi' (#299)
+[14:53:56]	Александр Климов ran 'EquipUn' on item 'FN Minimi' (#299)
+[14:53:56]	Александр Климов ran 'Equip' on item 'MP5A3' (#304)
+[14:54:38]	Александр Климов ran 'EquipUn' on item 'MP5A3' (#304)
+[14:54:39]	Александр Климов ran 'Equip' on item 'FN Minimi' (#299)
+[14:55:08]	Александр Климов ran 'drop' on item 'FN Minimi' (#299)
+[14:55:08]	Александр Климов has lost a 'FN Minimi' #299.
+[14:55:10]	Александр Климов ran 'Equip' on item 'MP5A3' (#304)
+[14:55:23]	Александр Климов ran 'drop' on item 'MP5A3' (#304)
+[14:55:23]	Александр Климов has lost a 'MP5A3' #304.
+[14:55:26]	Александр Климов ran 'take' on item 'FN Minimi' (#299)
+[14:55:26]	Александр Климов has gained a 'FN Minimi' #299.
+[14:55:35]	Александр Климов ran 'drop' on item 'FN Minimi' (#299)
+[14:55:35]	Александр Климов has lost a 'FN Minimi' #299.
+[14:55:44]	Александр Климов entered observer.
+[14:55:52]	Александр Климов exited observer at their location.
+[14:55:53]	Александр Климов entered observer.
+[14:56:15]	Александр Климов exited observer at their location.
+[14:56:36]	Александр Климов has taken 33 damage from diesel_move.
+[14:56:36]	Александр Климов has taken 33 damage from diesel_move.
+[14:56:36]	Александр Климов has taken 33 damage from diesel_move.
+[14:56:36]	diesel_move has killed Александр Климов.
+[14:59:02]	Александр Климов has gained a 'Коробочка с гильзами 12 калибра' #304.
+[14:59:02]	Александр Климов used command '/CharGiveItem Алекс sshotgunammo'.
+[15:00:12]	Александр Климов has gained a 'M1014' #305.
+[15:00:12]	Александр Климов used command '/CharGiveItem Алекс xm'.
+[15:00:17]	Александр Климов ran 'Equip' on item 'M1014' (#305)
+[15:00:28]	Александр Климов ran 'use' on item 'Коробочка с гильзами 12 калибра' (#304)
+[15:02:17]	Александр Климов ran 'use' on item 'Ящик гильз 12 Калибра' (#125)
+[15:05:50]	Александр Климов has spawned a 'Entity [513][npc_breen_speech_broadcast]'.
+[15:05:58]	Александр Климов has spawned a 'Entity [35][npc_breen_speech_broadcast]'.
+[15:06:02]	Александр Климов entered observer.
+[15:06:12]	Александр Климов exited observer at their location.
+[15:06:23]	Александр Климов entered observer.
+[15:06:39]	Александр Климов has spawned a 'Entity [514][npc_breen_speech_broadcast_uprising]'.
+[15:06:44]	Александр Климов has spawned a 'Entity [513][npc_cover_citizen]'.
+[15:06:51]	Александр Климов has spawned a 'Entity [513][npc_chef_vortigaunt]'.
+[15:06:54]	Александр Климов has spawned a 'Entity [528][npc_chef_vortigaunt]'.
+[15:06:58]	Александр Климов has spawned a 'Entity [35][npc_souschef_vortigaunt]'.
+[15:07:03]	Александр Климов has spawned a 'Entity [35][npc_souschef_vortigaunt]'.
+[15:07:04]	Александр Климов has spawned a 'Entity [528][npc_souschef_vortigaunt]'.
+[15:07:11]	Александр Климов has spawned a 'Entity [513][npc_episode_1_mossman]'.
+[15:07:18]	Александр Климов exited observer at their location.
+[15:07:21]	Александр Климов entered observer.
+[15:07:31]	Александр Климов exited observer at their location.
+[15:07:35]	Александр Климов has spawned a 'Entity [36][npc_breen_speech_broadcast_uprising]'.
+[15:07:38]	Александр Климов has spawned a 'Entity [545][npc_breen_speech_broadcast]'.
+[15:07:47]	Александр Климов has spawned a 'Entity [35][npc_door_bracing_citizen]'.
+[15:07:55]	Александр Климов has spawned a 'Entity [35][npc_door_bracing_citizen]'.
+[15:07:58]	Александр Климов has spawned a 'Entity [545][npc_door_bracing_citizen]'.
+[15:07:59]	Александр Климов entered observer.
+[15:08:01]	Александр Климов exited observer at their location.
+[15:08:02]	Александр Климов has spawned a 'Entity [35][npc_door_bracing_citizen]'.
+[15:08:05]	Александр Климов has spawned a 'Entity [35][npc_door_bracing_citizen]'.
+[15:08:12]	Александр Климов entered observer.
+[15:08:13]	Александр Климов exited observer at their location.
+[15:11:13]	Александр Климов has spawned a 'Entity [513][npc_metrocop_apc]'.
+[15:11:31]	Александр Климов has spawned a 'NPC [35][npc_combine_s]'.
+[15:11:33]	Александр Климов has taken 4 damage from npc_combine_s.
+[17:35:01]	Г@H3NK has connected.
+[17:35:47]	Г@H3NK loaded the character 'Александр Климов'
+[17:45:33]	֍ Aime-moi ֍ has connected.
+[17:46:19]	Александр Климов entered observer.
+[17:46:20]	Александр Климов exited observer at their location.
+[17:47:00]	֍ Aime-moi ֍ loaded the character 'Август Крюгер'
+[17:47:03]	Август Крюгер entered observer.
+[17:47:05]	Август Крюгер exited observer at their location.
+[17:47:11]	Август Крюгер entered observer.
+[17:49:26]	Август Крюгер has spawned a 'Entity [608][item_box_buckshot]'.
+[17:49:28]	Август Крюгер exited observer at their location.
+[17:49:30]	Август Крюгер entered observer.
+[17:49:41]	Август Крюгер has spawned a 'Entity [598][arccw_ammo_buckshot_large]'.
+[17:49:44]	Август Крюгер exited observer at their location.
+[17:49:44]	Август Крюгер has spawned a 'Entity [598][arccw_ammo_buckshot_large]'.
+[17:49:47]	Август Крюгер has spawned a 'Entity [598][arccw_ammo_buckshot]'.
+[17:49:50]	Август Крюгер entered observer.
+[17:50:05]	Александр Климов has spawned a 'Entity [607][ent_jack_gmod_ezarmor_mtorso]'.
+[17:50:18]	Август Крюгер exited observer at their location.
+[17:50:21]	Август Крюгер has spawned a 'Entity [607][arccw_ammo_357_large]'.
+[17:50:23]	Август Крюгер has spawned a 'Entity [607][arccw_ammo_ar2_large]'.
+[17:50:25]	Август Крюгер has spawned a 'Entity [607][arccw_ammo_buckshot_large]'.
+[17:50:27]	Август Крюгер has spawned a 'Entity [607][arccw_ammo_sniper_large]'.
+[17:50:28]	Август Крюгер entered observer.
+[17:50:41]	Александр Климов has spawned a 'Entity [607][ent_jack_gmod_ezarmor_srcalf]'.
+[17:50:46]	Александр Климов has spawned a 'Entity [609][ent_jack_gmod_ezarmor_maska]'.
+[17:50:59]	Александр Климов has spawned a 'Entity [598][ent_jack_gmod_ezarmor_mhtorso]'.
+[17:52:01]	֍ Aime-moi ֍ (STEAM_0:0:424879351) has disconnected (timed out).
+[17:54:21]	֍ Aime-moi ֍ has connected.
+[17:55:40]	Александр Климов has spawned a 'Entity [35][ent_jack_gmod_ezmunitions]'.
+[17:55:46]	Александр Климов has spawned a 'Entity [356][ent_jack_gmod_ezweapon_rocketlauncher]'.
+[17:56:15]	Александр Климов has taken 2 damage from Александр Климов.
+[17:56:15]	Александр Климов has taken 14 damage from Александр Климов.
+[17:56:15]	Александр Климов has taken 15 damage from Александр Климов.
+[17:56:23]	Александр Климов has spawned a 'Entity [35][gmod_sent_vehicle_fphysics_base]'.
+[17:56:28]	֍ Aime-moi ֍ loaded the character 'Август Крюгер'
+[17:56:29]	Август Крюгер entered observer.
+[17:56:46]	Александр Климов has taken 150 damage from Август Крюгер.
+[17:56:46]	Август Крюгер has killed Александр Климов with weapon_357.
+[17:56:54]	Август Крюгер exited observer at their location.
+[17:56:56]	Август Крюгер entered observer.
+[17:56:57]	Август Крюгер exited observer at their location.
+[17:56:59]	Август Крюгер entered observer.
+[17:57:02]	Август Крюгер exited observer at their location.
+[17:57:03]	Август Крюгер entered observer.
+[17:57:05]	Август Крюгер exited observer at their location.
+[17:57:07]	Август Крюгер entered observer.
+[17:57:07]	Александр Климов ran 'Equip' on item 'M1014' (#305)
+[17:57:32]	Август Крюгер exited observer at their location.
+[17:57:32]	Август Крюгер entered observer.
+[17:57:41]	Август Крюгер exited observer at their location.
+[17:57:45]	Александр Климов has gained a 'Ящик гильз 12 Калибра' #307.
+[17:57:45]	Александр Климов used command '/CharGiveItem Алекс shotgunammo'.
+[17:57:47]	Александр Климов ran 'use' on item 'Ящик гильз 12 Калибра' (#307)
+[17:58:46]	Август Крюгер entered observer.
+[17:59:08]	Август Крюгер has spawned a 'Entity [594][gw_strider]'.
+[17:59:09]	Август Крюгер exited observer at their location.
+[17:59:28]	Август Крюгер entered observer.
+[17:59:35]	Август Крюгер exited observer at their location.
+[18:00:37]	Александр Климов has taken 5 damage from Август Крюгер.
+[18:00:45]	Александр Климов has gained a 'M9' #307.
+[18:00:45]	Александр Климов used command '/CharGiveItem Алекс m9'.
+[18:00:49]	Александр Климов ran 'Equip' on item 'M9' (#307)
+[18:01:06]	Александр Климов has taken 150 damage from Август Крюгер.
+[18:01:06]	Август Крюгер has killed Александр Климов with weapon_357.
+[18:01:10]	Август Крюгер entered observer.
+[18:01:13]	Август Крюгер exited observer at their location.
+[18:01:16]	Август Крюгер entered observer.
+[18:01:16]	Август Крюгер exited observer at their location.
+[18:02:36]	Август Крюгер entered observer.
+[18:02:48]	Александр Климов ran 'Equip' on item 'M9' (#307)
+[18:02:53]	Август Крюгер has spawned a 'Entity [595][npc_cheering_citizen_looping_no_sound]'.
+[18:02:56]	Август Крюгер has spawned a 'Entity [607][npc_cheering_citizen_looping]'.
+[18:02:57]	Август Крюгер has spawned a 'Entity [617][npc_cheering_citizen]'.
+[18:02:59]	Август Крюгер has spawned a 'Entity [632][npc_cheering_citizen_looping_no_sound]'.
+[18:03:01]	Август Крюгер has spawned a 'Entity [614][npc_cheering_citizen_looping]'.
+[18:03:03]	Август Крюгер has spawned a 'Entity [637][npc_cheering_citizen_no_sound]'.
+[18:03:05]	Август Крюгер has spawned a 'Entity [636][npc_cheering_citizen_looping]'.
+[18:03:07]	Август Крюгер has spawned a 'Entity [644][npc_cheering_citizen]'.
+[18:03:12]	Август Крюгер has spawned a 'Entity [615][npc_cheering_resistance_no_sound]'.
+[18:03:25]	Август Крюгер has spawned a 'Entity [737][npc_ground_sitting_citizen_static]'.
+[18:03:27]	Август Крюгер has spawned a 'Entity [746][npc_ground_sitting_citizen_static]'.
+[18:03:39]	Август Крюгер ran 'drop' on item 'Чемодан' (#294)
+[18:03:39]	Август Крюгер has lost a 'Чемодан' #294.
+[18:03:39]	Август Крюгер has lost a 'ID Карточка' #295.
+[18:04:24]	Александр Климов ran 'take' on item 'Чемодан' (#294)
+[18:04:24]	Александр Климов has gained a 'Чемодан' #294.
+[18:04:24]	Александр Климов has gained a 'ID Карточка' #295.
+[18:04:35]	Август Крюгер has spawned a 'Entity [642][gmod_sent_vehicle_fphysics_base]'.
+[18:04:41]	Август Крюгер has spawned a 'Entity [741][npc_metrocop_apc]'.
+[18:04:48]	Август Крюгер has spawned a 'Entity [742][npc_metrocop_apc]'.
+[18:05:26]	Август Крюгер has spawned a 'NPC [740][npc_metropolice]'.
+[18:05:27]	Август Крюгер has spawned a 'NPC [642][npc_metropolice]'.
+[18:05:29]	Август Крюгер has spawned a 'NPC [690][npc_metropolice]'.
+[18:05:31]	Август Крюгер has spawned a 'NPC [693][npc_metropolice]'.
+[18:05:34]	Август Крюгер has spawned a 'NPC [732][npc_metropolice]'.
+[18:05:40]	Август Крюгер has spawned a 'NPC [740][npc_metropolice]'.
+[18:05:42]	Август Крюгер has spawned a 'NPC [756][npc_metropolice]'.
+[18:05:46]	Август Крюгер has spawned a 'NPC [764][npc_metropolice]'.
+[18:05:49]	Август Крюгер has spawned a 'NPC [767][npc_metropolice]'.
+[18:05:55]	Август Крюгер has spawned a 'NPC [754][npc_metropolice]'.
+[18:05:58]	Август Крюгер has spawned a 'NPC [767][npc_metropolice]'.
+[18:06:02]	Август Крюгер has spawned a 'NPC [740][npc_metropolice]'.
+[18:06:24]	Александр Климов has taken 3 damage from npc_metropolice.
+[18:06:24]	Александр Климов has taken 1 damage from npc_metropolice.
+[18:06:27]	Александр Климов has taken 1 damage from npc_metropolice.
+[18:06:33]	Август Крюгер has spawned a 'NPC [771][npc_metropolice]'.
+[18:06:35]	Александр Климов ran 'Equip' on item 'M1014' (#305)
+[18:06:35]	Август Крюгер has spawned a 'NPC [643][npc_metropolice]'.
+[18:09:46]	Г@H3NK has connected.
+[18:10:30]	Г@H3NK loaded the character 'Александр Климов'
+[18:11:50]	֍ Aime-moi ֍ has connected.
+[18:12:48]	Александр Климов entered observer.
+[18:12:50]	Александр Климов exited observer at their location.
+[18:13:02]	Александр Климов used command '/CharDesc'.
+[18:13:07]	Александр Климов used command '/CharDesc 28 года : Вес 76 Кг : Рост 175 см'.
+[18:13:14]	֍ Aime-moi ֍ loaded the character 'Август Крюгер'
+[18:13:15]	Август Крюгер entered observer.
+[18:13:41]	Август Крюгер has spawned a 'Entity [592][sent_skybox_editor]'.
+[18:13:48]	Август Крюгер exited observer at their location.
+[18:13:50]	Август Крюгер entered observer.
+[18:13:50]	Август Крюгер exited observer at their location.
+[18:13:52]	Август Крюгер entered observer.
+[18:13:55]	Август Крюгер has spawned a 'NPC [591][npc_monk]'.
+[18:14:32]	Александр Климов entered observer.
+[18:14:49]	Август Крюгер has spawned a 'NPC [614][npc_citizen]'.
+[18:15:34]	Александр Климов exited observer at their location.
+[18:16:07]	Август Крюгер has spawned a 'Entity [591][gmod_sent_vehicle_fphysics_base]'.
+[18:16:08]	Август Крюгер exited observer at their location.
+[18:16:17]	Август Крюгер entered observer.
+[18:16:24]	Август Крюгер has spawned a 'NPC [591][npc_combine_s]'.
+[18:16:27]	Август Крюгер has spawned a 'NPC [591][npc_combine_s]'.
+[18:16:29]	Август Крюгер has spawned a 'NPC [614][npc_combine_s]'.
+[18:16:32]	Август Крюгер has spawned a 'NPC [617][npc_combine_s]'.
+[18:16:34]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:16:39]	Август Крюгер has spawned a 'NPC [632][npc_combine_s]'.
+[18:16:40]	Александр Климов has taken 6 damage from npc_combine_s.
+[18:16:41]	Август Крюгер has spawned a 'NPC [634][npc_combine_s]'.
+[18:16:42]	Август Крюгер has spawned a 'NPC [637][npc_combine_s]'.
+[18:16:42]	Август Крюгер has spawned a 'NPC [639][npc_combine_s]'.
+[18:16:44]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:16:45]	Александр Климов has taken 1 damage from npc_combine_s.
+[18:16:45]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:16:45]	Александр Климов has taken 1 damage from npc_combine_s.
+[18:16:46]	Александр Климов has taken 1 damage from npc_combine_s.
+[18:16:49]	Август Крюгер has spawned a 'NPC [625][npc_combine_s]'.
+[18:16:50]	Август Крюгер has spawned a 'NPC [636][npc_combine_s]'.
+[18:16:51]	Август Крюгер has spawned a 'NPC [642][npc_combine_s]'.
+[18:16:51]	Александр Климов has taken 6 damage from npc_combine_s.
+[18:16:53]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:16:57]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:17:01]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:17:02]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:17:02]	Александр Климов has taken 1 damage from npc_combine_s.
+[18:17:03]	Август Крюгер exited observer at their location.
+[18:17:03]	Август Крюгер has spawned a 'Entity [632][gmod_sent_vehicle_fphysics_base]'.
+[18:17:10]	Август Крюгер entered observer.
+[18:17:13]	Александр Климов has taken 1 damage from npc_combine_s.
+[18:17:14]	Август Крюгер has spawned a 'NPC [591][npc_combine_s]'.
+[18:17:14]	Август Крюгер has spawned a 'NPC [653][npc_combine_s]'.
+[18:17:16]	Август Крюгер has spawned a 'NPC [737][npc_metropolice]'.
+[18:17:17]	Август Крюгер has spawned a 'NPC [740][npc_metropolice]'.
+[18:17:18]	Август Крюгер has spawned a 'NPC [742][npc_metropolice]'.
+[18:17:19]	Август Крюгер has spawned a 'NPC [746][npc_metropolice]'.
+[18:17:20]	Август Крюгер has spawned a 'NPC [749][npc_metropolice]'.
+[18:17:25]	Август Крюгер has spawned a 'NPC [753][npc_combine_s]'.
+[18:17:25]	Александр Климов has taken 1 damage from npc_metropolice.
+[18:17:27]	Август Крюгер has spawned a 'NPC [755][npc_combine_s]'.
+[18:17:28]	Александр Климов has taken 6 damage from npc_combine_s.
+[18:17:28]	Август Крюгер has spawned a 'NPC [763][npc_combine_s]'.
+[18:17:29]	Александр Климов has taken 3 damage from npc_metropolice.
+[18:17:29]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:17:29]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:17:30]	Александр Климов has taken 1 damage from npc_metropolice.
+[18:17:30]	Август Крюгер has spawned a 'NPC [767][npc_combine_s]'.
+[18:17:30]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:17:30]	Александр Климов has taken 1 damage from npc_metropolice.
+[18:17:31]	Александр Климов has taken 3 damage from npc_metropolice.
+[18:17:31]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:17:35]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:17:37]	Александр Климов has taken 1 damage from npc_combine_s.
+[18:17:38]	Александр Климов has taken 3 damage from npc_metropolice.
+[18:17:38]	Александр Климов has taken 3 damage from npc_metropolice.
+[18:17:40]	Александр Климов has taken 3 damage from npc_metropolice.
+[18:17:41]	Александр Климов has taken 6 damage from npc_metropolice.
+[18:17:42]	Александр Климов has taken 3 damage from npc_metropolice.
+[18:17:57]	Август Крюгер has spawned a 'Entity [737][gmod_sent_vehicle_fphysics_base]'.
+[18:17:57]	Август Крюгер exited observer at their location.
+[18:18:00]	Александр Климов has taken 1 damage from npc_combine_s.
+[18:18:00]	Александр Климов has taken 1 damage from npc_combine_s.
+[18:18:04]	Август Крюгер has taken 2 damage from worldspawn.
+[18:18:10]	Август Крюгер has taken 2 damage from worldspawn.
+[18:18:10]	Александр Климов has taken 20 damage from gmod_sent_vehicle_fphysics_base.
+[18:18:17]	Август Крюгер entered observer.
+[18:18:22]	Август Крюгер has spawned a 'NPC [653][npc_metropolice]'.
+[18:18:23]	Август Крюгер has spawned a 'NPC [810][npc_metropolice]'.
+[18:18:23]	Август Крюгер has spawned a 'NPC [812][npc_metropolice]'.
+[18:18:25]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:18:26]	Август Крюгер has spawned a 'NPC [814][npc_metropolice]'.
+[18:18:26]	Август Крюгер has spawned a 'NPC [653][npc_metropolice]'.
+[18:18:28]	Август Крюгер has spawned a 'NPC [767][npc_metropolice]'.
+[18:18:29]	Август Крюгер has spawned a 'NPC [653][npc_metropolice]'.
+[18:18:41]	Август Крюгер has spawned a 'NPC [625][npc_combine_s]'.
+[18:18:42]	Август Крюгер has spawned a 'NPC [639][npc_combine_s]'.
+[18:18:45]	Август Крюгер has spawned a 'NPC [812][npc_combine_s]'.
+[18:18:48]	Август Крюгер has spawned a 'NPC [639][npc_combine_s]'.
+[18:19:03]	Александр Климов ran 'drop' on item 'M1014' (#305)
+[18:19:03]	Александр Климов has lost a 'M1014' #305.
+[18:19:11]	Август Крюгер has spawned a 'NPC [817][npc_combine_s]'.
+[18:19:11]	Август Крюгер has spawned a 'NPC [819][npc_combine_s]'.
+[18:19:13]	Август Крюгер has spawned a 'NPC [822][npc_combine_s]'.
+[18:19:15]	Август Крюгер has spawned a 'NPC [824][npc_combine_s]'.
+[18:19:15]	Август Крюгер has spawned a 'NPC [828][npc_combine_s]'.
+[18:19:16]	Август Крюгер has spawned a 'NPC [830][npc_combine_s]'.
+[18:19:16]	Александр Климов has gained a 'FN Minimi' #308.
+[18:19:16]	Александр Климов used command '/CharGiveItem Алекс para'.
+[18:19:18]	Александр Климов ran 'Equip' on item 'FN Minimi' (#308)
+[18:19:19]	Август Крюгер has spawned a 'NPC [816][npc_combine_s]'.
+[18:19:20]	Август Крюгер has spawned a 'NPC [833][npc_combine_s]'.
+[18:19:21]	Август Крюгер has spawned a 'NPC [835][npc_combine_s]'.
+[18:19:23]	Август Крюгер has spawned a 'NPC [840][npc_combine_s]'.
+[18:19:24]	Август Крюгер has spawned a 'NPC [843][npc_combine_s]'.
+[18:19:31]	Август Крюгер has spawned a 'NPC [846][npc_combine_s]'.
+[18:19:32]	Август Крюгер has spawned a 'NPC [857][npc_combine_s]'.
+[18:19:33]	Август Крюгер has spawned a 'NPC [837][npc_combine_s]'.
+[18:19:53]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:19:59]	Александр Климов has taken 1 damage from npc_combine_s.
+[18:20:02]	Александр Климов destroyed a 'M1014' #305.
+[18:20:09]	Александр Климов has taken 100 damage from sniper2.
+[18:20:09]	sniper2 has killed Александр Климов.
+[18:20:30]	Александр Климов entered observer.
+[18:20:42]	Александр Климов exited observer at their location.
+[18:20:54]	Александр Климов ran 'Equip' on item 'FN Minimi' (#308)
+[18:20:56]	Август Крюгер has spawned a 'NPC [616][npc_combine_s]'.
+[18:21:00]	Август Крюгер has spawned a 'NPC [607][npc_combine_s]'.
+[18:21:08]	Александр Климов has taken 10 damage from npc_combine_s.
+[18:21:09]	Август Крюгер has spawned a 'NPC [592][npc_combine_s]'.
+[18:21:11]	Александр Климов has taken 6 damage from npc_combine_s.
+[18:21:11]	Август Крюгер has spawned a 'NPC [634][npc_combine_s]'.
+[18:21:17]	Август Крюгер has spawned a 'NPC [607][npc_citizen]'.
+[18:21:21]	Август Крюгер has spawned a 'NPC [607][npc_citizen]'.
+[18:21:22]	Август Крюгер has spawned a 'NPC [592][npc_citizen]'.
+[18:22:05]	Август Крюгер has spawned a 'Entity [634][aw2_hunterchopper]'.
+[18:22:06]	Август Крюгер exited observer at their location.
+[18:22:23]	Александр Климов has spawned a 'Entity [691][ent_jack_gmod_ezweapon_rocketlauncher]'.
+[18:22:25]	Александр Климов has spawned a 'Entity [691][ent_jack_gmod_ezammo]'.
+[18:22:26]	Александр Климов has spawned a 'Entity [703][ent_jack_gmod_ezmunitions]'.
+[18:22:30]	Август Крюгер entered observer.
+[18:22:38]	Август Крюгер has spawned a 'Entity [592][aw2_manhack]'.
+[18:22:40]	Август Крюгер has spawned a 'Entity [616][aw2_hk]'.
+[18:22:41]	Август Крюгер exited observer at their location.
+[18:22:46]	Александр Климов has taken 5 damage from Август Крюгер.
+[18:22:46]	Александр Климов has taken 24 damage from Александр Климов.
+[18:22:46]	Александр Климов has taken 9 damage from Александр Климов.
+[18:23:03]	Александр Климов has taken 19 damage from Александр Климов.
+[18:23:03]	Александр Климов has taken 3 damage from Александр Климов.
+[18:23:32]	Август Крюгер entered observer.
+[18:23:45]	Александр Климов has taken 14 damage from Александр Климов.
+[18:23:45]	Александр Климов has taken 25 damage from Александр Климов.
+[18:23:45]	Александр Климов has killed Александр Климов.
+[18:23:46]	Август Крюгер has spawned a 'NPC [749][npc_combine_s]'.
+[18:24:02]	Александр Климов entered observer.
+[18:24:06]	Александр Климов exited observer at their location.
+[18:24:08]	Александр Климов has spawned a 'Entity [639][ent_jack_gmod_ezmunitions]'.
+[18:24:11]	Август Крюгер has spawned a 'NPC [702][npc_combine_s]'.
+[18:24:11]	Александр Климов has spawned a 'Entity [705][ent_jack_gmod_ezweapon_rocketlauncher]'.
+[18:24:12]	Август Крюгер has spawned a 'NPC [705][npc_combine_s]'.
+[18:24:18]	Август Крюгер has spawned a 'NPC [614][npc_combine_s]'.
+[18:24:19]	Александр Климов has taken 13 damage from Александр Климов.
+[18:24:19]	Александр Климов has taken 25 damage from Александр Климов.
+[18:24:19]	Александр Климов has taken 11 damage from Александр Климов.
+[18:24:22]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:24:22]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:24:22]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:24:23]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:24:23]	Александр Климов has taken 1 damage from npc_combine_s.
+[18:24:24]	Александр Климов has taken 6 damage from npc_combine_s.
+[18:24:25]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:24:25]	Александр Климов has taken 1 damage from npc_combine_s.
+[18:24:25]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:24:26]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:24:27]	Александр Климов has taken 6 damage from npc_combine_s.
+[18:24:28]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:24:28]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:24:29]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:24:31]	Александр Климов ran 'Equip' on item 'M9' (#307)
+[18:24:39]	Август Крюгер has spawned a 'Entity [614][item_healthvial]'.
+[18:24:48]	Август Крюгер has spawned a 'Entity [614][item_healthkit]'.
+[18:25:00]	Август Крюгер has spawned a 'NPC [596][npc_combine_s]'.
+[18:25:04]	Август Крюгер has spawned a 'NPC [702][npc_combine_s]'.
+[18:25:05]	Александр Климов has taken 13 damage from npc_combine_s.
+[18:25:11]	Август Крюгер has spawned a 'NPC [702][npc_combine_s]'.
+[18:25:13]	Август Крюгер has spawned a 'NPC [596][npc_combine_s]'.
+[18:25:15]	Август Крюгер has spawned a 'NPC [705][npc_rollermine]'.
+[18:25:29]	Август Крюгер has spawned a 'NPC [690][npc_rollermine]'.
+[18:25:31]	Александр Климов has taken 100 damage from sniper2.
+[18:25:31]	sniper2 has killed Александр Климов.
+[18:25:49]	Александр Климов entered observer.
+[18:25:58]	Александр Климов exited observer at their location.
+[18:25:59]	Александр Климов entered observer.
+[18:26:16]	Александр Климов exited observer at their location.
+[18:28:02]	Август Крюгер has spawned a 'Entity [644][aw2_hk]'.
+[18:28:03]	Август Крюгер exited observer at their location.
+[18:28:18]	Август Крюгер entered observer.
+[18:41:52]	Август Крюгер exited observer at their location.
+[18:42:34]	Август Крюгер entered observer.
+[18:42:40]	Август Крюгер exited observer at their location.
+[18:42:42]	Август Крюгер entered observer.
+[18:43:03]	Август Крюгер exited observer at their location.
+[18:43:20]	Август Крюгер entered observer.
+[18:43:22]	Август Крюгер exited observer at their location.
+[18:43:33]	Август Крюгер used command '/ItemSpawnAdd'.
+[18:43:51]	Август Крюгер used command '/ItemSpawnRemove'.
+[18:44:37]	Август Крюгер used command '/SpawnAdd Стазис Сверчеловеческий отдел'.
+[18:45:03]	Август Крюгер used command '/SpawnAdd Стазис OTA'.
+[18:45:05]	Август Крюгер entered observer.
+[18:45:11]	Август Крюгер exited observer at their location.
+[18:45:13]	Август Крюгер entered observer.
+[18:45:17]	Август Крюгер exited observer at their location.
+[18:45:19]	Август Крюгер entered observer.
+[18:45:29]	Август Крюгер exited observer at their location.
+[18:45:32]	Август Крюгер entered observer.
+[18:50:05]	Август Крюгер has spawned 'models/props_vehicles/van001a_physics.mdl'.
+[18:50:13]	Август Крюгер has spawned 'models/props_vehicles/trailer001a.mdl'.
+[18:50:29]	Август Крюгер has spawned 'models/props_vehicles/car004a_physics.mdl'.
+[18:51:08]	Август Крюгер exited observer at their location.
+[18:51:12]	Август Крюгер entered observer.
+[18:51:18]	Август Крюгер has spawned 'models/combine_apc.mdl'.
+[18:51:21]	Август Крюгер has spawned 'models/props_vehicles/car003a_physics.mdl'.
+[18:51:24]	Август Крюгер has spawned 'models/props_vehicles/car005b_physics.mdl'.
+[18:51:27]	Август Крюгер has spawned 'models/props_vehicles/apc001.mdl'.
+[18:51:46]	Август Крюгер has spawned 'models/props_vehicles/tanker001a.mdl'.
+[18:51:54]	Август Крюгер has spawned 'models/props_vehicles/car004b_physics.mdl'.
+[18:52:00]	Август Крюгер has spawned 'models/props_vehicles/car001b_hatchback.mdl'.
+[18:52:06]	Август Крюгер exited observer at their location.
+[18:52:07]	Август Крюгер entered observer.
+[18:52:08]	Август Крюгер exited observer at their location.
+[18:52:54]	Август Крюгер entered observer.
+[18:53:03]	Август Крюгер used command '/MapSceneAdd'.
+[18:54:04]	Август Крюгер used command '/MapSceneAdd'.
+[18:54:26]	Август Крюгер used command '/MapSceneRemove'.
+[18:54:28]	Август Крюгер used command '/MapSceneRemove'.
+[18:57:51]	֍ Aime-moi ֍ (STEAM_0:0:424879351) has disconnected.
+[19:05:30]	Александр Климов entered observer.
+[19:05:41]	Александр Климов exited observer at their location.
+[19:05:43]	Александр Климов entered observer.
+[19:05:51]	Александр Климов exited observer at their location.
+[19:07:54]	Александр Климов entered observer.
+[19:07:59]	Александр Климов exited observer at their location.
+[19:08:03]	Александр Климов entered observer.
+[19:08:12]	Александр Климов exited observer at their location.
+[19:08:22]	Александр Климов entered observer.
+[19:08:34]	Александр Климов exited observer at their location.
+[19:08:41]	Александр Климов has taken 100 damage from sniper1.
+[19:08:41]	sniper1 has killed Александр Климов.
+[19:09:27]	Александр Климов has taken 100 damage from sniper1.
+[19:09:27]	sniper1 has killed Александр Климов.
+[19:10:00]	Александр Климов has spawned a 'Entity [597][ent_jack_gmod_ezarmor_htorso]'.
+[19:10:08]	Александр Климов has taken 60 damage from sniper1.
+[19:10:16]	Александр Климов has taken 60 damage from sniper1.
+[19:10:16]	sniper1 has killed Александр Климов.
+[19:10:33]	Александр Климов entered observer.
+[19:10:55]	Александр Климов exited observer at their location.
+[19:11:04]	Александр Климов entered observer.
+[19:11:19]	Александр Климов exited observer at their location.
+[19:11:42]	Александр Климов ran 'Equip' on item 'M9' (#307)
+[19:12:36]	Александр Климов ran 'Equip' on item 'FN Minimi' (#308)
+[19:35:41]	Александр Климов entered observer.
+[19:35:52]	Александр Климов exited observer at their location.
+[19:36:26]	Александр Климов ran 'drop' on item 'Чемодан' (#294)
+[19:36:26]	Александр Климов has lost a 'Чемодан' #294.
+[19:36:26]	Александр Климов has lost a 'ID Карточка' #295.
+[19:53:34]	Г@H3NK loaded the character 'MPF-RCT.76375'
+[19:56:57]	MPF-RCT.76375 used command '/CharGiveItem MPF ar22ammb'.
+[19:56:59]	MPF-RCT.76375 has gained a 'Магазин тёмной энергии' #309.
+[19:56:59]	MPF-RCT.76375 used command '/CharGiveItem MPF ar22ammo'.
+[19:57:27]	MPF-RCT.76375 ran 'use' on item 'Магазин тёмной энергии' (#309)
+[19:58:09]	Bot01 has connected.
+[19:58:09]	Bot01 loaded the character 'Bot01'
+[19:58:19]	Bot01 has taken 122 damage from MPF-RCT.76375.
+[19:58:27]	MPF-RCT.76375 ran 'Use' on item 'Наручники' (#256)
+[19:58:49]	MPF-RCT.76375 used command '/AreaEdit'.
+[19:58:55]	MPF-RCT.76375 entered observer.
+[20:00:05]	MPF-RCT.76375 exited observer at their location.
+[20:00:05]	MPF-RCT.76375 entered observer.
+[20:00:34]	MPF-RCT.76375 has added area "Улица Павловича".
+[20:01:16]	MPF-RCT.76375 has removed area "Улица Павловича".
+[20:01:42]	MPF-RCT.76375 has added area "Улица Павловича".
+[20:02:21]	MPF-RCT.76375 has gained 100 tokens.
+[20:02:44]	MPF-RCT.76375 exited observer at their location.
+[20:02:50]	Bot01 has taken 126 damage from MPF-RCT.76375.
+[20:02:51]	Bot01 has taken 124 damage from MPF-RCT.76375.
+[20:02:51]	MPF-RCT.76375 has killed Bot01 with arccw_m9.
+[20:03:37]	Bot01 has taken 125 damage from MPF-RCT.76375.
+[20:03:38]	Bot01 has taken 124 damage from MPF-RCT.76375.
+[20:03:38]	Bot01 has taken 123 damage from MPF-RCT.76375.
+[20:03:38]	MPF-RCT.76375 has killed Bot01 with arccw_m9.
+[20:07:21]	MPF-RCT.76375 has gained 100 tokens.
+[20:08:34]	Bot01 has taken 126 damage from MPF-RCT.76375.
+[20:08:35]	Bot01 has taken 125 damage from MPF-RCT.76375.
+[20:08:36]	Bot01 has taken 123 damage from MPF-RCT.76375.
+[20:08:36]	MPF-RCT.76375 has killed Bot01 with arccw_m9.
+[20:12:21]	MPF-RCT.76375 has gained 100 tokens.
+[20:17:21]	MPF-RCT.76375 has gained 100 tokens.
+[20:22:21]	MPF-RCT.76375 has gained 100 tokens.
+[20:27:21]	MPF-RCT.76375 has gained 100 tokens.
+[20:32:21]	MPF-RCT.76375 has gained 100 tokens.
+[20:37:21]	MPF-RCT.76375 has gained 100 tokens.
+[20:42:22]	MPF-RCT.76375 has gained 100 tokens.
+[20:47:22]	MPF-RCT.76375 has gained 100 tokens.
+[20:52:22]	MPF-RCT.76375 has gained 100 tokens.
+[20:57:22]	MPF-RCT.76375 has gained 100 tokens.
+[21:02:22]	MPF-RCT.76375 has gained 100 tokens.
+[21:07:22]	MPF-RCT.76375 has gained 100 tokens.
+[21:12:22]	MPF-RCT.76375 has gained 100 tokens.
+[21:17:22]	MPF-RCT.76375 has gained 100 tokens.
+[21:22:22]	MPF-RCT.76375 has gained 100 tokens.
+[21:27:22]	MPF-RCT.76375 has gained 100 tokens.
+[21:32:22]	MPF-RCT.76375 has gained 100 tokens.
+[21:36:26]	MPF-RCT.76375 entered observer.
+[21:36:27]	MPF-RCT.76375 exited observer at their location.
+[21:36:34]	MPF-RCT.76375 has spawned a 'NPC [594][monster_scientist]'.
+[21:37:23]	MPF-RCT.76375 has gained 100 tokens.
+[21:42:23]	MPF-RCT.76375 has gained 100 tokens.
+[21:45:13]	֍ Aime-moi ֍ has connected.
+[21:47:23]	MPF-RCT.76375 has gained 100 tokens.
+[21:47:23]	֍ Aime-moi ֍ loaded the character 'Август Крюгер'
+[21:47:24]	Август Крюгер entered observer.
+[21:49:18]	Август Крюгер has spawned a 'NPC [802][npc_citizen]'.
+[21:49:26]	Август Крюгер has spawned a 'NPC [818][npc_citizen]'.
+[21:49:41]	Август Крюгер exited observer at their location.
+[21:49:54]	MPF-RCT.76375 ran 'drop' on item 'M9' (#300)
+[21:49:54]	MPF-RCT.76375 has lost a 'M9' #300.
+[21:50:04]	MPF-RCT.76375 has taken 64 damage from Август Крюгер.
+[21:50:05]	MPF-RCT.76375 has taken 64 damage from Август Крюгер.
+[21:50:05]	Август Крюгер has killed MPF-RCT.76375 with arccw_p228.
+[21:50:09]	Август Крюгер entered observer.
+[21:50:11]	Август Крюгер exited observer at their location.
+[21:50:24]	MPF-RCT.76375 entered observer.
+[21:50:29]	MPF-RCT.76375 exited observer at their location.
+[21:51:03]	MPF-RCT.76375 entered observer.
+[21:51:10]	MPF-RCT.76375 ran 'drop' on item 'ID Карточка' (#263)
+[21:51:10]	MPF-RCT.76375 has lost a 'ID Карточка' #263.
+[21:51:11]	MPF-RCT.76375 ran 'drop' on item 'ID Карточка' (#264)
+[21:51:11]	MPF-RCT.76375 has lost a 'ID Карточка' #264.
+[21:51:12]	MPF-RCT.76375 ran 'drop' on item 'ID Карточка' (#258)
+[21:51:12]	MPF-RCT.76375 has lost a 'ID Карточка' #258.
+[21:51:13]	MPF-RCT.76375 ran 'drop' on item 'ID Карточка' (#257)
+[21:51:13]	MPF-RCT.76375 has lost a 'ID Карточка' #257.
+[21:51:17]	MPF-RCT.76375 exited observer at their location.
+[21:52:18]	Август Крюгер entered observer.
+[21:52:23]	MPF-RCT.76375 has gained 100 tokens.
+[21:52:38]	MPF-RCT.76375 has gained a 'M9' #309.
+[21:52:38]	MPF-RCT.76375 used command '/CharGiveItem MPF m9'.
+[21:52:40]	MPF-RCT.76375 ran 'Equip' on item 'M9' (#309)
+[21:52:43]	Август Крюгер exited observer at their location.
+[21:52:44]	Август Крюгер entered observer.
+[21:53:17]	Август Крюгер has spawned a 'NPC [356][npc_combine_s]'.
+[21:53:25]	Август Крюгер has spawned a 'NPC [356][npc_combine_s]'.
+[21:53:33]	Август Крюгер has spawned a 'NPC [608][npc_combine_s]'.
+[21:53:38]	MPF-RCT.76375 has taken 3 damage from npc_combine_s.
+[21:53:38]	MPF-RCT.76375 has taken 15 damage from npc_combine_s.
+[21:54:06]	MPF-RCT.76375 has taken 69 damage from Август Крюгер.
+[21:54:13]	MPF-RCT.76375 ran 'use' on item 'Коробочка 9×19 мм патронов' (#253)
+[21:54:14]	MPF-RCT.76375 has taken 74 damage from Август Крюгер.
+[21:54:14]	Август Крюгер has killed MPF-RCT.76375 with ix_hands.
+[21:54:31]	MPF-RCT.76375 entered observer.
+[21:54:32]	MPF-RCT.76375 exited observer at their location.
+[21:54:33]	MPF-RCT.76375 entered observer.
+[21:54:38]	MPF-RCT.76375 exited observer at their location.
+[21:54:40]	Август Крюгер exited observer at their location.
+[21:54:40]	MPF-RCT.76375 ran 'Equip' on item 'M9' (#309)
+[21:54:41]	MPF-RCT.76375 ran 'use' on item 'Коробочка 9×19 мм патронов' (#254)
+[21:54:45]	MPF-RCT.76375 has taken 51 damage from Август Крюгер.
+[21:54:49]	MPF-RCT.76375 has taken 51 damage from Август Крюгер.
+[21:54:55]	Август Крюгер has taken 28 damage from worldspawn.
+[21:55:02]	Август Крюгер entered observer.
+[21:55:03]	Август Крюгер exited observer at their location.
+[21:55:08]	MPF-RCT.76375 has spawned a 'Entity [707][ent_jack_gmod_ezfragnade]'.
+[21:55:09]	Август Крюгер entered observer.
+[21:55:10]	Август Крюгер exited observer at their location.
+[21:55:11]	MPF-RCT.76375 has taken 47 damage from Август Крюгер.
+[21:55:20]	Август Крюгер has spawned a 'Entity [608][ent_jack_gmod_ezimpactnade]'.
+[21:55:30]	Август Крюгер entered observer.
+[21:55:30]	Август Крюгер exited observer at their location.
+[21:55:36]	Август Крюгер entered observer.
+[21:55:36]	Август Крюгер exited observer at their location.
+[21:55:40]	Август Крюгер entered observer.
+[21:55:40]	Август Крюгер exited observer at their location.
+[21:55:48]	Август Крюгер entered observer.
+[21:55:49]	Август Крюгер exited observer at their location.
+[21:56:03]	Август Крюгер has spawned a 'Entity [608][ent_jack_gmod_eznade_timed]'.
+[21:56:08]	Август Крюгер has taken 46 damage from MPF-RCT.76375.
+[21:56:14]	MPF-RCT.76375 has taken 43 damage from Август Крюгер.
+[21:56:14]	Август Крюгер has killed MPF-RCT.76375 with arccw_makarov.
+[21:56:19]	Август Крюгер entered observer.
+[21:56:20]	Август Крюгер exited observer at their location.
+[21:56:21]	Август Крюгер entered observer.
+[21:56:22]	Август Крюгер exited observer at their location.
+[21:56:38]	MPF-RCT.76375 entered observer.
+[21:56:40]	MPF-RCT.76375 exited observer at their location.
+[21:56:47]	MPF-RCT.76375 entered observer.
+[21:56:51]	MPF-RCT.76375 exited observer at their location.
+[21:56:54]	MPF-RCT.76375 ran 'Equip' on item 'M9' (#309)
+[21:57:01]	Август Крюгер entered observer.
+[21:57:05]	Август Крюгер exited observer at their location.
+[21:57:15]	Август Крюгер has taken 51 damage from MPF-RCT.76375.
+[21:57:15]	MPF-RCT.76375 has killed Август Крюгер with arccw_m9.
+[21:57:20]	֍ Aime-moi ֍ loaded the character 'OTA-ECHO.OWS-34096'
+[21:57:23]	MPF-RCT.76375 has gained 100 tokens.
+[21:57:23]	OTA-ECHO.OWS-34096 entered observer.
+[21:57:33]	OTA-ECHO.OWS-34096 exited observer at their location.
+[21:57:34]	OTA-ECHO.OWS-34096 has taken 21 damage from worldspawn.
+[21:57:34]	OTA-ECHO.OWS-34096 entered observer.
+[21:57:40]	OTA-ECHO.OWS-34096 exited observer at their location.
+[21:57:43]	OTA-ECHO.OWS-34096 entered observer.
+[21:57:46]	OTA-ECHO.OWS-34096 exited observer at their location.
+[21:57:52]	MPF-RCT.76375 has taken 60 damage from OTA-ECHO.OWS-34096.
+[21:57:52]	MPF-RCT.76375 has taken 60 damage from OTA-ECHO.OWS-34096.
+[21:57:58]	MPF-RCT.76375 has taken 61 damage from OTA-ECHO.OWS-34096.
+[21:57:58]	OTA-ECHO.OWS-34096 has killed MPF-RCT.76375 with arccw_galil556.
+[21:58:16]	MPF-RCT.76375 ran 'Equip' on item 'M9' (#309)
+[21:58:31]	OTA-ECHO.OWS-34096 entered observer.
+[21:58:38]	OTA-ECHO.OWS-34096 exited observer at their location.
+[21:58:40]	OTA-ECHO.OWS-34096 entered observer.
+[21:58:51]	OTA-ECHO.OWS-34096 exited observer at their location.
+[21:58:53]	MPF-RCT.76375 has taken 61 damage from OTA-ECHO.OWS-34096.
+[21:59:06]	OTA-ECHO.OWS-34096 entered observer.
+[21:59:08]	OTA-ECHO.OWS-34096 exited observer at their location.
+[21:59:11]	MPF-RCT.76375 has taken 119 damage from OTA-ECHO.OWS-34096.
+[21:59:11]	OTA-ECHO.OWS-34096 has killed MPF-RCT.76375 with arccw_m60.
+[21:59:20]	OTA-ECHO.OWS-34096 entered observer.
+[21:59:21]	OTA-ECHO.OWS-34096 exited observer at their location.
+[21:59:33]	MPF-RCT.76375 entered observer.
+[21:59:40]	MPF-RCT.76375 exited observer at their location.
+[21:59:42]	OTA-ECHO.OWS-34096 entered observer.
+[21:59:45]	OTA-ECHO.OWS-34096 exited observer at their location.
+[21:59:46]	OTA-ECHO.OWS-34096 entered observer.
+[21:59:54]	OTA-ECHO.OWS-34096 exited observer at their location.
+[21:59:54]	MPF-RCT.76375 has gained a 'P90' #310.
+[21:59:54]	MPF-RCT.76375 used command '/CharGiveItem MPF p90'.
+[21:59:57]	MPF-RCT.76375 ran 'Equip' on item 'P90' (#310)
+[22:00:03]	MPF-RCT.76375 has taken 113 damage from OTA-ECHO.OWS-34096.
+[22:00:09]	MPF-RCT.76375 has taken 114 damage from OTA-ECHO.OWS-34096.
+[22:00:09]	OTA-ECHO.OWS-34096 has killed MPF-RCT.76375 with arccw_m60.
+[22:00:09]	OTA-ECHO.OWS-34096 has taken 11 damage from MPF-RCT.76375.
+[22:00:25]	֍ Aime-moi ֍ created the character 'Cerf'
+[22:00:25]	Cerf has gained a 'HK UMP-45' #311.
+[22:00:25]	Cerf has gained a 'Ящик 9×19 мм патронов' #312.
+[22:00:25]	Cerf has gained a 'Ящик 9×19 мм патронов' #313.
+[22:00:29]	֍ Aime-moi ֍ loaded the character 'Cerf'
+[22:00:30]	MPF-RCT.76375 entered observer.
+[22:00:30]	Cerf entered observer.
+[22:00:32]	MPF-RCT.76375 exited observer at their location.
+[22:00:52]	MPF-RCT.76375 ran 'Equip' on item 'M9' (#309)
+[22:00:53]	MPF-RCT.76375 ran 'Equip' on item 'P90' (#310)
+[22:01:44]	Cerf used command '/CharSetModel Cerf models/humans/group03m/male_61.mdl'.
+[22:01:47]	Cerf exited observer at their location.
+[22:02:17]	MPF-RCT.76375 has taken 21 damage from Cerf.
+[22:02:17]	MPF-RCT.76375 has taken 23 damage from Cerf.
+[22:02:17]	Cerf has taken 13 damage from MPF-RCT.76375.
+[22:02:20]	Cerf has taken 34 damage from worldspawn.
+[22:02:21]	Cerf has taken 105 damage from MPF-RCT.76375.
+[22:02:21]	MPF-RCT.76375 has killed Cerf with arccw_p90.
+[22:02:25]	MPF-RCT.76375 has gained 100 tokens.
+[22:02:37]	Cerf entered observer.
+[22:02:58]	Cerf exited observer at their location.
+[22:03:02]	MPF-RCT.76375 has taken 108 damage from Cerf.
+[22:03:02]	Cerf has killed MPF-RCT.76375 with arccw_mifl_fas2_sr25.
+[22:03:06]	Cerf entered observer.
+[22:03:09]	Cerf exited observer at their location.
+[22:03:44]	MPF-RCT.76375 ran 'Equip' on item 'M9' (#309)
+[22:03:45]	MPF-RCT.76375 ran 'Equip' on item 'P90' (#310)
+[22:03:45]	MPF-RCT.76375 entered observer.
+[22:03:46]	Cerf entered observer.
+[22:03:52]	MPF-RCT.76375 exited observer at their location.
+[22:03:56]	Cerf exited observer at their location.
+[22:03:58]	Cerf has taken 44 damage from MPF-RCT.76375.
+[22:03:58]	Cerf has taken 11 damage from MPF-RCT.76375.
+[22:04:04]	MPF-RCT.76375 has taken 144 damage from Cerf.
+[22:04:15]	Cerf entered observer.
+[22:04:16]	Cerf exited observer at their location.
+[22:04:23]	Cerf entered observer.
+[22:04:23]	Cerf exited observer at their location.
+[22:04:31]	MPF-RCT.76375 has taken 146 damage from Cerf.
+[22:04:31]	Cerf has killed MPF-RCT.76375 with arccw_mifl_fas2_sr25.
+[22:04:48]	Cerf entered observer.
+[22:04:49]	MPF-RCT.76375 entered observer.
+[22:04:50]	Cerf exited observer at their location.
+[22:04:53]	MPF-RCT.76375 exited observer at their location.
+[22:04:55]	MPF-RCT.76375 entered observer.
+[22:05:01]	MPF-RCT.76375 exited observer at their location.
+[22:05:03]	MPF-RCT.76375 ran 'Equip' on item 'M9' (#309)
+[22:05:03]	Cerf entered observer.
+[22:05:06]	Cerf exited observer at their location.
+[22:05:46]	Cerf has taken 55 damage from MPF-RCT.76375.
+[22:05:46]	MPF-RCT.76375 has killed Cerf with arccw_m9.
+[22:06:03]	Cerf entered observer.
+[22:06:12]	Cerf exited observer at their location.
+[22:06:15]	Cerf has spawned a 'Entity [742][arccw_ammo_ar2_large]'.
+[22:06:17]	Cerf has spawned a 'Entity [742][arccw_ammo_357_large]'.
+[22:06:18]	Cerf has spawned a 'Entity [746][arccw_ammo_sniper_large]'.
+[22:06:31]	Cerf entered observer.
+[22:06:31]	Cerf exited observer at their location.
+[22:06:32]	Cerf entered observer.
+[22:06:33]	Cerf exited observer at their location.
+[22:06:41]	Cerf entered observer.
+[22:06:41]	Cerf exited observer at their location.
+[22:06:48]	Cerf entered observer.
+[22:06:48]	Cerf exited observer at their location.
+[22:06:53]	Cerf has taken 91 damage from MPF-RCT.76375.
+[22:07:03]	Cerf entered observer.
+[22:07:03]	Cerf exited observer at their location.
+[22:07:07]	MPF-RCT.76375 ran 'Equip' on item 'P90' (#310)
+[22:07:09]	Cerf entered observer.
+[22:07:09]	Cerf exited observer at their location.
+[22:07:20]	Cerf has taken 12 damage from MPF-RCT.76375.
+[22:07:20]	MPF-RCT.76375 has killed Cerf with arccw_p90.
+[22:07:27]	MPF-RCT.76375 has gained 100 tokens.
+[22:07:36]	Cerf entered observer.
+[22:07:48]	Cerf exited observer at their location.
+[22:07:52]	Cerf entered observer.
+[22:07:55]	Cerf exited observer at their location.
+[22:07:56]	Cerf entered observer.
+[22:08:04]	Cerf exited observer at their location.
+[22:08:06]	MPF-RCT.76375 has taken 180 damage from Cerf.
+[22:08:06]	Cerf has killed MPF-RCT.76375 with arccw_mifl_fas2_ragingbull.
+[22:08:16]	Cerf entered observer.
+[22:08:18]	Cerf exited observer at their location.
+[22:08:25]	MPF-RCT.76375 ran 'Equip' on item 'M9' (#309)
+[22:08:26]	MPF-RCT.76375 ran 'Equip' on item 'P90' (#310)
+[22:08:35]	MPF-RCT.76375 entered observer.
+[22:08:42]	MPF-RCT.76375 exited observer at their location.
+[22:08:52]	Cerf entered observer.
+[22:08:55]	Cerf exited observer at their location.
+[22:08:56]	MPF-RCT.76375 has taken 11 damage from Cerf.
+[22:08:56]	MPF-RCT.76375 has taken 11 damage from Cerf.
+[22:08:56]	MPF-RCT.76375 has taken 11 damage from Cerf.
+[22:08:56]	MPF-RCT.76375 has taken 11 damage from Cerf.
+[22:08:56]	MPF-RCT.76375 has taken 11 damage from Cerf.
+[22:08:57]	Cerf has taken 12 damage from MPF-RCT.76375.
+[22:09:07]	Cerf entered observer.
+[22:09:07]	Cerf exited observer at their location.
+[22:09:12]	Cerf entered observer.
+[22:09:13]	Cerf exited observer at their location.
+[22:09:22]	Cerf entered observer.
+[22:09:22]	Cerf exited observer at their location.
+[22:09:30]	Cerf entered observer.
+[22:09:31]	Cerf exited observer at their location.
+[22:09:35]	Cerf entered observer.
+[22:09:35]	Cerf exited observer at their location.
+[22:09:38]	Cerf entered observer.
+[22:09:38]	Cerf exited observer at their location.
+[22:09:43]	Cerf has spawned a 'Entity [707][arccw_ammo_buckshot_large]'.
+[22:09:48]	Cerf has spawned a 'NPC [707][npc_citizen]'.
+[22:09:49]	Cerf entered observer.
+[22:09:50]	Cerf exited observer at their location.
+[22:09:55]	Cerf has spawned a 'NPC [707][npc_citizen]'.
+[22:09:59]	Cerf has spawned a 'NPC [802][npc_citizen]'.
+[22:09:59]	Cerf entered observer.
+[22:09:59]	Cerf exited observer at their location.
+[22:10:03]	Cerf has spawned a 'NPC [819][npc_citizen]'.
+[22:10:04]	Cerf has spawned a 'NPC [616][npc_citizen]'.
+[22:10:05]	Cerf entered observer.
+[22:10:06]	Cerf exited observer at their location.
+[22:10:09]	Cerf has taken 13 damage from MPF-RCT.76375.
+[22:10:09]	Cerf has taken 108 damage from MPF-RCT.76375.
+[22:10:09]	MPF-RCT.76375 has killed Cerf with arccw_p90.
+[22:10:26]	Cerf entered observer.
+[22:10:36]	Cerf has spawned a 'NPC [746][npc_citizen]'.
+[22:10:49]	Cerf exited observer at their location.
+[22:11:04]	Cerf has taken 62 damage from MPF-RCT.76375.
+[22:11:05]	Cerf has taken 61 damage from MPF-RCT.76375.
+[22:11:05]	MPF-RCT.76375 has killed Cerf with arccw_m9.
+[22:11:26]	Cerf entered observer.
+[22:11:36]	Cerf exited observer at their location.
+[22:11:42]	Cerf entered observer.
+[22:11:43]	Cerf exited observer at their location.
+[22:11:43]	Cerf entered observer.
+[22:11:44]	Cerf exited observer at their location.
+[22:11:44]	Cerf entered observer.
+[22:11:48]	Cerf exited observer at their location.
+[22:11:52]	Cerf entered observer.
+[22:11:52]	Cerf exited observer at their location.
+[22:11:54]	Cerf entered observer.
+[22:11:54]	Cerf exited observer at their location.
+[22:12:02]	Cerf entered observer.
+[22:12:02]	Cerf exited observer at their location.
+[22:12:11]	Cerf has taken 48 damage from MPF-RCT.76375.
+[22:12:11]	MPF-RCT.76375 has taken 18 damage from Cerf.
+[22:12:11]	MPF-RCT.76375 has taken 18 damage from Cerf.
+[22:12:11]	MPF-RCT.76375 has taken 18 damage from Cerf.
+[22:12:11]	MPF-RCT.76375 has taken 19 damage from Cerf.
+[22:12:11]	Cerf entered observer.
+[22:12:12]	Cerf exited observer at their location.
+[22:12:17]	Cerf entered observer.
+[22:12:18]	Cerf exited observer at their location.
+[22:12:23]	Cerf entered observer.
+[22:12:24]	Cerf exited observer at their location.
+[22:12:25]	MPF-RCT.76375 has taken 12 damage from Cerf.
+[22:12:25]	MPF-RCT.76375 has taken 12 damage from Cerf.
+[22:12:25]	Cerf has killed MPF-RCT.76375 with arccw_mifl_fas2_m3.
+[22:12:29]	MPF-RCT.76375 has gained 100 tokens.
+[22:12:49]	Cerf entered observer.
+[22:12:51]	Cerf exited observer at their location.
+[22:12:55]	Bot01 has taken 8 damage from MPF-RCT.76375.
+[22:12:56]	Bot01 has taken 8 damage from MPF-RCT.76375.
+[22:12:58]	Bot01 has taken 5 damage from MPF-RCT.76375.
+[22:12:59]	Bot01 has taken 5 damage from MPF-RCT.76375.
+[22:12:59]	Cerf entered observer.
+[22:13:00]	Cerf exited observer at their location.
+[22:13:04]	Cerf has spawned a 'Entity [763][arccw_ammo_buckshot_large]'.
+[22:13:08]	Bot01 has taken 6 damage from MPF-RCT.76375.
+[22:13:09]	Bot01 has taken 6 damage from MPF-RCT.76375.
+[22:13:12]	Bot01 has taken 63 damage from MPF-RCT.76375.
+[22:13:15]	Bot01 has taken 88 damage from MPF-RCT.76375.
+[22:13:17]	Bot01 has taken 88 damage from MPF-RCT.76375.
+[22:13:20]	Bot01 has taken 88 damage from MPF-RCT.76375.
+[22:13:20]	MPF-RCT.76375 has killed Bot01 with meleearts_axe_hatchet.
+[22:13:33]	Cerf entered observer.
+[22:13:34]	Cerf exited observer at their location.
+[22:13:35]	MPF-RCT.76375 ran 'Equip' on item 'M9' (#309)
+[22:13:42]	MPF-RCT.76375 entered observer.
+[22:13:46]	MPF-RCT.76375 exited observer at their location.
+[22:13:54]	Cerf entered observer.
+[22:13:55]	Cerf exited observer at their location.
+[22:14:04]	Cerf has taken 46 damage from MPF-RCT.76375.
+[22:14:04]	Cerf has taken 91 damage from MPF-RCT.76375.
+[22:14:04]	MPF-RCT.76375 has killed Cerf with arccw_m9.
+[22:14:07]	Cerf used command '/CharSetModel Cerf models/Humans/Group03/male_07.mdl'.
+[22:14:20]	Cerf entered observer.
+[22:14:29]	Cerf exited observer at their location.
+[22:14:32]	Cerf entered observer.
+[22:14:34]	Cerf exited observer at their location.
+[22:14:35]	Cerf has spawned a 'Entity [356][arccw_ammo_357_large]'.
+[22:14:37]	Cerf entered observer.
+[22:14:37]	Cerf has spawned a 'Entity [356][arccw_ammo_buckshot_large]'.
+[22:14:47]	Cerf has spawned a 'NPC [356][npc_citizen]'.
+[22:14:53]	Cerf has spawned a 'NPC [652][npc_citizen]'.
+[22:14:54]	Cerf has spawned a 'NPC [356][npc_citizen]'.
+[22:14:55]	Cerf has spawned a 'NPC [816][npc_citizen]'.
+[22:14:56]	Cerf has spawned a 'NPC [822][npc_citizen]'.
+[22:14:57]	Cerf exited observer at their location.
+[22:15:04]	Cerf entered observer.
+[22:15:06]	Cerf exited observer at their location.
+[22:15:06]	Cerf entered observer.
+[22:15:07]	Cerf exited observer at their location.
+[22:15:09]	Cerf has spawned a 'NPC [829][npc_citizen]'.
+[22:15:10]	Cerf has spawned a 'NPC [836][npc_citizen]'.
+[22:15:11]	Cerf has spawned a 'NPC [827][npc_citizen]'.
+[22:15:12]	Cerf has spawned a 'NPC [819][npc_citizen]'.
+[22:15:14]	Cerf has spawned a 'NPC [815][npc_citizen]'.
+[22:15:16]	Cerf has spawned a 'NPC [845][npc_citizen]'.
+[22:15:16]	Cerf entered observer.
+[22:15:17]	Cerf exited observer at their location.
+[22:15:40]	Cerf entered observer.
+[22:15:41]	Cerf exited observer at their location.
+[22:15:59]	Cerf entered observer.
+[22:15:59]	Cerf exited observer at their location.
+[22:16:12]	Cerf entered observer.
+[22:16:13]	Cerf exited observer at their location.
+[22:16:18]	Cerf entered observer.
+[22:16:18]	Cerf exited observer at their location.
+[22:16:38]	Cerf entered observer.
+[22:16:39]	Cerf exited observer at their location.
+[22:16:39]	Cerf entered observer.
+[22:16:40]	Cerf exited observer at their location.
+[22:16:50]	Cerf entered observer.
+[22:16:51]	Cerf exited observer at their location.
+[22:16:56]	Cerf entered observer.
+[22:16:57]	Cerf exited observer at their location.
+[22:17:09]	MPF-RCT.76375 has taken 34 damage from Cerf.
+[22:17:09]	MPF-RCT.76375 has taken 33 damage from Cerf.
+[22:17:09]	MPF-RCT.76375 has taken 33 damage from Cerf.
+[22:17:09]	MPF-RCT.76375 has taken 33 damage from Cerf.
+[22:17:09]	MPF-RCT.76375 has taken 33 damage from Cerf.
+[22:17:09]	Cerf has killed MPF-RCT.76375 with arccw_mifl_fas2_ragingbull.
+[22:17:29]	MPF-RCT.76375 has gained 100 tokens.
+[22:17:34]	MPF-RCT.76375 ran 'Equip' on item 'M9' (#309)
+[22:17:36]	Cerf entered observer.
+[22:17:40]	MPF-RCT.76375 entered observer.
+[22:17:45]	MPF-RCT.76375 exited observer at their location.
+[22:17:49]	Cerf exited observer at their location.
+[22:17:53]	MPF-RCT.76375 has taken 31 damage from Cerf.
+[22:17:56]	Cerf entered observer.
+[22:17:57]	Cerf exited observer at their location.
+[22:17:59]	Cerf has taken 16 damage from MPF-RCT.76375.
+[22:17:59]	Cerf has taken 16 damage from MPF-RCT.76375.
+[22:18:00]	Cerf has taken 15 damage from MPF-RCT.76375.
+[22:18:00]	Cerf has taken 15 damage from MPF-RCT.76375.
+[22:18:00]	MPF-RCT.76375 has taken 32 damage from Cerf.
+[22:18:00]	MPF-RCT.76375 has taken 32 damage from Cerf.
+[22:18:00]	MPF-RCT.76375 has taken 32 damage from Cerf.
+[22:18:00]	MPF-RCT.76375 has taken 32 damage from Cerf.
+[22:18:00]	Cerf has killed MPF-RCT.76375 with arccw_mifl_fas2_ragingbull.
+[22:18:00]	Cerf has taken 62 damage from MPF-RCT.76375.
+[22:18:00]	MPF-RCT.76375 has killed Cerf with ix_hands.
+[22:18:26]	Cerf has spawned a 'Entity [770][arccw_ammo_buckshot_large]'.
+[22:18:34]	Bot01 has taken 8 damage from Cerf.
+[22:18:34]	Bot01 has taken 8 damage from Cerf.
+[22:18:34]	Bot01 has taken 8 damage from Cerf.
+[22:18:34]	Bot01 has taken 8 damage from Cerf.
+[22:18:34]	Bot01 has taken 8 damage from Cerf.
+[22:18:34]	Bot01 has taken 8 damage from Cerf.
+[22:18:34]	Bot01 has taken 8 damage from Cerf.
+[22:18:34]	Bot01 has taken 8 damage from Cerf.
+[22:18:34]	Bot01 has taken 8 damage from Cerf.
+[22:18:43]	Bot01 has taken 33 damage from Cerf.
+[22:18:43]	Bot01 has taken 33 damage from Cerf.
+[22:18:43]	Bot01 has taken 33 damage from Cerf.
+[22:18:43]	Bot01 has taken 33 damage from Cerf.
+[22:18:43]	Bot01 has taken 33 damage from Cerf.
+[22:18:43]	Bot01 has taken 33 damage from Cerf.
+[22:18:43]	Bot01 has taken 33 damage from Cerf.
+[22:18:43]	Cerf has killed Bot01 with arccw_mifl_fas2_ragingbull.
+[22:18:49]	MPF-RCT.76375 ran 'Equip' on item 'M9' (#309)
+[22:18:55]	MPF-RCT.76375 has taken 32 damage from Cerf.
+[22:18:55]	MPF-RCT.76375 has taken 32 damage from Cerf.
+[22:18:55]	MPF-RCT.76375 has taken 32 damage from Cerf.
+[22:18:55]	MPF-RCT.76375 has taken 32 damage from Cerf.
+[22:18:55]	MPF-RCT.76375 has taken 32 damage from Cerf.
+[22:18:55]	Cerf has killed MPF-RCT.76375 with arccw_mifl_fas2_ragingbull.
+[22:18:59]	Cerf entered observer.
+[22:19:01]	Bot01 has taken 65 damage from Cerf.
+[22:19:01]	Bot01 has taken 8 damage from Cerf.
+[22:19:01]	Bot01 has taken 32 damage from Cerf.
+[22:19:01]	Bot01 has taken 65 damage from Cerf.
+[22:19:01]	Bot01 has taken 65 damage from Cerf.
+[22:19:01]	Bot01 has taken 65 damage from Cerf.
+[22:19:01]	Cerf has killed Bot01 with arccw_mifl_fas2_ragingbull.
+[22:19:03]	Cerf exited observer at their location.
+[22:19:07]	Cerf entered observer.
+[22:19:24]	MPF-RCT.76375 has taken 32 damage from Cerf.
+[22:19:24]	MPF-RCT.76375 has taken 32 damage from Cerf.
+[22:19:24]	MPF-RCT.76375 has taken 32 damage from Cerf.
+[22:19:24]	MPF-RCT.76375 has taken 32 damage from Cerf.
+[22:19:24]	MPF-RCT.76375 has taken 32 damage from Cerf.
+[22:19:24]	Cerf has killed MPF-RCT.76375 with arccw_mifl_fas2_ragingbull.
+[22:19:27]	Г@H3NK loaded the character 'Александр Климов'
+[22:19:50]	Cerf has spawned a 'NPC [770][npc_rollermine]'.
+[22:19:54]	Александр Климов has taken 10 damage from npc_rollermine.
+[22:19:54]	Александр Климов has taken 10 damage from npc_rollermine.
+[22:19:57]	Александр Климов has taken 100 damage from sniper1.
+[22:19:57]	sniper1 has killed Александр Климов.
+[22:20:19]	Cerf has spawned a 'NPC [608][npc_rollermine]'.
+[22:20:40]	Cerf has spawned a 'NPC [813][npc_rollermine]'.
+[22:20:45]	Cerf has spawned a 'NPC [608][npc_rollermine]'.
+[22:20:49]	Cerf has spawned a 'NPC [616][npc_rollermine]'.
+[22:20:51]	Александр Климов has taken 10 damage from npc_rollermine.
+[22:20:56]	Александр Климов has taken 10 damage from npc_rollermine.
+[22:21:00]	Александр Климов has taken 10 damage from npc_rollermine.
+[22:21:05]	Александр Климов has taken 10 damage from npc_rollermine.
+[22:21:05]	Александр Климов has taken 10 damage from npc_rollermine.
+[22:21:10]	Александр Климов has taken 10 damage from npc_rollermine.
+[22:21:10]	Александр Климов has taken 5 damage from npc_rollermine.
+[22:21:15]	Александр Климов has taken 10 damage from npc_rollermine.
+[22:21:15]	Александр Климов has taken 10 damage from npc_rollermine.
+[22:21:18]	Cerf has spawned a 'NPC [616][npc_rollermine]'.
+[22:21:20]	Bot01 has taken 10 damage from npc_rollermine.
+[22:21:20]	Bot01 has taken 5 damage from npc_rollermine.
+[22:21:25]	Bot01 has taken 10 damage from npc_rollermine.
+[22:21:25]	Bot01 has taken 10 damage from npc_rollermine.
+[22:21:28]	Cerf has spawned a 'NPC [608][npc_turret_floor]'.
+[22:21:30]	Cerf has spawned a 'NPC [608][npc_turret_floor]'.
+[22:21:32]	Bot01 has taken 3 damage from npc_turret_floor.
+[22:21:33]	Bot01 has taken 3 damage from npc_turret_floor.
+[22:21:33]	Bot01 has taken 3 damage from npc_turret_floor.
+[22:21:33]	Bot01 has taken 3 damage from npc_turret_floor.
+[22:21:33]	Bot01 has taken 3 damage from npc_turret_floor.
+[22:21:34]	Bot01 has taken 1 damage from npc_turret_floor.
+[22:21:34]	Bot01 has taken 3 damage from npc_turret_floor.
+[22:21:34]	Bot01 has taken 3 damage from npc_turret_floor.
+[22:21:34]	Bot01 has taken 6 damage from npc_turret_floor.
+[22:21:35]	Bot01 has taken 3 damage from npc_turret_floor.
+[22:21:35]	Bot01 has taken 6 damage from npc_turret_floor.
+[22:21:35]	Bot01 has taken 3 damage from npc_turret_floor.
+[22:21:35]	Bot01 has taken 3 damage from npc_turret_floor.
+[22:21:36]	Bot01 has taken 3 damage from npc_turret_floor.
+[22:21:36]	Bot01 has taken 3 damage from npc_turret_floor.
+[22:21:36]	Bot01 has taken 6 damage from npc_turret_floor.
+[22:21:36]	Bot01 has taken 3 damage from npc_turret_floor.
+[22:21:36]	Bot01 has taken 3 damage from npc_turret_floor.
+[22:21:36]	Bot01 has taken 6 damage from npc_turret_floor.
+[22:21:37]	Bot01 has taken 3 damage from npc_turret_floor.
+[22:21:37]	Bot01 has taken 3 damage from npc_turret_floor.
+[22:21:37]	Bot01 has taken 6 damage from npc_turret_floor.
+[22:21:38]	Bot01 has taken 6 damage from npc_turret_floor.
+[22:21:38]	Bot01 has taken 6 damage from npc_turret_floor.
+[22:21:38]	Bot01 has taken 6 damage from npc_turret_floor.
+[22:21:39]	Bot01 has taken 3 damage from npc_turret_floor.
+[22:21:39]	Bot01 has taken 3 damage from npc_turret_floor.
+[22:21:40]	Bot01 has taken 3 damage from npc_turret_floor.
+[22:21:40]	Bot01 has taken 3 damage from npc_turret_floor.
+[22:21:40]	Bot01 has taken 3 damage from npc_turret_floor.
+[22:21:41]	Bot01 has taken 3 damage from npc_turret_floor.
+[22:21:41]	Bot01 has taken 3 damage from npc_turret_floor.
+[22:21:41]	Bot01 has taken 6 damage from npc_turret_floor.
+[22:21:41]	Bot01 has taken 3 damage from npc_turret_floor.
+[22:21:41]	Bot01 has taken 3 damage from npc_turret_floor.
+[22:21:42]	Bot01 has taken 1 damage from npc_turret_floor.
+[22:21:42]	Bot01 has taken 1 damage from npc_turret_floor.
+[22:21:42]	Bot01 has taken 1 damage from npc_turret_floor.
+[22:21:42]	Bot01 has taken 3 damage from npc_turret_floor.
+[22:21:42]	Bot01 has taken 6 damage from npc_turret_floor.
+[22:21:43]	Bot01 has taken 3 damage from npc_turret_floor.
+[22:21:43]	Bot01 has taken 1 damage from npc_turret_floor.
+[22:21:43]	Bot01 has taken 1 damage from npc_turret_floor.
+[22:21:43]	Bot01 has taken 3 damage from npc_turret_floor.
+[22:21:43]	Bot01 has taken 6 damage from npc_turret_floor.
+[22:21:43]	Bot01 has taken 1 damage from npc_turret_floor.
+[22:21:43]	Bot01 has taken 6 damage from npc_turret_floor.
+[22:21:44]	Bot01 has taken 6 damage from npc_turret_floor.
+[22:21:44]	Bot01 has taken 3 damage from npc_turret_floor.
+[22:21:45]	Bot01 has taken 1 damage from npc_turret_floor.
+[22:21:45]	Bot01 has taken 1 damage from npc_turret_floor.
+[22:21:45]	Bot01 has taken 3 damage from npc_turret_floor.
+[22:21:45]	Bot01 has taken 3 damage from npc_turret_floor.
+[22:21:45]	Bot01 has taken 1 damage from npc_turret_floor.
+[22:21:45]	Bot01 has taken 3 damage from npc_turret_floor.
+[22:21:46]	Bot01 has taken 3 damage from npc_turret_floor.
+[22:21:46]	Bot01 has taken 6 damage from npc_turret_floor.
+[22:21:46]	Bot01 has taken 3 damage from npc_turret_floor.
+[22:21:46]	Bot01 has taken 6 damage from npc_turret_floor.
+[22:21:46]	Bot01 has taken 3 damage from npc_turret_floor.
+[22:21:46]	Bot01 has taken 3 damage from npc_turret_floor.
+[22:21:47]	Bot01 has taken 1 damage from npc_turret_floor.
+[22:21:47]	Bot01 has taken 1 damage from npc_turret_floor.
+[22:21:47]	Bot01 has taken 6 damage from npc_turret_floor.
+[22:21:47]	Bot01 has taken 1 damage from npc_turret_floor.
+[22:21:48]	Bot01 has taken 6 damage from npc_turret_floor.
+[22:21:48]	Bot01 has taken 3 damage from npc_turret_floor.
+[22:21:48]	Bot01 has taken 3 damage from npc_turret_floor.
+[22:21:48]	npc_turret_floor has killed Bot01.
+[22:21:55]	Cerf has spawned a 'Entity [598][item_healthkit]'.
+[22:21:55]	Cerf has spawned a 'Entity [607][item_healthkit]'.
+[22:21:56]	Cerf has spawned a 'Entity [598][item_healthkit]'.
+[22:21:57]	Cerf has spawned a 'Entity [609][item_healthkit]'.
+[22:21:59]	Cerf has spawned a 'NPC [598][npc_rollermine]'.
+[22:22:05]	Bot01 has taken 10 damage from npc_rollermine.
+[22:22:05]	Bot01 has taken 10 damage from npc_rollermine.
+[22:22:06]	Cerf has spawned a 'NPC [813][npc_rollermine]'.
+[22:22:07]	Александр Климов has taken 10 damage from npc_rollermine.
+[22:22:07]	Александр Климов has taken 10 damage from npc_rollermine.
+[22:22:09]	Bot01 has taken 10 damage from npc_rollermine.
+[22:22:09]	Bot01 has taken 5 damage from npc_rollermine.
+[22:22:12]	Александр Климов has taken 10 damage from npc_rollermine.
+[22:22:12]	Александр Климов has taken 5 damage from npc_rollermine.
+[22:22:14]	Bot01 has taken 10 damage from npc_rollermine.
+[22:22:18]	Bot01 has taken 10 damage from npc_rollermine.
+[22:22:18]	Bot01 has taken 5 damage from npc_rollermine.
+[22:22:18]	Bot01 has taken 10 damage from npc_rollermine.
+[22:22:18]	Bot01 has taken 20 damage from npc_rollermine.
+[22:22:19]	Cerf has spawned a 'NPC [815][npc_rollermine]'.
+[22:22:20]	Cerf has spawned a 'NPC [356][npc_rollermine]'.
+[22:22:23]	Bot01 has taken 10 damage from npc_rollermine.
+[22:22:24]	Cerf has spawned a 'NPC [816][npc_rollermine]'.
+[22:22:24]	Cerf has spawned a 'NPC [819][npc_rollermine]'.
+[22:22:24]	Bot01 has taken 10 damage from npc_rollermine.
+[22:22:24]	Bot01 has taken 20 damage from npc_rollermine.
+[22:22:24]	Cerf has spawned a 'NPC [827][npc_rollermine]'.
+[22:22:24]	Cerf has spawned a 'NPC [829][npc_rollermine]'.
+[22:22:25]	Cerf has spawned a 'NPC [607][npc_rollermine]'.
+[22:22:25]	Cerf has spawned a 'NPC [831][npc_rollermine]'.
+[22:22:25]	Cerf has spawned a 'NPC [832][npc_rollermine]'.
+[22:22:26]	Александр Климов has taken 10 damage from npc_rollermine.
+[22:22:28]	Bot01 has taken 10 damage from npc_rollermine.
+[22:22:28]	Bot01 has taken 10 damage from npc_rollermine.
+[22:22:28]	Александр Климов has taken 10 damage from npc_rollermine.
+[22:22:28]	Александр Климов has taken 10 damage from npc_rollermine.
+[22:22:29]	Александр Климов has taken 10 damage from npc_rollermine.
+[22:22:29]	Александр Климов has taken 10 damage from npc_rollermine.
+[22:22:29]	Александр Климов has taken 10 damage from npc_rollermine.
+[22:22:29]	Александр Климов has taken 10 damage from npc_rollermine.
+[22:22:29]	npc_rollermine has killed Александр Климов.
+[22:22:54]	Bot01 has taken 10 damage from npc_rollermine.
+[22:22:54]	Bot01 has taken 5 damage from npc_rollermine.
+[22:22:56]	Bot01 has taken 10 damage from npc_rollermine.
+[22:22:56]	Bot01 has taken 10 damage from npc_rollermine.
+[22:23:00]	Bot01 has taken 10 damage from npc_rollermine.
+[22:23:00]	Bot01 has taken 5 damage from npc_rollermine.
+[22:23:03]	Bot01 has taken 10 damage from npc_rollermine.
+[22:23:03]	Bot01 has taken 20 damage from npc_rollermine.
+[22:23:05]	Александр Климов has taken 10 damage from npc_rollermine.
+[22:23:05]	Александр Климов has taken 5 damage from npc_rollermine.
+[22:23:05]	Bot01 has taken 10 damage from npc_rollermine.
+[22:23:05]	Bot01 has taken 20 damage from npc_rollermine.
+[22:23:05]	Bot01 has taken 10 damage from npc_rollermine.
+[22:23:05]	Bot01 has taken 10 damage from npc_rollermine.
+[22:23:05]	Александр Климов has taken 10 damage from npc_rollermine.
+[22:23:06]	Александр Климов has taken 10 damage from npc_rollermine.
+[22:23:07]	Bot01 has taken 10 damage from npc_rollermine.
+[22:23:08]	Александр Климов has taken 10 damage from npc_rollermine.
+[22:23:08]	Александр Климов has taken 10 damage from npc_rollermine.
+[22:23:08]	Bot01 has taken 10 damage from npc_rollermine.
+[22:23:08]	npc_rollermine has killed Bot01.
+[22:23:40]	Александр Климов has taken 10 damage from npc_rollermine.
+[22:23:40]	Александр Климов has taken 10 damage from npc_rollermine.
+[22:23:50]	Bot01 has taken 10 damage from npc_rollermine.
+[22:23:50]	Bot01 has taken 10 damage from npc_rollermine.
+[22:23:52]	Bot01 has taken 10 damage from npc_rollermine.
+[22:23:52]	Bot01 has taken 5 damage from npc_rollermine.
+[22:23:55]	Bot01 has taken 10 damage from npc_rollermine.
+[22:23:57]	Bot01 has taken 10 damage from npc_rollermine.
+[22:23:58]	Bot01 has taken 10 damage from npc_rollermine.
+[22:23:58]	Bot01 has taken 10 damage from npc_rollermine.
+[22:23:58]	Bot01 has taken 10 damage from npc_rollermine.
+[22:24:00]	Bot01 has taken 10 damage from npc_rollermine.
+[22:24:00]	Bot01 has taken 5 damage from npc_rollermine.
+[22:24:02]	Bot01 has taken 10 damage from npc_rollermine.
+[22:24:02]	Bot01 has taken 5 damage from npc_rollermine.
+[22:24:04]	Bot01 has taken 10 damage from npc_rollermine.
+[22:24:04]	Bot01 has taken 5 damage from npc_rollermine.
+[22:24:05]	Bot01 has taken 10 damage from npc_rollermine.
+[22:24:05]	Bot01 has taken 5 damage from npc_rollermine.
+[22:24:05]	Bot01 has taken 5 damage from npc_rollermine.
+[22:24:07]	Bot01 has taken 10 damage from npc_rollermine.
+[22:24:07]	Bot01 has taken 10 damage from npc_rollermine.
+[22:24:07]	Bot01 has taken 10 damage from npc_rollermine.
+[22:24:07]	Bot01 has taken 10 damage from npc_rollermine.
+[22:24:08]	Bot01 has taken 10 damage from npc_rollermine.
+[22:24:08]	Bot01 has taken 5 damage from npc_rollermine.
+[22:24:10]	Bot01 has taken 10 damage from npc_rollermine.
+[22:24:10]	Bot01 has taken 5 damage from npc_rollermine.
+[22:24:11]	Александр Климов has taken 10 damage from npc_rollermine.
+[22:24:11]	Александр Климов has taken 10 damage from npc_rollermine.
+[22:24:11]	Bot01 has taken 10 damage from npc_rollermine.
+[22:24:11]	Bot01 has taken 10 damage from npc_rollermine.
+[22:24:11]	Bot01 has taken 10 damage from npc_rollermine.
+[22:24:12]	Bot01 has taken 10 damage from npc_rollermine.
+[22:24:12]	Bot01 has taken 10 damage from npc_rollermine.
+[22:24:12]	Bot01 has taken 5 damage from npc_rollermine.
+[22:24:13]	Bot01 has taken 10 damage from npc_rollermine.
+[22:24:13]	Bot01 has taken 5 damage from npc_rollermine.
+[22:24:13]	Bot01 has taken 10 damage from npc_rollermine.
+[22:24:13]	npc_rollermine has killed Bot01.
+[22:24:13]	Александр Климов has taken 10 damage from npc_rollermine.
+[22:24:13]	npc_rollermine has killed Александр Климов.
+[22:24:37]	Александр Климов has taken 10 damage from npc_rollermine.
+[22:24:39]	Александр Климов has taken 10 damage from npc_rollermine.
+[22:24:42]	Александр Климов has taken 5 damage from npc_rollermine.
+[22:24:42]	Александр Климов has taken 10 damage from npc_rollermine.
+[22:24:43]	Александр Климов has taken 10 damage from npc_rollermine.
+[22:24:44]	Александр Климов has taken 10 damage from npc_rollermine.
+[22:24:46]	Bot01 has taken 10 damage from npc_rollermine.
+[22:24:48]	Bot01 has taken 10 damage from npc_rollermine.
+[22:24:48]	Bot01 has taken 10 damage from npc_rollermine.
+[22:24:54]	Bot01 has taken 10 damage from npc_rollermine.
+[22:24:54]	Bot01 has taken 10 damage from npc_rollermine.
+[22:24:55]	Bot01 has taken 10 damage from npc_rollermine.
+[22:24:55]	Bot01 has taken 5 damage from npc_rollermine.
+[22:24:59]	Bot01 has taken 10 damage from npc_rollermine.
+[22:25:00]	Bot01 has taken 10 damage from npc_rollermine.
+[22:25:00]	Bot01 has taken 10 damage from npc_rollermine.
+[22:25:01]	Bot01 has taken 10 damage from npc_rollermine.
+[22:25:01]	Bot01 has taken 5 damage from npc_rollermine.
+[22:25:01]	Bot01 has taken 10 damage from npc_rollermine.
+[22:25:01]	Bot01 has taken 10 damage from npc_rollermine.
+[22:25:02]	Bot01 has taken 10 damage from npc_rollermine.
+[22:25:02]	Bot01 has taken 5 damage from npc_rollermine.
+[22:25:03]	Александр Климов has taken 10 damage from npc_rollermine.
+[22:25:03]	Александр Климов has taken 5 damage from npc_rollermine.
+[22:25:03]	Bot01 has taken 10 damage from npc_rollermine.
+[22:25:03]	Bot01 has taken 10 damage from npc_rollermine.
+[22:25:03]	Bot01 has taken 10 damage from npc_rollermine.
+[22:25:03]	Александр Климов has taken 10 damage from npc_rollermine.
+[22:25:03]	Александр Климов has taken 10 damage from npc_rollermine.
+[22:25:04]	Александр Климов has taken 10 damage from npc_rollermine.
+[22:25:04]	npc_rollermine has killed Александр Климов.
+[22:25:04]	Bot01 has taken 10 damage from npc_rollermine.
+[22:25:05]	Bot01 has taken 10 damage from npc_rollermine.
+[22:25:07]	Bot01 has taken 10 damage from npc_rollermine.
+[22:25:09]	Bot01 has taken 10 damage from npc_rollermine.
+[22:25:09]	Bot01 has taken 10 damage from npc_rollermine.
+[22:25:11]	Bot01 has taken 10 damage from npc_rollermine.
+[22:25:11]	Bot01 has taken 10 damage from npc_rollermine.
+[22:25:11]	Bot01 has taken 5 damage from npc_rollermine.
+[22:25:12]	Bot01 has taken 10 damage from npc_rollermine.
+[22:25:18]	Александр Климов used command '/ActInjured'.
+[22:25:23]	Александр Климов used command '/ActInjured'.
+[22:25:43]	Cerf has spawned a 'NPC [770][npc_rollermine]'.
+[22:26:00]	Александр Климов has taken 10 damage from npc_rollermine.
+[22:26:01]	Александр Климов has taken 10 damage from npc_rollermine.
+[22:26:02]	Александр Климов has taken 10 damage from npc_rollermine.
+[22:26:33]	Александр Климов used command '/ExitAct'.
+[22:26:37]	Александр Климов ran 'Equip' on item 'M9' (#307)
+[22:26:43]	Cerf has spawned a 'NPC [598][npc_metropolice]'.
+[22:26:54]	Cerf has spawned a 'NPC [812][npc_metropolice]'.
+[22:26:54]	Cerf has spawned a 'NPC [814][npc_metropolice]'.
+[22:26:54]	Cerf has spawned a 'NPC [816][npc_metropolice]'.
+[22:26:54]	Cerf has spawned a 'NPC [822][npc_metropolice]'.
+[22:26:54]	Cerf has spawned a 'NPC [829][npc_metropolice]'.
+[22:26:55]	Cerf has spawned a 'NPC [832][npc_metropolice]'.
+[22:26:55]	Cerf has spawned a 'NPC [836][npc_metropolice]'.
+[22:26:55]	Cerf has spawned a 'NPC [840][npc_metropolice]'.
+[22:26:55]	Cerf has spawned a 'NPC [843][npc_metropolice]'.
+[22:26:55]	Александр Климов ran 'EquipUn' on item 'M9' (#307)
+[22:26:55]	Cerf has spawned a 'NPC [770][npc_metropolice]'.
+[22:26:55]	Cerf has spawned a 'NPC [845][npc_metropolice]'.
+[22:26:56]	Александр Климов ran 'Equip' on item 'FN Minimi' (#308)
+[22:27:01]	Cerf has spawned a 'NPC [607][npc_metropolice]'.
+[22:27:01]	Cerf has spawned a 'NPC [860][npc_metropolice]'.
+[22:27:01]	Cerf has spawned a 'NPC [862][npc_metropolice]'.
+[22:27:02]	Cerf has spawned a 'NPC [865][npc_metropolice]'.
+[22:27:02]	Cerf has spawned a 'NPC [867][npc_metropolice]'.
+[22:27:02]	Cerf has spawned a 'NPC [871][npc_metropolice]'.
+[22:27:06]	Cerf has spawned a 'NPC [876][npc_metropolice]'.
+[22:27:06]	Cerf has spawned a 'NPC [878][npc_metropolice]'.
+[22:27:07]	Cerf has spawned a 'NPC [880][npc_metropolice]'.
+[22:27:07]	Cerf has spawned a 'NPC [882][npc_metropolice]'.
+[22:27:07]	Cerf has spawned a 'NPC [884][npc_metropolice]'.
+[22:27:07]	Cerf has spawned a 'NPC [886][npc_metropolice]'.
+[22:27:07]	Cerf has spawned a 'NPC [891][npc_metropolice]'.
+[22:27:07]	Cerf has spawned a 'NPC [896][npc_metropolice]'.
+[22:27:08]	Cerf has spawned a 'NPC [899][npc_metropolice]'.
+[22:27:11]	Cerf has spawned a 'NPC [918][npc_metropolice]'.
+[22:27:11]	Cerf has spawned a 'NPC [957][npc_metropolice]'.
+[22:27:15]	Александр Климов has taken 25 damage from sniper2.
+[22:27:16]	Александр Климов has taken 100 damage from sniper2.
+[22:27:16]	sniper2 has killed Александр Климов.
+[22:27:37]	Cerf has spawned a 'NPC [614][npc_metropolice]'.
+[22:27:37]	Cerf has spawned a 'NPC [809][npc_metropolice]'.
+[22:27:38]	Cerf has spawned a 'NPC [831][npc_metropolice]'.
+[22:27:38]	Cerf has spawned a 'NPC [833][npc_metropolice]'.
+[22:27:38]	Cerf has spawned a 'NPC [839][npc_metropolice]'.
+[22:27:38]	Cerf has spawned a 'NPC [841][npc_metropolice]'.
+[22:27:38]	Cerf has spawned a 'NPC [844][npc_metropolice]'.
+[22:27:38]	Cerf has spawned a 'NPC [856][npc_metropolice]'.
+[22:27:39]	Bot01 has taken 10 damage from npc_metropolice.
+[22:27:41]	Bot01 has taken 10 damage from npc_metropolice.
+[22:27:42]	Cerf has spawned a 'NPC [589][npc_metropolice]'.
+[22:27:43]	Cerf has spawned a 'NPC [859][npc_metropolice]'.
+[22:27:43]	Bot01 has taken 10 damage from npc_metropolice.
+[22:27:43]	Cerf has spawned a 'NPC [861][npc_metropolice]'.
+[22:27:43]	Cerf has spawned a 'NPC [863][npc_metropolice]'.
+[22:27:43]	Cerf has spawned a 'NPC [866][npc_metropolice]'.
+[22:27:44]	Cerf has spawned a 'NPC [870][npc_metropolice]'.
+[22:27:44]	Bot01 has taken 10 damage from npc_metropolice.
+[22:27:44]	npc_metropolice has killed Bot01.
+[22:27:44]	Cerf has spawned a 'NPC [875][npc_metropolice]'.
+[22:27:50]	Александр Климов has taken 10 damage from npc_metropolice.
+[22:27:51]	Александр Климов has taken 10 damage from npc_metropolice.
+[22:27:51]	Александр Климов has taken 10 damage from npc_metropolice.
+[22:27:52]	Александр Климов has taken 10 damage from npc_metropolice.
+[22:27:52]	Александр Климов has taken 10 damage from npc_metropolice.
+[22:27:52]	Александр Климов has taken 10 damage from npc_metropolice.
+[22:27:52]	Александр Климов has taken 10 damage from npc_metropolice.
+[22:27:53]	Александр Климов has taken 10 damage from npc_metropolice.
+[22:28:02]	Cerf has spawned a 'NPC [753][npc_metropolice]'.
+[22:28:05]	Александр Климов has taken 10 damage from npc_metropolice.
+[22:28:07]	Bot01 has taken 10 damage from npc_metropolice.
+[22:28:08]	Bot01 has taken 10 damage from npc_metropolice.
+[22:28:10]	Bot01 has taken 10 damage from npc_metropolice.
+[22:28:11]	Bot01 has taken 10 damage from npc_metropolice.
+[22:28:11]	Cerf has spawned a 'NPC [809][npc_metropolice]'.
+[22:28:12]	Cerf has spawned a 'NPC [813][npc_metropolice]'.
+[22:28:12]	Cerf has spawned a 'NPC [815][npc_metropolice]'.
+[22:28:12]	Cerf has spawned a 'NPC [819][npc_metropolice]'.
+[22:28:12]	Cerf has spawned a 'NPC [827][npc_metropolice]'.
+[22:28:12]	Cerf has spawned a 'NPC [831][npc_metropolice]'.
+[22:28:12]	Cerf has spawned a 'NPC [833][npc_metropolice]'.
+[22:28:12]	Cerf has spawned a 'NPC [839][npc_metropolice]'.
+[22:28:13]	Cerf has spawned a 'NPC [841][npc_metropolice]'.
+[22:28:13]	Bot01 has taken 10 damage from npc_metropolice.
+[22:28:14]	Bot01 has taken 10 damage from npc_metropolice.
+[22:28:16]	Bot01 has taken 10 damage from npc_metropolice.
+[22:28:16]	Bot01 has taken 10 damage from npc_metropolice.
+[22:28:17]	Bot01 has taken 10 damage from npc_metropolice.
+[22:28:18]	Bot01 has taken 10 damage from npc_metropolice.
+[22:28:19]	Bot01 has taken 10 damage from npc_metropolice.
+[22:28:19]	Bot01 has taken 10 damage from npc_metropolice.
+[22:28:19]	Bot01 has taken 10 damage from npc_metropolice.
+[22:28:20]	Bot01 has taken 10 damage from npc_metropolice.
+[22:28:20]	Bot01 has taken 10 damage from npc_metropolice.
+[22:28:20]	Bot01 has taken 10 damage from npc_metropolice.
+[22:28:20]	Cerf has spawned a 'NPC [845][npc_metropolice]'.
+[22:28:21]	Александр Климов ran 'Equip' on item 'FN Minimi' (#308)
+[22:28:21]	Bot01 has taken 10 damage from npc_metropolice.
+[22:28:21]	Bot01 has taken 10 damage from npc_metropolice.
+[22:28:22]	Bot01 has taken 10 damage from npc_metropolice.
+[22:28:23]	Bot01 has taken 10 damage from npc_metropolice.
+[22:28:23]	Bot01 has taken 10 damage from npc_metropolice.
+[22:28:23]	Bot01 has taken 10 damage from npc_metropolice.
+[22:28:23]	Bot01 has taken 10 damage from npc_metropolice.
+[22:28:24]	Bot01 has taken 10 damage from npc_metropolice.
+[22:28:24]	Bot01 has taken 10 damage from npc_metropolice.
+[22:28:25]	Bot01 has taken 10 damage from npc_metropolice.
+[22:28:26]	Bot01 has taken 10 damage from npc_metropolice.
+[22:28:26]	Bot01 has taken 10 damage from npc_metropolice.
+[22:28:26]	Bot01 has taken 10 damage from npc_metropolice.
+[22:28:27]	Bot01 has taken 10 damage from npc_metropolice.
+[22:28:27]	npc_metropolice has killed Bot01.
+[22:28:29]	Cerf has spawned a 'NPC [590][npc_metropolice]'.
+[22:28:29]	Cerf has spawned a 'NPC [844][npc_metropolice]'.
+[22:28:30]	Cerf has spawned a 'NPC [860][npc_metropolice]'.
+[22:28:30]	Cerf has spawned a 'NPC [862][npc_metropolice]'.
+[22:28:30]	Cerf has spawned a 'NPC [866][npc_metropolice]'.
+[22:28:30]	Cerf has spawned a 'NPC [870][npc_metropolice]'.
+[22:28:30]	Cerf has spawned a 'NPC [874][npc_metropolice]'.
+[22:28:30]	Cerf has spawned a 'NPC [876][npc_metropolice]'.
+[22:28:30]	Cerf has spawned a 'NPC [845][npc_metropolice]'.
+[22:28:30]	Cerf has spawned a 'NPC [879][npc_metropolice]'.
+[22:28:31]	Cerf has spawned a 'NPC [881][npc_metropolice]'.
+[22:28:31]	Cerf has spawned a 'NPC [770][npc_metropolice]'.
+[22:28:31]	Cerf has spawned a 'NPC [884][npc_metropolice]'.
+[22:28:31]	Cerf has spawned a 'NPC [886][npc_metropolice]'.
+[22:28:31]	Cerf has spawned a 'NPC [891][npc_metropolice]'.
+[22:28:31]	Cerf has spawned a 'NPC [896][npc_metropolice]'.
+[22:28:32]	Cerf has spawned a 'NPC [899][npc_metropolice]'.
+[22:28:32]	Cerf has spawned a 'NPC [912][npc_metropolice]'.
+[22:28:32]	Cerf has spawned a 'NPC [918][npc_metropolice]'.
+[22:28:44]	Bot01 has taken 10 damage from npc_metropolice.
+[22:28:45]	Александр Климов has taken 10 damage from npc_metropolice.
+[22:28:45]	Bot01 has taken 10 damage from npc_metropolice.
+[22:28:46]	Bot01 has taken 10 damage from npc_metropolice.
+[22:28:48]	Bot01 has taken 10 damage from npc_metropolice.
+[22:28:50]	Bot01 has taken 10 damage from npc_metropolice.
+[22:28:51]	Bot01 has taken 10 damage from npc_metropolice.
+[22:28:53]	Bot01 has taken 10 damage from npc_metropolice.
+[22:28:54]	Bot01 has taken 10 damage from npc_metropolice.
+[22:28:56]	Cerf has spawned a 'NPC [809][npc_clawscanner]'.
+[22:28:56]	Bot01 has taken 10 damage from npc_metropolice.
+[22:28:57]	Bot01 has taken 10 damage from npc_metropolice.
+[22:28:57]	Bot01 has taken 10 damage from npc_metropolice.
+[22:28:58]	Bot01 has taken 10 damage from npc_metropolice.
+[22:28:58]	Bot01 has taken 10 damage from npc_metropolice.
+[22:28:59]	Bot01 has taken 10 damage from npc_metropolice.
+[22:29:00]	Bot01 has taken 10 damage from npc_metropolice.
+[22:29:01]	Bot01 has taken 10 damage from npc_metropolice.
+[22:29:01]	Bot01 has taken 10 damage from npc_metropolice.
+[22:29:03]	Bot01 has taken 10 damage from npc_metropolice.
+[22:29:03]	Bot01 has taken 10 damage from npc_metropolice.
+[22:29:03]	Cerf has spawned a 'NPC [809][npc_cscanner]'.
+[22:29:03]	Cerf has spawned a 'NPC [884][npc_cscanner]'.
+[22:29:04]	Cerf has spawned a 'NPC [957][npc_cscanner]'.
+[22:29:04]	Cerf has spawned a 'NPC [1073][npc_cscanner]'.
+[22:29:04]	Cerf has spawned a 'NPC [1095][npc_cscanner]'.
+[22:29:04]	Cerf has spawned a 'NPC [1109][npc_cscanner]'.
+[22:29:04]	Cerf has spawned a 'NPC [1113][npc_cscanner]'.
+[22:29:04]	Bot01 has taken 10 damage from npc_metropolice.
+[22:29:04]	Cerf has spawned a 'NPC [1154][npc_cscanner]'.
+[22:29:04]	Cerf has spawned a 'NPC [860][npc_cscanner]'.
+[22:29:04]	Bot01 has taken 10 damage from npc_metropolice.
+[22:29:04]	Cerf has spawned a 'NPC [1168][npc_cscanner]'.
+[22:29:04]	Cerf has spawned a 'NPC [912][npc_cscanner]'.
+[22:29:06]	Bot01 has taken 10 damage from npc_metropolice.
+[22:29:06]	Bot01 has taken 10 damage from npc_metropolice.
+[22:29:06]	Bot01 has taken 10 damage from npc_metropolice.
+[22:29:06]	Bot01 has taken 10 damage from npc_metropolice.
+[22:29:06]	Bot01 has taken 10 damage from npc_metropolice.
+[22:29:07]	Cerf has spawned a 'NPC [1087][npc_cscanner]'.
+[22:29:08]	Bot01 has taken 10 damage from npc_metropolice.
+[22:29:08]	Cerf has spawned a 'NPC [1167][npc_cscanner]'.
+[22:29:08]	Bot01 has taken 10 damage from npc_metropolice.
+[22:29:08]	Cerf has spawned a 'NPC [1258][npc_cscanner]'.
+[22:29:08]	Cerf has spawned a 'NPC [1260][npc_cscanner]'.
+[22:29:08]	Cerf has spawned a 'NPC [1264][npc_cscanner]'.
+[22:29:08]	Bot01 has taken 10 damage from npc_metropolice.
+[22:29:08]	Cerf has spawned a 'NPC [1271][npc_cscanner]'.
+[22:29:08]	Cerf has spawned a 'NPC [1275][npc_cscanner]'.
+[22:29:09]	Cerf has spawned a 'NPC [1282][npc_cscanner]'.
+[22:29:09]	Bot01 has taken 10 damage from npc_metropolice.
+[22:29:09]	npc_metropolice has killed Bot01.
+[22:29:09]	Cerf has spawned a 'NPC [1340][npc_metropolice]'.
+[22:29:09]	Cerf has spawned a 'NPC [1342][npc_metropolice]'.
+[22:29:09]	Cerf has spawned a 'NPC [1347][npc_metropolice]'.
+[22:29:09]	Cerf has spawned a 'NPC [1349][npc_metropolice]'.
+[22:29:09]	Cerf has spawned a 'NPC [1062][npc_metropolice]'.
+[22:29:09]	Cerf has spawned a 'NPC [1351][npc_metropolice]'.
+[22:29:10]	Cerf has spawned a 'NPC [881][npc_metropolice]'.
+[22:29:10]	Cerf has spawned a 'NPC [891][npc_metropolice]'.
+[22:29:19]	Cerf has spawned a 'NPC [1368][npc_metropolice]'.
+[22:29:19]	Cerf has spawned a 'NPC [1370][npc_metropolice]'.
+[22:29:19]	Cerf has spawned a 'NPC [1112][npc_metropolice]'.
+[22:29:19]	Cerf has spawned a 'NPC [1374][npc_metropolice]'.
+[22:29:20]	Cerf has spawned a 'NPC [1376][npc_metropolice]'.
+[22:29:20]	Cerf has spawned a 'NPC [1378][npc_metropolice]'.
+[22:29:20]	Cerf has spawned a 'NPC [1381][npc_metropolice]'.
+[22:29:20]	Cerf has spawned a 'NPC [1383][npc_metropolice]'.
+[22:29:20]	Cerf has spawned a 'NPC [1390][npc_metropolice]'.
+[22:29:20]	Cerf has spawned a 'NPC [1392][npc_metropolice]'.
+[22:29:21]	Cerf has spawned a 'NPC [1396][npc_metropolice]'.
+[22:29:21]	Cerf has spawned a 'NPC [1398][npc_metropolice]'.
+[22:29:21]	Cerf has spawned a 'NPC [1338][npc_metropolice]'.
+[22:29:21]	Cerf has spawned a 'NPC [1400][npc_metropolice]'.
+[22:29:21]	Cerf has spawned a 'NPC [1402][npc_metropolice]'.
+[22:29:21]	Cerf has spawned a 'NPC [1108][npc_metropolice]'.
+[22:29:22]	Cerf has spawned a 'NPC [1404][npc_metropolice]'.
+[22:29:22]	Cerf has spawned a 'NPC [1406][npc_metropolice]'.
+[22:29:22]	Cerf has spawned a 'NPC [1430][npc_metropolice]'.
+[22:29:22]	Cerf has spawned a 'NPC [1484][npc_metropolice]'.
+[22:29:22]	Cerf has spawned a 'NPC [1495][npc_metropolice]'.
+[22:29:22]	Cerf has spawned a 'NPC [1497][npc_metropolice]'.
+[22:29:22]	Cerf has spawned a 'NPC [1499][npc_metropolice]'.
+[22:29:23]	Cerf has spawned a 'NPC [1269][npc_metropolice]'.
+[22:29:23]	Cerf has spawned a 'NPC [1273][npc_metropolice]'.
+[22:29:23]	Cerf has spawned a 'NPC [1512][npc_metropolice]'.
+[22:29:23]	Cerf has spawned a 'NPC [1277][npc_metropolice]'.
+[22:29:23]	Cerf has spawned a 'NPC [1153][npc_metropolice]'.
+[22:29:23]	Cerf has spawned a 'NPC [1285][npc_metropolice]'.
+[22:29:23]	Cerf has spawned a 'NPC [1514][npc_metropolice]'.
+[22:29:24]	Cerf has spawned a 'NPC [1583][npc_metropolice]'.
+[22:29:24]	Cerf has spawned a 'NPC [1585][npc_metropolice]'.
+[22:29:24]	Bot01 has taken 10 damage from npc_metropolice.
+[22:29:24]	Bot01 has taken 10 damage from npc_metropolice.
+[22:29:24]	Cerf has spawned a 'NPC [1594][npc_metropolice]'.
+[22:29:24]	Cerf has spawned a 'NPC [1617][npc_metropolice]'.
+[22:29:24]	Cerf has spawned a 'NPC [1621][npc_metropolice]'.
+[22:29:24]	Cerf has spawned a 'NPC [1629][npc_metropolice]'.
+[22:29:25]	Cerf has spawned a 'NPC [865][npc_metropolice]'.
+[22:29:25]	Cerf has spawned a 'NPC [1263][npc_metropolice]'.
+[22:29:25]	Cerf has spawned a 'NPC [1267][npc_metropolice]'.
+[22:29:25]	Cerf has spawned a 'NPC [1638][npc_metropolice]'.
+[22:29:25]	Cerf has spawned a 'NPC [1640][npc_metropolice]'.
+[22:29:29]	Bot01 has taken 10 damage from npc_metropolice.
+[22:29:31]	Bot01 has taken 10 damage from npc_metropolice.
+[22:29:32]	Bot01 has taken 10 damage from npc_metropolice.
+[22:29:32]	Bot01 has taken 10 damage from npc_metropolice.
+[22:29:32]	Bot01 has taken 10 damage from npc_metropolice.
+[22:29:33]	Bot01 has taken 10 damage from npc_metropolice.
+[22:29:33]	Bot01 has taken 10 damage from npc_metropolice.
+[22:29:34]	Bot01 has taken 10 damage from npc_metropolice.
+[22:29:34]	Bot01 has taken 10 damage from npc_metropolice.
+[22:29:35]	Bot01 has taken 10 damage from npc_metropolice.
+[22:29:35]	Bot01 has taken 10 damage from npc_metropolice.
+[22:29:36]	Bot01 has taken 10 damage from npc_metropolice.
+[22:29:36]	Bot01 has taken 10 damage from npc_metropolice.
+[22:29:37]	Bot01 has taken 10 damage from npc_metropolice.
+[22:29:37]	Bot01 has taken 10 damage from npc_metropolice.
+[22:29:37]	Bot01 has taken 10 damage from npc_metropolice.
+[22:29:38]	Bot01 has taken 10 damage from npc_metropolice.
+[22:29:38]	Bot01 has taken 10 damage from npc_metropolice.
+[22:29:38]	Bot01 has taken 10 damage from npc_metropolice.
+[22:29:38]	Cerf has spawned a 'NPC [1588][npc_metropolice]'.
+[22:29:38]	Bot01 has taken 10 damage from npc_metropolice.
+[22:29:39]	Bot01 has taken 10 damage from npc_metropolice.
+[22:29:39]	Bot01 has taken 10 damage from npc_metropolice.
+[22:29:40]	Bot01 has taken 10 damage from npc_metropolice.
+[22:29:40]	Bot01 has taken 10 damage from npc_metropolice.
+[22:29:40]	Bot01 has taken 10 damage from npc_metropolice.
+[22:29:41]	Bot01 has taken 10 damage from npc_metropolice.
+[22:29:42]	Bot01 has taken 10 damage from npc_metropolice.
+[22:29:42]	Bot01 has taken 10 damage from npc_metropolice.
+[22:29:42]	npc_metropolice has killed Bot01.
+[22:29:50]	Александр Климов ran 'Equip' on item 'M9' (#307)
+[22:29:51]	Cerf has spawned a 'NPC [1646][npc_metropolice]'.
+[22:29:52]	Александр Климов has taken 10 damage from npc_metropolice.
+[22:30:05]	Cerf has spawned a 'NPC [1619][npc_metropolice]'.
+[22:30:06]	Cerf has spawned a 'NPC [1710][npc_metropolice]'.
+[22:30:06]	Cerf has spawned a 'NPC [1345][npc_metropolice]'.
+[22:30:06]	Cerf has spawned a 'NPC [1504][npc_metropolice]'.
+[22:30:06]	Cerf has spawned a 'NPC [1648][npc_metropolice]'.
+[22:30:06]	Cerf has spawned a 'NPC [1660][npc_metropolice]'.
+[22:30:06]	Cerf has spawned a 'NPC [1911][npc_metropolice]'.
+[22:30:06]	Cerf has spawned a 'NPC [2044][npc_metropolice]'.
+[22:30:07]	Cerf has spawned a 'NPC [1666][npc_metropolice]'.
+[22:30:07]	Cerf has spawned a 'NPC [1344][npc_metropolice]'.
+[22:30:07]	Cerf has spawned a 'NPC [755][npc_metropolice]'.
+[22:30:07]	Cerf has spawned a 'NPC [1702][npc_metropolice]'.
+[22:30:07]	Cerf has spawned a 'NPC [1704][npc_metropolice]'.
+[22:30:07]	Cerf has spawned a 'NPC [1658][npc_metropolice]'.
+[22:30:07]	Cerf has spawned a 'NPC [2075][npc_metropolice]'.
+[22:30:08]	Cerf has spawned a 'NPC [2063][npc_metropolice]'.
+[22:30:08]	Cerf has spawned a 'NPC [2087][npc_metropolice]'.
+[22:30:08]	Cerf has spawned a 'NPC [2071][npc_metropolice]'.
+[22:30:09]	Cerf has spawned a 'NPC [2079][npc_metropolice]'.
+[22:30:09]	Cerf has spawned a 'NPC [1664][npc_metropolice]'.
+[22:30:09]	Cerf has spawned a 'NPC [2099][npc_metropolice]'.
+[22:30:09]	Cerf has spawned a 'NPC [1628][npc_metropolice]'.
+[22:30:09]	Cerf has spawned a 'NPC [2059][npc_metropolice]'.
+[22:30:09]	Cerf has spawned a 'NPC [1166][npc_metropolice]'.
+[22:30:10]	Cerf has spawned a 'NPC [2085][npc_metropolice]'.
+[22:30:10]	Cerf has spawned a 'NPC [1175][npc_metropolice]'.
+[22:30:10]	Cerf has spawned a 'NPC [1670][npc_metropolice]'.
+[22:30:10]	Cerf has spawned a 'NPC [2121][npc_metropolice]'.
+[22:30:10]	Cerf has spawned a 'NPC [1623][npc_metropolice]'.
+[22:30:10]	Cerf has spawned a 'NPC [2067][npc_metropolice]'.
+[22:30:11]	Cerf has spawned a 'NPC [1650][npc_metropolice]'.
+[22:30:11]	Cerf has spawned a 'NPC [1909][npc_metropolice]'.
+[22:30:11]	Cerf has spawned a 'NPC [1706][npc_metropolice]'.
+[22:30:11]	Cerf has spawned a 'NPC [2038][npc_metropolice]'.
+[22:30:11]	Cerf has spawned a 'NPC [2332][npc_metropolice]'.
+[22:30:11]	Cerf has spawned a 'NPC [1708][npc_metropolice]'.
+[22:30:11]	Cerf has spawned a 'NPC [2051][npc_metropolice]'.
+[22:30:12]	Cerf has spawned a 'NPC [2482][npc_metropolice]'.
+[22:30:12]	Cerf has spawned a 'NPC [2133][npc_metropolice]'.
+[22:30:12]	Cerf has spawned a 'NPC [2137][npc_metropolice]'.
+[22:30:12]	Cerf has spawned a 'NPC [2117][npc_metropolice]'.
+[22:30:24]	Cerf has spawned a 'NPC [509][npc_metropolice]'.
+[22:30:26]	Cerf has spawned a 'NPC [541][npc_metropolice]'.
+[22:30:32]	Cerf has spawned a 'NPC [508][npc_metropolice]'.
+[22:30:46]	Cerf has spawned a 'NPC [31][npc_manhack]'.
+[22:30:46]	Cerf has spawned a 'NPC [541][npc_manhack]'.
+[22:30:46]	Cerf has spawned a 'NPC [562][npc_manhack]'.
+[22:30:46]	Cerf has spawned a 'NPC [569][npc_manhack]'.
+[22:30:47]	Cerf has spawned a 'NPC [572][npc_manhack]'.
+[22:30:47]	Cerf has spawned a 'NPC [575][npc_manhack]'.
+[22:30:47]	Cerf has spawned a 'NPC [578][npc_manhack]'.
+[22:30:47]	Cerf has spawned a 'NPC [589][npc_manhack]'.
+[22:30:47]	Cerf has spawned a 'NPC [592][npc_manhack]'.
+[22:30:47]	Cerf has spawned a 'NPC [609][npc_manhack]'.
+[22:30:47]	Cerf has spawned a 'NPC [615][npc_manhack]'.
+[22:30:47]	Cerf has spawned a 'NPC [625][npc_manhack]'.
+[22:30:48]	Cerf has spawned a 'NPC [633][npc_manhack]'.
+[22:30:48]	Cerf has spawned a 'NPC [636][npc_manhack]'.
+[22:30:48]	Cerf has spawned a 'NPC [639][npc_manhack]'.
+[22:30:48]	Cerf has spawned a 'NPC [642][npc_manhack]'.
+[22:30:48]	Александр Климов has taken 4 damage from npc_manhack.
+[22:30:48]	Cerf has spawned a 'NPC [690][npc_manhack]'.
+[22:30:48]	Cerf has spawned a 'NPC [702][npc_manhack]'.
+[22:30:48]	Cerf has spawned a 'NPC [706][npc_manhack]'.
+[22:30:54]	Александр Климов has taken 8 damage from npc_manhack.
+[22:30:55]	Александр Климов has taken 4 damage from npc_manhack.
+[22:30:55]	Александр Климов has taken 8 damage from npc_manhack.
+[22:30:56]	Cerf has spawned a 'NPC [570][npc_cscanner]'.
+[22:30:56]	Cerf has spawned a 'NPC [589][npc_cscanner]'.
+[22:30:56]	Cerf has spawned a 'NPC [614][npc_cscanner]'.
+[22:30:56]	Cerf has spawned a 'NPC [625][npc_cscanner]'.
+[22:30:56]	Cerf has spawned a 'NPC [572][npc_cscanner]'.
+[22:30:56]	Cerf has spawned a 'NPC [640][npc_cscanner]'.
+[22:30:56]	Cerf has spawned a 'NPC [692][npc_cscanner]'.
+[22:30:56]	Cerf has spawned a 'NPC [737][npc_cscanner]'.
+[22:30:57]	Cerf has spawned a 'NPC [804][npc_cscanner]'.
+[22:30:57]	Cerf has spawned a 'NPC [575][npc_cscanner]'.
+[22:30:57]	Cerf has spawned a 'NPC [859][npc_cscanner]'.
+[22:30:57]	Cerf has spawned a 'NPC [609][npc_cscanner]'.
+[22:30:57]	Cerf has spawned a 'NPC [617][npc_cscanner]'.
+[22:30:57]	Cerf has spawned a 'NPC [632][npc_cscanner]'.
+[22:30:57]	Cerf has spawned a 'NPC [873][npc_cscanner]'.
+[22:30:57]	Cerf has spawned a 'NPC [704][npc_cscanner]'.
+[22:30:58]	Cerf has spawned a 'NPC [690][npc_cscanner]'.
+[22:30:58]	Cerf has spawned a 'NPC [753][npc_cscanner]'.
+[22:30:58]	Cerf has spawned a 'NPC [1103][npc_cscanner]'.
+[22:30:58]	Cerf has spawned a 'NPC [1131][npc_cscanner]'.
+[22:30:58]	Cerf has spawned a 'NPC [1133][npc_cscanner]'.
+[22:30:58]	Cerf has spawned a 'NPC [1140][npc_cscanner]'.
+[22:30:58]	Cerf has spawned a 'NPC [1142][npc_cscanner]'.
+[22:30:58]	Cerf has spawned a 'NPC [574][npc_cscanner]'.
+[22:30:58]	Cerf has spawned a 'NPC [1071][npc_cscanner]'.
+[22:31:04]	Александр Климов has taken 10 damage from npc_metropolice.
+[22:31:05]	Александр Климов has taken 10 damage from npc_metropolice.
+[22:31:07]	Александр Климов has taken 10 damage from npc_metropolice.
+[22:31:09]	Александр Климов has taken 10 damage from npc_metropolice.
+[22:31:10]	Александр Климов has taken 10 damage from npc_metropolice.
+[22:31:30]	Cerf has spawned a 'NPC [31][npc_metropolice]'.
+[22:31:32]	Cerf has spawned a 'NPC [580][npc_metropolice]'.
+[22:31:33]	Cerf has spawned a 'NPC [864][npc_metropolice]'.
+[22:31:34]	Cerf has spawned a 'NPC [568][npc_metropolice]'.
+[22:31:37]	Cerf has spawned a 'NPC [845][npc_metropolice]'.
+[22:31:39]	Александр Климов has taken 10 damage from npc_metropolice.
+[22:31:40]	Александр Климов has taken 10 damage from npc_metropolice.
+[22:31:46]	Cerf has spawned a 'NPC [653][npc_metropolice]'.
+[22:31:50]	Cerf has spawned a 'NPC [739][npc_metropolice]'.
+[22:31:53]	Cerf has spawned a 'NPC [580][npc_metropolice]'.
+[22:32:16]	Cerf has spawned a 'NPC [31][npc_metropolice]'.
+[22:32:17]	Александр Климов has taken 10 damage from npc_metropolice.
+[22:32:21]	Александр Климов has taken 4 damage from worldspawn.
+[22:32:27]	Cerf has spawned a 'Entity [576][item_healthkit]'.
+[22:32:33]	Cerf has spawned a 'Entity [747][item_healthkit]'.
+[22:32:37]	Cerf has spawned a 'Entity [642][item_healthkit]'.
+[22:33:02]	Cerf has spawned a 'NPC [579][npc_manhack]'.
+[22:33:02]	Cerf has spawned a 'NPC [596][npc_manhack]'.
+[22:33:02]	Cerf has spawned a 'NPC [740][npc_manhack]'.
+[22:33:02]	Cerf has spawned a 'NPC [856][npc_manhack]'.
+[22:33:02]	Cerf has spawned a 'NPC [863][npc_manhack]'.
+[22:33:03]	Cerf has spawned a 'NPC [867][npc_manhack]'.
+[22:33:03]	Cerf has spawned a 'NPC [1093][npc_manhack]'.
+[22:33:03]	Cerf has spawned a 'NPC [1100][npc_manhack]'.
+[22:33:03]	Александр Климов has taken 8 damage from npc_manhack.
+[22:33:03]	Cerf has spawned a 'NPC [1108][npc_manhack]'.
+[22:33:03]	Александр Климов has taken 4 damage from npc_manhack.
+[22:33:03]	Cerf has spawned a 'NPC [1130][npc_manhack]'.
+[22:33:03]	Cerf has spawned a 'NPC [1172][npc_manhack]'.
+[22:33:03]	Cerf has spawned a 'NPC [1487][npc_manhack]'.
+[22:33:03]	Cerf has spawned a 'NPC [1881][npc_manhack]'.
+[22:33:04]	Cerf has spawned a 'NPC [747][npc_manhack]'.
+[22:33:04]	Cerf has spawned a 'NPC [2468][npc_manhack]'.
+[22:33:04]	Александр Климов has taken 4 damage from npc_manhack.
+[22:33:04]	Cerf has spawned a 'NPC [742][npc_manhack]'.
+[22:33:04]	Cerf has spawned a 'NPC [510][npc_manhack]'.
+[22:33:04]	Александр Климов has taken 4 damage from npc_manhack.
+[22:33:04]	Cerf has spawned a 'NPC [2892][npc_manhack]'.
+[22:33:04]	Александр Климов has taken 4 damage from npc_manhack.
+[22:33:06]	Александр Климов has taken 8 damage from npc_manhack.
+[22:33:06]	Александр Климов has taken 4 damage from npc_manhack.
+[22:33:09]	Александр Климов has taken 4 damage from npc_manhack.
+[22:33:11]	Cerf has spawned a 'NPC [749][npc_combine_s]'.
+[22:33:14]	Cerf has spawned a 'NPC [569][npc_rollermine]'.
+[22:35:41]	Cerf has spawned a 'NPC [576][npc_rollermine]'.
+[22:35:53]	Cerf has spawned a 'NPC [543][npc_rollermine]'.
+[22:35:58]	Александр Климов ran 'drop' on item 'FN Minimi' (#308)
+[22:35:58]	Александр Климов has lost a 'FN Minimi' #308.
+[22:36:32]	Александр Климов has taken 500 damage from npc_rollermine.
+[22:36:32]	npc_rollermine has killed Александр Климов.
+[22:36:45]	֍ Aime-moi ֍ (STEAM_0:0:424879351) has disconnected.
+[23:15:37]	Александр Климов ran 'Equip' on item 'M9' (#307)
+[23:51:45]	Александр Климов has spawned a 'NPC [541][npc_citizen]'.
+[23:51:54]	Александр Климов has spawned a 'NPC [31][npc_citizen]'.
+[23:51:58]	Александр Климов has spawned a 'NPC [570][npc_citizen]'.
+[23:51:59]	Александр Климов has spawned a 'NPC [31][npc_citizen]'.
+[23:52:43]	Александр Климов used command '/CharSetModel Алекс models/barnes/citizen/female_01.mdl'.
+[23:53:16]	Александр Климов has spawned a 'NPC [571][npc_citizen]'.
+[23:53:27]	Александр Климов has spawned a 'NPC [356][npc_metropolice]'.
+[23:53:32]	Александр Климов has spawned a 'NPC [356][npc_metropolice]'.
+[23:53:37]	Александр Климов has spawned a 'NPC [574][npc_metropolice]'.
+[23:53:42]	Александр Климов has spawned a 'NPC [31][npc_metropolice]'.
+[23:53:47]	Александр Климов has spawned a 'NPC [32][npc_citizen]'.
+[23:53:48]	Александр Климов has spawned a 'NPC [570][npc_citizen]'.
+[23:53:57]	Александр Климов has spawned a 'NPC [569][npc_citizen]'.
+[23:53:59]	Александр Климов has spawned a 'NPC [574][npc_citizen]'.
+[23:56:33]	Александр Климов used command '/CharSetModel Ал models/barnes/refugee/male_115.mdl'.
+[23:57:03]	Г@H3NK loaded the character 'MPF-RCT.76375'
+[23:57:08]	MPF-RCT.76375 ran 'Equip' on item 'M9' (#309)
+[23:57:58]	MPF-RCT.76375 entered observer.
+[23:58:07]	MPF-RCT.76375 exited observer at their location.
+[23:58:10]	MPF-RCT.76375 entered observer.
+[23:58:13]	MPF-RCT.76375 exited observer at their location.
+[23:58:17]	MPF-RCT.76375 entered observer.
+[23:58:18]	MPF-RCT.76375 exited observer at their location.

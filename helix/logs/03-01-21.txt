@@ -1,0 +1,2364 @@
+[13:22:58]	Г@H3NK has connected.
+[13:23:47]	Г@H3NK loaded the character 'Александр Климов'
+[13:50:01]	Г@H3NK has connected.
+[13:54:41]	Г@H3NK loaded the character 'Александр Климов'
+[13:55:23]	Александр Климов ran 'drop' on item 'Фонарик' (#52)
+[13:55:23]	Александр Климов has lost a 'Фонарик' #52.
+[13:55:28]	Александр Климов ran 'take' on item 'Фонарик' (#52)
+[13:55:28]	Александр Климов has gained a 'Фонарик' #52.
+[13:56:11]	Александр Климов ran 'Equip' on item 'M3 Super 90' (#189)
+[13:58:38]	Г@H3NK loaded the character 'MPF-RCT.76375'
+[13:58:58]	MPF-RCT.76375 ran 'Equip' on item 'Glock' (#251)
+[13:59:27]	MPF-RCT.76375 ran 'use' on item 'Коробочка мелкокалиберных патронов' (#252)
+[14:03:39]	MPF-RCT.76375 has gained 100 tokens.
+[14:04:40]	MPF-RCT.76375 has spawned a 'Entity [360][arccw_ammo_pistol]'.
+[14:05:30]	MPF-RCT.76375 has spawned a 'Entity [360][arccw_ammo_pistol]'.
+[14:05:31]	MPF-RCT.76375 has spawned a 'Entity [592][arccw_ammo_pistol]'.
+[14:05:32]	MPF-RCT.76375 has spawned a 'Entity [360][arccw_ammo_pistol]'.
+[14:05:33]	MPF-RCT.76375 has spawned a 'Entity [596][arccw_ammo_pistol]'.
+[14:05:33]	MPF-RCT.76375 has spawned a 'Entity [592][arccw_ammo_pistol_large]'.
+[14:08:37]	Г@H3NK loaded the character 'Александр Климов'
+[14:27:11]	Г@H3NK has connected.
+[14:30:23]	Г@H3NK loaded the character 'MPF-I4.51977'
+[14:30:28]	MPF-I4.51977 ran 'Equip' on item 'Five-seveN' (#124)
+[14:32:24]	֍ Aime-moi ֍ has connected.
+[14:33:00]	֍ Aime-moi ֍ (STEAM_0:0:424879351) deleted character 'Артем Каллов'
+[14:33:02]	֍ Aime-moi ֍ (STEAM_0:0:424879351) deleted character 'Альберт Кольм'
+[14:33:04]	֍ Aime-moi ֍ (STEAM_0:0:424879351) deleted character 'D8.MPF-BLADE.57989'
+[14:33:06]	֍ Aime-moi ֍ (STEAM_0:0:424879351) deleted character 'Антон Миронов'
+[14:33:14]	֍ Aime-moi ֍ loaded the character 'OTA-ECHO.OWS-34096'
+[14:34:21]	MPF-I4.51977 has taken 11 damage from OTA-ECHO.OWS-34096.
+[14:34:21]	MPF-I4.51977 has taken 11 damage from OTA-ECHO.OWS-34096.
+[14:34:21]	MPF-I4.51977 has taken 11 damage from OTA-ECHO.OWS-34096.
+[14:34:21]	MPF-I4.51977 has taken 11 damage from OTA-ECHO.OWS-34096.
+[14:34:21]	MPF-I4.51977 has taken 11 damage from OTA-ECHO.OWS-34096.
+[14:34:21]	MPF-I4.51977 has taken 11 damage from OTA-ECHO.OWS-34096.
+[14:34:21]	MPF-I4.51977 has taken 11 damage from OTA-ECHO.OWS-34096.
+[14:34:21]	MPF-I4.51977 has taken 11 damage from OTA-ECHO.OWS-34096.
+[14:34:26]	MPF-I4.51977 has taken 11 damage from OTA-ECHO.OWS-34096.
+[14:34:26]	MPF-I4.51977 has taken 11 damage from OTA-ECHO.OWS-34096.
+[14:34:26]	MPF-I4.51977 has taken 11 damage from OTA-ECHO.OWS-34096.
+[14:34:28]	MPF-I4.51977 has spawned a 'Entity [601][arccw_ammo_pistol]'.
+[14:34:31]	MPF-I4.51977 has spawned a 'Entity [601][arccw_ammo_smg1_large]'.
+[14:34:49]	MPF-I4.51977 has taken 11 damage from OTA-ECHO.OWS-34096.
+[14:34:50]	MPF-I4.51977 has taken 11 damage from OTA-ECHO.OWS-34096.
+[14:34:50]	MPF-I4.51977 has taken 11 damage from OTA-ECHO.OWS-34096.
+[14:34:50]	MPF-I4.51977 has taken 11 damage from OTA-ECHO.OWS-34096.
+[14:34:56]	OTA-ECHO.OWS-34096 has taken 55 damage from MPF-I4.51977.
+[14:34:57]	OTA-ECHO.OWS-34096 has taken 14 damage from MPF-I4.51977.
+[14:34:57]	OTA-ECHO.OWS-34096 has taken 54 damage from MPF-I4.51977.
+[14:35:11]	MPF-I4.51977 has taken 11 damage from OTA-ECHO.OWS-34096.
+[14:35:11]	MPF-I4.51977 has taken 11 damage from OTA-ECHO.OWS-34096.
+[14:35:12]	MPF-I4.51977 has taken 11 damage from OTA-ECHO.OWS-34096.
+[14:35:12]	MPF-I4.51977 has taken 11 damage from OTA-ECHO.OWS-34096.
+[14:35:12]	OTA-ECHO.OWS-34096 has killed MPF-I4.51977 with weapon_ar2.
+[14:35:26]	MPF-I4.51977 has gained 100 tokens.
+[14:35:31]	֍ Aime-moi ֍ loaded the character 'C17.MPF-OBS-20021'
+[14:35:34]	MPF-I4.51977 ran 'Equip' on item 'Five-seveN' (#124)
+[14:36:01]	C17.MPF-OBS-20021 entered observer.
+[14:36:02]	C17.MPF-OBS-20021 exited observer at their location.
+[14:36:22]	MPF-I4.51977 has taken 10 damage from C17.MPF-OBS-20021.
+[14:36:38]	C17.MPF-OBS-20021 entered observer.
+[14:36:41]	C17.MPF-OBS-20021 exited observer at their location.
+[14:36:47]	C17.MPF-OBS-20021 has taken 59 damage from MPF-I4.51977.
+[14:36:49]	MPF-I4.51977 has taken 42 damage from C17.MPF-OBS-20021.
+[14:36:53]	C17.MPF-OBS-20021 has taken 59 damage from MPF-I4.51977.
+[14:36:53]	C17.MPF-OBS-20021 has taken 59 damage from MPF-I4.51977.
+[14:36:53]	C17.MPF-OBS-20021 has taken 58 damage from MPF-I4.51977.
+[14:36:53]	MPF-I4.51977 has killed C17.MPF-OBS-20021 with arccw_fiveseven.
+[14:37:17]	MPF-I4.51977 entered observer.
+[14:37:20]	֍ Aime-moi ֍ (STEAM_0:0:424879351) deleted character 'C17.MPF-OBS-20021'
+[14:37:26]	MPF-I4.51977 exited observer at their location.
+[14:37:27]	MPF-I4.51977 entered observer.
+[14:37:56]	֍ Aime-moi ֍ created the character 'MPF-RCT.48810'
+[14:37:56]	MPF-RCT.48810 has gained a 'Glock' #265.
+[14:37:56]	MPF-RCT.48810 has gained a 'Коробочка мелкокалиберных патронов' #266.
+[14:37:56]	MPF-RCT.48810 has gained a 'Коробочка мелкокалиберных патронов' #267.
+[14:37:56]	MPF-RCT.48810 has gained a 'Коробочка мелкокалиберных патронов' #268.
+[14:37:56]	MPF-RCT.48810 has gained a 'Коробочка мелкокалиберных патронов' #269.
+[14:37:56]	MPF-RCT.48810 has gained a 'Наручники' #270.
+[14:37:56]	MPF-RCT.48810 has gained a 'ID Карточка' #271.
+[14:37:57]	֍ Aime-moi ֍ loaded the character 'MPF-RCT.48810'
+[14:37:58]	MPF-RCT.48810 entered observer.
+[14:37:59]	MPF-RCT.48810 exited observer at their location.
+[14:38:11]	MPF-RCT.48810 entered observer.
+[14:38:22]	MPF-RCT.48810 exited observer at their location.
+[14:38:35]	֍ Aime-moi ֍ (STEAM_0:0:424879351) has disconnected.
+[14:39:45]	֍ Aime-moi ֍ has connected.
+[14:40:27]	MPF-I4.51977 has gained 100 tokens.
+[14:40:39]	֍ Aime-moi ֍ created the character 'MPF-RCT.53980'
+[14:40:39]	MPF-RCT.53980 has gained a 'Glock' #272.
+[14:40:39]	MPF-RCT.53980 has gained a 'Коробочка мелкокалиберных патронов' #273.
+[14:40:39]	MPF-RCT.53980 has gained a 'Коробочка мелкокалиберных патронов' #274.
+[14:40:39]	MPF-RCT.53980 has gained a 'Коробочка мелкокалиберных патронов' #275.
+[14:40:39]	MPF-RCT.53980 has gained a 'Коробочка мелкокалиберных патронов' #276.
+[14:40:39]	MPF-RCT.53980 has gained a 'Наручники' #277.
+[14:40:39]	MPF-RCT.53980 has gained a 'ID Карточка' #278.
+[14:40:39]	֍ Aime-moi ֍ loaded the character 'MPF-RCT.53980'
+[14:40:48]	MPF-RCT.53980 entered observer.
+[14:41:16]	MPF-I4.51977 used command '/AreaEdit'.
+[14:41:21]	MPF-RCT.53980 used command '/AreaEdit'.
+[14:41:58]	MPF-RCT.53980 has added area "Главная площадь".
+[14:42:19]	MPF-I4.51977 has added area "Новая зона".
+[14:42:21]	MPF-RCT.53980 used command '/AreaEdit'.
+[14:42:22]	MPF-I4.51977 has removed area "Новая зона".
+[14:42:34]	MPF-RCT.53980 has added area "Больница".
+[14:43:24]	MPF-RCT.53980 has added area "D2".
+[14:43:40]	MPF-RCT.53980 used command '/AreaEdit'.
+[14:43:47]	MPF-RCT.53980 used command '/AreaEdit'.
+[14:43:50]	MPF-RCT.53980 has removed area "D2".
+[14:44:07]	MPF-RCT.53980 has added area "В2".
+[14:44:18]	MPF-RCT.53980 has removed area "В2".
+[14:44:34]	MPF-RCT.53980 has added area "D2".
+[14:45:21]	MPF-RCT.53980 has added area "D3".
+[14:45:26]	MPF-I4.51977 has gained 100 tokens.
+[14:45:39]	MPF-RCT.53980 has gained 100 tokens.
+[14:45:49]	MPF-I4.51977 has added area "Метро".
+[14:46:03]	MPF-RCT.53980 has added area "Завод".
+[14:46:54]	MPF-RCT.53980 has added area "Закрытый сектор".
+[14:47:06]	MPF-RCT.53980 used command '/AreaEdit'.
+[14:47:08]	MPF-RCT.53980 has removed area "Закрытый сектор".
+[14:47:38]	MPF-RCT.53980 has spawned a 'Entity [596][aw2_gunship]'.
+[14:47:39]	MPF-RCT.53980 exited observer at their location.
+[14:47:46]	MPF-I4.51977 exited observer at their location.
+[14:47:57]	MPF-I4.51977 entered observer.
+[14:48:01]	MPF-RCT.53980 entered observer.
+[14:48:06]	MPF-I4.51977 exited observer at their location.
+[14:48:08]	MPF-RCT.53980 has spawned a 'Entity [618][aw2_hunterchopper]'.
+[14:48:09]	MPF-RCT.53980 exited observer at their location.
+[14:48:39]	MPF-I4.51977 has spawned a 'Entity [596][item_rpg_round]'.
+[14:48:40]	MPF-I4.51977 has spawned a 'Entity [614][item_rpg_round]'.
+[14:48:40]	MPF-I4.51977 has spawned a 'Entity [640][item_rpg_round]'.
+[14:48:40]	MPF-I4.51977 has spawned a 'Entity [641][item_rpg_round]'.
+[14:48:40]	MPF-I4.51977 has spawned a 'Entity [693][item_rpg_round]'.
+[14:48:40]	MPF-I4.51977 has spawned a 'Entity [694][item_rpg_round]'.
+[14:48:40]	MPF-I4.51977 has spawned a 'Entity [695][item_rpg_round]'.
+[14:48:41]	MPF-I4.51977 has spawned a 'Entity [596][item_rpg_round]'.
+[14:48:41]	MPF-I4.51977 has spawned a 'Entity [614][item_rpg_round]'.
+[14:48:41]	MPF-I4.51977 has spawned a 'Entity [640][item_rpg_round]'.
+[14:48:41]	MPF-I4.51977 has spawned a 'Entity [641][item_rpg_round]'.
+[14:48:42]	MPF-I4.51977 has spawned a 'Entity [693][item_rpg_round]'.
+[14:48:42]	MPF-I4.51977 has spawned a 'Entity [694][item_rpg_round]'.
+[14:48:42]	MPF-I4.51977 has spawned a 'Entity [695][item_rpg_round]'.
+[14:48:42]	MPF-I4.51977 has spawned a 'Entity [696][item_rpg_round]'.
+[14:48:42]	MPF-I4.51977 has spawned a 'Entity [697][item_rpg_round]'.
+[14:48:42]	MPF-I4.51977 has spawned a 'Entity [707][item_rpg_round]'.
+[14:48:42]	MPF-I4.51977 has spawned a 'Entity [596][item_rpg_round]'.
+[14:48:43]	MPF-I4.51977 has spawned a 'Entity [614][item_rpg_round]'.
+[14:49:40]	MPF-RCT.53980 entered observer.
+[14:49:51]	MPF-I4.51977 entered observer.
+[14:49:56]	MPF-I4.51977 entered observer.
+[14:50:14]	MPF-RCT.53980 exited observer at their location.
+[14:50:16]	MPF-I4.51977 exited observer at their location.
+[14:50:26]	MPF-I4.51977 has gained 100 tokens.
+[14:50:39]	MPF-RCT.53980 has gained 100 tokens.
+[14:50:42]	MPF-I4.51977 has spawned a 'Entity [642][item_ammo_smg1_large]'.
+[14:50:46]	MPF-I4.51977 has spawned a 'Entity [642][item_ammo_smg1_large]'.
+[14:50:46]	MPF-I4.51977 has spawned a 'Entity [643][item_ammo_smg1_large]'.
+[14:50:55]	MPF-RCT.53980 entered observer.
+[14:51:05]	MPF-I4.51977 entered observer.
+[14:51:14]	MPF-I4.51977 exited observer at their location.
+[14:51:19]	MPF-I4.51977 entered observer.
+[14:51:21]	MPF-I4.51977 exited observer at their location.
+[14:51:37]	MPF-I4.51977 entered observer.
+[14:51:49]	MPF-I4.51977 exited observer at their location.
+[14:51:58]	Г@H3NK loaded the character 'Александр Климов'
+[14:51:59]	Александр Климов entered observer.
+[14:52:00]	MPF-RCT.53980 used command '/CharGiveFlag 539 CVcenprtv'.
+[14:52:06]	Александр Климов exited observer at their location.
+[14:52:09]	MPF-RCT.53980 has spawned 'models/props_wasteland/cargo_container01.mdl'.
+[14:52:13]	MPF-RCT.53980 has spawned 'models/props_wasteland/cargo_container01.mdl'.
+[14:52:44]	MPF-RCT.53980 has spawned 'models/headcrabclassic.mdl'.
+[14:53:20]	Александр Климов used command '/CharSetModel Александр models/humans/group03/male_09_bloody.mdl'.
+[14:53:50]	MPF-RCT.53980 has spawned a 'Entity [602][aw2_hunterchopper]'.
+[14:53:52]	MPF-RCT.53980 has spawned a 'Entity [636][aw2_hk]'.
+[14:53:54]	MPF-RCT.53980 exited observer at their location.
+[14:54:13]	Александр Климов has taken 27 damage from env_explosion.
+[14:54:32]	Александр Климов has taken 20 damage from MPF-RCT.53980.
+[14:54:41]	MPF-RCT.53980 entered observer.
+[14:54:41]	MPF-RCT.53980 exited observer at their location.
+[14:54:42]	MPF-RCT.53980 entered observer.
+[14:55:39]	MPF-RCT.53980 has gained 100 tokens.
+[14:56:22]	Александр Климов has taken 2500 damage from trigger_hurt.
+[14:56:22]	trigger_hurt has killed Александр Климов.
+[14:56:45]	Александр Климов ran 'Equip' on item 'M3 Super 90' (#189)
+[14:57:53]	Александр Климов rolled 100 out of 100.
+[14:57:53]	Александр Климов used command '/Roll'.
+[14:58:23]	MPF-RCT.53980 has spawned a 'NPC [592][npc_metropolice]'.
+[14:58:25]	MPF-RCT.53980 has spawned a 'NPC [592][npc_manhack]'.
+[14:58:26]	MPF-RCT.53980 has spawned a 'NPC [618][npc_manhack]'.
+[14:58:26]	MPF-RCT.53980 has spawned a 'NPC [636][npc_manhack]'.
+[14:58:30]	Александр Климов has taken 4 damage from npc_manhack.
+[14:58:30]	Александр Климов has taken 4 damage from npc_manhack.
+[14:58:35]	Александр Климов has taken 4 damage from npc_manhack.
+[14:58:38]	Александр Климов has taken 4 damage from npc_manhack.
+[14:58:39]	Александр Климов has taken 2 damage from trigger_hurt.
+[14:58:39]	Александр Климов has taken 2 damage from trigger_hurt.
+[14:58:53]	MPF-RCT.53980 has spawned a 'NPC [619][npc_metropolice]'.
+[14:59:00]	Александр Климов has taken 10 damage from npc_metropolice.
+[14:59:00]	Александр Климов has taken 2 damage from trigger_hurt.
+[14:59:01]	Александр Климов has taken 2 damage from trigger_hurt.
+[14:59:01]	Александр Климов has taken 2 damage from trigger_hurt.
+[14:59:02]	Александр Климов has taken 2 damage from trigger_hurt.
+[14:59:02]	Александр Климов has taken 2 damage from trigger_hurt.
+[14:59:18]	MPF-RCT.53980 has spawned a 'NPC [639][npc_metropolice]'.
+[14:59:22]	MPF-RCT.53980 has spawned a 'NPC [642][npc_metropolice]'.
+[14:59:28]	Александр Климов has taken 11 damage from npc_metropolice.
+[14:59:29]	Александр Климов has taken 41 damage from npc_metropolice.
+[14:59:29]	Александр Климов has taken 1 damage from entityflame.
+[14:59:29]	Александр Климов has taken 1 damage from entityflame.
+[14:59:30]	Александр Климов has taken 1 damage from entityflame.
+[14:59:30]	Александр Климов has taken 1 damage from entityflame.
+[14:59:30]	Александр Климов has taken 1 damage from entityflame.
+[14:59:32]	Александр Климов has taken 5 damage from npc_metropolice.
+[14:59:32]	Александр Климов has taken 1 damage from entityflame.
+[14:59:32]	Александр Климов has taken 1 damage from entityflame.
+[14:59:32]	Александр Климов has taken 1 damage from entityflame.
+[14:59:33]	Александр Климов has taken 1 damage from entityflame.
+[14:59:33]	Александр Климов has taken 1 damage from entityflame.
+[15:00:19]	MPF-RCT.53980 exited observer at their location.
+[15:00:20]	MPF-RCT.53980 entered observer.
+[15:00:35]	MPF-RCT.53980 used command '/CharGiveFlag 539 CVcenrtpv'.
+[15:00:39]	MPF-RCT.53980 has gained 100 tokens.
+[15:01:02]	Александр Климов entered observer.
+[15:01:04]	Александр Климов entered observer.
+[15:01:09]	Александр Климов exited observer at their location.
+[15:01:10]	Александр Климов entered observer.
+[15:01:11]	Александр Климов exited observer at their location.
+[15:01:11]	Александр Климов entered observer.
+[15:01:12]	Александр Климов exited observer at their location.
+[15:01:12]	Александр Климов entered observer.
+[15:01:13]	Александр Климов exited observer at their location.
+[15:01:13]	Александр Климов entered observer.
+[15:01:14]	Александр Климов exited observer at their location.
+[15:01:14]	Александр Климов entered observer.
+[15:01:17]	Александр Климов exited observer at their location.
+[15:01:17]	Александр Климов entered observer.
+[15:01:17]	Александр Климов exited observer at their location.
+[15:01:18]	Александр Климов entered observer.
+[15:01:26]	MPF-RCT.53980 has spawned a 'NPC [640][npc_metropolice]'.
+[15:01:28]	Александр Климов exited observer at their location.
+[15:01:36]	MPF-RCT.53980 has spawned a 'NPC [636][npc_metropolice]'.
+[15:01:50]	MPF-RCT.53980 has spawned a 'NPC [640][npc_metropolice]'.
+[15:01:57]	MPF-RCT.53980 exited observer at their location.
+[15:02:03]	Александр Климов has spawned a 'Entity [619][item_box_buckshot]'.
+[15:02:03]	Александр Климов has spawned a 'Entity [636][item_box_buckshot]'.
+[15:02:08]	MPF-RCT.53980 entered observer.
+[15:02:20]	MPF-RCT.53980 exited observer at their location.
+[15:03:50]	MPF-RCT.53980 entered observer.
+[15:03:57]	MPF-RCT.53980 has spawned a 'NPC [639][npc_metropolice]'.
+[15:04:01]	MPF-RCT.53980 has spawned a 'NPC [642][npc_metropolice]'.
+[15:05:20]	MPF-RCT.53980 has spawned a 'NPC [648][npc_metropolice]'.
+[15:05:40]	MPF-RCT.53980 has gained 100 tokens.
+[15:05:41]	MPF-RCT.53980 has spawned a 'NPC [695][npc_combine_s]'.
+[15:05:44]	MPF-RCT.53980 has spawned a 'NPC [696][npc_combine_s]'.
+[15:05:45]	MPF-RCT.53980 has spawned a 'NPC [707][npc_combine_s]'.
+[15:05:49]	MPF-RCT.53980 has spawned a 'NPC [619][npc_combine_s]'.
+[15:05:56]	Александр Климов has taken 3 damage from npc_combine_s.
+[15:05:56]	Александр Климов has taken 1 damage from npc_combine_s.
+[15:05:57]	Александр Климов has taken 6 damage from npc_combine_s.
+[15:06:02]	Александр Климов has taken 3 damage from npc_combine_s.
+[15:06:04]	Александр Климов has taken 1 damage from npc_combine_s.
+[15:06:11]	MPF-RCT.53980 has spawned a 'NPC [697][npc_combine_s]'.
+[15:06:17]	MPF-RCT.53980 has spawned a 'NPC [648][npc_combine_s]'.
+[15:06:19]	MPF-RCT.53980 has spawned a 'NPC [697][npc_combine_s]'.
+[15:06:20]	MPF-RCT.53980 has spawned a 'NPC [648][npc_combine_s]'.
+[15:06:25]	MPF-RCT.53980 has spawned a 'NPC [697][npc_combine_s]'.
+[15:06:28]	MPF-RCT.53980 has spawned a 'NPC [709][npc_combine_s]'.
+[15:06:37]	MPF-RCT.53980 has spawned a 'NPC [648][npc_combine_s]'.
+[15:06:40]	MPF-RCT.53980 has spawned a 'NPC [648][npc_combine_s]'.
+[15:06:42]	MPF-RCT.53980 has spawned a 'NPC [711][npc_combine_s]'.
+[15:06:43]	MPF-RCT.53980 has spawned a 'NPC [648][npc_combine_s]'.
+[15:06:44]	MPF-RCT.53980 has spawned a 'NPC [711][npc_combine_s]'.
+[15:06:47]	MPF-RCT.53980 has spawned a 'NPC [741][npc_combine_s]'.
+[15:06:49]	MPF-RCT.53980 has spawned a 'NPC [743][npc_combine_s]'.
+[15:06:50]	MPF-RCT.53980 has spawned a 'NPC [741][npc_combine_s]'.
+[15:06:51]	MPF-RCT.53980 has spawned a 'NPC [743][npc_combine_s]'.
+[15:06:52]	MPF-RCT.53980 has spawned a 'NPC [741][npc_combine_s]'.
+[15:07:35]	MPF-RCT.53980 has spawned a 'NPC [741][npc_combine_s]'.
+[15:07:38]	MPF-RCT.53980 has spawned a 'NPC [745][npc_combine_s]'.
+[15:07:40]	MPF-RCT.53980 has spawned a 'NPC [648][npc_combine_s]'.
+[15:07:47]	Александр Климов has taken 20 damage from npc_combine_s.
+[15:07:55]	MPF-RCT.53980 has spawned a 'NPC [648][npc_combine_s]'.
+[15:07:56]	MPF-RCT.53980 has spawned a 'NPC [751][npc_combine_s]'.
+[15:07:58]	MPF-RCT.53980 has spawned a 'NPC [648][npc_combine_s]'.
+[15:08:00]	Александр Климов has taken 1 damage from npc_combine_s.
+[15:08:00]	Александр Климов has taken 3 damage from npc_combine_s.
+[15:08:01]	Александр Климов has taken 6 damage from npc_combine_s.
+[15:08:01]	Александр Климов has taken 1 damage from npc_combine_s.
+[15:08:02]	MPF-RCT.53980 has spawned a 'NPC [742][npc_combine_s]'.
+[15:08:03]	MPF-RCT.53980 has spawned a 'NPC [648][npc_combine_s]'.
+[15:08:48]	Александр Климов has taken 3 damage from npc_combine_s.
+[15:08:49]	Александр Климов has taken 13 damage from npc_combine_s.
+[15:08:49]	npc_combine_s has killed Александр Климов.
+[15:09:21]	Александр Климов ran 'Equip' on item 'M3 Super 90' (#189)
+[15:09:28]	Александр Климов entered observer.
+[15:09:39]	Александр Климов exited observer at their location.
+[15:09:49]	Александр Климов has taken 10 damage from zaptrap_rnd4.
+[15:09:50]	Александр Климов has taken 20 damage from zaptrap.
+[15:09:50]	Александр Климов has taken 20 damage from zaptrap.
+[15:09:51]	Александр Климов has taken 20 damage from zaptrap.
+[15:09:51]	Александр Климов has taken 20 damage from zaptrap.
+[15:09:52]	Александр Климов has taken 20 damage from zaptrap.
+[15:09:52]	zaptrap has killed Александр Климов.
+[15:09:53]	MPF-RCT.53980 has spawned a 'NPC [599][npc_combine_s]'.
+[15:09:53]	MPF-RCT.53980 has spawned a 'NPC [602][npc_combine_s]'.
+[15:10:04]	MPF-RCT.53980 has spawned a 'NPC [710][npc_combine_s]'.
+[15:10:40]	MPF-RCT.53980 has gained 100 tokens.
+[15:10:55]	MPF-RCT.53980 has spawned a 'Entity [657][gw_strider]'.
+[15:11:00]	Александр Климов ran 'Equip' on item 'M3 Super 90' (#189)
+[15:11:02]	MPF-RCT.53980 has spawned a 'Entity [614][gw_strider]'.
+[15:11:04]	MPF-RCT.53980 exited observer at their location.
+[15:11:04]	MPF-RCT.53980 entered observer.
+[15:11:05]	MPF-RCT.53980 exited observer at their location.
+[15:11:09]	Александр Климов has spawned a 'Entity [751][item_box_buckshot]'.
+[15:11:09]	Александр Климов has spawned a 'Entity [753][item_box_buckshot]'.
+[15:11:11]	Александр Климов has spawned a 'Entity [751][item_box_buckshot]'.
+[15:11:12]	Александр Климов has spawned a 'Entity [753][item_box_buckshot]'.
+[15:11:12]	Александр Климов has spawned a 'Entity [757][item_box_buckshot]'.
+[15:11:16]	Александр Климов has taken 50 damage from MPF-RCT.53980.
+[15:11:54]	Александр Климов has taken 50 damage from MPF-RCT.53980.
+[15:11:54]	MPF-RCT.53980 has killed Александр Климов with ix_hands.
+[15:12:11]	Александр Климов entered observer.
+[15:12:19]	Александр Климов exited observer at their location.
+[15:12:20]	MPF-RCT.53980 entered observer.
+[15:12:36]	Александр Климов ran 'Equip' on item 'M3 Super 90' (#189)
+[15:12:41]	MPF-RCT.53980 has spawned a 'NPC [746][npc_metropolice]'.
+[15:13:26]	MPF-RCT.53980 has spawned a 'NPC [757][npc_metropolice]'.
+[15:13:28]	MPF-RCT.53980 has spawned a 'NPC [746][npc_metropolice]'.
+[15:13:29]	Александр Климов has taken 3 damage from npc_metropolice.
+[15:13:37]	MPF-RCT.53980 has spawned a 'NPC [769][npc_combine_s]'.
+[15:13:42]	Александр Климов has taken 10 damage from npc_combine_s.
+[15:13:42]	Александр Климов has taken 3 damage from npc_combine_s.
+[15:13:42]	Александр Климов has taken 3 damage from npc_combine_s.
+[15:13:43]	Александр Климов has taken 6 damage from npc_combine_s.
+[15:13:43]	Александр Климов has taken 6 damage from npc_combine_s.
+[15:13:47]	MPF-RCT.53980 has spawned a 'NPC [769][npc_combine_s]'.
+[15:13:48]	MPF-RCT.53980 has spawned a 'NPC [773][npc_combine_s]'.
+[15:13:48]	Александр Климов has taken 3 damage from npc_combine_s.
+[15:13:48]	Александр Климов has taken 10 damage from npc_metropolice.
+[15:13:48]	Александр Климов has taken 1 damage from npc_combine_s.
+[15:13:48]	Александр Климов has taken 6 damage from npc_combine_s.
+[15:13:49]	MPF-RCT.53980 has spawned a 'NPC [746][npc_combine_s]'.
+[15:13:54]	Александр Климов has taken 6 damage from npc_combine_s.
+[15:13:56]	Александр Климов has taken 1 damage from npc_combine_s.
+[15:14:05]	MPF-RCT.53980 has spawned a 'NPC [799][npc_combine_s]'.
+[15:14:13]	Александр Климов has taken 3 damage from npc_combine_s.
+[15:14:13]	Александр Климов has taken 3 damage from npc_combine_s.
+[15:14:14]	MPF-RCT.53980 has spawned a 'NPC [769][npc_combine_s]'.
+[15:14:15]	MPF-RCT.53980 has spawned a 'NPC [777][npc_combine_s]'.
+[15:14:15]	Александр Климов has taken 1 damage from npc_combine_s.
+[15:14:16]	Александр Климов has taken 1 damage from npc_combine_s.
+[15:14:17]	Александр Климов has taken 6 damage from npc_combine_s.
+[15:14:17]	Александр Климов has taken 3 damage from npc_combine_s.
+[15:14:18]	Александр Климов has taken 3 damage from npc_combine_s.
+[15:14:19]	Александр Климов has taken 3 damage from npc_combine_s.
+[15:14:20]	Александр Климов has taken 3 damage from npc_combine_s.
+[15:14:20]	Александр Климов has taken 1 damage from npc_combine_s.
+[15:14:20]	Александр Климов has taken 3 damage from npc_combine_s.
+[15:14:21]	Александр Климов has taken 3 damage from npc_combine_s.
+[15:14:21]	Александр Климов has taken 3 damage from npc_combine_s.
+[15:14:23]	Александр Климов has taken 6 damage from npc_combine_s.
+[15:14:24]	Александр Климов has taken 3 damage from npc_combine_s.
+[15:14:24]	Александр Климов has taken 3 damage from npc_combine_s.
+[15:14:25]	Александр Климов has taken 1 damage from npc_combine_s.
+[15:14:25]	Александр Климов has taken 3 damage from npc_combine_s.
+[15:14:25]	npc_combine_s has killed Александр Климов.
+[15:14:49]	MPF-RCT.53980 has spawned a 'NPC [773][npc_combine_s]'.
+[15:14:50]	MPF-RCT.53980 has spawned a 'NPC [807][npc_combine_s]'.
+[15:14:50]	MPF-RCT.53980 has spawned a 'NPC [813][npc_combine_s]'.
+[15:14:51]	MPF-RCT.53980 has spawned a 'NPC [815][npc_combine_s]'.
+[15:14:55]	MPF-RCT.53980 has spawned a 'NPC [598][npc_citizen]'.
+[15:14:56]	MPF-RCT.53980 has spawned a 'NPC [822][npc_citizen]'.
+[15:14:57]	MPF-RCT.53980 has spawned a 'NPC [820][npc_citizen]'.
+[15:14:58]	MPF-RCT.53980 has spawned a 'NPC [818][npc_citizen]'.
+[15:14:59]	MPF-RCT.53980 has spawned a 'NPC [833][npc_citizen]'.
+[15:15:10]	MPF-RCT.53980 has spawned a 'Entity [841][gw_strider]'.
+[15:15:11]	MPF-RCT.53980 exited observer at their location.
+[15:15:23]	Александр Климов ran 'Equip' on item 'M3 Super 90' (#189)
+[15:15:35]	Александр Климов has taken 6 damage from npc_combine_s.
+[15:15:40]	Александр Климов has taken 3 damage from npc_combine_s.
+[15:15:40]	Александр Климов has taken 3 damage from npc_combine_s.
+[15:15:41]	MPF-RCT.53980 has gained 100 tokens.
+[15:15:41]	Александр Климов has taken 12 damage from MPF-RCT.53980.
+[15:15:43]	Александр Климов has taken 3 damage from npc_combine_s.
+[15:15:52]	Александр Климов has taken 12 damage from MPF-RCT.53980.
+[15:15:52]	Александр Климов has taken 12 damage from MPF-RCT.53980.
+[15:15:57]	MPF-RCT.53980 entered observer.
+[15:16:13]	MPF-RCT.53980 has spawned a 'NPC [813][npc_metropolice]'.
+[15:16:15]	MPF-RCT.53980 has spawned a 'NPC [827][npc_metropolice]'.
+[15:16:17]	MPF-RCT.53980 has spawned a 'NPC [813][npc_metropolice]'.
+[15:16:18]	MPF-RCT.53980 has spawned a 'NPC [827][npc_metropolice]'.
+[15:16:19]	MPF-RCT.53980 has spawned a 'NPC [833][npc_metropolice]'.
+[15:16:20]	Александр Климов has taken 3 damage from npc_metropolice.
+[15:16:27]	MPF-RCT.53980 has spawned a 'NPC [837][npc_combine_s]'.
+[15:16:28]	MPF-RCT.53980 has spawned a 'NPC [841][npc_hunter]'.
+[15:16:30]	MPF-RCT.53980 has spawned a 'NPC [844][npc_combine_s]'.
+[15:16:37]	MPF-RCT.53980 has spawned a 'NPC [841][npc_combine_s]'.
+[15:16:38]	MPF-RCT.53980 has spawned a 'NPC [847][npc_combine_s]'.
+[15:16:39]	MPF-RCT.53980 has spawned a 'NPC [849][npc_combine_s]'.
+[15:16:40]	MPF-RCT.53980 has spawned a 'NPC [851][npc_combine_s]'.
+[15:16:41]	MPF-RCT.53980 has spawned a 'NPC [813][npc_combine_s]'.
+[15:16:47]	MPF-RCT.53980 has spawned a 'NPC [863][npc_combine_s]'.
+[15:16:48]	MPF-RCT.53980 has spawned a 'NPC [865][npc_combine_s]'.
+[15:16:52]	Александр Климов has taken 1 damage from npc_combine_s.
+[15:16:53]	Александр Климов has taken 3 damage from npc_combine_s.
+[15:16:53]	Александр Климов has taken 1 damage from npc_combine_s.
+[15:16:53]	Александр Климов has taken 6 damage from npc_combine_s.
+[15:16:58]	Александр Климов has taken 1 damage from npc_combine_s.
+[15:16:59]	Александр Климов has taken 3 damage from npc_combine_s.
+[15:16:59]	Александр Климов has taken 6 damage from npc_combine_s.
+[15:16:59]	Александр Климов has taken 3 damage from npc_combine_s.
+[15:17:00]	Александр Климов has taken 3 damage from npc_combine_s.
+[15:17:00]	Александр Климов has taken 3 damage from npc_combine_s.
+[15:17:00]	Александр Климов has taken 1 damage from npc_combine_s.
+[15:17:00]	Александр Климов has taken 6 damage from npc_combine_s.
+[15:17:00]	Александр Климов has taken 6 damage from npc_combine_s.
+[15:17:01]	Александр Климов has taken 1 damage from npc_combine_s.
+[15:17:01]	npc_combine_s has killed Александр Климов.
+[15:17:11]	MPF-RCT.53980 has spawned a 'NPC [598][npc_combinedropship]'.
+[15:17:27]	Александр Климов has taken 3 damage from npc_combine_s.
+[15:17:28]	Александр Климов has taken 3 damage from npc_combine_s.
+[15:17:28]	Александр Климов has taken 3 damage from npc_combine_s.
+[15:17:28]	Александр Климов has taken 3 damage from npc_combine_s.
+[15:17:28]	Александр Климов has taken 3 damage from npc_combine_s.
+[15:17:29]	Александр Климов has taken 3 damage from npc_combine_s.
+[15:17:29]	Александр Климов has taken 3 damage from npc_combine_s.
+[15:17:36]	Александр Климов has taken 1 damage from npc_combine_s.
+[15:17:36]	Александр Климов has taken 3 damage from npc_combine_s.
+[15:17:36]	Александр Климов has taken 6 damage from npc_combine_s.
+[15:17:44]	MPF-RCT.53980 has spawned a 'NPC [1408][npc_combine_s]'.
+[15:17:55]	MPF-RCT.53980 has spawned a 'NPC [841][npc_strider]'.
+[15:17:58]	Александр Климов has taken 5 damage from npc_strider.
+[15:17:58]	Александр Климов has taken 5 damage from npc_strider.
+[15:17:58]	Александр Климов has taken 5 damage from npc_strider.
+[15:18:14]	MPF-RCT.53980 has spawned a 'NPC [742][npc_combine_s]'.
+[15:18:17]	Александр Климов has taken 12 damage from npc_combine_s.
+[15:18:17]	Александр Климов has taken 24 damage from npc_combine_s.
+[15:18:19]	Александр Климов has taken 7 damage from npc_combine_s.
+[15:18:19]	Александр Климов has taken 4 damage from npc_combine_s.
+[15:18:29]	MPF-RCT.53980 has spawned a 'Entity [742][item_healthkit]'.
+[15:18:29]	MPF-RCT.53980 has spawned a 'Entity [743][item_healthkit]'.
+[15:18:36]	MPF-RCT.53980 has spawned a 'NPC [598][npc_hunter]'.
+[15:18:40]	Александр Климов has taken 4 damage from npc_hunter.
+[15:19:00]	Александр Климов has taken 8 damage from npc_hunter.
+[15:19:00]	Александр Климов has taken 8 damage from npc_hunter.
+[15:19:00]	Александр Климов has taken 10 damage from npc_hunter.
+[15:19:00]	Александр Климов has taken 9 damage from npc_hunter.
+[15:19:00]	Александр Климов has taken 8 damage from npc_hunter.
+[15:19:00]	Александр Климов has taken 6 damage from npc_hunter.
+[15:19:00]	Александр Климов has taken 5 damage from npc_hunter.
+[15:19:00]	npc_hunter has killed Александр Климов.
+[15:19:24]	Александр Климов ran 'Equip' on item 'M3 Super 90' (#189)
+[15:19:24]	MPF-RCT.53980 has spawned a 'NPC [841][npc_combine_s]'.
+[15:19:25]	MPF-RCT.53980 has spawned a 'NPC [742][npc_combine_s]'.
+[15:19:25]	MPF-RCT.53980 has spawned a 'NPC [879][npc_combine_s]'.
+[15:19:26]	MPF-RCT.53980 has spawned a 'NPC [882][npc_combine_s]'.
+[15:19:27]	MPF-RCT.53980 has spawned a 'NPC [877][npc_combine_s]'.
+[15:19:27]	MPF-RCT.53980 has spawned a 'NPC [878][npc_combine_s]'.
+[15:19:28]	MPF-RCT.53980 has spawned a 'NPC [888][npc_combine_s]'.
+[15:19:29]	MPF-RCT.53980 has spawned a 'NPC [875][npc_combine_s]'.
+[15:19:30]	MPF-RCT.53980 has spawned a 'NPC [896][npc_combine_s]'.
+[15:19:34]	MPF-RCT.53980 has spawned a 'NPC [844][npc_citizen]'.
+[15:19:35]	MPF-RCT.53980 has spawned a 'NPC [842][npc_citizen]'.
+[15:19:36]	MPF-RCT.53980 has spawned a 'NPC [890][npc_citizen]'.
+[15:19:37]	MPF-RCT.53980 has spawned a 'NPC [917][npc_citizen]'.
+[15:19:38]	MPF-RCT.53980 has spawned a 'NPC [1062][npc_citizen]'.
+[15:19:39]	MPF-RCT.53980 has spawned a 'NPC [893][npc_citizen]'.
+[15:19:40]	MPF-RCT.53980 has spawned a 'NPC [916][npc_citizen]'.
+[15:19:41]	MPF-RCT.53980 has spawned a 'NPC [1044][npc_citizen]'.
+[15:19:42]	MPF-RCT.53980 has spawned a 'NPC [1061][npc_citizen]'.
+[15:19:43]	MPF-RCT.53980 has spawned a 'NPC [1066][npc_citizen]'.
+[15:19:44]	MPF-RCT.53980 has spawned a 'NPC [1118][npc_citizen]'.
+[15:19:45]	MPF-RCT.53980 has spawned a 'NPC [1171][npc_citizen]'.
+[15:19:46]	MPF-RCT.53980 has spawned a 'NPC [1060][npc_citizen]'.
+[15:19:49]	Александр Климов has taken 1 damage from npc_combine_s.
+[15:19:49]	Александр Климов has taken 3 damage from npc_combine_s.
+[15:19:50]	Александр Климов has taken 1 damage from npc_combine_s.
+[15:19:51]	Александр Климов has taken 3 damage from npc_combine_s.
+[15:19:51]	Александр Климов has taken 200 damage from sniper1.
+[15:19:51]	sniper1 has killed Александр Климов.
+[15:20:08]	Александр Климов has taken 10 damage from npc_combine_s.
+[15:20:11]	Александр Климов ran 'Equip' on item 'M3 Super 90' (#189)
+[15:20:15]	Александр Климов has taken 3 damage from npc_combine_s.
+[15:20:16]	Александр Климов has taken 3 damage from npc_combine_s.
+[15:20:16]	Александр Климов has taken 3 damage from npc_combine_s.
+[15:20:18]	MPF-RCT.53980 has spawned a 'NPC [598][npc_combine_s]'.
+[15:20:19]	MPF-RCT.53980 has spawned a 'NPC [904][npc_combine_s]'.
+[15:20:19]	MPF-RCT.53980 has spawned a 'NPC [837][npc_combine_s]'.
+[15:20:20]	MPF-RCT.53980 has spawned a 'NPC [1090][npc_combine_s]'.
+[15:20:21]	MPF-RCT.53980 has spawned a 'NPC [1114][npc_combine_s]'.
+[15:20:22]	MPF-RCT.53980 has spawned a 'NPC [1060][npc_combine_s]'.
+[15:20:22]	MPF-RCT.53980 has spawned a 'NPC [842][npc_combine_s]'.
+[15:20:23]	MPF-RCT.53980 has spawned a 'NPC [1169][npc_combine_s]'.
+[15:20:24]	MPF-RCT.53980 has spawned a 'NPC [1173][npc_combine_s]'.
+[15:20:25]	MPF-RCT.53980 has spawned a 'NPC [890][npc_combine_s]'.
+[15:20:32]	Александр Климов has taken 3 damage from npc_combine_s.
+[15:20:39]	MPF-RCT.53980 has spawned a 'NPC [1071][npc_citizen]'.
+[15:20:40]	MPF-RCT.53980 has spawned a 'NPC [1177][npc_citizen]'.
+[15:20:41]	MPF-RCT.53980 has gained 100 tokens.
+[15:20:42]	MPF-RCT.53980 has spawned a 'NPC [1060][npc_citizen]'.
+[15:20:43]	MPF-RCT.53980 has spawned a 'NPC [1265][npc_citizen]'.
+[15:20:44]	MPF-RCT.53980 has spawned a 'NPC [1208][npc_citizen]'.
+[15:20:45]	MPF-RCT.53980 has spawned a 'NPC [1173][npc_citizen]'.
+[15:20:45]	MPF-RCT.53980 has spawned a 'NPC [598][npc_citizen]'.
+[15:20:55]	Александр Климов has taken 3 damage from npc_combine_s.
+[15:20:56]	Александр Климов has taken 1 damage from npc_combine_s.
+[15:20:56]	Александр Климов has taken 1 damage from npc_citizen.
+[15:21:00]	Александр Климов has taken 3 damage from npc_citizen.
+[15:21:02]	Александр Климов has taken 3 damage from npc_citizen.
+[15:21:02]	Александр Климов has taken 3 damage from npc_combine_s.
+[15:21:09]	Александр Климов entered observer.
+[15:21:09]	Александр Климов exited observer at their location.
+[15:21:29]	MPF-RCT.53980 has spawned a 'Entity [890][aw2_hk]'.
+[15:21:30]	MPF-RCT.53980 exited observer at their location.
+[15:21:37]	MPF-RCT.53980 entered observer.
+[15:21:47]	Александр Климов has spawned a 'Entity [1060][item_box_buckshot]'.
+[15:21:47]	Александр Климов has spawned a 'Entity [1090][item_box_buckshot]'.
+[15:21:47]	Александр Климов has spawned a 'Entity [1114][item_box_buckshot]'.
+[15:21:48]	Александр Климов has spawned a 'Entity [1208][item_box_buckshot]'.
+[15:22:32]	MPF-RCT.53980 exited observer at their location.
+[15:22:57]	MPF-RCT.53980 used command '/ActMotion'.
+[15:23:09]	MPF-RCT.53980 has spawned 'models\Humans/Group03m/male_03.mdl'.
+[15:23:20]	MPF-RCT.53980 has spawned 'models/Police.mdl'.
+[15:23:21]	MPF-RCT.53980 has spawned 'models/Combine_Soldier.mdl'.
+[15:24:24]	MPF-RCT.53980 has spawned a 'NPC [1060][npc_breen]'.
+[15:24:35]	MPF-RCT.53980 has spawned a 'NPC [710][npc_breen]'.
+[15:24:55]	MPF-RCT.53980 has spawned a 'NPC [710][npc_gman]'.
+[15:25:02]	MPF-RCT.53980 has spawned a 'NPC [904][npc_gman]'.
+[15:25:18]	MPF-RCT.53980 entered observer.
+[15:25:41]	MPF-RCT.53980 has gained 100 tokens.
+[15:26:22]	֍ Aime-moi ֍ (STEAM_0:0:424879351) has disconnected.
+[15:27:01]	Александр Климов has spawned 'models/props_junk/garbage_glassbottle003a.mdl'.
+[15:27:32]	Александр Климов has spawned 'models/props_junk/GlassBottle01a.mdl'.
+[15:30:07]	Александр Климов rolled 65 out of 100.
+[15:30:07]	Александр Климов used command '/Roll'.
+[15:31:07]	Александр Климов has gained a 'UMP-45' #279.
+[15:31:07]	Александр Климов used command '/CharGiveItem Александр ump45'.
+[15:31:27]	Александр Климов has spawned 'models/weapons/w_smg_ump45.mdl'.
+[15:31:41]	Александр Климов has spawned 'models/weapons/w_smg_ump45.mdl'.
+[15:31:55]	Александр Климов has spawned 'models/weapons/w_shot_m3super90.mdl'.
+[15:32:10]	Александр Климов ran 'Equip' on item 'UMP-45' (#279)
+[15:32:11]	Александр Климов ran 'EquipUn' on item 'M3 Super 90' (#189)
+[15:32:12]	Александр Климов ran 'Equip' on item 'UMP-45' (#279)
+[15:32:22]	Александр Климов entered observer.
+[15:32:22]	Александр Климов exited observer at their location.
+[15:32:42]	Александр Климов has spawned a 'Entity [598][item_ammo_pistol_large]'.
+[15:32:42]	Александр Климов has spawned a 'Entity [622][item_ammo_pistol_large]'.
+[15:33:27]	Александр Климов has spawned a 'Entity [598][ix_questgiver]'.
+[15:34:52]	Александр Климов ran 'EquipUn' on item 'UMP-45' (#279)
+[15:34:53]	Александр Климов ran 'Equip' on item 'UMP-45' (#279)
+[15:38:49]	Александр Климов ran 'EquipUn' on item 'UMP-45' (#279)
+[15:38:52]	Александр Климов ran 'Equip' on item 'M3 Super 90' (#189)
+[15:39:40]	Александр Климов ran 'Equip' on item 'UMP-45' (#279)
+[15:39:40]	Александр Климов ran 'EquipUn' on item 'M3 Super 90' (#189)
+[15:39:41]	Александр Климов ran 'Equip' on item 'M3 Super 90' (#189)
+[15:39:43]	Александр Климов ran 'EquipUn' on item 'M3 Super 90' (#189)
+[15:39:43]	Александр Климов ran 'Equip' on item 'UMP-45' (#279)
+[15:49:21]	Г@H3NK has connected.
+[15:51:42]	Г@H3NK loaded the character 'Александр Климов'
+[15:53:25]	Александр Климов entered observer.
+[15:53:30]	Александр Климов exited observer at their location.
+[15:53:30]	֍ Aime-moi ֍ has connected.
+[15:53:49]	Александр Климов entered observer.
+[15:53:54]	Александр Климов exited observer at their location.
+[15:54:00]	Александр Климов entered observer.
+[15:54:04]	Александр Климов used command '/AreaEdit'.
+[15:54:14]	Александр Климов has removed area "Больница".
+[15:55:23]	Александр Климов has added area "Станционар".
+[15:55:38]	֍ Aime-moi ֍ loaded the character 'MPF-RCT.53980'
+[15:55:40]	MPF-RCT.53980 entered observer.
+[15:55:40]	MPF-RCT.53980 exited observer at their location.
+[15:55:58]	Александр Климов has removed area "Метро".
+[15:56:05]	֍ Aime-moi ֍ (STEAM_0:0:424879351) has disconnected.
+[15:58:21]	Александр Климов has added area "Метро".
+[15:58:58]	Александр Климов exited observer at their location.
+[15:59:13]	Александр Климов entered observer.
+[15:59:15]	Александр Климов exited observer at their location.
+[15:59:23]	Александр Климов entered observer.
+[15:59:31]	Александр Климов exited observer at their location.
+[16:01:10]	Г@H3NK has connected.
+[16:03:36]	Г@H3NK loaded the character 'Александр Климов'
+[16:04:10]	Александр Климов ran 'Toggle' on item 'Портативная рация' (#93)
+[16:04:11]	Александр Климов ran 'Toggle' on item 'Портативная рация' (#93)
+[16:04:13]	Александр Климов ran 'Frequency' on item 'Портативная рация' (#93)
+[16:04:55]	Александр Климов used command '/DoorBuy'.
+[16:05:15]	Александр Климов used command '/DoorSetOwnable'.
+[16:05:17]	Александр Климов has lost 10 tokens.
+[16:05:17]	Александр Климов has purchased a door.
+[16:05:17]	Александр Климов used command '/DoorBuy'.
+[16:05:23]	Александр Климов entered observer.
+[16:05:23]	Александр Климов exited observer at their location.
+[16:05:24]	Александр Климов entered observer.
+[16:05:25]	Александр Климов exited observer at their location.
+[16:05:26]	Александр Климов entered observer.
+[16:05:29]	Александр Климов exited observer at their location.
+[16:06:06]	Александр Климов entered observer.
+[16:06:13]	Александр Климов exited observer at their location.
+[16:07:12]	Александр Климов has spawned 'models/props_wasteland/prison_flourescentlight001a.mdl'.
+[16:07:13]	Александр Климов has spawned 'models/props_wasteland/prison_doortrack001a.mdl'.
+[16:07:18]	Александр Климов has spawned 'models/props_wasteland/prison_pipes002a.mdl'.
+[16:07:25]	Александр Климов has spawned 'models/props_wasteland/prison_pipes002a.mdl'.
+[16:07:28]	Александр Климов has spawned 'models/props_wasteland/prison_flourescentlight002b.mdl'.
+[16:07:52]	Александр Климов has spawned 'models/skeleton/skeleton_whole.mdl'.
+[16:07:53]	Александр Климов has spawned 'models/skeleton/skeleton_whole.mdl'.
+[16:08:02]	֍ Aime-moi ֍ has connected.
+[16:09:38]	֍ Aime-moi ֍ loaded the character 'MPF-RCT.53980'
+[16:09:39]	MPF-RCT.53980 entered observer.
+[16:10:20]	MPF-RCT.53980 has spawned a 'Entity [612][npc_breen_speech_broadcast]'.
+[16:10:24]	MPF-RCT.53980 has spawned a 'Entity [599][npc_breen_speech_broadcast]'.
+[16:10:26]	MPF-RCT.53980 has spawned a 'Entity [599][npc_breen_speech_broadcast]'.
+[16:11:36]	MPF-RCT.53980 exited observer at their location.
+[16:11:43]	MPF-RCT.53980 ran 'Equip' on item 'Glock' (#272)
+[16:11:45]	MPF-RCT.53980 ran 'use' on item 'Коробочка мелкокалиберных патронов' (#273)
+[16:11:59]	MPF-RCT.53980 entered observer.
+[16:12:06]	MPF-RCT.53980 exited observer at their location.
+[16:12:39]	Александр Климов has taken 24 damage from MPF-RCT.53980.
+[16:12:41]	Александр Климов has taken 12 damage from MPF-RCT.53980.
+[16:12:41]	Александр Климов has taken 12 damage from MPF-RCT.53980.
+[16:12:42]	Александр Климов has taken 3 damage from MPF-RCT.53980.
+[16:12:50]	Александр Климов has taken 12 damage from MPF-RCT.53980.
+[16:12:52]	Александр Климов has taken 3 damage from MPF-RCT.53980.
+[16:12:52]	MPF-RCT.53980 has killed Александр Климов with weapon_smg1.
+[16:12:59]	MPF-RCT.53980 entered observer.
+[16:13:12]	Александр Климов entered observer.
+[16:13:19]	Александр Климов exited observer at their location.
+[16:13:25]	MPF-RCT.53980 has spawned a 'Entity [594][npc_cheering_citizen_looping]'.
+[16:13:32]	MPF-RCT.53980 has spawned a 'Entity [594][npc_cover_refugee]'.
+[16:13:36]	MPF-RCT.53980 has spawned a 'Entity [594][npc_cover_resistance]'.
+[16:13:46]	MPF-RCT.53980 has spawned a 'Entity [598][npc_cover_citizen_low]'.
+[16:13:59]	Александр Климов entered observer.
+[16:14:01]	Александр Климов exited observer at their location.
+[16:14:14]	MPF-RCT.53980 has spawned a 'Entity [600][npc_breen_speech_broadcast_uprising]'.
+[16:14:32]	MPF-RCT.53980 has spawned a 'Entity [619][npc_souschef_vortigaunt]'.
+[16:14:38]	MPF-RCT.53980 has gained 100 tokens.
+[16:14:46]	MPF-RCT.53980 has spawned a 'Entity [593][npc_chef_vortigaunt]'.
+[16:15:09]	MPF-RCT.53980 has spawned a 'NPC [593][npc_combine_s]'.
+[16:15:11]	MPF-RCT.53980 has spawned a 'NPC [600][npc_combine_s]'.
+[16:15:13]	Александр Климов has spawned a 'Entity [641][arccw_ammo_ar2]'.
+[16:15:15]	Александр Климов has spawned a 'Entity [643][arccw_ammo_ar2_large]'.
+[16:15:18]	Александр Климов has taken 24 damage from npc_combine_s.
+[16:15:18]	Александр Климов has taken 22 damage from npc_combine_s.
+[16:15:19]	Александр Климов has taken 24 damage from npc_combine_s.
+[16:15:19]	Александр Климов has taken 18 damage from npc_combine_s.
+[16:15:23]	MPF-RCT.53980 has spawned a 'NPC [641][npc_combine_s]'.
+[16:15:30]	MPF-RCT.53980 has spawned a 'NPC [644][npc_combine_s]'.
+[16:15:41]	MPF-RCT.53980 has spawned a 'NPC [620][npc_combine_s]'.
+[16:15:48]	MPF-RCT.53980 has spawned a 'NPC [647][npc_combine_s]'.
+[16:15:51]	Александр Климов has taken 3 damage from npc_combine_s.
+[16:15:51]	Александр Климов has taken 1 damage from npc_combine_s.
+[16:15:54]	Александр Климов has taken 19 damage from npc_combine_s.
+[16:15:54]	npc_combine_s has killed Александр Климов.
+[16:16:56]	MPF-RCT.53980 exited observer at their location.
+[16:17:07]	MPF-RCT.53980 entered observer.
+[16:17:08]	MPF-RCT.53980 exited observer at their location.
+[16:17:08]	MPF-RCT.53980 entered observer.
+[16:17:08]	MPF-RCT.53980 exited observer at their location.
+[16:17:10]	MPF-RCT.53980 entered observer.
+[16:17:15]	MPF-RCT.53980 exited observer at their location.
+[16:17:37]	Александр Климов used command '/PlyWhitelist MPF administrator'.
+[16:17:44]	MPF-RCT.53980 entered observer.
+[16:17:45]	MPF-RCT.53980 exited observer at their location.
+[16:17:51]	Александр Климов has taken 6 damage from npc_combine_s.
+[16:17:56]	MPF-RCT.53980 entered observer.
+[16:18:35]	֍ Aime-moi ֍ (STEAM_0:0:424879351) has disconnected (timed out).
+[16:18:57]	Александр Климов has spawned a 'Entity [602][arccw_ammo_buckshot_large]'.
+[16:29:12]	֍ Aime-moi ֍ has connected.
+[16:29:54]	Александр Климов entered observer.
+[16:29:58]	Александр Климов exited observer at their location.
+[16:29:59]	Александр Климов entered observer.
+[16:30:00]	Александр Климов exited observer at their location.
+[16:30:16]	Александр Климов has spawned a 'NPC [629][npc_citizen]'.
+[16:30:27]	Александр Климов has spawned a 'NPC [636][npc_metropolice]'.
+[16:30:28]	Александр Климов entered observer.
+[16:30:33]	Александр Климов exited observer at their location.
+[16:30:42]	Александр Климов entered observer.
+[16:30:44]	Александр Климов exited observer at their location.
+[16:30:50]	Александр Климов entered observer.
+[16:30:53]	Александр Климов exited observer at their location.
+[16:31:07]	Александр Климов entered observer.
+[16:31:10]	Александр Климов exited observer at their location.
+[16:31:11]	Александр Климов entered observer.
+[16:31:12]	Александр Климов exited observer at their location.
+[16:31:15]	Александр Климов entered observer.
+[16:31:15]	Александр Климов exited observer at their location.
+[16:31:17]	Александр Климов entered observer.
+[16:31:19]	Александр Климов exited observer at their location.
+[16:31:23]	Александр Климов entered observer.
+[16:31:27]	Александр Климов exited observer at their location.
+[16:31:30]	Александр Климов entered observer.
+[16:31:31]	Александр Климов exited observer at their location.
+[16:33:06]	֍ Aime-moi ֍ loaded the character 'MPF-RCT.53980'
+[16:33:08]	MPF-RCT.53980 entered observer.
+[16:33:34]	MPF-RCT.53980 has spawned a 'NPC [637][npc_monk]'.
+[16:33:44]	MPF-RCT.53980 has spawned a 'NPC [618][npc_monk]'.
+[16:33:46]	MPF-RCT.53980 has spawned a 'NPC [637][npc_monk]'.
+[16:33:52]	MPF-RCT.53980 has spawned a 'NPC [618][npc_monk]'.
+[16:34:09]	MPF-RCT.53980 has spawned a 'NPC [618][npc_monk]'.
+[16:34:38]	MPF-RCT.53980 has spawned a 'NPC [736][npc_combine_s]'.
+[16:34:42]	Александр Климов has taken 24 damage from npc_combine_s.
+[16:34:49]	MPF-RCT.53980 has spawned a 'NPC [618][npc_combine_s]'.
+[16:34:51]	MPF-RCT.53980 has spawned a 'NPC [746][npc_combine_s]'.
+[16:34:53]	MPF-RCT.53980 has spawned a 'NPC [736][npc_combine_s]'.
+[16:34:54]	MPF-RCT.53980 has spawned a 'NPC [748][npc_combine_s]'.
+[16:35:06]	Александр Климов has taken 1 damage from npc_combine_s.
+[16:35:07]	Александр Климов has taken 3 damage from npc_combine_s.
+[16:35:07]	Александр Климов has taken 6 damage from npc_combine_s.
+[16:35:07]	Александр Климов has taken 6 damage from npc_combine_s.
+[16:35:07]	Александр Климов has taken 3 damage from npc_combine_s.
+[16:35:07]	Александр Климов has taken 1 damage from npc_combine_s.
+[16:35:07]	Александр Климов has taken 1 damage from npc_combine_s.
+[16:35:08]	Александр Климов has taken 3 damage from npc_combine_s.
+[16:35:08]	Александр Климов has taken 3 damage from npc_combine_s.
+[16:35:08]	Александр Климов has taken 1 damage from npc_combine_s.
+[16:35:08]	Александр Климов has taken 3 damage from npc_combine_s.
+[16:35:08]	Александр Климов has taken 1 damage from npc_combine_s.
+[16:35:09]	Александр Климов has taken 3 damage from npc_combine_s.
+[16:35:09]	Александр Климов has taken 1 damage from npc_combine_s.
+[16:35:09]	Александр Климов has taken 3 damage from npc_combine_s.
+[16:35:09]	Александр Климов has taken 3 damage from npc_combine_s.
+[16:35:14]	Александр Климов has taken 3 damage from npc_combine_s.
+[16:35:14]	MPF-RCT.53980 has spawned a 'NPC [748][npc_combine_s]'.
+[16:35:15]	MPF-RCT.53980 has spawned a 'NPC [736][npc_combine_s]'.
+[16:35:18]	MPF-RCT.53980 has spawned a 'NPC [759][npc_combine_s]'.
+[16:35:18]	Александр Климов has taken 6 damage from npc_combine_s.
+[16:35:26]	Александр Климов has taken 3 damage from npc_combine_s.
+[16:35:27]	MPF-RCT.53980 has spawned a 'NPC [806][npc_combine_s]'.
+[16:35:37]	MPF-RCT.53980 has spawned a 'NPC [748][npc_combine_s]'.
+[16:35:38]	Александр Климов has taken 1 damage from npc_combine_s.
+[16:35:38]	Александр Климов has taken 3 damage from npc_combine_s.
+[16:35:42]	Александр Климов has taken 3 damage from npc_combine_s.
+[16:36:07]	MPF-RCT.53980 has spawned a 'NPC [768][npc_rollermine]'.
+[16:36:26]	MPF-RCT.53980 has spawned a 'NPC [768][npc_rollermine]'.
+[16:36:27]	Александр Климов has taken 10 damage from npc_rollermine.
+[16:36:27]	Александр Климов has taken 100 damage from npc_rollermine.
+[16:36:27]	npc_rollermine has killed Александр Климов.
+[16:36:51]	MPF-RCT.53980 has spawned a 'NPC [613][npc_rollermine]'.
+[16:36:53]	MPF-RCT.53980 has spawned a 'NPC [635][npc_rollermine]'.
+[16:36:54]	MPF-RCT.53980 has spawned a 'NPC [613][npc_rollermine]'.
+[16:37:00]	MPF-RCT.53980 has spawned a 'NPC [598][npc_rollermine]'.
+[16:37:03]	MPF-RCT.53980 has spawned a 'NPC [612][npc_rollermine]'.
+[16:37:03]	MPF-RCT.53980 has spawned a 'NPC [613][npc_rollermine]'.
+[16:37:04]	MPF-RCT.53980 has spawned a 'NPC [635][npc_rollermine]'.
+[16:37:09]	MPF-RCT.53980 has spawned a 'NPC [748][npc_rollermine]'.
+[16:37:15]	MPF-RCT.53980 has spawned a 'NPC [767][npc_rollermine]'.
+[16:37:16]	MPF-RCT.53980 has spawned a 'NPC [768][npc_rollermine]'.
+[16:37:22]	MPF-RCT.53980 has spawned a 'NPC [772][npc_rollermine]'.
+[16:37:22]	MPF-RCT.53980 has spawned a 'NPC [773][npc_rollermine]'.
+[16:37:23]	MPF-RCT.53980 has spawned a 'NPC [774][npc_rollermine]'.
+[16:37:24]	MPF-RCT.53980 has spawned a 'NPC [657][npc_rollermine]'.
+[16:37:54]	Александр Климов has taken 500 damage from npc_rollermine.
+[16:37:54]	npc_rollermine has killed Александр Климов.
+[16:38:06]	MPF-RCT.53980 has gained 100 tokens.
+[16:38:18]	MPF-RCT.53980 has spawned a 'NPC [593][npc_clawscanner]'.
+[16:38:27]	MPF-RCT.53980 has spawned a 'NPC [360][npc_rollermine]'.
+[16:38:29]	MPF-RCT.53980 has spawned a 'NPC [592][npc_rollermine]'.
+[16:38:32]	Александр Климов has taken 10 damage from npc_rollermine.
+[16:38:37]	MPF-RCT.53980 has spawned a 'NPC [612][npc_rollermine]'.
+[16:38:41]	Александр Климов has taken 10 damage from npc_rollermine.
+[16:38:41]	Александр Климов has taken 10 damage from npc_rollermine.
+[16:38:46]	Александр Климов has taken 10 damage from npc_rollermine.
+[16:38:53]	MPF-RCT.53980 has spawned a 'NPC [593][npc_rollermine]'.
+[16:38:53]	MPF-RCT.53980 has spawned a 'NPC [595][npc_rollermine]'.
+[16:38:53]	MPF-RCT.53980 has spawned a 'NPC [613][npc_rollermine]'.
+[16:38:53]	MPF-RCT.53980 has spawned a 'NPC [618][npc_rollermine]'.
+[16:38:54]	MPF-RCT.53980 has spawned a 'NPC [644][npc_rollermine]'.
+[16:38:54]	MPF-RCT.53980 has spawned a 'NPC [647][npc_rollermine]'.
+[16:38:54]	MPF-RCT.53980 has spawned a 'NPC [656][npc_rollermine]'.
+[16:38:54]	MPF-RCT.53980 has spawned a 'NPC [657][npc_rollermine]'.
+[16:38:54]	MPF-RCT.53980 has spawned a 'NPC [693][npc_rollermine]'.
+[16:38:54]	MPF-RCT.53980 has spawned a 'NPC [694][npc_rollermine]'.
+[16:38:55]	Александр Климов has taken 10 damage from npc_rollermine.
+[16:38:57]	Александр Климов has taken 10 damage from npc_rollermine.
+[16:38:58]	Александр Климов has taken 10 damage from npc_rollermine.
+[16:38:58]	Александр Климов has taken 5 damage from npc_rollermine.
+[16:38:59]	Александр Климов has taken 10 damage from npc_rollermine.
+[16:38:59]	Александр Климов has taken 10 damage from npc_rollermine.
+[16:38:59]	Александр Климов has taken 10 damage from npc_rollermine.
+[16:38:59]	npc_rollermine has killed Александр Климов.
+[16:39:09]	MPF-RCT.53980 has spawned a 'NPC [360][npc_rollermine]'.
+[16:39:09]	MPF-RCT.53980 has spawned a 'NPC [592][npc_rollermine]'.
+[16:39:09]	MPF-RCT.53980 has spawned a 'NPC [593][npc_rollermine]'.
+[16:39:09]	MPF-RCT.53980 has spawned a 'NPC [595][npc_rollermine]'.
+[16:39:09]	MPF-RCT.53980 has spawned a 'NPC [602][npc_rollermine]'.
+[16:39:10]	MPF-RCT.53980 has spawned a 'NPC [611][npc_rollermine]'.
+[16:39:10]	MPF-RCT.53980 has spawned a 'NPC [612][npc_rollermine]'.
+[16:39:10]	MPF-RCT.53980 has spawned a 'NPC [613][npc_rollermine]'.
+[16:39:10]	MPF-RCT.53980 has spawned a 'NPC [618][npc_rollermine]'.
+[16:39:10]	MPF-RCT.53980 has spawned a 'NPC [635][npc_rollermine]'.
+[16:39:10]	MPF-RCT.53980 has spawned a 'NPC [642][npc_rollermine]'.
+[16:39:10]	MPF-RCT.53980 has spawned a 'NPC [644][npc_rollermine]'.
+[16:39:11]	MPF-RCT.53980 has spawned a 'NPC [647][npc_rollermine]'.
+[16:39:11]	MPF-RCT.53980 has spawned a 'NPC [656][npc_rollermine]'.
+[16:39:11]	MPF-RCT.53980 has spawned a 'NPC [657][npc_rollermine]'.
+[16:39:11]	MPF-RCT.53980 has spawned a 'NPC [693][npc_rollermine]'.
+[16:39:11]	MPF-RCT.53980 has spawned a 'NPC [694][npc_rollermine]'.
+[16:39:11]	MPF-RCT.53980 has spawned a 'NPC [708][npc_rollermine]'.
+[16:39:12]	MPF-RCT.53980 has spawned a 'NPC [736][npc_rollermine]'.
+[16:39:12]	MPF-RCT.53980 has spawned a 'NPC [742][npc_rollermine]'.
+[16:39:12]	MPF-RCT.53980 has spawned a 'NPC [743][npc_rollermine]'.
+[16:39:12]	MPF-RCT.53980 has spawned a 'NPC [744][npc_rollermine]'.
+[16:39:24]	Александр Климов has taken 10 damage from npc_rollermine.
+[16:39:24]	Александр Климов has taken 5 damage from npc_rollermine.
+[16:39:30]	MPF-RCT.53980 has spawned a 'NPC [598][npc_rollermine]'.
+[16:39:30]	MPF-RCT.53980 has spawned a 'NPC [745][npc_rollermine]'.
+[16:39:31]	MPF-RCT.53980 has spawned a 'NPC [767][npc_rollermine]'.
+[16:39:38]	Александр Климов has taken 10 damage from npc_rollermine.
+[16:39:43]	Александр Климов has taken 10 damage from npc_rollermine.
+[16:39:45]	Александр Климов has taken 10 damage from npc_rollermine.
+[16:39:58]	Александр Климов has taken 10 damage from npc_rollermine.
+[16:39:59]	Александр Климов has taken 10 damage from npc_rollermine.
+[16:39:59]	Александр Климов has taken 10 damage from npc_rollermine.
+[16:40:02]	Александр Климов has taken 10 damage from npc_rollermine.
+[16:40:03]	Александр Климов has taken 5 damage from npc_rollermine.
+[16:40:03]	Александр Климов has taken 5 damage from npc_rollermine.
+[16:40:11]	Александр Климов has taken 10 damage from npc_rollermine.
+[16:40:11]	npc_rollermine has killed Александр Климов.
+[16:40:27]	MPF-RCT.53980 has spawned a 'NPC [602][npc_rollermine]'.
+[16:40:28]	MPF-RCT.53980 has spawned a 'NPC [611][npc_rollermine]'.
+[16:40:59]	MPF-RCT.53980 has spawned a 'NPC [613][npc_rollermine]'.
+[16:40:59]	MPF-RCT.53980 has spawned a 'NPC [618][npc_rollermine]'.
+[16:41:00]	MPF-RCT.53980 has spawned a 'NPC [635][npc_rollermine]'.
+[16:41:00]	MPF-RCT.53980 has spawned a 'NPC [642][npc_rollermine]'.
+[16:41:00]	MPF-RCT.53980 has spawned a 'NPC [644][npc_rollermine]'.
+[16:41:00]	MPF-RCT.53980 has spawned a 'NPC [647][npc_rollermine]'.
+[16:41:00]	MPF-RCT.53980 has spawned a 'NPC [656][npc_rollermine]'.
+[16:41:00]	MPF-RCT.53980 has spawned a 'NPC [657][npc_rollermine]'.
+[16:41:00]	MPF-RCT.53980 has spawned a 'NPC [693][npc_rollermine]'.
+[16:41:01]	MPF-RCT.53980 has spawned a 'NPC [694][npc_rollermine]'.
+[16:41:01]	MPF-RCT.53980 has spawned a 'NPC [612][npc_rollermine]'.
+[16:41:01]	MPF-RCT.53980 has spawned a 'NPC [708][npc_rollermine]'.
+[16:41:01]	MPF-RCT.53980 has spawned a 'NPC [736][npc_rollermine]'.
+[16:41:01]	MPF-RCT.53980 has spawned a 'NPC [742][npc_rollermine]'.
+[16:41:01]	MPF-RCT.53980 has spawned a 'NPC [743][npc_rollermine]'.
+[16:41:01]	MPF-RCT.53980 has spawned a 'NPC [744][npc_rollermine]'.
+[16:41:01]	MPF-RCT.53980 has spawned a 'NPC [745][npc_rollermine]'.
+[16:41:02]	MPF-RCT.53980 has spawned a 'NPC [748][npc_rollermine]'.
+[16:41:02]	MPF-RCT.53980 has spawned a 'NPC [754][npc_rollermine]'.
+[16:41:02]	MPF-RCT.53980 has spawned a 'NPC [757][npc_rollermine]'.
+[16:41:02]	MPF-RCT.53980 has spawned a 'NPC [758][npc_rollermine]'.
+[16:41:02]	MPF-RCT.53980 has spawned a 'NPC [767][npc_rollermine]'.
+[16:41:02]	MPF-RCT.53980 has spawned a 'NPC [768][npc_rollermine]'.
+[16:41:02]	MPF-RCT.53980 has spawned a 'NPC [769][npc_rollermine]'.
+[16:41:02]	MPF-RCT.53980 has spawned a 'NPC [772][npc_rollermine]'.
+[16:41:03]	MPF-RCT.53980 has spawned a 'NPC [773][npc_rollermine]'.
+[16:41:05]	Александр Климов has taken 10 damage from npc_rollermine.
+[16:41:05]	Александр Климов has taken 10 damage from npc_rollermine.
+[16:41:05]	Александр Климов has taken 5 damage from npc_rollermine.
+[16:41:06]	Александр Климов has taken 10 damage from npc_rollermine.
+[16:41:06]	Александр Климов has taken 10 damage from npc_rollermine.
+[16:41:06]	Александр Климов has taken 10 damage from npc_rollermine.
+[16:41:06]	Александр Климов has taken 10 damage from npc_rollermine.
+[16:41:24]	MPF-RCT.53980 has spawned a 'NPC [602][npc_rollermine]'.
+[16:41:26]	Александр Климов has taken 10 damage from npc_rollermine.
+[16:41:26]	Александр Климов has taken 5 damage from npc_rollermine.
+[16:41:34]	MPF-RCT.53980 has spawned a 'NPC [602][npc_rollermine]'.
+[16:41:34]	MPF-RCT.53980 has spawned a 'NPC [613][npc_rollermine]'.
+[16:41:34]	MPF-RCT.53980 has spawned a 'NPC [618][npc_rollermine]'.
+[16:41:34]	MPF-RCT.53980 has spawned a 'NPC [635][npc_rollermine]'.
+[16:41:34]	MPF-RCT.53980 has spawned a 'NPC [642][npc_rollermine]'.
+[16:41:35]	MPF-RCT.53980 has spawned a 'NPC [644][npc_rollermine]'.
+[16:41:35]	MPF-RCT.53980 has spawned a 'NPC [647][npc_rollermine]'.
+[16:41:35]	MPF-RCT.53980 has spawned a 'NPC [656][npc_rollermine]'.
+[16:41:35]	MPF-RCT.53980 has spawned a 'NPC [657][npc_rollermine]'.
+[16:41:35]	MPF-RCT.53980 has spawned a 'NPC [693][npc_rollermine]'.
+[16:41:36]	MPF-RCT.53980 has spawned a 'NPC [708][npc_rollermine]'.
+[16:41:36]	MPF-RCT.53980 has spawned a 'NPC [736][npc_rollermine]'.
+[16:41:36]	MPF-RCT.53980 has spawned a 'NPC [742][npc_rollermine]'.
+[16:41:36]	MPF-RCT.53980 has spawned a 'NPC [743][npc_rollermine]'.
+[16:41:36]	MPF-RCT.53980 has spawned a 'NPC [744][npc_rollermine]'.
+[16:41:41]	MPF-RCT.53980 has spawned a 'NPC [611][npc_rollermine]'.
+[16:42:05]	MPF-RCT.53980 has spawned a 'NPC [602][npc_rollermine]'.
+[16:42:05]	MPF-RCT.53980 has spawned a 'NPC [611][npc_rollermine]'.
+[16:42:05]	MPF-RCT.53980 has spawned a 'NPC [612][npc_rollermine]'.
+[16:42:05]	MPF-RCT.53980 has spawned a 'NPC [613][npc_rollermine]'.
+[16:42:05]	MPF-RCT.53980 has spawned a 'NPC [618][npc_rollermine]'.
+[16:42:06]	MPF-RCT.53980 has spawned a 'NPC [635][npc_rollermine]'.
+[16:42:06]	MPF-RCT.53980 has spawned a 'NPC [642][npc_rollermine]'.
+[16:42:06]	MPF-RCT.53980 has spawned a 'NPC [644][npc_rollermine]'.
+[16:42:06]	MPF-RCT.53980 has spawned a 'NPC [647][npc_rollermine]'.
+[16:42:10]	Александр Климов has taken 10 damage from npc_rollermine.
+[16:42:11]	Александр Климов has taken 10 damage from npc_rollermine.
+[16:42:11]	npc_rollermine has killed Александр Климов.
+[16:42:21]	MPF-RCT.53980 has spawned 'models/props_junk/wood_crate001a.mdl'.
+[16:42:23]	MPF-RCT.53980 has spawned 'models/props_junk/wood_crate001a.mdl'.
+[16:42:25]	MPF-RCT.53980 opened the 'Crate' #73 container.
+[16:42:28]	MPF-RCT.53980 closed the 'Crate' #73 container.
+[16:42:58]	MPF-RCT.53980 has spawned a 'NPC [635][npc_rollermine]'.
+[16:42:59]	MPF-RCT.53980 has spawned a 'NPC [642][npc_rollermine]'.
+[16:43:04]	Александр Климов has taken 10 damage from npc_rollermine.
+[16:43:04]	Александр Климов has taken 10 damage from npc_rollermine.
+[16:43:08]	MPF-RCT.53980 has gained 100 tokens.
+[16:43:09]	Александр Климов has taken 10 damage from npc_rollermine.
+[16:43:09]	Александр Климов has taken 10 damage from npc_rollermine.
+[16:43:15]	MPF-RCT.53980 has spawned a 'NPC [360][npc_rollermine]'.
+[16:43:16]	MPF-RCT.53980 has spawned a 'NPC [593][npc_rollermine]'.
+[16:43:16]	MPF-RCT.53980 has spawned a 'NPC [613][npc_rollermine]'.
+[16:43:16]	MPF-RCT.53980 has spawned a 'NPC [644][npc_rollermine]'.
+[16:43:16]	MPF-RCT.53980 has spawned a 'NPC [647][npc_rollermine]'.
+[16:43:16]	MPF-RCT.53980 has spawned a 'NPC [656][npc_rollermine]'.
+[16:43:16]	MPF-RCT.53980 has spawned a 'NPC [657][npc_rollermine]'.
+[16:43:16]	MPF-RCT.53980 has spawned a 'NPC [693][npc_rollermine]'.
+[16:43:17]	MPF-RCT.53980 has spawned a 'NPC [742][npc_rollermine]'.
+[16:43:17]	MPF-RCT.53980 has spawned a 'NPC [743][npc_rollermine]'.
+[16:43:17]	MPF-RCT.53980 has spawned a 'NPC [744][npc_rollermine]'.
+[16:43:17]	MPF-RCT.53980 has spawned a 'NPC [745][npc_rollermine]'.
+[16:43:17]	MPF-RCT.53980 has spawned a 'NPC [748][npc_rollermine]'.
+[16:43:17]	MPF-RCT.53980 has spawned a 'NPC [754][npc_rollermine]'.
+[16:43:17]	MPF-RCT.53980 has spawned a 'NPC [757][npc_rollermine]'.
+[16:43:17]	MPF-RCT.53980 has spawned a 'NPC [758][npc_rollermine]'.
+[16:43:18]	MPF-RCT.53980 has spawned a 'NPC [767][npc_rollermine]'.
+[16:43:18]	MPF-RCT.53980 has spawned a 'NPC [768][npc_rollermine]'.
+[16:43:18]	MPF-RCT.53980 has spawned a 'NPC [769][npc_rollermine]'.
+[16:43:18]	MPF-RCT.53980 has spawned a 'NPC [772][npc_rollermine]'.
+[16:43:19]	Александр Климов has taken 10 damage from npc_rollermine.
+[16:43:19]	Александр Климов has taken 5 damage from npc_rollermine.
+[16:43:21]	Александр Климов has taken 10 damage from npc_rollermine.
+[16:43:21]	Александр Климов has taken 10 damage from npc_rollermine.
+[16:43:21]	Александр Климов has taken 10 damage from npc_rollermine.
+[16:43:21]	Александр Климов has taken 10 damage from npc_rollermine.
+[16:43:24]	Александр Климов has taken 10 damage from npc_rollermine.
+[16:43:24]	npc_rollermine has killed Александр Климов.
+[16:43:28]	MPF-RCT.53980 has spawned a 'NPC [611][npc_rollermine]'.
+[16:43:28]	MPF-RCT.53980 has spawned a 'NPC [612][npc_rollermine]'.
+[16:43:28]	MPF-RCT.53980 has spawned a 'NPC [618][npc_rollermine]'.
+[16:43:28]	MPF-RCT.53980 has spawned a 'NPC [708][npc_rollermine]'.
+[16:43:29]	MPF-RCT.53980 has spawned a 'NPC [736][npc_rollermine]'.
+[16:43:29]	MPF-RCT.53980 has spawned a 'NPC [773][npc_rollermine]'.
+[16:43:29]	MPF-RCT.53980 has spawned a 'NPC [775][npc_rollermine]'.
+[16:43:29]	MPF-RCT.53980 has spawned a 'NPC [776][npc_rollermine]'.
+[16:43:29]	MPF-RCT.53980 has spawned a 'NPC [778][npc_rollermine]'.
+[16:43:29]	MPF-RCT.53980 has spawned a 'NPC [779][npc_rollermine]'.
+[16:43:29]	MPF-RCT.53980 has spawned a 'NPC [799][npc_rollermine]'.
+[16:43:30]	MPF-RCT.53980 has spawned a 'NPC [800][npc_rollermine]'.
+[16:43:30]	MPF-RCT.53980 has spawned a 'NPC [806][npc_rollermine]'.
+[16:43:30]	MPF-RCT.53980 has spawned a 'NPC [807][npc_rollermine]'.
+[16:43:30]	MPF-RCT.53980 has spawned a 'NPC [808][npc_rollermine]'.
+[16:43:30]	MPF-RCT.53980 has spawned a 'NPC [813][npc_rollermine]'.
+[16:43:30]	MPF-RCT.53980 has spawned a 'NPC [814][npc_rollermine]'.
+[16:43:30]	MPF-RCT.53980 has spawned a 'NPC [815][npc_rollermine]'.
+[16:43:31]	MPF-RCT.53980 has spawned a 'NPC [816][npc_rollermine]'.
+[16:43:31]	MPF-RCT.53980 has spawned a 'NPC [817][npc_rollermine]'.
+[16:43:31]	MPF-RCT.53980 has spawned a 'NPC [818][npc_rollermine]'.
+[16:43:31]	MPF-RCT.53980 has spawned a 'NPC [819][npc_rollermine]'.
+[16:43:31]	MPF-RCT.53980 has spawned a 'NPC [820][npc_rollermine]'.
+[16:43:31]	MPF-RCT.53980 has spawned a 'NPC [821][npc_rollermine]'.
+[16:43:31]	MPF-RCT.53980 has spawned a 'NPC [822][npc_rollermine]'.
+[16:43:32]	MPF-RCT.53980 has spawned a 'NPC [823][npc_rollermine]'.
+[16:43:32]	MPF-RCT.53980 has spawned a 'NPC [824][npc_rollermine]'.
+[16:43:32]	MPF-RCT.53980 has spawned a 'NPC [826][npc_rollermine]'.
+[16:43:32]	MPF-RCT.53980 has spawned a 'NPC [827][npc_rollermine]'.
+[16:43:32]	MPF-RCT.53980 has spawned a 'NPC [828][npc_rollermine]'.
+[16:43:32]	MPF-RCT.53980 has spawned a 'NPC [831][npc_rollermine]'.
+[16:43:33]	MPF-RCT.53980 has spawned a 'NPC [832][npc_rollermine]'.
+[16:43:33]	MPF-RCT.53980 has spawned a 'NPC [833][npc_rollermine]'.
+[16:43:33]	MPF-RCT.53980 has spawned a 'NPC [834][npc_rollermine]'.
+[16:43:33]	MPF-RCT.53980 has spawned a 'NPC [835][npc_rollermine]'.
+[16:43:33]	MPF-RCT.53980 has spawned a 'NPC [836][npc_rollermine]'.
+[16:43:33]	MPF-RCT.53980 has spawned a 'NPC [837][npc_rollermine]'.
+[16:43:57]	Александр Климов entered observer.
+[16:44:00]	Александр Климов exited observer at their location.
+[16:44:28]	Александр Климов has taken 10 damage from npc_rollermine.
+[16:44:28]	Александр Климов has taken 10 damage from npc_rollermine.
+[16:44:31]	MPF-RCT.53980 has spawned a 'Entity [694][ix_forcefield]'.
+[16:44:35]	Александр Климов has taken 10 damage from npc_rollermine.
+[16:44:35]	Александр Климов has taken 10 damage from npc_rollermine.
+[16:44:35]	Александр Климов has taken 10 damage from npc_rollermine.
+[16:44:36]	Александр Климов has taken 10 damage from npc_rollermine.
+[16:44:36]	Александр Климов has taken 10 damage from npc_rollermine.
+[16:44:37]	Александр Климов has taken 10 damage from npc_rollermine.
+[16:44:37]	Александр Климов has taken 10 damage from npc_rollermine.
+[16:44:41]	Александр Климов has taken 10 damage from npc_rollermine.
+[16:44:41]	npc_rollermine has killed Александр Климов.
+[16:44:55]	MPF-RCT.53980 has spawned a 'Entity [595][ix_forcefield]'.
+[16:44:58]	Александр Климов entered observer.
+[16:45:02]	Александр Климов exited observer at their location.
+[16:45:11]	MPF-RCT.53980 has spawned a 'NPC [745][npc_rollermine]'.
+[16:45:32]	Александр Климов has taken 10 damage from npc_rollermine.
+[16:45:34]	Александр Климов has taken 10 damage from npc_rollermine.
+[16:45:44]	Александр Климов has taken 10 damage from npc_rollermine.
+[16:45:44]	Александр Климов has taken 5 damage from npc_rollermine.
+[16:45:57]	MPF-RCT.53980 has spawned a 'NPC [644][npc_turret_floor]'.
+[16:45:58]	MPF-RCT.53980 has spawned a 'NPC [657][npc_turret_floor]'.
+[16:45:59]	MPF-RCT.53980 has spawned a 'NPC [736][npc_turret_floor]'.
+[16:46:08]	MPF-RCT.53980 has spawned a 'NPC [618][npc_rollermine]'.
+[16:46:09]	MPF-RCT.53980 has spawned a 'NPC [635][npc_rollermine]'.
+[16:46:12]	MPF-RCT.53980 has spawned a 'NPC [748][npc_rollermine]'.
+[16:46:14]	MPF-RCT.53980 has spawned a 'NPC [754][npc_rollermine]'.
+[16:46:17]	MPF-RCT.53980 has spawned a 'NPC [757][npc_rollermine]'.
+[16:46:49]	MPF-RCT.53980 has spawned a 'NPC [613][npc_rollermine]'.
+[16:46:57]	MPF-RCT.53980 has spawned a 'NPC [635][npc_rollermine]'.
+[16:46:59]	MPF-RCT.53980 has spawned a 'NPC [642][npc_rollermine]'.
+[16:47:07]	MPF-RCT.53980 has spawned a 'NPC [613][npc_rollermine]'.
+[16:47:23]	Александр Климов has taken 10 damage from npc_rollermine.
+[16:47:23]	Александр Климов has taken 10 damage from npc_rollermine.
+[16:47:32]	Александр Климов has taken 10 damage from npc_rollermine.
+[16:47:59]	Александр Климов has spawned a 'Entity [635][arccw_ammo_buckshot_large]'.
+[16:48:08]	MPF-RCT.53980 has gained 100 tokens.
+[16:48:26]	MPF-RCT.53980 used command '/CharGiveFlag MPF CVcenprtv'.
+[16:48:43]	MPF-RCT.53980 has spawned a 'Entity [635][aw2_hk]'.
+[16:48:45]	MPF-RCT.53980 exited observer at their location.
+[16:49:03]	Александр Климов has taken 115 damage from env_explosion.
+[16:49:03]	env_explosion has killed Александр Климов.
+[16:49:06]	MPF-RCT.53980 entered observer.
+[16:49:36]	Александр Климов entered observer.
+[16:49:39]	Александр Климов exited observer at their location.
+[16:49:42]	Александр Климов entered observer.
+[16:50:01]	Александр Климов exited observer at their location.
+[16:50:04]	MPF-RCT.53980 exited observer at their location.
+[16:50:05]	MPF-RCT.53980 entered observer.
+[16:50:05]	MPF-RCT.53980 exited observer at their location.
+[16:50:07]	Александр Климов entered observer.
+[16:50:08]	MPF-RCT.53980 entered observer.
+[16:50:08]	Александр Климов exited observer at their location.
+[16:53:08]	MPF-RCT.53980 has gained 100 tokens.
+[16:58:08]	MPF-RCT.53980 has gained 100 tokens.
+[17:03:08]	MPF-RCT.53980 has gained 100 tokens.
+[17:05:55]	Александр Климов entered observer.
+[17:06:07]	Александр Климов exited observer at their location.
+[17:07:26]	Александр Климов entered observer.
+[17:07:29]	Александр Климов exited observer at their location.
+[17:08:08]	MPF-RCT.53980 has gained 100 tokens.
+[17:08:39]	Александр Климов used command '/ActLean'.
+[17:08:52]	Александр Климов used command '/ActCheer'.
+[17:08:56]	Александр Климов used command '/ActInjured'.
+[17:09:27]	MPF-RCT.53980 has spawned 'models/effects/vol_light128x512.mdl'.
+[17:09:35]	MPF-RCT.53980 has spawned 'models/effects/vol_light64x256.mdl'.
+[17:09:53]	MPF-RCT.53980 exited observer at their location.
+[17:09:56]	MPF-RCT.53980 entered observer.
+[17:10:10]	MPF-RCT.53980 has spawned a 'Entity [512][npc_ground_sitting_citizen_static]'.
+[17:10:17]	MPF-RCT.53980 has spawned a 'Entity [36][npc_tired_citizen]'.
+[17:10:35]	MPF-RCT.53980 has spawned a 'Entity [36][npc_tired_citizen]'.
+[17:10:39]	MPF-RCT.53980 has spawned a 'Entity [567][npc_tired_citizen]'.
+[17:10:44]	MPF-RCT.53980 has spawned a 'Entity [36][npc_tired_citizen]'.
+[17:10:46]	MPF-RCT.53980 has spawned a 'Entity [547][npc_tired_citizen]'.
+[17:10:48]	MPF-RCT.53980 has spawned a 'Entity [36][npc_tired_citizen]'.
+[17:10:50]	MPF-RCT.53980 has spawned a 'Entity [547][npc_tired_citizen]'.
+[17:10:51]	MPF-RCT.53980 has spawned a 'Entity [36][npc_tired_citizen]'.
+[17:10:53]	MPF-RCT.53980 has spawned a 'Entity [36][npc_tired_citizen]'.
+[17:10:56]	MPF-RCT.53980 has spawned a 'Entity [547][npc_tired_citizen]'.
+[17:10:58]	MPF-RCT.53980 has spawned a 'Entity [36][npc_tired_citizen]'.
+[17:11:00]	MPF-RCT.53980 has spawned a 'Entity [547][npc_tired_citizen]'.
+[17:11:01]	MPF-RCT.53980 has spawned a 'Entity [36][npc_tired_citizen]'.
+[17:11:02]	MPF-RCT.53980 has spawned a 'Entity [547][npc_tired_citizen]'.
+[17:11:03]	MPF-RCT.53980 has spawned a 'Entity [36][npc_tired_citizen]'.
+[17:11:06]	MPF-RCT.53980 has spawned a 'Entity [547][npc_tired_citizen]'.
+[17:11:07]	MPF-RCT.53980 has spawned a 'Entity [36][npc_tired_citizen]'.
+[17:11:21]	MPF-RCT.53980 has spawned a 'Entity [546][npc_episode_1_mossman]'.
+[17:11:40]	MPF-RCT.53980 has spawned a 'Entity [566][npc_cowering_citizen_idle]'.
+[17:11:49]	MPF-RCT.53980 has spawned a 'Entity [546][npc_healing_female_medic]'.
+[17:11:57]	MPF-RCT.53980 has spawned a 'Entity [573][npc_hiding_citizen]'.
+[17:12:04]	MPF-RCT.53980 has spawned a 'Entity [577][npc_wounded_male_2]'.
+[17:12:09]	MPF-RCT.53980 has spawned a 'Entity [566][npc_wounded_male_1]'.
+[17:12:20]	MPF-RCT.53980 has spawned a 'Entity [580][npc_sitting_gman]'.
+[17:12:30]	MPF-RCT.53980 has spawned 'models/props_c17/oildrum001.mdl'.
+[17:12:40]	MPF-RCT.53980 has spawned a 'Entity [580][npc_sitting_citizen_male]'.
+[17:12:43]	Александр Климов used command '/ExitAct'.
+[17:12:44]	Александр Климов entered observer.
+[17:12:46]	MPF-RCT.53980 has spawned a 'Entity [594][npc_sitting_citizen_male]'.
+[17:12:49]	MPF-RCT.53980 has spawned a 'Entity [577][npc_sitting_citizen_male]'.
+[17:13:09]	MPF-RCT.53980 has gained 100 tokens.
+[17:13:16]	MPF-RCT.53980 has spawned a 'Entity [581][npc_typing_kleiner]'.
+[17:13:18]	Александр Климов exited observer at their location.
+[17:13:20]	MPF-RCT.53980 has spawned a 'Entity [583][npc_citizen_radio_operator]'.
+[17:13:24]	Александр Климов used command '/AreaEdit'.
+[17:13:32]	Александр Климов has removed area "Станционар".
+[17:13:33]	Александр Климов entered observer.
+[17:13:38]	MPF-RCT.53980 has spawned a 'Entity [581][npc_citizen_radio_operator]'.
+[17:13:45]	MPF-RCT.53980 has spawned a 'Entity [583][npc_citizen_radio_operator]'.
+[17:13:47]	MPF-RCT.53980 has spawned a 'Entity [621][npc_citizen_radio_operator]'.
+[17:13:50]	MPF-RCT.53980 has spawned a 'Entity [583][npc_citizen_radio_operator]'.
+[17:13:52]	MPF-RCT.53980 has spawned a 'Entity [583][npc_citizen_radio_operator]'.
+[17:14:14]	MPF-RCT.53980 has spawned 'models/props_junk/wood_crate001a.mdl'.
+[17:14:17]	MPF-RCT.53980 has spawned 'models/props_junk/wood_crate001a.mdl'.
+[17:14:33]	MPF-RCT.53980 has spawned a 'Entity [635][npc_sitting_resistance_male]'.
+[17:14:37]	Александр Климов has added area "Стационар".
+[17:14:38]	MPF-RCT.53980 has spawned a 'Entity [581][npc_sitting_resistance_male]'.
+[17:14:48]	Александр Климов has removed area "Стационар".
+[17:14:50]	MPF-RCT.53980 has spawned a 'Entity [637][npc_sitting_resistance_male]'.
+[17:14:52]	MPF-RCT.53980 has spawned a 'Entity [581][npc_sitting_resistance_male]'.
+[17:14:55]	MPF-RCT.53980 has spawned a 'Entity [637][npc_sitting_resistance_male]'.
+[17:15:10]	MPF-RCT.53980 has spawned a 'Entity [635][npc_plaza_citizen_static]'.
+[17:15:12]	MPF-RCT.53980 has spawned a 'Entity [641][npc_plaza_citizen_static]'.
+[17:15:27]	Александр Климов has added area "стационар".
+[17:15:47]	Александр Климов has removed area "стационар".
+[17:15:50]	MPF-RCT.53980 has spawned a 'Entity [635][npc_metrocop_abusing_male]'.
+[17:15:51]	MPF-RCT.53980 has spawned a 'Entity [648][npc_kneeling_citizen]'.
+[17:16:13]	Александр Климов has added area "Стационар".
+[17:16:25]	Александр Климов has removed area "Стационар".
+[17:16:32]	MPF-RCT.53980 has spawned a 'Entity [581][npc_sky_scanning_citizen]'.
+[17:16:38]	Александр Климов has added area "Новая зона".
+[17:16:39]	Александр Климов has removed area "Новая зона".
+[17:16:43]	MPF-RCT.53980 has spawned a 'Entity [581][npc_wounded_female]'.
+[17:16:59]	MPF-RCT.53980 has spawned a 'Entity [638][npc_line_idle_male]'.
+[17:17:01]	MPF-RCT.53980 has spawned a 'Entity [647][npc_line_idle_male]'.
+[17:17:40]	Александр Климов has added area "Стационар".
+[17:18:04]	Александр Климов exited observer at their location.
+[17:18:09]	MPF-RCT.53980 has gained 100 tokens.
+[17:19:10]	֍ Aime-moi ֍ created the character 'Артем Петров'
+[17:19:10]	Артем Петров has gained a 'UMP-45' #280.
+[17:19:10]	Артем Петров has gained a 'Ящик мелкокалиберных патронов' #281.
+[17:19:10]	Артем Петров has gained a 'Ящик мелкокалиберных патронов' #282.
+[17:19:12]	Александр Климов used command '/ActInjured'.
+[17:19:14]	֍ Aime-moi ֍ loaded the character 'Артем Петров'
+[17:19:15]	Артем Петров entered observer.
+[17:19:26]	Артем Петров exited observer at their location.
+[17:20:43]	Артем Петров used command '/CharSetModel Артем models/humans/group03m/male_61.mdl'.
+[17:21:03]	Артем Петров used command '/CharGiveFlag Артем CVcenprtv'.
+[17:21:30]	Артем Петров used command '/ActSit 2'.
+[17:21:33]	Артем Петров used command '/ExitAct'.
+[17:21:47]	Артем Петров used command '/ActSit 2'.
+[17:23:40]	Артем Петров has spawned a 'Entity [645][npc_breen_speech_broadcast]'.
+[17:23:43]	Артем Петров has spawned a 'Entity [657][npc_breen_speech_broadcast_uprising]'.
+[17:23:57]	Артем Петров has spawned a 'Entity [645][npc_can_metrocop]'.
+[17:24:14]	Артем Петров used command '/ExitAct'.
+[17:24:19]	Артем Петров entered observer.
+[17:24:25]	Артем Петров has spawned a 'Entity [645][npc_rappelling_metrocop]'.
+[17:24:38]	Артем Петров has spawned 'models/props_debris/metal_panel02a.mdl'.
+[17:24:39]	Артем Петров has spawned 'models/props_debris/metal_panel02a.mdl'.
+[17:24:40]	Артем Петров has spawned 'models/props_c17/shelfunit01a.mdl'.
+[17:25:00]	Артем Петров has spawned a 'Entity [657][npc_rappelling_metrocop]'.
+[17:25:05]	Артем Петров has spawned a 'Entity [657][npc_rappelling_combine_soldier]'.
+[17:25:08]	Артем Петров has spawned a 'Entity [657][npc_rappelling_combine_soldier]'.
+[17:25:44]	Артем Петров has spawned a 'Entity [646][npc_breen_at_desk]'.
+[17:25:49]	Артем Петров has spawned a 'Entity [646][npc_breen_at_desk]'.
+[17:26:00]	Артем Петров has spawned a 'Entity [711][npc_sky_scanning_citizen]'.
+[17:26:04]	Артем Петров has spawned a 'Entity [711][npc_typing_magnusson]'.
+[17:26:29]	Артем Петров exited observer at their location.
+[17:26:41]	Артем Петров used command '/ActSit 2'.
+[17:28:32]	Артем Петров used command '/CharSetModel Алекса models/Humans/Group03/male_09.mdl'.
+[17:30:35]	Артем Петров used command '/ExitAct'.
+[17:30:51]	Артем Петров used command '/ActStand 2'.
+[17:30:55]	Александр Климов used command '/ExitAct'.
+[17:31:09]	Александр Климов used command '/ActSit'.
+[17:31:48]	Артем Петров used command '/ExitAct'.
+[17:31:52]	Александр Климов used command '/ExitAct'.
+[17:32:55]	Артем Петров entered observer.
+[17:33:48]	Артем Петров has spawned 'models/props_c17/SuitCase001a.mdl'.
+[17:33:54]	Артем Петров has spawned 'models/props_c17/SuitCase001a.mdl'.
+[17:34:15]	Артем Петров has spawned a 'Entity [695][npc_breen_speech_broadcast]'.
+[17:34:53]	Артем Петров exited observer at their location.
+[17:35:44]	Артем Петров used command '/CharSetModel Артем models/drem/cch/male_09.mdl'.
+[17:36:49]	Артем Петров used command '/CharSetModel Артем models/drem/cch/npc/male_09.mdl'.
+[17:37:50]	Артем Петров entered observer.
+[17:38:31]	Артем Петров used command '/CharSetModel Артем models/humans/group03m/male_61.mdl'.
+[17:39:22]	֍ Aime-moi ֍ (STEAM_0:0:424879351) has disconnected.
+[17:39:59]	Александр Климов has spawned 'models/humans/group03m/male_17.mdl'.
+[17:40:08]	Александр Климов has spawned 'models/humans/group03m/male_120.mdl'.
+[17:54:49]	Г@H3NK has connected.
+[17:55:56]	Г@H3NK loaded the character 'Александр Климов'
+[17:56:59]	Александр Климов has spawned 'models/humans/group01/male_09.mdl'.
+[17:57:01]	Александр Климов has spawned 'models/humans/group02/male_09.mdl'.
+[17:57:34]	Александр Климов has spawned 'models/barnes/citizen/male_09.mdl'.
+[17:57:42]	Александр Климов has spawned 'models/barnes/refugee/male_09.mdl'.
+[17:58:09]	Александр Климов used command '/CharSetModel Александр models/barnes/refugee/male_09.mdl'.
+[18:00:51]	֍ Aime-moi ֍ has connected.
+[18:01:25]	Александр Климов ran 'Equip' on item 'M3 Super 90' (#189)
+[18:04:19]	Александр Климов ran 'Equip' on item 'UMP-45' (#279)
+[18:04:21]	Александр Климов ran 'EquipUn' on item 'M3 Super 90' (#189)
+[18:04:21]	Александр Климов ran 'Equip' on item 'UMP-45' (#279)
+[18:05:07]	֍ Aime-moi ֍ created the character 'Август Крюгер'
+[18:05:07]	֍ Aime-moi ֍ loaded the character 'Август Крюгер'
+[18:05:30]	Август Крюгер used command '/CharSetModel Август models/combine/humans/male_09.mdl'.
+[18:05:40]	Август Крюгер entered observer.
+[18:05:54]	Август Крюгер exited observer at their location.
+[18:06:24]	Август Крюгер used command '/CharDesc'.
+[18:06:31]	Александр Климов has spawned a 'Entity [613][item_ammo_pistol_large]'.
+[18:06:35]	Александр Климов has spawned a 'Entity [613][item_ammo_smg1_large]'.
+[18:06:42]	Александр Климов has spawned a 'Entity [620][item_ammo_pistol]'.
+[18:06:42]	Александр Климов has spawned a 'Entity [621][item_ammo_pistol]'.
+[18:06:44]	֍ Aime-moi ֍ created the character 'Август Крюгер'
+[18:06:44]	Август Крюгер has gained a 'Чемодан' #283.
+[18:06:44]	Август Крюгер has gained a 'ID Карточка' #284.
+[18:06:46]	Александр Климов has spawned a 'Entity [620][arccw_ammo_pistol_large]'.
+[18:06:48]	֍ Aime-moi ֍ (STEAM_0:0:424879351) deleted character 'Август Крюгер'
+[18:06:50]	֍ Aime-moi ֍ loaded the character 'Август Крюгер'
+[18:06:55]	Август Крюгер used command '/CharSetModel Август models/combine/humans/male_09.mdl'.
+[18:07:03]	Август Крюгер entered observer.
+[18:07:09]	Александр Климов has spawned a 'Entity [618][arccw_ammo_ar2_large]'.
+[18:07:09]	Август Крюгер exited observer at their location.
+[18:07:10]	Александр Климов has spawned a 'Entity [619][arccw_ammo_pistol_large]'.
+[18:07:11]	Александр Климов has spawned a 'Entity [618][arccw_ammo_357_large]'.
+[18:07:12]	Александр Климов has spawned a 'Entity [618][arccw_ammo_357_large]'.
+[18:08:01]	Август Крюгер used command '/ActStand 2'.
+[18:09:06]	Август Крюгер has taken 143 damage from Александр Климов.
+[18:09:06]	Александр Климов has killed Август Крюгер with arccw_mifl_fas2_g20.
+[18:09:31]	Август Крюгер entered observer.
+[18:09:37]	Август Крюгер exited observer at their location.
+[18:09:44]	Александр Климов entered observer.
+[18:09:46]	Александр Климов exited observer at their location.
+[18:09:47]	Александр Климов entered observer.
+[18:09:48]	Александр Климов exited observer at their location.
+[18:09:56]	Александр Климов entered observer.
+[18:09:58]	Август Крюгер entered observer.
+[18:09:59]	Александр Климов exited observer at their location.
+[18:10:01]	Август Крюгер exited observer at their location.
+[18:10:03]	Август Крюгер has taken 141 damage from Александр Климов.
+[18:10:03]	Александр Климов has killed Август Крюгер with arccw_mifl_fas2_g20.
+[18:10:20]	Август Крюгер entered observer.
+[18:10:29]	Август Крюгер exited observer at their location.
+[18:10:34]	Wallenstein has connected.
+[18:10:45]	֍ Aime-moi ֍ loaded the character 'MPF-RCT.53980'
+[18:11:11]	Александр Климов entered observer.
+[18:11:14]	Александр Климов exited observer at their location.
+[18:11:26]	MPF-RCT.53980 entered observer.
+[18:11:44]	MPF-RCT.53980 exited observer at their location.
+[18:12:17]	֍ Aime-moi ֍ (STEAM_0:0:424879351) deleted character 'MPF-RCT.53980'
+[18:12:27]	֍ Aime-moi ֍ (STEAM_0:0:424879351) deleted character 'MPF-RCT.48810'
+[18:12:30]	Wallenstein created the character 'Danila Bagrow'
+[18:12:30]	Danila Bagrow has gained a 'Чемодан' #285.
+[18:12:30]	Danila Bagrow has gained a 'ID Карточка' #286.
+[18:12:30]	Wallenstein loaded the character 'Danila Bagrow'
+[18:13:38]	Wallenstein (STEAM_0:1:422825965) has disconnected.
+[18:15:12]	֍ Aime-moi ֍ created the character 'MPF-RCT.81483'
+[18:15:12]	MPF-RCT.81483 has gained a 'Glock' #287.
+[18:15:12]	MPF-RCT.81483 has gained a 'Коробочка мелкокалиберных патронов' #288.
+[18:15:12]	MPF-RCT.81483 has gained a 'Коробочка мелкокалиберных патронов' #289.
+[18:15:12]	MPF-RCT.81483 has gained a 'Коробочка мелкокалиберных патронов' #290.
+[18:15:12]	MPF-RCT.81483 has gained a 'Коробочка мелкокалиберных патронов' #291.
+[18:15:12]	MPF-RCT.81483 has gained a 'Наручники' #292.
+[18:15:12]	MPF-RCT.81483 has gained a 'ID Карточка' #293.
+[18:15:12]	֍ Aime-moi ֍ loaded the character 'MPF-RCT.81483'
+[18:15:54]	֍ Aime-moi ֍ (STEAM_0:0:424879351) has disconnected.
+[18:17:54]	֍ Aime-moi ֍ has connected.
+[18:18:44]	֍ Aime-moi ֍ loaded the character 'MPF-RCT.81483'
+[18:19:35]	MPF-RCT.81483 has spawned a 'Entity [635][item_ammo_357_large]'.
+[18:19:37]	MPF-RCT.81483 has spawned a 'Entity [635][item_ammo_smg1_large]'.
+[18:20:33]	MPF-RCT.81483 entered observer.
+[18:20:37]	MPF-RCT.81483 exited observer at their location.
+[18:20:45]	MPF-RCT.81483 entered observer.
+[18:21:22]	MPF-RCT.81483 has spawned a 'Entity [637][npc_chef_vortigaunt]'.
+[18:21:31]	MPF-RCT.81483 has spawned a 'Entity [639][npc_souschef_vortigaunt]'.
+[18:21:42]	MPF-RCT.81483 has spawned a 'Entity [635][npc_souschef_vortigaunt]'.
+[18:22:18]	MPF-RCT.81483 used command '/CharGiveFlag MPF Cvcenprtv'.
+[18:22:19]	MPF-RCT.81483 has spawned 'models/props_c17/metalPot001a.mdl'.
+[18:23:17]	MPF-RCT.81483 has spawned a 'Entity [647][npc_sweeping_vortigaunt]'.
+[18:23:23]	MPF-RCT.81483 has spawned a 'Entity [645][npc_sitting_citizen_male]'.
+[18:23:43]	MPF-RCT.81483 has gained 100 tokens.
+[18:24:10]	MPF-RCT.81483 has spawned 'models/effects/vol_light64x256.mdl'.
+[18:26:43]	MPF-RCT.81483 exited observer at their location.
+[18:26:55]	Александр Климов has taken 6 damage from MPF-RCT.81483.
+[18:26:56]	Александр Климов has taken 6 damage from MPF-RCT.81483.
+[18:27:02]	Александр Климов has taken 8 damage from MPF-RCT.81483.
+[18:27:03]	Александр Климов has taken 8 damage from MPF-RCT.81483.
+[18:27:04]	Александр Климов has taken 8 damage from MPF-RCT.81483.
+[18:27:05]	MPF-RCT.81483 has taken 142 damage from Александр Климов.
+[18:27:06]	MPF-RCT.81483 has taken 141 damage from Александр Климов.
+[18:27:06]	Александр Климов has killed MPF-RCT.81483 with arccw_mifl_fas2_g20.
+[18:27:21]	MPF-RCT.81483 entered observer.
+[18:27:56]	MPF-RCT.81483 has spawned a 'NPC [620][npc_metropolice]'.
+[18:28:01]	MPF-RCT.81483 has spawned a 'NPC [614][npc_metropolice]'.
+[18:28:09]	MPF-RCT.81483 has spawned a 'NPC [648][npc_metropolice]'.
+[18:28:12]	Александр Климов has taken 6 damage from npc_metropolice.
+[18:28:17]	Александр Климов has taken 3 damage from npc_metropolice.
+[18:28:17]	Александр Климов has taken 3 damage from npc_metropolice.
+[18:28:18]	Александр Климов has taken 1 damage from npc_metropolice.
+[18:28:18]	Александр Климов has taken 6 damage from npc_metropolice.
+[18:28:18]	Александр Климов has taken 3 damage from npc_metropolice.
+[18:28:31]	MPF-RCT.81483 exited observer at their location.
+[18:28:32]	MPF-RCT.81483 has spawned a 'Entity [648][gmod_sent_vehicle_fphysics_base]'.
+[18:28:41]	MPF-RCT.81483 entered observer.
+[18:28:43]	MPF-RCT.81483 has gained 100 tokens.
+[18:28:46]	[ME] Александр Климов: Достал пулю из плеча голыми руками
+[18:28:47]	MPF-RCT.81483 has spawned a 'NPC [620][npc_metropolice]'.
+[18:28:48]	MPF-RCT.81483 has spawned a 'NPC [745][npc_metropolice]'.
+[18:28:49]	MPF-RCT.81483 has spawned a 'NPC [748][npc_metropolice]'.
+[18:28:54]	Александр Климов has taken 3 damage from npc_metropolice.
+[18:28:54]	Александр Климов has taken 1 damage from npc_metropolice.
+[18:28:54]	Александр Климов has taken 3 damage from npc_metropolice.
+[18:28:57]	Александр Климов has taken 1 damage from npc_metropolice.
+[18:28:58]	Александр Климов rolled 16 out of 100.
+[18:28:58]	Александр Климов used command '/Roll'.
+[18:28:58]	Александр Климов has taken 1 damage from npc_metropolice.
+[18:28:58]	Александр Климов has taken 1 damage from npc_metropolice.
+[18:28:58]	Александр Климов has taken 3 damage from npc_metropolice.
+[18:29:02]	Александр Климов has taken 3 damage from npc_metropolice.
+[18:29:02]	Александр Климов has taken 1 damage from npc_metropolice.
+[18:29:02]	Александр Климов has taken 3 damage from npc_metropolice.
+[18:29:02]	Александр Климов has taken 3 damage from npc_metropolice.
+[18:29:09]	MPF-RCT.81483 has spawned a 'NPC [620][npc_metropolice]'.
+[18:29:10]	MPF-RCT.81483 has spawned a 'NPC [748][npc_metropolice]'.
+[18:29:10]	Александр Климов has taken 6 damage from npc_metropolice.
+[18:29:15]	Александр Климов has taken 6 damage from npc_metropolice.
+[18:29:17]	Александр Климов has taken 1 damage from npc_metropolice.
+[18:29:17]	Александр Климов has taken 3 damage from npc_metropolice.
+[18:29:23]	Александр Климов has taken 3 damage from npc_metropolice.
+[18:29:35]	MPF-RCT.81483 exited observer at their location.
+[18:29:37]	MPF-RCT.81483 has spawned a 'Entity [759][gmod_sent_vehicle_fphysics_base]'.
+[18:29:49]	MPF-RCT.81483 entered observer.
+[18:29:51]	MPF-RCT.81483 has spawned a 'Entity [758][gmod_sent_vehicle_fphysics_base]'.
+[18:29:55]	MPF-RCT.81483 has spawned a 'NPC [748][npc_metropolice]'.
+[18:29:56]	MPF-RCT.81483 has spawned a 'NPC [813][npc_metropolice]'.
+[18:29:58]	MPF-RCT.81483 has spawned a 'NPC [808][npc_metropolice]'.
+[18:29:59]	MPF-RCT.81483 has spawned a 'NPC [820][npc_metropolice]'.
+[18:30:00]	Александр Климов has taken 1 damage from npc_metropolice.
+[18:30:09]	MPF-RCT.81483 has spawned a 'NPC [808][npc_metropolice]'.
+[18:30:10]	MPF-RCT.81483 has spawned a 'NPC [816][npc_metropolice]'.
+[18:30:15]	MPF-RCT.81483 exited observer at their location.
+[18:30:16]	MPF-RCT.81483 has spawned a 'Entity [813][gmod_sent_vehicle_fphysics_base]'.
+[18:30:25]	MPF-RCT.81483 has taken 3 damage from npc_metropolice.
+[18:30:26]	MPF-RCT.81483 has taken 3 damage from npc_metropolice.
+[18:30:26]	MPF-RCT.81483 entered observer.
+[18:30:33]	MPF-RCT.81483 has spawned a 'Entity [844][gmod_sent_vehicle_fphysics_base]'.
+[18:30:37]	MPF-RCT.81483 has spawned a 'NPC [868][npc_metropolice]'.
+[18:30:38]	MPF-RCT.81483 has spawned a 'NPC [870][npc_metropolice]'.
+[18:30:39]	MPF-RCT.81483 has spawned a 'NPC [874][npc_metropolice]'.
+[18:30:54]	Александр Климов has taken 3 damage from npc_metropolice.
+[18:30:57]	Александр Климов has taken 3 damage from npc_metropolice.
+[18:30:58]	Александр Климов has taken 1 damage from npc_metropolice.
+[18:30:58]	Александр Климов has taken 3 damage from npc_metropolice.
+[18:30:58]	Александр Климов has taken 1 damage from npc_metropolice.
+[18:31:11]	MPF-RCT.81483 has spawned a 'NPC [881][npc_metropolice]'.
+[18:31:16]	Александр Климов has taken 1 damage from npc_metropolice.
+[18:31:16]	Александр Климов has taken 3 damage from npc_metropolice.
+[18:31:17]	Александр Климов has taken 3 damage from npc_metropolice.
+[18:31:17]	Александр Климов has taken 3 damage from npc_metropolice.
+[18:31:20]	MPF-RCT.81483 has spawned a 'NPC [614][npc_metropolice]'.
+[18:31:24]	MPF-RCT.81483 has spawned a 'NPC [614][npc_combine_s]'.
+[18:31:25]	MPF-RCT.81483 has spawned a 'NPC [880][npc_combine_s]'.
+[18:31:33]	MPF-RCT.81483 has spawned a 'NPC [614][npc_combine_s]'.
+[18:31:38]	MPF-RCT.81483 has spawned a 'NPC [614][npc_combine_s]'.
+[18:31:44]	MPF-RCT.81483 has spawned a 'NPC [883][npc_combine_s]'.
+[18:31:46]	MPF-RCT.81483 has spawned a 'NPC [887][npc_combine_s]'.
+[18:31:59]	Александр Климов has taken 6 damage from npc_combine_s.
+[18:31:59]	Александр Климов has taken 1 damage from npc_combine_s.
+[18:32:00]	Александр Климов has taken 1 damage from npc_combine_s.
+[18:32:00]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:32:00]	Александр Климов has taken 1 damage from npc_combine_s.
+[18:32:01]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:32:01]	Александр Климов has taken 6 damage from npc_combine_s.
+[18:32:21]	MPF-RCT.81483 has spawned a 'Entity [614][gw_strider]'.
+[18:32:23]	MPF-RCT.81483 exited observer at their location.
+[18:32:38]	MPF-RCT.81483 entered observer.
+[18:32:46]	Александр Климов has taken 33 damage from worldspawn.
+[18:32:46]	worldspawn has killed Александр Климов.
+[18:33:04]	Александр Климов entered observer.
+[18:33:12]	Александр Климов exited observer at their location.
+[18:33:39]	MPF-RCT.81483 has spawned a 'NPC [612][npc_combine_s]'.
+[18:33:44]	MPF-RCT.81483 has gained 100 tokens.
+[18:33:57]	MPF-RCT.81483 has spawned a 'NPC [612][npc_combine_s]'.
+[18:33:59]	MPF-RCT.81483 has spawned a 'NPC [874][npc_combine_s]'.
+[18:34:10]	MPF-RCT.81483 has spawned a 'NPC [601][npc_combine_s]'.
+[18:34:10]	MPF-RCT.81483 has spawned a 'NPC [874][npc_combine_s]'.
+[18:34:13]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:34:35]	Александр Климов has taken 10 damage from zaptrap_rnd4.
+[18:34:35]	Александр Климов has taken 10 damage from zaptrap_rnd4.
+[18:34:35]	Александр Климов has taken 10 damage from zaptrap_rnd4.
+[18:35:01]	MPF-RCT.81483 has spawned a 'NPC [896][npc_combine_s]'.
+[18:35:04]	MPF-RCT.81483 has spawned a 'NPC [896][npc_combine_s]'.
+[18:35:06]	MPF-RCT.81483 has spawned a 'NPC [903][npc_combine_s]'.
+[18:35:21]	Александр Климов has taken 1 damage from npc_combine_s.
+[18:35:21]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:35:23]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:35:23]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:35:24]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:35:24]	Александр Климов has taken 1 damage from npc_combine_s.
+[18:35:24]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:35:25]	Александр Климов has taken 1 damage from npc_combine_s.
+[18:35:25]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:35:25]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:35:25]	Александр Климов has taken 1 damage from npc_combine_s.
+[18:35:26]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:35:30]	MPF-RCT.81483 has spawned a 'NPC [896][npc_combine_s]'.
+[18:35:34]	MPF-RCT.81483 has spawned a 'NPC [601][npc_combine_s]'.
+[18:35:41]	Александр Климов ran 'Equip' on item 'UMP-45' (#279)
+[18:35:46]	Александр Климов has spawned a 'Entity [1060][arccw_ammo_pistol_large]'.
+[18:35:57]	MPF-RCT.81483 has spawned a 'NPC [922][npc_combine_s]'.
+[18:35:57]	MPF-RCT.81483 has spawned a 'NPC [1060][npc_combine_s]'.
+[18:35:58]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:35:58]	Александр Климов has taken 6 damage from npc_combine_s.
+[18:36:14]	MPF-RCT.81483 has spawned a 'NPC [1072][npc_combine_s]'.
+[18:36:14]	MPF-RCT.81483 has spawned a 'NPC [1076][npc_combine_s]'.
+[18:36:16]	MPF-RCT.81483 has spawned a 'NPC [1066][npc_combine_s]'.
+[18:36:16]	MPF-RCT.81483 has spawned a 'NPC [1075][npc_combine_s]'.
+[18:36:17]	Александр Климов has taken 1 damage from npc_combine_s.
+[18:36:19]	MPF-RCT.81483 has spawned a 'NPC [1066][npc_combine_s]'.
+[18:36:20]	MPF-RCT.81483 has spawned a 'NPC [1099][npc_combine_s]'.
+[18:36:20]	MPF-RCT.81483 has spawned a 'NPC [1060][npc_combine_s]'.
+[18:36:21]	MPF-RCT.81483 has spawned a 'NPC [1112][npc_combine_s]'.
+[18:36:26]	Александр Климов has taken 7 damage from npc_combine_s.
+[18:36:26]	Александр Климов has taken 100 damage from sniper2.
+[18:36:26]	sniper2 has killed Александр Климов.
+[18:37:07]	Александр Климов entered observer.
+[18:37:13]	Александр Климов exited observer at their location.
+[18:37:15]	MPF-RCT.81483 has spawned a 'NPC [600][npc_combine_s]'.
+[18:37:16]	MPF-RCT.81483 has spawned a 'NPC [917][npc_combine_s]'.
+[18:37:17]	MPF-RCT.81483 has spawned a 'NPC [1066][npc_combine_s]'.
+[18:37:19]	MPF-RCT.81483 has spawned a 'NPC [1075][npc_combine_s]'.
+[18:37:20]	MPF-RCT.81483 has spawned a 'NPC [1091][npc_combine_s]'.
+[18:37:20]	MPF-RCT.81483 has spawned a 'NPC [1099][npc_combine_s]'.
+[18:37:30]	Александр Климов has spawned a 'Entity [1116][arccw_ammo_357_large]'.
+[18:37:36]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:37:37]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:37:37]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:37:38]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:37:49]	MPF-RCT.81483 has spawned a 'Entity [1091][gmod_sent_vehicle_fphysics_base]'.
+[18:37:50]	Александр Климов has taken 1 damage from npc_combine_s.
+[18:37:50]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:37:52]	MPF-RCT.81483 exited observer at their location.
+[18:37:58]	MPF-RCT.81483 has taken 2 damage from worldspawn.
+[18:38:02]	Александр Климов ran 'Equip' on item 'UMP-45' (#279)
+[18:38:06]	Александр Климов has taken 1 damage from npc_combine_s.
+[18:38:09]	MPF-RCT.81483 entered observer.
+[18:38:12]	MPF-RCT.81483 has spawned a 'NPC [1115][npc_metropolice]'.
+[18:38:13]	MPF-RCT.81483 has spawned a 'NPC [1180][npc_metropolice]'.
+[18:38:14]	MPF-RCT.81483 has spawned a 'NPC [1075][npc_metropolice]'.
+[18:38:15]	MPF-RCT.81483 has spawned a 'NPC [1243][npc_metropolice]'.
+[18:38:16]	Александр Климов has taken 3 damage from npc_metropolice.
+[18:38:24]	MPF-RCT.81483 has spawned a 'NPC [1243][npc_combine_s]'.
+[18:38:25]	MPF-RCT.81483 has spawned a 'NPC [1269][npc_combine_s]'.
+[18:38:25]	MPF-RCT.81483 has spawned a 'NPC [1271][npc_combine_s]'.
+[18:38:28]	Александр Климов has spawned a 'Entity [1274][arccw_ammo_buckshot]'.
+[18:38:29]	Александр Климов has spawned a 'Entity [1180][arccw_ammo_buckshot_large]'.
+[18:38:29]	MPF-RCT.81483 has spawned a 'NPC [1264][npc_combine_s]'.
+[18:38:29]	MPF-RCT.81483 has spawned a 'NPC [1274][npc_combine_s]'.
+[18:38:30]	MPF-RCT.81483 has spawned a 'NPC [1277][npc_combine_s]'.
+[18:38:30]	Александр Климов has taken 1 damage from npc_combine_s.
+[18:38:31]	MPF-RCT.81483 has spawned a 'NPC [1280][npc_combine_s]'.
+[18:38:32]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:38:32]	MPF-RCT.81483 has spawned a 'NPC [1286][npc_combine_s]'.
+[18:38:33]	MPF-RCT.81483 has spawned a 'NPC [1288][npc_combine_s]'.
+[18:38:34]	MPF-RCT.81483 has spawned a 'NPC [1290][npc_combine_s]'.
+[18:38:35]	Александр Климов has taken 1 damage from npc_combine_s.
+[18:38:35]	Александр Климов has taken 1 damage from npc_combine_s.
+[18:38:38]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:38:40]	Александр Климов has taken 1 damage from npc_combine_s.
+[18:38:40]	Александр Климов has taken 1 damage from npc_combine_s.
+[18:38:41]	Александр Климов has taken 1 damage from npc_combine_s.
+[18:38:46]	MPF-RCT.81483 has gained 100 tokens.
+[18:38:51]	MPF-RCT.81483 has spawned a 'NPC [1264][npc_citizen]'.
+[18:38:52]	MPF-RCT.81483 has spawned a 'NPC [1180][npc_citizen]'.
+[18:38:54]	MPF-RCT.81483 has spawned a 'NPC [1277][npc_citizen]'.
+[18:38:55]	MPF-RCT.81483 has spawned a 'NPC [1269][npc_citizen]'.
+[18:38:56]	MPF-RCT.81483 has spawned a 'NPC [1290][npc_citizen]'.
+[18:39:03]	MPF-RCT.81483 has spawned a 'NPC [1288][npc_combinegunship]'.
+[18:39:06]	MPF-RCT.81483 has spawned a 'NPC [1288][npc_combinegunship]'.
+[18:39:08]	Александр Климов has taken 6 damage from npc_combinegunship.
+[18:39:09]	Александр Климов has taken 6 damage from npc_combinegunship.
+[18:39:09]	Александр Климов has taken 6 damage from npc_combinegunship.
+[18:39:09]	Александр Климов has taken 6 damage from npc_combinegunship.
+[18:39:09]	Александр Климов has taken 6 damage from npc_combinegunship.
+[18:39:11]	Александр Климов has taken 6 damage from npc_combine_s.
+[18:39:11]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:39:11]	Александр Климов has taken 1 damage from npc_combine_s.
+[18:39:13]	Александр Климов has taken 6 damage from npc_combinegunship.
+[18:39:13]	Александр Климов has taken 6 damage from npc_combinegunship.
+[18:39:13]	Александр Климов has taken 6 damage from npc_combinegunship.
+[18:39:13]	Александр Климов has taken 6 damage from npc_combinegunship.
+[18:39:13]	Александр Климов has taken 6 damage from npc_combinegunship.
+[18:39:13]	npc_combinegunship has killed Александр Климов.
+[18:39:43]	Александр Климов entered observer.
+[18:39:49]	Александр Климов exited observer at their location.
+[18:40:03]	MPF-RCT.81483 has spawned a 'Entity [1075][gmod_sent_vehicle_fphysics_base]'.
+[18:40:03]	MPF-RCT.81483 exited observer at their location.
+[18:40:18]	MPF-RCT.81483 has taken 2 damage from worldspawn.
+[18:40:20]	MPF-RCT.81483 entered observer.
+[18:40:24]	MPF-RCT.81483 has spawned a 'NPC [1353][npc_metropolice]'.
+[18:40:25]	MPF-RCT.81483 has spawned a 'NPC [1356][npc_metropolice]'.
+[18:40:26]	MPF-RCT.81483 has spawned a 'NPC [1370][npc_metropolice]'.
+[18:40:28]	MPF-RCT.81483 has spawned a 'NPC [1370][npc_metropolice]'.
+[18:40:31]	MPF-RCT.81483 has spawned a 'NPC [1354][npc_combine_s]'.
+[18:40:33]	MPF-RCT.81483 has spawned a 'NPC [1349][npc_combine_s]'.
+[18:40:34]	MPF-RCT.81483 has spawned a 'NPC [1353][npc_combine_s]'.
+[18:40:35]	MPF-RCT.81483 has spawned a 'NPC [1374][npc_combine_s]'.
+[18:40:36]	MPF-RCT.81483 has spawned a 'NPC [1378][npc_combine_s]'.
+[18:40:37]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:40:42]	MPF-RCT.81483 has spawned a 'NPC [1371][npc_combine_s]'.
+[18:40:42]	MPF-RCT.81483 has spawned a 'NPC [1348][npc_combine_s]'.
+[18:40:48]	MPF-RCT.81483 has spawned a 'NPC [1349][npc_combine_s]'.
+[18:40:50]	MPF-RCT.81483 has spawned a 'NPC [1373][npc_combine_s]'.
+[18:40:52]	MPF-RCT.81483 has spawned a 'NPC [1385][npc_combine_s]'.
+[18:40:53]	MPF-RCT.81483 has spawned a 'NPC [1384][npc_combine_s]'.
+[18:40:55]	MPF-RCT.81483 has spawned a 'NPC [1372][npc_combine_s]'.
+[18:40:55]	Александр Климов has taken 1 damage from npc_combine_s.
+[18:40:55]	MPF-RCT.81483 has spawned a 'NPC [1395][npc_combine_s]'.
+[18:40:56]	MPF-RCT.81483 has spawned a 'NPC [1393][npc_combine_s]'.
+[18:40:57]	Александр Климов has taken 1 damage from npc_combine_s.
+[18:41:24]	Александр Климов has taken 100 damage from sniper2.
+[18:41:24]	sniper2 has killed Александр Климов.
+[18:41:36]	MPF-RCT.81483 has spawned a 'NPC [1352][npc_combine_s]'.
+[18:41:37]	MPF-RCT.81483 has spawned a 'NPC [1369][npc_combine_s]'.
+[18:41:41]	Александр Климов entered observer.
+[18:41:46]	Александр Климов exited observer at their location.
+[18:41:49]	Александр Климов ran 'Equip' on item 'UMP-45' (#279)
+[18:41:49]	MPF-RCT.81483 has spawned a 'NPC [1158][npc_combine_s]'.
+[18:41:51]	MPF-RCT.81483 has spawned a 'NPC [1401][npc_combine_s]'.
+[18:41:52]	Александр Климов has spawned a 'Entity [1403][arccw_ammo_pistol_large]'.
+[18:41:53]	Александр Климов has spawned a 'Entity [1405][arccw_ammo_pistol_large]'.
+[18:42:01]	Александр Климов has taken 1 damage from npc_combine_s.
+[18:42:03]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:42:04]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:42:06]	Александр Климов has taken 1 damage from npc_combine_s.
+[18:42:07]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:42:07]	Александр Климов has taken 1 damage from npc_combine_s.
+[18:42:14]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:42:31]	Александр Климов has spawned a 'Entity [1385][arccw_ammo_357_large]'.
+[18:42:32]	Александр Климов has spawned a 'Entity [1393][arccw_ammo_357_large]'.
+[18:42:34]	MPF-RCT.81483 has spawned a 'NPC [1385][npc_citizen]'.
+[18:42:34]	MPF-RCT.81483 has spawned a 'NPC [1409][npc_citizen]'.
+[18:42:36]	MPF-RCT.81483 has spawned a 'NPC [1411][npc_citizen]'.
+[18:42:37]	MPF-RCT.81483 has spawned a 'NPC [1490][npc_citizen]'.
+[18:42:38]	MPF-RCT.81483 has spawned a 'NPC [1403][npc_citizen]'.
+[18:42:38]	MPF-RCT.81483 has spawned a 'NPC [1502][npc_citizen]'.
+[18:42:39]	MPF-RCT.81483 has spawned a 'NPC [1437][npc_citizen]'.
+[18:42:40]	MPF-RCT.81483 has spawned a 'NPC [1404][npc_citizen]'.
+[18:42:41]	MPF-RCT.81483 has spawned a 'NPC [1518][npc_citizen]'.
+[18:42:42]	Александр Климов has taken 1 damage from npc_combine_s.
+[18:42:42]	Александр Климов entered observer.
+[18:42:43]	Александр Климов exited observer at their location.
+[18:43:05]	MPF-RCT.81483 has spawned a 'NPC [1403][npc_metropolice]'.
+[18:43:06]	MPF-RCT.81483 has spawned a 'NPC [1491][npc_metropolice]'.
+[18:43:10]	MPF-RCT.81483 has spawned a 'NPC [1385][npc_combine_s]'.
+[18:43:14]	MPF-RCT.81483 has spawned a 'NPC [1408][npc_combine_s]'.
+[18:43:21]	MPF-RCT.81483 has spawned a 'NPC [1404][npc_combine_s]'.
+[18:43:22]	MPF-RCT.81483 has spawned a 'NPC [1500][npc_combine_s]'.
+[18:43:23]	MPF-RCT.81483 has spawned a 'NPC [1507][npc_combine_s]'.
+[18:43:27]	MPF-RCT.81483 has spawned a 'NPC [1409][npc_combine_s]'.
+[18:43:28]	MPF-RCT.81483 has spawned a 'NPC [1434][npc_combine_s]'.
+[18:43:29]	MPF-RCT.81483 has spawned a 'NPC [1437][npc_combine_s]'.
+[18:43:30]	MPF-RCT.81483 has spawned a 'NPC [1502][npc_combine_s]'.
+[18:43:30]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:43:30]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:43:31]	Александр Климов has taken 1 damage from npc_combine_s.
+[18:43:31]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:43:31]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:43:31]	Александр Климов has taken 1 damage from npc_combine_s.
+[18:43:31]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:43:31]	Александр Климов has taken 1 damage from npc_combine_s.
+[18:43:32]	Александр Климов has taken 1 damage from npc_combine_s.
+[18:43:32]	Александр Климов has taken 6 damage from npc_combine_s.
+[18:43:32]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:43:32]	Александр Климов has taken 6 damage from npc_combine_s.
+[18:43:32]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:43:32]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:43:33]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:43:33]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:43:33]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:43:33]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:43:47]	MPF-RCT.81483 has gained 100 tokens.
+[18:43:54]	Александр Климов has taken 100 damage from sniper2.
+[18:43:54]	sniper2 has killed Александр Климов.
+[18:44:11]	Александр Климов entered observer.
+[18:44:32]	Александр Климов exited observer at their location.
+[18:44:32]	Александр Климов has taken 1 damage from npc_combine_s.
+[18:44:36]	Александр Климов has taken 6 damage from npc_combine_s.
+[18:44:36]	Александр Климов ran 'Equip' on item 'M3 Super 90' (#189)
+[18:44:37]	Александр Климов has taken 6 damage from npc_combine_s.
+[18:44:37]	Александр Климов has taken 17 damage from npc_combine_s.
+[18:44:38]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:44:39]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:44:43]	Александр Климов has taken 25 damage from sniper2.
+[18:44:45]	Александр Климов has taken 200 damage from sniper2.
+[18:44:45]	sniper2 has killed Александр Климов.
+[18:45:03]	Александр Климов ran 'Equip' on item 'M3 Super 90' (#189)
+[18:45:06]	Александр Климов has spawned a 'Entity [1158][arccw_ammo_buckshot_large]'.
+[18:45:06]	Александр Климов entered observer.
+[18:45:13]	Александр Климов exited observer at their location.
+[18:45:14]	MPF-RCT.81483 exited observer at their location.
+[18:45:15]	MPF-RCT.81483 has spawned a 'Entity [1408][gmod_sent_vehicle_fphysics_base]'.
+[18:45:15]	Александр Климов has taken 1 damage from npc_combine_s.
+[18:45:16]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:45:17]	Александр Климов has taken 100 damage from sniper2.
+[18:45:17]	sniper2 has killed Александр Климов.
+[18:45:34]	Александр Климов entered observer.
+[18:45:41]	Александр Климов exited observer at their location.
+[18:45:42]	Александр Климов has taken 1 damage from npc_combine_s.
+[18:45:45]	Александр Климов ran 'Equip' on item 'UMP-45' (#279)
+[18:45:48]	Александр Климов has taken 6 damage from npc_combine_s.
+[18:45:48]	Александр Климов has taken 10 damage from gmod_sent_vehicle_fphysics_base.
+[18:45:52]	MPF-RCT.81483 entered observer.
+[18:45:56]	Александр Климов has taken 1 damage from npc_combine_s.
+[18:45:57]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:46:05]	MPF-RCT.81483 has spawned a 'NPC [1371][npc_combine_s]'.
+[18:46:07]	Александр Климов has taken 100 damage from sniper2.
+[18:46:07]	sniper2 has killed Александр Климов.
+[18:46:23]	Александр Климов entered observer.
+[18:46:29]	Александр Климов exited observer at their location.
+[18:46:33]	Александр Климов ran 'Equip' on item 'UMP-45' (#279)
+[18:46:35]	MPF-RCT.81483 has spawned a 'NPC [1398][npc_combine_s]'.
+[18:46:39]	Александр Климов has taken 21 damage from npc_combine_s.
+[18:46:40]	Александр Климов has taken 20 damage from npc_combine_s.
+[18:46:44]	Александр Климов has spawned a 'Entity [1398][item_healthkit]'.
+[18:46:44]	Александр Климов has spawned a 'Entity [1599][item_healthkit]'.
+[18:46:46]	MPF-RCT.81483 has spawned a 'NPC [1371][npc_combine_s]'.
+[18:46:48]	MPF-RCT.81483 has spawned a 'NPC [1158][npc_combine_s]'.
+[18:46:49]	MPF-RCT.81483 has spawned a 'NPC [1398][npc_combine_s]'.
+[18:47:02]	MPF-RCT.81483 has spawned a 'NPC [1626][npc_combine_s]'.
+[18:47:03]	MPF-RCT.81483 has spawned a 'NPC [1628][npc_combine_s]'.
+[18:47:04]	Александр Климов has taken 100 damage from sniper2.
+[18:47:04]	sniper2 has killed Александр Климов.
+[18:47:23]	Александр Климов entered observer.
+[18:47:32]	Александр Климов exited observer at their location.
+[18:47:34]	Александр Климов ran 'Equip' on item 'UMP-45' (#279)
+[18:47:55]	MPF-RCT.81483 has spawned a 'NPC [1385][npc_combine_s]'.
+[18:47:56]	MPF-RCT.81483 has spawned a 'NPC [3273][npc_combine_s]'.
+[18:48:00]	MPF-RCT.81483 has spawned a 'NPC [3644][npc_combine_s]'.
+[18:48:00]	MPF-RCT.81483 has spawned a 'NPC [3646][npc_combine_s]'.
+[18:48:22]	Александр Климов has spawned a 'Entity [3649][item_ammo_pistol_large]'.
+[18:48:23]	MPF-RCT.81483 has spawned a 'NPC [3649][npc_turret_floor]'.
+[18:48:24]	Александр Климов has spawned a 'Entity [3655][item_ammo_357_large]'.
+[18:48:24]	Александр Климов has spawned a 'Entity [3656][item_ammo_357_large]'.
+[18:48:24]	Александр Климов has spawned a 'Entity [3657][item_ammo_357_large]'.
+[18:48:35]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:48:36]	Александр Климов has taken 24 damage from npc_combine_s.
+[18:48:39]	MPF-RCT.81483 has spawned a 'NPC [1158][npc_combine_s]'.
+[18:48:40]	MPF-RCT.81483 has spawned a 'NPC [3654][npc_combine_s]'.
+[18:48:43]	Александр Климов has taken 3 damage from npc_turret_floor.
+[18:48:43]	Александр Климов has taken 3 damage from npc_turret_floor.
+[18:48:44]	Александр Климов has taken 1 damage from npc_turret_floor.
+[18:48:47]	MPF-RCT.81483 has gained 100 tokens.
+[18:48:48]	Александр Климов has taken 3 damage from npc_turret_floor.
+[18:48:48]	Александр Климов has taken 3 damage from npc_turret_floor.
+[18:48:48]	Александр Климов has taken 3 damage from npc_turret_floor.
+[18:48:48]	Александр Климов has taken 3 damage from npc_turret_floor.
+[18:48:49]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:48:49]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:48:51]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:48:51]	Александр Климов has taken 6 damage from npc_combine_s.
+[18:48:51]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:48:52]	Александр Климов has taken 6 damage from npc_combine_s.
+[18:48:53]	Александр Климов has taken 6 damage from npc_combine_s.
+[18:48:53]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:48:54]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:48:54]	Александр Климов has taken 6 damage from npc_combine_s.
+[18:48:54]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:48:57]	Александр Климов has taken 1 damage from npc_turret_floor.
+[18:48:57]	Александр Климов has taken 1 damage from npc_turret_floor.
+[18:48:57]	Александр Климов has taken 3 damage from npc_turret_floor.
+[18:48:57]	Александр Климов has taken 1 damage from npc_turret_floor.
+[18:48:58]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:48:58]	npc_combine_s has killed Александр Климов.
+[18:49:14]	Александр Климов entered observer.
+[18:49:22]	Александр Климов exited observer at their location.
+[18:49:28]	Александр Климов has spawned a 'Entity [1395][item_ammo_357_large]'.
+[18:49:28]	Александр Климов has spawned a 'Entity [1434][item_ammo_357_large]'.
+[18:49:29]	Александр Климов has spawned a 'Entity [1437][item_ammo_357_large]'.
+[18:49:29]	Александр Климов has spawned a 'Entity [1490][item_ammo_357_large]'.
+[18:49:29]	Александр Климов has spawned a 'Entity [1491][item_ammo_357_large]'.
+[18:49:35]	MPF-RCT.81483 has spawned a 'NPC [1490][npc_combine_s]'.
+[18:49:36]	MPF-RCT.81483 has spawned a 'NPC [1500][npc_combine_s]'.
+[18:49:37]	MPF-RCT.81483 has spawned a 'NPC [1586][npc_combine_s]'.
+[18:49:38]	MPF-RCT.81483 has spawned a 'NPC [1588][npc_combine_s]'.
+[18:49:38]	MPF-RCT.81483 has spawned a 'NPC [1591][npc_combine_s]'.
+[18:49:39]	MPF-RCT.81483 has spawned a 'NPC [1593][npc_combine_s]'.
+[18:49:41]	MPF-RCT.81483 has spawned a 'NPC [1371][npc_combine_s]'.
+[18:49:42]	MPF-RCT.81483 has spawned a 'NPC [1622][npc_combine_s]'.
+[18:49:45]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:49:46]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:49:46]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:49:46]	Александр Климов has taken 1 damage from npc_combine_s.
+[18:49:46]	Александр Климов has taken 1 damage from npc_combine_s.
+[18:49:46]	Александр Климов has taken 6 damage from npc_combine_s.
+[18:49:46]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:49:46]	Александр Климов has taken 1 damage from npc_combine_s.
+[18:49:47]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:49:47]	Александр Климов has taken 1 damage from npc_combine_s.
+[18:49:47]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:49:47]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:49:48]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:49:48]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:49:48]	Александр Климов has taken 1 damage from npc_combine_s.
+[18:49:51]	Александр Климов has taken 1 damage from npc_combine_s.
+[18:49:52]	Александр Климов has taken 10 damage from npc_combine_s.
+[18:49:53]	Александр Климов has taken 19 damage from npc_combine_s.
+[18:49:54]	Александр Климов has taken 1 damage from npc_combine_s.
+[18:49:57]	Александр Климов ran 'Equip' on item 'M3 Super 90' (#189)
+[18:49:59]	MPF-RCT.81483 has spawned a 'NPC [1625][npc_combine_s]'.
+[18:50:00]	MPF-RCT.81483 has spawned a 'NPC [1627][npc_combine_s]'.
+[18:50:01]	MPF-RCT.81483 has spawned a 'NPC [1629][npc_combine_s]'.
+[18:50:02]	MPF-RCT.81483 has spawned a 'NPC [1385][npc_combine_s]'.
+[18:50:03]	MPF-RCT.81483 has spawned a 'NPC [1588][npc_combine_s]'.
+[18:50:03]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:50:03]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:50:04]	Александр Климов has taken 1 damage from npc_combine_s.
+[18:50:04]	MPF-RCT.81483 has spawned a 'NPC [1624][npc_combine_s]'.
+[18:50:05]	MPF-RCT.81483 has spawned a 'NPC [1630][npc_combine_s]'.
+[18:50:05]	MPF-RCT.81483 has spawned a 'NPC [1586][npc_combine_s]'.
+[18:50:08]	MPF-RCT.81483 has spawned a 'NPC [1642][npc_combine_s]'.
+[18:50:09]	MPF-RCT.81483 has spawned a 'NPC [1593][npc_combine_s]'.
+[18:50:11]	Александр Климов has taken 1 damage from npc_combine_s.
+[18:50:12]	Александр Климов has taken 10 damage from npc_combine_s.
+[18:50:14]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:50:14]	Александр Климов has taken 1 damage from npc_combine_s.
+[18:50:19]	Александр Климов has taken 1 damage from npc_combine_s.
+[18:50:20]	Александр Климов has taken 3 damage from npc_combine_s.
+[18:50:27]	Александр Климов has taken 15 damage from npc_combine_s.
+[18:50:27]	npc_combine_s has killed Александр Климов.
+[18:50:47]	Александр Климов entered observer.
+[18:51:38]	MPF-RCT.81483 has spawned a 'Entity [528][npc_rappelling_combine_soldier]'.
+[18:51:49]	MPF-RCT.81483 has spawned a 'Entity [35][npc_rappelling_metrocop]'.
+[18:52:01]	MPF-RCT.81483 has spawned a 'Entity [35][npc_raid_metrocop_smg_dynamic]'.
+[18:52:04]	MPF-RCT.81483 has spawned a 'Entity [528][npc_kneeling_citizen]'.
+[18:52:07]	MPF-RCT.81483 has spawned a 'Entity [545][npc_plaza_citizen_static]'.
+[18:52:11]	MPF-RCT.81483 has spawned a 'NPC [528][npc_citizen]'.
+[18:53:13]	MPF-RCT.81483 has spawned a 'Entity [35][npc_sitting_gman]'.
+[18:53:26]	MPF-RCT.81483 has spawned a 'Entity [35][npc_breen_no_desk]'.
+[18:53:33]	MPF-RCT.81483 has spawned a 'Entity [36][npc_plaza_citizen_static]'.
+[18:53:42]	MPF-RCT.81483 has spawned a 'Entity [545][npc_sitting_citizen_male]'.
+[18:53:48]	MPF-RCT.81483 has gained 100 tokens.
+[18:53:56]	MPF-RCT.81483 has spawned a 'Entity [36][npc_plaza_citizen_static]'.
+[18:53:58]	MPF-RCT.81483 has spawned a 'Entity [572][npc_plaza_citizen_static]'.
+[18:54:00]	MPF-RCT.81483 has spawned a 'Entity [36][npc_plaza_citizen_static]'.
+[18:54:15]	MPF-RCT.81483 has spawned a 'Entity [572][npc_raid_metrocop_smg]'.
+[18:54:16]	MPF-RCT.81483 has spawned a 'Entity [574][npc_raid_metrocop_smg_dynamic]'.
+[18:54:28]	MPF-RCT.81483 has spawned a 'Entity [574][npc_metrocop_abusing_male_wall_spread]'.
+[18:54:46]	MPF-RCT.81483 has spawned a 'Entity [575][npc_plaza_idle_metrocop]'.
+[18:54:58]	MPF-RCT.81483 has spawned a 'Entity [572][npc_plaza_idle_metrocop]'.
+[18:55:01]	MPF-RCT.81483 has spawned a 'Entity [575][npc_plaza_idle_metrocop]'.
+[18:55:39]	MPF-RCT.81483 has spawned a 'Entity [577][npc_raid_metrocop]'.
+[18:55:56]	MPF-RCT.81483 has spawned a 'Entity [577][npc_couch_laying_citizen_dynamic]'.
+[18:56:19]	MPF-RCT.81483 has spawned a 'Entity [577][npc_couch_laying_citizen]'.
+[18:56:31]	MPF-RCT.81483 has spawned a 'Entity [572][npc_episode_1_mossman]'.
+[18:56:43]	MPF-RCT.81483 has spawned a 'Entity [572][npc_door_bracing_citizen]'.
+[18:56:49]	MPF-RCT.81483 has spawned a 'Entity [572][npc_door_bracing_citizen]'.
+[18:57:05]	MPF-RCT.81483 has spawned a 'Entity [585][npc_knocking_cop]'.
+[18:58:48]	MPF-RCT.81483 has gained 100 tokens.
+[18:58:49]	MPF-RCT.81483 has spawned 'models/props_vehicles/car005a_physics.mdl'.
+[18:58:53]	MPF-RCT.81483 has spawned 'models/props_vehicles/car002a_physics.mdl'.
+[18:58:58]	MPF-RCT.81483 has spawned 'models/props_vehicles/car001a_hatchback.mdl'.
+[18:59:09]	MPF-RCT.81483 has spawned 'models/props_vehicles/trailer001a.mdl'.
+[18:59:24]	MPF-RCT.81483 has spawned 'models/props_vehicles/van001a_physics.mdl'.
+[19:01:11]	MPF-RCT.81483 has spawned a 'Entity [601][npc_cheering_citizen]'.
+[19:01:14]	MPF-RCT.81483 has spawned a 'Entity [629][npc_cheering_citizen_looping]'.
+[19:01:17]	MPF-RCT.81483 has spawned a 'Entity [601][npc_cheering_citizen_looping]'.
+[19:01:18]	MPF-RCT.81483 has spawned a 'Entity [638][npc_cheering_citizen_looping]'.
+[19:01:21]	MPF-RCT.81483 has spawned a 'Entity [601][npc_cheering_citizen]'.
+[19:01:25]	MPF-RCT.81483 has spawned a 'Entity [618][npc_cheering_citizen_looping_no_sound]'.
+[19:02:42]	MPF-RCT.81483 exited observer at their location.
+[19:02:44]	MPF-RCT.81483 entered observer.
+[19:03:16]	MPF-RCT.81483 exited observer at their location.
+[19:03:20]	MPF-RCT.81483 entered observer.
+[19:03:31]	MPF-RCT.81483 exited observer at their location.
+[19:03:33]	MPF-RCT.81483 entered observer.
+[19:03:48]	MPF-RCT.81483 has gained 100 tokens.
+[19:04:00]	MPF-RCT.81483 exited observer at their location.
+[19:05:57]	MPF-RCT.81483 has spawned a 'Entity [614][item_ammo_ar2_large]'.
+[19:07:16]	MPF-RCT.81483 entered observer.
+[19:07:23]	Александр Климов exited observer at their location.
+[19:07:24]	Александр Климов entered observer.
+[19:07:28]	Александр Климов exited observer at their location.
+[19:07:37]	MPF-RCT.81483 has spawned a 'Entity [612][gmod_sent_vehicle_fphysics_base]'.
+[19:07:39]	MPF-RCT.81483 has spawned a 'Entity [647][gmod_sent_vehicle_fphysics_base]'.
+[19:07:42]	MPF-RCT.81483 has spawned a 'Entity [647][gmod_sent_vehicle_fphysics_base]'.
+[19:07:49]	Александр Климов ran 'Equip' on item 'UMP-45' (#279)
+[19:07:50]	MPF-RCT.81483 has spawned a 'NPC [741][npc_metropolice]'.
+[19:07:51]	MPF-RCT.81483 has spawned a 'NPC [645][npc_metropolice]'.
+[19:07:55]	MPF-RCT.81483 has spawned a 'NPC [645][npc_metropolice]'.
+[19:07:55]	Александр Климов has spawned a 'Entity [741][item_ammo_pistol_large]'.
+[19:07:57]	MPF-RCT.81483 has spawned a 'NPC [645][npc_metropolice]'.
+[19:07:59]	MPF-RCT.81483 has spawned a 'NPC [741][npc_metropolice]'.
+[19:08:01]	MPF-RCT.81483 has spawned a 'NPC [753][npc_metropolice]'.
+[19:08:02]	MPF-RCT.81483 has spawned a 'NPC [775][npc_metropolice]'.
+[19:08:04]	MPF-RCT.81483 has spawned a 'NPC [645][npc_metropolice]'.
+[19:08:05]	MPF-RCT.81483 has spawned a 'NPC [840][npc_metropolice]'.
+[19:08:06]	MPF-RCT.81483 has spawned a 'NPC [741][npc_metropolice]'.
+[19:08:12]	Александр Климов has taken 3 damage from npc_metropolice.
+[19:08:14]	MPF-RCT.81483 has spawned a 'NPC [744][npc_metropolice]'.
+[19:08:15]	MPF-RCT.81483 has spawned a 'NPC [775][npc_metropolice]'.
+[19:08:17]	MPF-RCT.81483 has spawned a 'NPC [645][npc_metropolice]'.
+[19:08:18]	MPF-RCT.81483 has spawned a 'NPC [744][npc_metropolice]'.
+[19:08:21]	MPF-RCT.81483 has spawned a 'NPC [775][npc_metropolice]'.
+[19:08:22]	MPF-RCT.81483 has spawned a 'NPC [844][npc_metropolice]'.
+[19:08:25]	MPF-RCT.81483 has spawned a 'NPC [775][npc_metropolice]'.
+[19:08:26]	MPF-RCT.81483 has spawned a 'NPC [860][npc_metropolice]'.
+[19:08:46]	MPF-RCT.81483 has spawned a 'NPC [846][npc_metropolice]'.
+[19:08:48]	MPF-RCT.81483 has gained 100 tokens.
+[19:08:48]	MPF-RCT.81483 has spawned a 'NPC [895][npc_metropolice]'.
+[19:08:49]	MPF-RCT.81483 has spawned a 'NPC [1075][npc_metropolice]'.
+[19:08:51]	MPF-RCT.81483 has spawned a 'NPC [775][npc_metropolice]'.
+[19:08:52]	MPF-RCT.81483 has spawned a 'NPC [1097][npc_metropolice]'.
+[19:08:53]	MPF-RCT.81483 has spawned a 'NPC [1101][npc_metropolice]'.
+[19:09:00]	MPF-RCT.81483 has spawned a 'NPC [744][npc_metropolice]'.
+[19:09:01]	Александр Климов has taken 1 damage from npc_metropolice.
+[19:09:01]	Александр Климов has taken 3 damage from npc_metropolice.
+[19:09:02]	Александр Климов has taken 1 damage from npc_metropolice.
+[19:09:08]	MPF-RCT.81483 has spawned a 'NPC [1112][npc_metropolice]'.
+[19:09:09]	MPF-RCT.81483 has spawned a 'NPC [1118][npc_metropolice]'.
+[19:09:10]	MPF-RCT.81483 has spawned a 'NPC [1131][npc_metropolice]'.
+[19:09:11]	MPF-RCT.81483 has spawned a 'NPC [1134][npc_metropolice]'.
+[19:09:12]	Александр Климов has taken 1 damage from npc_metropolice.
+[19:09:12]	Александр Климов has taken 3 damage from npc_metropolice.
+[19:09:13]	Александр Климов has taken 3 damage from npc_metropolice.
+[19:09:16]	MPF-RCT.81483 has spawned a 'NPC [846][npc_metropolice]'.
+[19:09:21]	MPF-RCT.81483 has spawned a 'NPC [846][npc_metropolice]'.
+[19:09:21]	MPF-RCT.81483 has spawned a 'NPC [1112][npc_metropolice]'.
+[19:09:21]	Александр Климов has taken 6 damage from npc_metropolice.
+[19:09:22]	Александр Климов has taken 1 damage from npc_metropolice.
+[19:09:27]	MPF-RCT.81483 has spawned a 'NPC [1137][npc_combine_s]'.
+[19:09:28]	MPF-RCT.81483 has spawned a 'NPC [1139][npc_combine_s]'.
+[19:09:37]	MPF-RCT.81483 has spawned a 'NPC [1138][npc_combine_s]'.
+[19:09:38]	MPF-RCT.81483 has spawned a 'NPC [846][npc_combine_s]'.
+[19:09:42]	MPF-RCT.81483 has spawned a 'NPC [775][npc_combine_s]'.
+[19:09:43]	MPF-RCT.81483 has spawned a 'NPC [1140][npc_combine_s]'.
+[19:09:49]	MPF-RCT.81483 has spawned a 'NPC [1144][npc_combine_s]'.
+[19:09:49]	MPF-RCT.81483 has spawned a 'NPC [1146][npc_combine_s]'.
+[19:09:52]	Александр Климов has taken 1 damage from npc_combine_s.
+[19:09:53]	Александр Климов has taken 1 damage from npc_combine_s.
+[19:09:53]	Александр Климов has taken 1 damage from npc_combine_s.
+[19:09:53]	Александр Климов has taken 1 damage from npc_combine_s.
+[19:09:57]	MPF-RCT.81483 has spawned a 'NPC [1144][npc_combine_s]'.
+[19:09:58]	MPF-RCT.81483 has spawned a 'NPC [1149][npc_combine_s]'.
+[19:09:59]	MPF-RCT.81483 has spawned a 'NPC [1151][npc_combine_s]'.
+[19:10:05]	Александр Климов has taken 1 damage from npc_combine_s.
+[19:10:05]	Александр Климов has taken 1 damage from npc_combine_s.
+[19:10:10]	MPF-RCT.81483 has spawned a 'NPC [1143][npc_rollermine]'.
+[19:10:11]	MPF-RCT.81483 has spawned a 'NPC [1149][npc_rollermine]'.
+[19:10:12]	MPF-RCT.81483 has spawned a 'NPC [1151][npc_rollermine]'.
+[19:10:17]	MPF-RCT.81483 has spawned a 'NPC [1176][npc_combine_s]'.
+[19:10:18]	MPF-RCT.81483 has spawned a 'NPC [1242][npc_combine_s]'.
+[19:10:19]	MPF-RCT.81483 has spawned a 'NPC [1392][npc_rollermine]'.
+[19:10:20]	MPF-RCT.81483 has spawned a 'NPC [1394][npc_rollermine]'.
+[19:10:21]	MPF-RCT.81483 has spawned a 'NPC [1398][npc_rollermine]'.
+[19:10:24]	Александр Климов has taken 10 damage from npc_rollermine.
+[19:10:25]	Александр Климов has taken 10 damage from npc_rollermine.
+[19:10:30]	Александр Климов has taken 10 damage from trigger_hurt.
+[19:10:30]	Александр Климов has taken 10 damage from trigger_hurt.
+[19:10:53]	MPF-RCT.81483 has spawned a 'NPC [1491][npc_citizen]'.
+[19:10:54]	MPF-RCT.81483 has spawned a 'NPC [1639][npc_citizen]'.
+[19:11:00]	MPF-RCT.81483 has spawned a 'NPC [37][npc_citizen]'.
+[19:11:01]	MPF-RCT.81483 has spawned a 'NPC [1491][npc_citizen]'.
+[19:11:13]	Александр Климов has spawned a 'Entity [368][item_ammo_pistol_large]'.
+[19:11:13]	Александр Климов has spawned a 'Entity [369][item_ammo_pistol_large]'.
+[19:11:13]	MPF-RCT.81483 has spawned a 'NPC [1144][npc_metropolice]'.
+[19:11:14]	Александр Климов has taken 3 damage from npc_metropolice.
+[19:11:14]	Александр Климов has taken 3 damage from npc_metropolice.
+[19:11:15]	Александр Климов has taken 1 damage from npc_metropolice.
+[19:11:21]	MPF-RCT.81483 has spawned a 'NPC [376][npc_metropolice]'.
+[19:11:25]	MPF-RCT.81483 has spawned a 'NPC [1144][npc_metropolice]'.
+[19:11:27]	MPF-RCT.81483 has spawned a 'NPC [1491][npc_metropolice]'.
+[19:11:28]	Александр Климов has taken 1 damage from npc_metropolice.
+[19:11:28]	Александр Климов has taken 3 damage from npc_metropolice.
+[19:11:29]	Александр Климов has taken 3 damage from npc_metropolice.
+[19:11:29]	Александр Климов has taken 3 damage from npc_metropolice.
+[19:11:29]	Александр Климов has taken 6 damage from npc_metropolice.
+[19:11:29]	Александр Климов has taken 1 damage from npc_metropolice.
+[19:11:31]	MPF-RCT.81483 has spawned a 'NPC [1639][npc_metropolice]'.
+[19:11:32]	Александр Климов has taken 3 damage from npc_metropolice.
+[19:11:32]	Александр Климов has taken 6 damage from npc_metropolice.
+[19:11:32]	Александр Климов has taken 1 damage from npc_metropolice.
+[19:11:32]	Александр Климов has taken 3 damage from npc_metropolice.
+[19:11:32]	Александр Климов has taken 1 damage from npc_metropolice.
+[19:11:33]	Александр Климов has taken 6 damage from npc_metropolice.
+[19:11:33]	Александр Климов has taken 6 damage from npc_metropolice.
+[19:11:41]	MPF-RCT.81483 has spawned a 'NPC [1861][npc_combine_s]'.
+[19:11:42]	MPF-RCT.81483 has spawned a 'NPC [1639][npc_combine_s]'.
+[19:11:43]	MPF-RCT.81483 has spawned a 'NPC [1909][npc_combine_s]'.
+[19:11:43]	MPF-RCT.81483 has spawned a 'NPC [1911][npc_combine_s]'.
+[19:11:45]	MPF-RCT.81483 has spawned a 'NPC [2333][npc_combine_s]'.
+[19:11:46]	MPF-RCT.81483 has spawned a 'NPC [2330][npc_combine_s]'.
+[19:11:46]	MPF-RCT.81483 has spawned a 'NPC [2336][npc_combine_s]'.
+[19:11:47]	MPF-RCT.81483 has spawned a 'NPC [2471][npc_combine_s]'.
+[19:11:54]	Александр Климов has taken 3 damage from npc_combine_s.
+[19:11:55]	Александр Климов has taken 1 damage from npc_combine_s.
+[19:11:55]	Александр Климов has taken 1 damage from npc_combine_s.
+[19:11:56]	MPF-RCT.81483 has spawned a 'NPC [2475][npc_hunter]'.
+[19:11:57]	Александр Климов has taken 6 damage from npc_combine_s.
+[19:11:58]	Александр Климов has taken 1 damage from npc_combine_s.
+[19:11:58]	Александр Климов has taken 3 damage from npc_combine_s.
+[19:12:18]	MPF-RCT.81483 has spawned a 'NPC [1144][npc_combine_s]'.
+[19:12:18]	MPF-RCT.81483 has spawned a 'NPC [2475][npc_combine_s]'.
+[19:13:24]	Александр Климов has taken 2500 damage from trigger_hurt.
+[19:13:24]	trigger_hurt has killed Александр Климов.
+[19:13:24]	Александр Климов rolled 34 out of 100.
+[19:13:24]	Александр Климов used command '/Roll'.
+[19:13:48]	MPF-RCT.81483 has gained 100 tokens.
+[19:13:57]	MPF-RCT.81483 has spawned a 'Entity [36][npc_couch_laying_citizen]'.
+[19:14:49]	MPF-RCT.81483 exited observer at their location.
+[19:14:58]	MPF-RCT.81483 entered observer.
+[19:15:01]	MPF-RCT.81483 exited observer at their location.
+[19:15:08]	MPF-RCT.81483 entered observer.
+[19:18:48]	MPF-RCT.81483 has gained 100 tokens.
+[19:21:12]	֍ Aime-moi ֍ loaded the character 'Август Крюгер'
+[19:21:13]	Август Крюгер entered observer.
+[19:21:33]	Август Крюгер exited observer at their location.
+[19:21:36]	Август Крюгер entered observer.
+[19:21:40]	Август Крюгер exited observer at their location.
+[19:21:43]	Август Крюгер entered observer.
+[19:22:38]	Август Крюгер exited observer at their location.
+[19:24:04]	֍ Aime-moi ֍ (STEAM_0:0:424879351) deleted character 'Август Крюгер'
+[19:24:15]	֍ Aime-moi ֍ created the character 'Август Крюгер'
+[19:24:15]	Август Крюгер has gained a 'Чемодан' #294.
+[19:24:15]	Август Крюгер has gained a 'ID Карточка' #295.
+[19:24:15]	֍ Aime-moi ֍ loaded the character 'Август Крюгер'
+[19:24:40]	Август Крюгер used command '/CharSetModel Август models/combine/humans/male_09.mdl'.
+[19:24:56]	Август Крюгер entered observer.
+[19:24:57]	Август Крюгер exited observer at their location.
+[19:25:42]	Август Крюгер has spawned 'models/summer_spring/items/maskcp.mdl'.
+[19:25:44]	Август Крюгер has spawned 'models/summer_spring/items/maskelite.mdl'.
+[19:25:48]	Август Крюгер has spawned 'models/summer_spring/items/shirt_rebel1.mdl'.
+[19:25:50]	Август Крюгер has spawned 'models/summer_spring/items/trenchcoat.mdl'.
+[19:25:52]	Август Крюгер has spawned 'models/summer_spring/items/shirt_rebeloverwatch.mdl'.
+[19:25:57]	Август Крюгер has spawned 'models/summer_spring/items/gloves.mdl'.
+[19:26:00]	Август Крюгер has spawned 'models/summer_spring/items/bag.mdl'.
+[19:26:01]	Август Крюгер has spawned 'models/summer_spring/items/shirt_rebel1.mdl'.
+[19:26:03]	Август Крюгер has spawned 'models/summer_spring/items/shirt_rebel_molle.mdl'.
+[19:26:11]	Август Крюгер used command '/CharSetModel Август models/player/fall_winter/male_09.mdl'.
+[19:27:01]	Август Крюгер used command '/CharSetModel Август models/Humans/Group02/Male_04.mdl'.
+[19:27:14]	Август Крюгер used command '/CharSetModel Август models/combine/humans/male_09.mdl'.
+[19:27:27]	Август Крюгер entered observer.
+[19:33:48]	Август Крюгер has spawned a 'Entity [383][ix_forcefield]'.
+[19:33:53]	Август Крюгер exited observer at their location.
+[19:33:53]	Август Крюгер entered observer.
+[19:33:56]	Август Крюгер has spawned a 'Entity [383][ix_loyaltykiosk]'.
+[19:33:58]	Август Крюгер exited observer at their location.
+[19:34:04]	֍ Aime-moi ֍ loaded the character 'MPF-RCT.81483'
+[19:34:06]	MPF-RCT.81483 entered observer.
+[19:34:07]	MPF-RCT.81483 exited observer at their location.
+[19:34:10]	MPF-RCT.81483 has spawned a 'Entity [35][ix_loyaltykiosk]'.
+[19:34:46]	MPF-RCT.81483 has spawned a 'Entity [35][ix_questgiver]'.
+[19:34:52]	MPF-RCT.81483 entered observer.
+[19:34:57]	MPF-RCT.81483 has spawned a 'Entity [545][ix_loadingtable]'.
+[19:35:00]	MPF-RCT.81483 has spawned a 'Entity [545][ix_loadingtable]'.
+[19:35:02]	MPF-RCT.81483 has spawned a 'Entity [546][ix_craftingtable]'.
+[19:35:02]	MPF-RCT.81483 exited observer at their location.
+[19:35:07]	MPF-RCT.81483 has spawned a 'Entity [545][ix_loadingtable]'.
+[19:35:13]	֍ Aime-moi ֍ loaded the character 'Август Крюгер'
+[19:35:16]	Август Крюгер has spawned a 'Entity [35][ix_loadingtable]'.
+[19:35:19]	Август Крюгер entered observer.
+[19:35:34]	Август Крюгер exited observer at their location.
+[19:35:38]	Август Крюгер has spawned a 'Entity [35][ix_cidterminal]'.
+[19:35:45]	֍ Aime-moi ֍ loaded the character 'MPF-RCT.81483'
+[19:35:46]	MPF-RCT.81483 entered observer.
+[19:35:48]	MPF-RCT.81483 exited observer at their location.
+[19:35:49]	MPF-RCT.81483 has spawned a 'Entity [35][ix_cidterminal]'.
+[19:36:03]	MPF-RCT.81483 entered observer.
+[19:36:10]	֍ Aime-moi ֍ loaded the character 'Август Крюгер'
+[19:36:11]	Август Крюгер entered observer.
+[19:36:18]	Август Крюгер has spawned a 'Entity [35][edit_fog]'.
+[19:37:05]	Август Крюгер has spawned a 'Entity [383][sent_skybox_editor]'.
+[19:37:08]	Август Крюгер has spawned a 'Entity [383][sent_skybox_editor]'.
+[19:38:28]	Август Крюгер exited observer at their location.
+[19:38:39]	Август Крюгер entered observer.
+[19:39:11]	Август Крюгер exited observer at their location.
+[19:39:15]	Август Крюгер entered observer.
+[19:43:15]	Август Крюгер exited observer at their location.
+[19:43:22]	Август Крюгер entered observer.
+[19:43:33]	Август Крюгер exited observer at their location.
+[19:43:36]	Август Крюгер entered observer.
+[19:44:16]	Август Крюгер exited observer at their location.
+[19:44:29]	Август Крюгер entered observer.
+[19:45:27]	Александр Климов entered observer.
+[19:45:29]	Александр Климов exited observer at their location.
+[19:48:07]	Август Крюгер exited observer at their location.
+[19:48:08]	Август Крюгер entered observer.
+[19:48:13]	Август Крюгер exited observer at their location.
+[19:48:14]	Август Крюгер entered observer.
+[19:48:14]	Август Крюгер exited observer at their location.
+[19:48:15]	Август Крюгер entered observer.
+[19:48:34]	Август Крюгер exited observer at their location.
+[19:48:36]	Август Крюгер entered observer.
+[19:48:53]	Август Крюгер exited observer at their location.
+[19:48:55]	Август Крюгер entered observer.
+[20:05:20]	Август Крюгер exited observer at their location.
+[20:05:20]	Август Крюгер entered observer.
+[20:10:43]	Wallenstein has connected.
+[20:18:31]	Wallenstein loaded the character 'Danila Bagrow'
+[20:21:03]	Wallenstein (STEAM_0:1:422825965) has disconnected.
+[20:21:09]	֍ Aime-moi ֍ (STEAM_0:0:424879351) has disconnected.
+[20:51:54]	֍ Aime-moi ֍ has connected.
+[20:54:49]	֍ Aime-moi ֍ loaded the character 'Август Крюгер'
+[20:54:51]	Август Крюгер entered observer.
+[20:55:02]	Август Крюгер exited observer at their location.
+[20:56:52]	Август Крюгер entered observer.
+[20:57:04]	Август Крюгер exited observer at their location.
+[20:57:04]	Август Крюгер entered observer.
+[20:57:19]	Александр Климов entered observer.
+[20:57:21]	Август Крюгер exited observer at their location.
+[20:57:23]	Август Крюгер entered observer.
+[20:57:24]	Август Крюгер exited observer at their location.
+[20:57:26]	Август Крюгер entered observer.
+[20:57:27]	Александр Климов exited observer at their location.
+[20:57:27]	Александр Климов entered observer.
+[20:57:28]	Александр Климов exited observer at their location.
+[20:57:30]	Александр Климов entered observer.
+[20:57:30]	Александр Климов exited observer at their location.
+[20:57:42]	Александр Климов entered observer.
+[20:57:42]	Александр Климов exited observer at their location.
+[20:57:56]	Александр Климов ran 'Equip' on item 'UMP-45' (#279)
+[20:58:10]	Александр Климов has spawned a 'Entity [35][item_box_buckshot]'.
+[20:58:11]	Александр Климов has spawned a 'Entity [36][item_box_buckshot]'.
+[20:58:11]	Александр Климов has spawned a 'Entity [576][item_box_buckshot]'.
+[20:58:11]	Август Крюгер exited observer at their location.
+[20:58:12]	Александр Климов has spawned a 'Entity [35][item_box_buckshot]'.
+[20:58:12]	Александр Климов has spawned a 'Entity [36][item_box_buckshot]'.
+[20:58:13]	Александр Климов has spawned a 'Entity [576][item_box_buckshot]'.
+[20:58:13]	Август Крюгер entered observer.
+[20:58:17]	Август Крюгер exited observer at their location.
+[20:58:19]	Август Крюгер entered observer.
+[20:58:20]	Август Крюгер exited observer at their location.
+[20:58:21]	Август Крюгер entered observer.
+[20:58:50]	Александр Климов entered observer.
+[20:58:54]	Александр Климов exited observer at their location.
+[21:02:37]	Wallenstein has connected.
+[21:04:40]	Wallenstein loaded the character 'Danila Bagrow'
+[21:07:39]	Август Крюгер used command '/CharGiveFlag Danila CVcenprtv'.
+[21:07:44]	Danila Bagrow has spawned 'models/player/fall_winter/male_10.mdl'.
+[21:07:46]	Danila Bagrow has spawned 'models/player/fall_winter/male_09.mdl'.
+[21:08:15]	Август Крюгер exited observer at their location.
+[21:08:22]	Август Крюгер entered observer.
+[21:08:32]	Август Крюгер exited observer at their location.
+[21:09:22]	Август Крюгер used command '/ActSit 2'.
+[21:10:23]	Август Крюгер used command '/ItemSpawnAdd'.
+[21:10:38]	Danila Bagrow has spawned 'models/terminator_p.mdl'.
+[21:10:45]	Danila Bagrow has spawned 'models/terminator_p.mdl'.
+[21:10:50]	Август Крюгер used command '/ExitAct'.
+[21:10:52]	Danila Bagrow has spawned 'models/lambdamovement_coat.mdl'.
+[21:11:00]	Август Крюгер has taken 5 damage from prop_ragdoll.
+[21:11:06]	Danila Bagrow has spawned 'models/barnes/refugee/female_34.mdl'.
+[21:11:07]	Август Крюгер has spawned a 'Entity [602][item_healthkit]'.
+[21:11:12]	Danila Bagrow has spawned 'models/barnes/refugee/female_38.mdl'.
+[21:11:37]	Danila Bagrow has spawned 'models/barnes/refugee/male_109.mdl'.
+[21:11:52]	Danila Bagrow has spawned 'models/humans/salem.mdl'.
+[21:11:56]	Danila Bagrow has spawned 'models/humans/group01/male_51.mdl'.
+[21:12:01]	Danila Bagrow has spawned 'models/humans/group03/coalition_male.mdl'.
+[21:12:11]	Danila Bagrow has spawned 'models/humans/group03/male_43.mdl'.
+[21:12:18]	Danila Bagrow has spawned 'models/humans/group03m/karljacobs.mdl'.
+[21:12:32]	Danila Bagrow has spawned 'models/humans/group01/male_41.mdl'.
+[21:12:38]	Danila Bagrow has spawned 'models/humans/group01/male_42.mdl'.
+[21:13:16]	Август Крюгер has spawned 'models/humans/group01/male_42.mdl'.
+[21:13:26]	Август Крюгер used command '/CharSetModel Danila models/humans/group01/male_42.mdl'.
+[21:15:05]	Danila Bagrow has spawned 'models/humans/group03/coalition_male.mdl'.
+[21:15:24]	Август Крюгер entered observer.
+[21:15:25]	Август Крюгер exited observer at their location.
+[21:15:27]	Август Крюгер entered observer.
+[21:15:28]	Август Крюгер exited observer at their location.
+[21:15:54]	Август Крюгер entered observer.
+[21:16:32]	Август Крюгер has spawned a 'Weapon [600][arccw_mifl_fas2_p226]'.
+[21:16:44]	Александр Климов has taken 15 damage from Danila Bagrow.
+[21:16:52]	Александр Климов has taken 59 damage from Danila Bagrow.
+[21:16:54]	Александр Климов has taken 118 damage from Danila Bagrow.
+[21:16:54]	Danila Bagrow has killed Александр Климов with arccw_mifl_fas2_p226.
+[21:17:20]	Август Крюгер exited observer at their location.
+[21:17:21]	Август Крюгер entered observer.
+[21:18:30]	Danila Bagrow has spawned a 'NPC [370][npc_citizen]'.
+[21:18:42]	Август Крюгер has spawned a 'NPC [370][npc_metropolice]'.
+[21:18:44]	Август Крюгер has spawned a 'NPC [599][npc_metropolice]'.
+[21:18:45]	Август Крюгер has spawned a 'NPC [602][npc_metropolice]'.
+[21:18:46]	Август Крюгер has spawned a 'NPC [585][npc_metropolice]'.
+[21:18:48]	Август Крюгер has spawned a 'NPC [370][npc_metropolice]'.
+[21:18:50]	Август Крюгер has spawned a 'NPC [594][npc_metropolice]'.
+[21:18:52]	Август Крюгер has spawned a 'NPC [601][npc_metropolice]'.
+[21:18:54]	Август Крюгер has spawned a 'NPC [370][npc_metropolice]'.
+[21:18:55]	Август Крюгер exited observer at their location.
+[21:18:55]	Август Крюгер entered observer.
+[21:18:56]	Август Крюгер exited observer at their location.
+[21:18:57]	Август Крюгер has spawned a 'NPC [613][npc_metropolice]'.
+[21:18:57]	Август Крюгер has taken 3 damage from npc_metropolice.
+[21:18:58]	Август Крюгер entered observer.
+[21:18:59]	Август Крюгер exited observer at their location.
+[21:19:00]	Danila Bagrow has taken 1 damage from npc_metropolice.
+[21:19:00]	Август Крюгер entered observer.
+[21:19:02]	Август Крюгер has spawned a 'NPC [585][npc_metropolice]'.
+[21:19:04]	Август Крюгер has spawned a 'NPC [502][npc_metropolice]'.
+[21:19:05]	Danila Bagrow has taken 3 damage from npc_metropolice.
+[21:19:05]	Danila Bagrow has taken 3 damage from npc_metropolice.
+[21:19:09]	Danila Bagrow has taken 1 damage from npc_metropolice.
+[21:19:09]	Danila Bagrow has taken 1 damage from npc_metropolice.
+[21:19:15]	Август Крюгер has spawned a 'NPC [502][npc_metropolice]'.
+[21:19:16]	Август Крюгер has spawned a 'NPC [601][npc_metropolice]'.
+[21:19:17]	Август Крюгер has spawned a 'NPC [619][npc_metropolice]'.
+[21:19:18]	Август Крюгер has spawned a 'NPC [621][npc_metropolice]'.
+[21:19:19]	Danila Bagrow has taken 3 damage from npc_metropolice.
+[21:19:20]	Danila Bagrow has taken 1 damage from npc_metropolice.
+[21:19:25]	Danila Bagrow has taken 1 damage from npc_metropolice.
+[21:19:27]	Danila Bagrow has taken 1 damage from npc_metropolice.
+[21:19:28]	Danila Bagrow has taken 6 damage from npc_metropolice.
+[21:19:30]	Danila Bagrow has taken 1 damage from npc_metropolice.
+[21:19:30]	Danila Bagrow has taken 1 damage from npc_metropolice.
+[21:19:31]	Danila Bagrow has taken 3 damage from npc_metropolice.
+[21:19:31]	Danila Bagrow has taken 3 damage from npc_metropolice.
+[21:19:31]	Danila Bagrow has taken 3 damage from npc_metropolice.
+[21:19:32]	Danila Bagrow has taken 1 damage from npc_metropolice.
+[21:19:35]	Danila Bagrow has taken 3 damage from npc_metropolice.
+[21:19:36]	Danila Bagrow has taken 3 damage from npc_metropolice.
+[21:19:36]	Danila Bagrow has taken 3 damage from npc_metropolice.
+[21:19:36]	Danila Bagrow has taken 6 damage from npc_metropolice.
+[21:19:37]	Danila Bagrow has taken 3 damage from npc_metropolice.
+[21:19:37]	Danila Bagrow has taken 6 damage from npc_metropolice.
+[21:19:37]	Danila Bagrow has taken 3 damage from npc_metropolice.
+[21:19:38]	Danila Bagrow has taken 6 damage from npc_metropolice.
+[21:19:38]	Danila Bagrow has taken 6 damage from npc_metropolice.
+[21:19:38]	Danila Bagrow has taken 1 damage from npc_metropolice.
+[21:19:38]	Danila Bagrow has taken 1 damage from npc_metropolice.
+[21:19:39]	Danila Bagrow has taken 3 damage from npc_metropolice.
+[21:19:39]	Danila Bagrow has taken 3 damage from npc_metropolice.
+[21:19:39]	Danila Bagrow has taken 3 damage from npc_metropolice.
+[21:19:39]	Danila Bagrow has taken 3 damage from npc_metropolice.
+[21:19:40]	Danila Bagrow has taken 6 damage from npc_metropolice.
+[21:19:40]	Danila Bagrow has taken 1 damage from npc_metropolice.
+[21:19:40]	Danila Bagrow has taken 3 damage from npc_metropolice.
+[21:19:40]	Danila Bagrow has taken 3 damage from npc_metropolice.
+[21:19:40]	Danila Bagrow has taken 3 damage from npc_metropolice.
+[21:19:46]	Danila Bagrow has taken 3 damage from npc_metropolice.
+[21:19:47]	Danila Bagrow has taken 3 damage from npc_metropolice.
+[21:19:47]	Danila Bagrow has taken 3 damage from npc_metropolice.
+[21:19:47]	Danila Bagrow has taken 6 damage from npc_metropolice.
+[21:19:47]	Danila Bagrow has taken 3 damage from npc_metropolice.
+[21:19:48]	Danila Bagrow has taken 3 damage from npc_metropolice.
+[21:19:48]	Danila Bagrow has taken 3 damage from npc_metropolice.
+[21:19:49]	Danila Bagrow has taken 1 damage from npc_metropolice.
+[21:19:49]	Danila Bagrow has taken 6 damage from npc_metropolice.
+[21:19:49]	Danila Bagrow has taken 3 damage from npc_metropolice.
+[21:19:49]	Danila Bagrow has taken 3 damage from npc_metropolice.
+[21:19:50]	Danila Bagrow has taken 3 damage from npc_metropolice.
+[21:19:50]	Danila Bagrow has taken 3 damage from npc_metropolice.
+[21:19:50]	Danila Bagrow has taken 3 damage from npc_metropolice.
+[21:19:51]	Danila Bagrow has taken 3 damage from npc_metropolice.
+[21:19:51]	npc_metropolice has killed Danila Bagrow.
+[21:20:20]	Август Крюгер exited observer at their location.
+[21:20:20]	Август Крюгер entered observer.
+[21:20:25]	Август Крюгер exited observer at their location.
+[21:20:26]	Август Крюгер entered observer.
+[21:20:42]	Danila Bagrow has spawned a 'NPC [36][npc_citizen]'.
+[21:21:01]	Август Крюгер exited observer at their location.
+[21:21:02]	Август Крюгер entered observer.
+[21:22:54]	Август Крюгер has spawned a 'Weapon [578][arccw_mifl_fas2_ak47]'.
+[21:23:04]	Август Крюгер has spawned a 'Entity [584][arccw_ammo_ar2_large]'.
+[21:23:04]	Август Крюгер has spawned a 'Entity [585][arccw_ammo_ar2_large]'.
+[21:23:17]	Август Крюгер has spawned a 'NPC [36][npc_metropolice]'.
+[21:23:18]	Август Крюгер has spawned a 'NPC [584][npc_metropolice]'.
+[21:23:20]	Danila Bagrow has taken 3 damage from npc_metropolice.
+[21:23:21]	Danila Bagrow has taken 3 damage from npc_metropolice.
+[21:23:26]	Август Крюгер has spawned a 'NPC [584][npc_combine_s]'.
+[21:23:29]	Август Крюгер has spawned a 'NPC [599][npc_combine_s]'.
+[21:23:30]	Август Крюгер has spawned a 'NPC [601][npc_combine_s]'.
+[21:23:40]	Август Крюгер has spawned a 'NPC [36][npc_combine_s]'.
+[21:23:41]	Август Крюгер has spawned a 'NPC [596][npc_combine_s]'.
+[21:23:41]	Август Крюгер has spawned a 'NPC [611][npc_combine_s]'.
+[21:23:42]	Август Крюгер has spawned a 'NPC [618][npc_combine_s]'.
+[21:23:44]	Август Крюгер has spawned a 'NPC [599][npc_combine_s]'.
+[21:23:45]	Август Крюгер has spawned a 'NPC [621][npc_combine_s]'.
+[21:24:04]	Август Крюгер has spawned a 'NPC [635][npc_combine_s]'.
+[21:24:05]	Август Крюгер has spawned a 'NPC [637][npc_combine_s]'.
+[21:24:17]	Danila Bagrow has taken 25 damage from sniper2.
+[21:24:19]	Danila Bagrow has taken 100 damage from sniper2.
+[21:24:19]	sniper2 has killed Danila Bagrow.
+[21:24:20]	Август Крюгер used command '/PlyWhitelist Danila Анти'.
+[21:24:58]	Август Крюгер exited observer at their location.
+[21:25:16]	Август Крюгер entered observer.
+[21:25:19]	Август Крюгер exited observer at their location.
+[21:25:28]	Август Крюгер has spawned a 'NPC [36][npc_metropolice]'.
+[21:25:30]	Август Крюгер has spawned a 'NPC [36][npc_metropolice]'.
+[21:25:33]	Август Крюгер entered observer.
+[21:25:55]	Wallenstein created the character 'Пиздоглас Ебучий'
+[21:25:55]	Пиздоглас Ебучий has gained a 'UMP-45' #297.
+[21:25:55]	Пиздоглас Ебучий has gained a 'Ящик мелкокалиберных патронов' #298.
+[21:25:55]	Пиздоглас Ебучий has gained a 'Ящик мелкокалиберных патронов' #299.
+[21:26:02]	Wallenstein loaded the character 'Пиздоглас Ебучий'
+[21:26:21]	Пиздоглас Ебучий ran 'Equip' on item 'UMP-45' (#297)
+[21:26:23]	Пиздоглас Ебучий ran 'use' on item 'Ящик мелкокалиберных патронов' (#298)
+[21:26:30]	Август Крюгер has spawned a 'NPC [36][npc_metropolice]'.
+[21:26:31]	Август Крюгер has spawned a 'NPC [547][npc_metropolice]'.
+[21:26:33]	Август Крюгер has spawned a 'NPC [579][npc_rollermine]'.
+[21:26:34]	Пиздоглас Ебучий has taken 3 damage from npc_metropolice.
+[21:26:36]	Пиздоглас Ебучий has taken 10 damage from npc_rollermine.
+[21:26:36]	Пиздоглас Ебучий has taken 5 damage from npc_rollermine.
+[21:26:36]	Пиздоглас Ебучий has taken 5 damage from npc_rollermine.
+[21:26:44]	Пиздоглас Ебучий has taken 10 damage from npc_rollermine.
+[21:26:44]	Пиздоглас Ебучий has taken 5 damage from npc_rollermine.
+[21:26:53]	Пиздоглас Ебучий has taken 10 damage from npc_metropolice.
+[21:26:56]	Август Крюгер has spawned a 'NPC [547][npc_combine_s]'.
+[21:27:00]	Август Крюгер has spawned a 'NPC [36][npc_combine_s]'.
+[21:27:01]	Август Крюгер has spawned a 'NPC [584][npc_combine_s]'.
+[21:27:02]	Август Крюгер has spawned a 'NPC [618][npc_combine_s]'.
+[21:27:03]	Август Крюгер has spawned a 'NPC [620][npc_combine_s]'.
+[21:27:03]	Август Крюгер has spawned a 'NPC [622][npc_combine_s]'.
+[21:27:10]	Август Крюгер has spawned a 'NPC [581][npc_combine_s]'.
+[21:27:10]	Август Крюгер has spawned a 'NPC [635][npc_combine_s]'.
+[21:27:13]	Август Крюгер has spawned a 'NPC [637][npc_combine_s]'.
+[21:27:15]	Пиздоглас Ебучий has taken 6 damage from npc_combine_s.
+[21:27:27]	Август Крюгер has spawned a 'Entity [581][item_healthkit]'.
+[21:27:27]	Август Крюгер has spawned a 'Entity [635][item_healthkit]'.
+[21:27:33]	Август Крюгер has spawned a 'NPC [581][npc_combine_s]'.
+[21:27:33]	Август Крюгер has spawned a 'NPC [635][npc_combine_s]'.
+[21:27:36]	Пиздоглас Ебучий has taken 1 damage from npc_combine_s.
+[21:27:36]	Пиздоглас Ебучий has taken 3 damage from npc_combine_s.
+[21:27:43]	Пиздоглас Ебучий has taken 1 damage from npc_combine_s.
+[21:27:43]	Август Крюгер has spawned a 'NPC [635][npc_combine_s]'.
+[21:27:43]	Август Крюгер has spawned a 'NPC [641][npc_combine_s]'.
+[21:27:44]	Август Крюгер has spawned a 'NPC [643][npc_combine_s]'.
+[21:27:45]	Август Крюгер has spawned a 'NPC [645][npc_combine_s]'.
+[21:27:46]	Август Крюгер has spawned a 'NPC [647][npc_combine_s]'.
+[21:28:17]	Пиздоглас Ебучий has taken 3 damage from npc_combine_s.
+[21:28:53]	Пиздоглас Ебучий has taken 200 damage from sniper1.
+[21:28:53]	sniper1 has killed Пиздоглас Ебучий.
+[21:29:08]	Август Крюгер has spawned a 'NPC [581][npc_combine_s]'.
+[21:29:11]	Пиздоглас Ебучий has taken 9 damage from npc_combine_s.
+[21:29:12]	Август Крюгер has spawned a 'NPC [581][npc_combine_s]'.
+[21:29:12]	Пиздоглас Ебучий has taken 3 damage from npc_combine_s.
+[21:29:14]	Пиздоглас Ебучий has taken 3 damage from npc_combine_s.
+[21:29:18]	Август Крюгер has spawned a 'Entity [36][item_healthkit]'.
+[21:29:18]	Август Крюгер has spawned a 'Entity [546][item_healthkit]'.
+[21:29:19]	Пиздоглас Ебучий ran 'Equip' on item 'UMP-45' (#297)
+[21:29:21]	Пиздоглас Ебучий ran 'use' on item 'Ящик мелкокалиберных патронов' (#299)
+[21:29:25]	Август Крюгер has spawned a 'NPC [581][npc_combine_s]'.
+[21:29:29]	Август Крюгер has spawned a 'NPC [635][npc_combine_s]'.
+[21:29:38]	Август Крюгер has spawned a 'NPC [546][npc_combine_s]'.
+[21:30:19]	Пиздоглас Ебучий has taken 100 damage from sniper2.
+[21:30:19]	sniper2 has killed Пиздоглас Ебучий.
+[21:30:48]	Август Крюгер has spawned a 'Weapon [514][arccw_mifl_fas2_rpk]'.
+[21:30:53]	Август Крюгер has spawned a 'Entity [601][arccw_ammo_ar2_large]'.
+[21:30:53]	Август Крюгер has spawned a 'Entity [618][arccw_ammo_ar2_large]'.
+[21:30:54]	Август Крюгер has spawned a 'Entity [620][arccw_ammo_ar2_large]'.
+[21:31:01]	Август Крюгер has spawned a 'NPC [601][npc_combine_s]'.
+[21:31:02]	Август Крюгер has spawned a 'NPC [620][npc_combine_s]'.
+[21:31:05]	Август Крюгер has spawned a 'NPC [36][npc_combine_s]'.
+[21:31:06]	Август Крюгер has spawned a 'NPC [639][npc_combine_s]'.
+[21:31:06]	Август Крюгер has spawned a 'NPC [641][npc_combine_s]'.
+[21:31:07]	Август Крюгер has spawned a 'NPC [643][npc_combine_s]'.
+[21:31:08]	Август Крюгер has spawned a 'NPC [645][npc_combine_s]'.
+[21:31:09]	Август Крюгер has spawned a 'NPC [647][npc_combine_s]'.
+[21:31:22]	Пиздоглас Ебучий has taken 1 damage from npc_combine_s.
+[21:31:22]	Пиздоглас Ебучий has taken 1 damage from npc_combine_s.
+[21:31:23]	Пиздоглас Ебучий has taken 9 damage from npc_combine_s.
+[21:31:23]	Пиздоглас Ебучий has taken 6 damage from npc_combine_s.
+[21:31:25]	Пиздоглас Ебучий has taken 10 damage from npc_combine_s.
+[21:31:25]	Пиздоглас Ебучий has taken 3 damage from npc_combine_s.
+[21:31:25]	Пиздоглас Ебучий has taken 3 damage from npc_combine_s.
+[21:31:25]	Пиздоглас Ебучий has taken 16 damage from npc_combine_s.
+[21:31:25]	Пиздоглас Ебучий has taken 3 damage from npc_combine_s.
+[21:31:25]	Пиздоглас Ебучий has taken 3 damage from npc_combine_s.
+[21:31:25]	Пиздоглас Ебучий has taken 3 damage from npc_combine_s.
+[21:31:27]	Пиздоглас Ебучий has taken 3 damage from npc_combine_s.
+[21:31:27]	Пиздоглас Ебучий has taken 3 damage from npc_combine_s.
+[21:31:34]	Август Крюгер has spawned a 'Entity [601][item_healthkit]'.
+[21:31:38]	Пиздоглас Ебучий has taken 1 damage from npc_combine_s.
+[21:31:44]	Август Крюгер has spawned a 'NPC [36][npc_combinedropship]'.
+[21:31:45]	Август Крюгер has spawned a 'NPC [620][npc_combine_s]'.
+[21:31:46]	Август Крюгер has spawned a 'NPC [36][npc_combine_s]'.
+[21:31:49]	Август Крюгер has spawned a 'NPC [639][npc_combine_s]'.
+[21:32:28]	Август Крюгер has spawned a 'NPC [620][npc_combine_s]'.
+[21:32:29]	Пиздоглас Ебучий has taken 3 damage from npc_combine_s.
+[21:32:31]	Пиздоглас Ебучий has taken 3 damage from npc_combine_s.
+[21:32:42]	Август Крюгер exited observer at their location.
+[21:32:43]	Август Крюгер has spawned a 'Entity [657][gmod_sent_vehicle_fphysics_base]'.
+[21:32:55]	Август Крюгер entered observer.
+[21:32:57]	Август Крюгер has spawned a 'NPC [620][npc_metropolice]'.
+[21:32:58]	Август Крюгер has spawned a 'NPC [748][npc_metropolice]'.
+[21:32:59]	Август Крюгер has spawned a 'NPC [751][npc_metropolice]'.
+[21:33:00]	Август Крюгер has spawned a 'NPC [754][npc_metropolice]'.
+[21:33:01]	Август Крюгер has spawned a 'NPC [758][npc_metropolice]'.
+[21:33:02]	Август Крюгер has spawned a 'NPC [3413][npc_metropolice]'.
+[21:33:03]	Август Крюгер has spawned a 'NPC [3417][npc_metropolice]'.
+[21:33:04]	Пиздоглас Ебучий has taken 3 damage from npc_metropolice.
+[21:33:04]	Пиздоглас Ебучий has taken 6 damage from npc_metropolice.
+[21:33:04]	Август Крюгер has spawned a 'NPC [3420][npc_metropolice]'.
+[21:33:05]	Август Крюгер has spawned a 'NPC [3423][npc_metropolice]'.
+[21:33:05]	Август Крюгер has spawned a 'NPC [3426][npc_metropolice]'.
+[21:33:06]	Пиздоглас Ебучий has taken 3 damage from npc_metropolice.
+[21:33:09]	Пиздоглас Ебучий has taken 1 damage from npc_metropolice.
+[21:33:10]	Пиздоглас Ебучий has taken 1 damage from npc_metropolice.
+[21:33:10]	Пиздоглас Ебучий has taken 3 damage from npc_metropolice.
+[21:33:14]	Август Крюгер has spawned a 'Entity [806][item_healthkit]'.
+[21:33:14]	Август Крюгер has spawned a 'Entity [807][item_healthkit]'.
+[21:33:14]	Август Крюгер has spawned a 'Entity [3413][item_healthkit]'.
+[21:33:15]	Пиздоглас Ебучий has taken 3 damage from npc_metropolice.
+[21:33:15]	Пиздоглас Ебучий has taken 1 damage from npc_metropolice.
+[21:33:15]	Пиздоглас Ебучий has taken 3 damage from npc_metropolice.
+[21:33:16]	Пиздоглас Ебучий has taken 6 damage from npc_metropolice.
+[21:33:16]	Пиздоглас Ебучий has taken 3 damage from npc_metropolice.
+[21:33:17]	Пиздоглас Ебучий has taken 10 damage from npc_metropolice.
+[21:33:19]	Пиздоглас Ебучий has taken 3 damage from npc_metropolice.
+[21:33:20]	Пиздоглас Ебучий has taken 3 damage from npc_metropolice.
+[21:33:20]	Пиздоглас Ебучий has taken 1 damage from npc_metropolice.
+[21:33:20]	Пиздоглас Ебучий has taken 3 damage from npc_metropolice.
+[21:33:20]	Пиздоглас Ебучий has taken 1 damage from npc_metropolice.
+[21:33:20]	Пиздоглас Ебучий has taken 3 damage from npc_metropolice.
+[21:33:20]	Пиздоглас Ебучий has taken 10 damage from npc_metropolice.
+[21:33:20]	Август Крюгер has spawned a 'Entity [3413][item_healthkit]'.
+[21:33:21]	Август Крюгер has spawned a 'Entity [3416][item_healthkit]'.
+[21:33:21]	Август Крюгер has spawned a 'Entity [3428][item_healthkit]'.
+[21:33:22]	Август Крюгер has spawned a 'Entity [3430][item_healthkit]'.
+[21:33:22]	Август Крюгер has spawned a 'Entity [3429][item_healthkit]'.
+[21:33:31]	Август Крюгер has spawned a 'NPC [751][npc_combine_s]'.
+[21:33:32]	Август Крюгер has spawned a 'NPC [758][npc_combine_s]'.
+[21:33:40]	Август Крюгер has spawned a 'NPC [751][npc_combine_s]'.
+[21:33:42]	Пиздоглас Ебучий has taken 12 damage from npc_combine_s.
+[21:33:51]	Август Крюгер has spawned a 'Entity [751][gw_strider]'.
+[21:33:52]	Август Крюгер exited observer at their location.
+[21:33:54]	Август Крюгер has taken 23 damage from worldspawn.
+[21:33:54]	Август Крюгер entered observer.
+[21:33:54]	Август Крюгер exited observer at their location.
+[21:34:29]	Август Крюгер entered observer.
+[21:34:36]	Август Крюгер has spawned a 'Entity [813][aw2_hk]'.
+[21:34:38]	Август Крюгер exited observer at their location.
+[21:35:02]	Август Крюгер entered observer.
+[21:35:20]	Август Крюгер has spawned a 'Entity [614][aw2_gunship]'.
+[21:35:21]	Август Крюгер exited observer at their location.
+[21:35:27]	Пиздоглас Ебучий has taken 6 damage from Август Крюгер.
+[21:35:43]	Август Крюгер entered observer.
+[21:36:01]	Август Крюгер has spawned a 'NPC [758][npc_combine_s]'.
+[21:36:03]	Август Крюгер has spawned a 'NPC [847][npc_combine_s]'.
+[21:36:05]	Август Крюгер has spawned a 'NPC [614][npc_combine_s]'.
+[21:36:26]	Август Крюгер has spawned a 'NPC [751][npc_rollermine]'.
+[21:36:30]	Пиздоглас Ебучий has taken 19 damage from npc_combine_s.
+[21:36:31]	Пиздоглас Ебучий has taken 8 damage from npc_combine_s.
+[21:36:32]	Пиздоглас Ебучий has taken 20 damage from npc_combine_s.
+[21:36:47]	Август Крюгер has spawned a 'Entity [847][item_healthkit]'.
+[21:36:47]	Август Крюгер has spawned a 'Entity [851][item_healthkit]'.
+[21:36:52]	Август Крюгер has spawned a 'NPC [614][npc_citizen]'.
+[21:36:53]	Август Крюгер has spawned a 'NPC [851][npc_citizen]'.
+[21:36:53]	Август Крюгер has spawned a 'NPC [895][npc_citizen]'.
+[21:36:53]	Август Крюгер has spawned a 'NPC [1090][npc_citizen]'.
+[21:36:54]	Август Крюгер has spawned a 'NPC [1103][npc_citizen]'.
+[21:36:54]	Август Крюгер has spawned a 'NPC [1106][npc_citizen]'.
+[21:36:55]	Август Крюгер has spawned a 'NPC [1112][npc_citizen]'.
+[21:36:55]	Август Крюгер has spawned a 'NPC [1130][npc_citizen]'.
+[21:37:01]	Август Крюгер has spawned a 'NPC [758][npc_combine_s]'.
+[21:37:01]	Август Крюгер has spawned a 'NPC [1105][npc_combine_s]'.
+[21:37:02]	Август Крюгер has spawned a 'NPC [1134][npc_combine_s]'.
+[21:37:02]	Август Крюгер has spawned a 'NPC [1146][npc_combine_s]'.
+[21:37:02]	Август Крюгер has spawned a 'NPC [1135][npc_combine_s]'.
+[21:37:03]	Август Крюгер has spawned a 'NPC [1136][npc_combine_s]'.
+[21:37:03]	Август Крюгер has spawned a 'NPC [1139][npc_combine_s]'.
+[21:37:03]	Август Крюгер has spawned a 'NPC [1143][npc_combine_s]'.
+[21:37:03]	Август Крюгер has spawned a 'NPC [1075][npc_combine_s]'.
+[21:37:04]	Август Крюгер has spawned a 'NPC [1150][npc_combine_s]'.
+[21:37:08]	Август Крюгер has spawned a 'NPC [1152][npc_combine_s]'.
+[21:37:08]	Август Крюгер has spawned a 'NPC [1201][npc_combine_s]'.
+[21:37:09]	Август Крюгер has spawned a 'NPC [1260][npc_combine_s]'.
+[21:37:09]	Август Крюгер has spawned a 'NPC [1392][npc_combine_s]'.
+[21:37:09]	Август Крюгер has spawned a 'NPC [1434][npc_combine_s]'.
+[21:37:09]	Август Крюгер has spawned a 'NPC [1491][npc_combine_s]'.
+[21:37:10]	Август Крюгер has spawned a 'NPC [1140][npc_combine_s]'.
+[21:37:10]	Август Крюгер has spawned a 'NPC [1621][npc_combine_s]'.
+[21:37:21]	Пиздоглас Ебучий has taken 1 damage from npc_combine_s.
+[21:37:38]	Пиздоглас Ебучий has taken 6 damage from npc_combine_s.
+[21:37:46]	Пиздоглас Ебучий has taken 3 damage from npc_combine_s.
+[21:37:49]	Август Крюгер has spawned a 'NPC [895][npc_citizen]'.
+[21:37:49]	Август Крюгер has spawned a 'NPC [1110][npc_citizen]'.
+[21:37:49]	Август Крюгер has spawned a 'NPC [1133][npc_citizen]'.
+[21:37:49]	Август Крюгер has spawned a 'NPC [1139][npc_citizen]'.
+[21:37:50]	Август Крюгер has spawned a 'NPC [1491][npc_citizen]'.
+[21:37:50]	Август Крюгер has spawned a 'NPC [1103][npc_citizen]'.
+[21:37:50]	Август Крюгер has spawned a 'NPC [1894][npc_citizen]'.
+[21:37:50]	Август Крюгер has spawned a 'NPC [1621][npc_citizen]'.
+[21:38:56]	Август Крюгер has spawned a 'Entity [584][npc_breen_speech_broadcast]'.
+[21:39:08]	Пиздоглас Ебучий has taken 2 damage from worldspawn.
+[21:39:08]	Пиздоглас Ебучий has taken 2 damage from worldspawn.
+[21:39:18]	Август Крюгер has spawned a 'Entity [595][npc_breen_speech_broadcast]'.
+[21:39:43]	Пиздоглас Ебучий has taken 2 damage from worldspawn.
+[21:39:45]	Август Крюгер exited observer at their location.
+[21:39:46]	Пиздоглас Ебучий has taken 2 damage from worldspawn.
+[21:39:50]	Август Крюгер has taken 25 damage from Пиздоглас Ебучий.
+[21:39:52]	Август Крюгер has taken 250 damage from gmod_sent_vehicle_fphysics_base.
+[21:39:52]	gmod_sent_vehicle_fphysics_base has killed Август Крюгер.
+[21:40:09]	Август Крюгер entered observer.
+[21:40:35]	Пиздоглас Ебучий has taken 5 damage from worldspawn.
+[21:40:35]	Пиздоглас Ебучий has taken 5 damage from worldspawn.
+[21:40:36]	Пиздоглас Ебучий has taken 2 damage from worldspawn.
+[21:40:36]	Пиздоглас Ебучий has taken 2 damage from worldspawn.
+[21:40:36]	Пиздоглас Ебучий has taken 2 damage from worldspawn.
+[21:40:38]	Пиздоглас Ебучий has taken 5 damage from worldspawn.
+[21:40:38]	Пиздоглас Ебучий has taken 5 damage from worldspawn.
+[21:40:38]	Пиздоглас Ебучий has taken 5 damage from worldspawn.
+[21:40:38]	Пиздоглас Ебучий has taken 2 damage from worldspawn.
+[21:40:40]	Пиздоглас Ебучий has taken 2 damage from worldspawn.
+[21:40:53]	Август Крюгер has spawned a 'Entity [573][gw_strider]'.
+[21:40:54]	Август Крюгер exited observer at their location.
+[21:41:45]	Август Крюгер entered observer.
+[21:41:48]	Август Крюгер exited observer at their location.
+[21:41:52]	Август Крюгер entered observer.
+[21:41:57]	Август Крюгер exited observer at their location.
+[21:42:22]	֍ Aime-moi ֍ (STEAM_0:0:424879351) has disconnected.
+[21:42:26]	Wallenstein (STEAM_0:1:422825965) has disconnected.

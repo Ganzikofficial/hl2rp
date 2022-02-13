@@ -1,0 +1,1 @@
+[[{"1":"[-5427.2764 9291.4707 -214.9498]","2":"{-89.8326 16.1333 -68.6338}","3":9.0,"4":"models/props_wasteland/controlroom_storagecloset001b.mdl","7":0.0},{"1":"[-5500.0474 8275.0977 -135.97]","2":"{20.278 -90 0}","3":11.0,"4":"models/props_wasteland/controlroom_filecabinet002a.mdl","7":0.0}]]

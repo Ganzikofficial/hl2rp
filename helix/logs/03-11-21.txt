@@ -1,0 +1,244 @@
+[00:03:48]	D47.MPF-EpU.514 has gained 50 tokens.
+[00:08:48]	D47.MPF-EpU.514 has gained 50 tokens.
+[00:13:48]	D47.MPF-EpU.514 has gained 50 tokens.
+[00:18:48]	D47.MPF-EpU.514 has gained 50 tokens.
+[00:23:48]	D47.MPF-EpU.514 has gained 50 tokens.
+[00:28:48]	D47.MPF-EpU.514 has gained 50 tokens.
+[00:33:48]	D47.MPF-EpU.514 has gained 50 tokens.
+[00:38:48]	D47.MPF-EpU.514 has gained 50 tokens.
+[00:43:48]	D47.MPF-EpU.514 has gained 50 tokens.
+[00:48:48]	D47.MPF-EpU.514 has gained 50 tokens.
+[00:53:48]	D47.MPF-EpU.514 has gained 50 tokens.
+[00:58:48]	D47.MPF-EpU.514 has gained 50 tokens.
+[01:03:48]	D47.MPF-EpU.514 has gained 50 tokens.
+[01:08:48]	D47.MPF-EpU.514 has gained 50 tokens.
+[01:13:48]	D47.MPF-EpU.514 has gained 50 tokens.
+[01:18:48]	D47.MPF-EpU.514 has gained 50 tokens.
+[01:23:48]	D47.MPF-EpU.514 has gained 50 tokens.
+[01:28:48]	D47.MPF-EpU.514 has gained 50 tokens.
+[01:33:48]	D47.MPF-EpU.514 has gained 50 tokens.
+[01:38:48]	D47.MPF-EpU.514 has gained 50 tokens.
+[01:43:48]	D47.MPF-EpU.514 has gained 50 tokens.
+[01:48:48]	D47.MPF-EpU.514 has gained 50 tokens.
+[01:53:48]	D47.MPF-EpU.514 has gained 50 tokens.
+[01:58:13]	D47.MPF-EpU.514 has spawned 'models/props_c17/metalladder002.mdl'.
+[01:58:48]	D47.MPF-EpU.514 has gained 50 tokens.
+[01:59:47]	D47.MPF-EpU.514 entered observer.
+[02:00:10]	D47.MPF-EpU.514 exited observer at their location.
+[02:00:11]	D47.MPF-EpU.514 entered observer.
+[02:00:21]	D47.MPF-EpU.514 exited observer at their location.
+[02:00:26]	D47.MPF-EpU.514 has spawned 'models/props_c17/lockers001a.mdl'.
+[02:00:47]	D47.MPF-EpU.514 used command '/CharGiveItem D47 emergency_armor'.
+[02:00:53]	D47.MPF-EpU.514 has gained a 'Броня ГО' #415.
+[02:00:53]	D47.MPF-EpU.514 used command '/CharGiveItem D47 emergency_armor'.
+[02:00:56]	D47.MPF-EpU.514 ran 'drop' on item 'Броня ГО' (#415)
+[02:00:56]	D47.MPF-EpU.514 has lost a 'Броня ГО' #415.
+[02:01:01]	D47.MPF-EpU.514 ran 'take' on item 'Броня ГО' (#415)
+[02:01:01]	D47.MPF-EpU.514 has gained a 'Броня ГО' #415.
+[02:02:12]	D47.MPF-EpU.514 entered observer.
+[02:02:20]	D47.MPF-EpU.514 exited observer at their location.
+[02:02:23]	D47.MPF-EpU.514 entered observer.
+[02:02:25]	D47.MPF-EpU.514 exited observer at their location.
+[02:02:25]	D47.MPF-EpU.514 entered observer.
+[02:02:28]	D47.MPF-EpU.514 has spawned 'models/props_foliage/ivy_01.mdl'.
+[02:02:57]	D47.MPF-EpU.514 exited observer at their location.
+[02:03:01]	D47.MPF-EpU.514 entered observer.
+[02:03:27]	D47.MPF-EpU.514 has spawned 'models/props_debris/metal_panelchunk02e.mdl'.
+[02:03:39]	D47.MPF-EpU.514 has spawned 'models/props_debris/building_brokenwindow001a.mdl'.
+[02:03:49]	D47.MPF-EpU.514 exited observer at their location.
+[15:47:20]	Г@H3NK has connected.
+[16:28:08]	Г@H3NK loaded the character 'Александр Климов'
+[16:28:17]	Александр Климов ran 'EquipUn' on item 'Форма сопротивления' (#403)
+[16:28:18]	Александр Климов ran 'Equip' on item 'Форма сопротивления' (#403)
+[16:28:19]	Александр Климов ran 'Equip' on item 'AK-47' (#402)
+[16:28:24]	Александр Климов ran 'Equip' on item 'M9' (#307)
+[16:28:36]	Александр Климов entered observer.
+[16:28:37]	Александр Климов exited observer at their location.
+[16:30:42]	Александр Климов used command '/BlueprintGive Ал 1'.
+[16:31:06]	Александр Климов used command '/BlueprintRemove Ал 1'.
+[16:32:46]	Александр Климов has gained 0 tokens.
+[16:32:46]	Александр Климов ordered a shipment
+[16:32:53]	Александр Климов has gained a 'Minimal Survival Supplement' #416.
+[16:32:53]	Александр Климов took 'Minimal Survival Supplement' from the shipment
+[16:32:54]	Александр Климов has gained a 'Minimal Survival Supplement' #417.
+[16:32:54]	Александр Климов took 'Minimal Survival Supplement' from the shipment
+[16:32:54]	Александр Климов has gained a 'Minimal Survival Supplement' #418.
+[16:32:54]	Александр Климов took 'Minimal Survival Supplement' from the shipment
+[16:32:54]	Александр Климов has gained a 'Minimal Survival Supplement' #419.
+[16:32:54]	Александр Климов took 'Minimal Survival Supplement' from the shipment
+[16:32:55]	Александр Климов has gained a 'Minimal Survival Supplement' #420.
+[16:32:55]	Александр Климов took 'Minimal Survival Supplement' from the shipment
+[16:32:55]	Александр Климов has gained a 'Minimal Survival Supplement' #421.
+[16:32:55]	Александр Климов took 'Minimal Survival Supplement' from the shipment
+[16:32:55]	Александр Климов has gained a 'Minimal Survival Supplement' #422.
+[16:32:55]	Александр Климов took 'Minimal Survival Supplement' from the shipment
+[16:32:59]	Александр Климов ran 'Consume' on item 'Minimal Survival Supplement' (#418)
+[16:33:00]	Александр Климов ran 'Consume' on item 'Minimal Survival Supplement' (#419)
+[16:33:00]	Александр Климов ran 'Consume' on item 'Minimal Survival Supplement' (#417)
+[16:33:01]	Александр Климов ran 'Consume' on item 'Minimal Survival Supplement' (#416)
+[16:33:01]	Александр Климов ran 'Consume' on item 'Minimal Survival Supplement' (#420)
+[16:33:02]	Александр Климов ran 'Consume' on item 'Minimal Survival Supplement' (#421)
+[16:33:02]	Александр Климов ran 'Consume' on item 'Minimal Survival Supplement' (#422)
+[17:52:01]	Г@H3NK has connected.
+[17:54:05]	Г@H3NK loaded the character 'D47.MPF-EpU.514'
+[17:54:17]	D47.MPF-EpU.514 ran 'Equip' on item 'Броня ГО' (#415)
+[17:54:19]	D47.MPF-EpU.514 ran 'EquipUn' on item 'Броня ГО' (#415)
+[17:54:36]	D47.MPF-EpU.514 entered observer.
+[17:54:38]	D47.MPF-EpU.514 exited observer at their location.
+[17:55:32]	D47.MPF-EpU.514 has spawned 'models/cppackredux/eliteconceptunits/c_cmd_orange.mdl'.
+[17:55:35]	D47.MPF-EpU.514 has spawned 'models/cppackredux/eliteconceptunits/c_cmd_orange.mdl'.
+[17:55:44]	D47.MPF-EpU.514 has spawned 'models/cppackredux/eliteconceptunits/c_cmd_white.mdl'.
+[17:55:46]	D47.MPF-EpU.514 entered observer.
+[17:55:48]	D47.MPF-EpU.514 has spawned 'models/cppackredux/eliteconceptunits/c_cmd_yellow.mdl'.
+[17:55:50]	D47.MPF-EpU.514 has spawned 'models/cppackredux/eliteconceptunits/c_elite_blue.mdl'.
+[17:55:52]	D47.MPF-EpU.514 has spawned 'models/cppackredux/eliteconceptunits/c_elite_green.mdl'.
+[17:55:53]	D47.MPF-EpU.514 has spawned 'models/cppackredux/eliteconceptunits/c_elite_red.mdl'.
+[17:55:57]	D47.MPF-EpU.514 has spawned 'models/cppackredux/eliteunits/cmd_orange.mdl'.
+[17:56:00]	D47.MPF-EpU.514 has spawned 'models/cppackredux/eliteunits/elite_red.mdl'.
+[17:56:04]	D47.MPF-EpU.514 has spawned 'models/cppackredux/eliteunits/elite_green.mdl'.
+[17:56:06]	D47.MPF-EpU.514 has spawned 'models/cppackredux/eliteunits/elite_blue.mdl'.
+[17:56:07]	D47.MPF-EpU.514 has spawned 'models/cppackredux/eliteunits/cmd_yellow.mdl'.
+[17:56:09]	D47.MPF-EpU.514 has spawned 'models/cppackredux/groundunits/betaunit_lead.mdl'.
+[17:56:14]	D47.MPF-EpU.514 has spawned 'models/cppackredux/groundunits/betaunit_sentinel.mdl'.
+[17:56:15]	D47.MPF-EpU.514 has spawned 'models/cppackredux/groundunits/betaunit_shockjock.mdl'.
+[17:56:17]	D47.MPF-EpU.514 has spawned 'models/cppackredux/groundunits/betaunit_standard.mdl'.
+[17:56:20]	D47.MPF-EpU.514 has spawned 'models/cppackredux/trenchcoatunits/betatrenchcoat_old.mdl'.
+[17:56:21]	D47.MPF-EpU.514 has spawned 'models/cppackredux/trenchcoatunits/concept_unit.mdl'.
+[17:56:24]	D47.MPF-EpU.514 has spawned 'models/cppackredux/trenchcoatunits/trench_sentinel.mdl'.
+[17:56:27]	D47.MPF-EpU.514 has spawned 'models/cppackredux/trenchcoatunits/trench_shockjock.mdl'.
+[17:56:31]	D47.MPF-EpU.514 has spawned 'models/cppackredux/trenchcoatunits/betatrenchcoat_old.mdl'.
+[17:56:32]	D47.MPF-EpU.514 has spawned 'models/cppackredux/trenchcoatunits/trench_shockjock.mdl'.
+[17:56:33]	D47.MPF-EpU.514 has spawned 'models/cppackredux/trenchcoatunits/concept_unit.mdl'.
+[17:56:35]	D47.MPF-EpU.514 has spawned 'models/cppackredux/trenchcoatunits/trench_sentinel.mdl'.
+[17:56:36]	D47.MPF-EpU.514 has spawned 'models/cppackredux/trenchcoatunits/trench_shockjock.mdl'.
+[17:56:37]	D47.MPF-EpU.514 has spawned 'models/cppackredux/trenchcoatunits/trench_sentinel.mdl'.
+[17:56:41]	D47.MPF-EpU.514 has spawned 'models/cppackredux/trenchcoatunits/trench_shockjock.mdl'.
+[17:56:43]	D47.MPF-EpU.514 has spawned 'models/cppackredux/trenchcoatunits/concept_unit.mdl'.
+[17:56:46]	D47.MPF-EpU.514 has spawned 'models/cppackredux/trenchcoatunits/trench_sentinel.mdl'.
+[17:57:10]	D47.MPF-EpU.514 has spawned 'models/cppackredux/eliteconceptunits/c_elite_red.mdl'.
+[17:57:49]	D47.MPF-EpU.514 exited observer at their location.
+[17:57:56]	D47.MPF-EpU.514 entered observer.
+[17:57:57]	D47.MPF-EpU.514 has spawned 'models/cppackredux/trenchcoatunits/trench_shockjock.mdl'.
+[17:58:00]	D47.MPF-EpU.514 has spawned 'models/cppackredux/eliteunits/cmd_white.mdl'.
+[17:58:03]	D47.MPF-EpU.514 has spawned 'models/cppackredux/eliteunits/elite_red.mdl'.
+[17:58:38]	D47.MPF-EpU.514 exited observer at their location.
+[17:58:47]	D47.MPF-EpU.514 used command '/CharSetModel D47 models/cppackredux/eliteunits/elite_red.mdl'.
+[17:59:16]	D47.MPF-EpU.514 has spawned 'models/cppackredux/eliteconceptunits/c_elite_red.mdl'.
+[17:59:23]	D47.MPF-EpU.514 used command '/CharSetModel D47 models/cppackredux/eliteconceptunits/c_elite_red.mdl'.
+[17:59:44]	D47.MPF-EpU.514 entered observer.
+[17:59:46]	D47.MPF-EpU.514 exited observer at their location.
+[18:00:24]	D47.MPF-EpU.514 used command '/CharSetModel D47 models/cppackredux/trenchcoatunits/trench_shockjock.mdl'.
+[18:00:40]	D47.MPF-EpU.514 used command '/CharSetModel D47 models/cppackredux/trenchcoatunits/trench_sentinel.mdl'.
+[18:01:56]	D47.MPF-EpU.514 has spawned 'models/cppackredux/overwatch/combine_betagunner.mdl'.
+[18:01:58]	D47.MPF-EpU.514 has spawned 'models/cppackredux/overwatch/combine_betasoldier2.mdl'.
+[18:01:59]	D47.MPF-EpU.514 has spawned 'models/cppackredux/overwatch/combine_betagunner2.mdl'.
+[18:02:00]	D47.MPF-EpU.514 has spawned 'models/cppackredux/overwatch/combine_betasoldier.mdl'.
+[18:02:01]	D47.MPF-EpU.514 has spawned 'models/cppackredux/overwatch/combine_guardgunner.mdl'.
+[18:02:02]	D47.MPF-EpU.514 has spawned 'models/cppackredux/overwatch/combine_guardsoldier.mdl'.
+[18:02:03]	D47.MPF-EpU.514 has spawned 'models/cppackredux/overwatch/combine_betaelite.mdl'.
+[18:02:06]	D47.MPF-EpU.514 has spawned 'models/cppackredux/overwatch/combine_betagunner.mdl'.
+[18:02:08]	D47.MPF-EpU.514 has spawned 'models/cppackredux/overwatch/combine_betagunner2.mdl'.
+[18:03:14]	D47.MPF-EpU.514 has spawned 'models/cppackredux/trenchcoatunits/betatrenchcoat_old.mdl'.
+[18:03:16]	D47.MPF-EpU.514 has spawned 'models/cppackredux/trenchcoatunits/betatrenchcoat_old.mdl'.
+[18:03:25]	D47.MPF-EpU.514 used command '/CharSetModel D47 models/cppackredux/trenchcoatunits/trench_sentinel.mdl'.
+[18:07:56]	D47.MPF-EpU.514 has gained 50 tokens.
+[18:12:56]	D47.MPF-EpU.514 has gained 50 tokens.
+[18:17:56]	D47.MPF-EpU.514 has gained 50 tokens.
+[18:22:56]	D47.MPF-EpU.514 has gained 50 tokens.
+[18:26:30]	D47.MPF-EpU.514 has spawned 'models/player/toastlord/pm_metrocop_reimagined.mdl'.
+[18:26:37]	D47.MPF-EpU.514 has spawned 'models/player/toastlord/pm_metrocop_reimagined.mdl'.
+[18:26:41]	D47.MPF-EpU.514 has spawned 'models/player/toastlord/hands/arms.mdl'.
+[18:27:52]	D47.MPF-EpU.514 has spawned 'models/dpfilms/metropolice/playermodels/pm_retrocop.mdl'.
+[18:27:55]	D47.MPF-EpU.514 has spawned 'models/dpfilms/metropolice/playermodels/pm_resistance_police.mdl'.
+[18:27:56]	D47.MPF-EpU.514 has spawned 'models/dpfilms/metropolice/playermodels/pm_policetrench.mdl'.
+[18:28:01]	D47.MPF-EpU.514 has spawned 'models/dpfilms/metropolice/playermodels/pm_hdpolice.mdl'.
+[18:28:02]	D47.MPF-EpU.514 has spawned 'models/dpfilms/metropolice/playermodels/pm_hl2beta_police.mdl'.
+[18:28:34]	D47.MPF-EpU.514 has spawned 'models/dpfilms/metropolice/playermodels/pm_tf2_metrocop_blu.mdl'.
+[18:28:36]	D47.MPF-EpU.514 has spawned 'models/dpfilms/metropolice/playermodels/pm_steampunk_police.mdl'.
+[18:28:37]	D47.MPF-EpU.514 has spawned 'models/dpfilms/metropolice/playermodels/pm_skull_police.mdl'.
+[18:29:38]	D47.MPF-DvL.514 used command '/CharSetName D47 D47.MPF-DvL.514'.
+[18:34:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[18:39:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[18:44:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[18:49:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[18:54:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[18:59:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[19:04:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[19:09:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[19:14:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[19:19:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[19:24:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[19:29:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[19:34:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[19:39:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[19:44:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[19:49:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[19:54:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[19:59:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[20:04:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[20:09:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[20:14:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[20:19:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[20:24:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[20:29:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[20:34:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[20:39:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[20:44:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[20:49:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[20:54:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[20:59:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[21:04:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[21:09:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[21:14:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[21:19:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[21:24:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[21:29:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[21:34:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[21:39:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[21:44:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[21:49:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[21:54:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[21:59:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[22:04:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[22:09:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[22:14:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[22:19:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[22:24:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[22:29:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[22:34:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[22:39:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[22:44:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[22:45:20]	D47.MPF-DvL.514 entered observer.
+[22:45:23]	D47.MPF-DvL.514 exited observer at their location.
+[22:45:35]	D47.MPF-DvL.514 entered observer.
+[22:45:39]	D47.MPF-DvL.514 exited observer at their location.
+[22:45:41]	D47.MPF-DvL.514 entered observer.
+[22:45:44]	D47.MPF-DvL.514 exited observer at their location.
+[22:49:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[22:54:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[22:59:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[23:04:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[23:09:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[23:14:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[23:19:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[23:24:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[23:29:11]	D47.MPF-DvL.514 has gained 50 tokens.
+[23:31:35]	D47.MPF-DvL.514 entered observer.
+[23:32:25]	D47.MPF-DvL.514 exited observer at their location.
+[23:32:37]	D47.MPF-DvL.514 entered observer.
+[23:32:38]	D47.MPF-DvL.514 exited observer at their location.
+[23:32:39]	D47.MPF-DvL.514 entered observer.
+[23:32:41]	D47.MPF-DvL.514 exited observer at their location.
+[23:34:12]	D47.MPF-DvL.514 has gained 50 tokens.
+[23:36:38]	D47.MPF-DvL.514 has spawned 'models/hunter/plates/plate05x05.mdl'.
+[23:36:40]	D47.MPF-DvL.514 has spawned 'models/hunter/plates/plate1x1.mdl'.
+[23:39:13]	D47.MPF-DvL.514 has gained 50 tokens.
+[23:39:38]	D47.MPF-DvL.514 entered observer.
+[23:41:28]	D47.MPF-DvL.514 exited observer at their location.
+[23:41:31]	D47.MPF-DvL.514 has spawned 'models/hunter/plates/plate05x3.mdl'.
+[23:43:03]	Г@H3NK has connected.
+[23:44:21]	Г@H3NK loaded the character 'D47.MPF-DvL.514'
+[23:44:37]	D47.MPF-DvL.514 entered observer.
+[23:44:49]	D47.MPF-DvL.514 exited observer at their location.
+[23:48:24]	D47.MPF-DvL.514 has spawned 'models/props_c17/oildrum001.mdl'.
+[23:49:25]	D47.MPF-DvL.514 has gained 50 tokens.

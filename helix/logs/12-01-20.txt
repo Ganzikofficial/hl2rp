@@ -1,0 +1,2338 @@
+[01:33:48]	Г@H3NK has connected.
+[01:34:14]	Г@H3NK loaded the character 'Alexander Klimov'
+[01:34:52]	Alexander Klimov used command '/CharGiveItem Alexander arccw_ump45'.
+[01:34:58]	Alexander Klimov used command '/CharGiveItem Alexander ump45'.
+[01:35:02]	Alexander Klimov used command '/CharGiveItem Alexander ump'.
+[01:35:18]	Alexander Klimov used command '/CharGiveItem Alexander item_arccw_ump45'.
+[01:35:33]	Alexander Klimov used command '/CharGiveItem Alexander arccw_ump45'.
+[01:35:55]	Alexander Klimov entered observer.
+[01:36:01]	Alexander Klimov exited observer at their location.
+[01:36:02]	Alexander Klimov entered observer.
+[01:36:07]	Alexander Klimov exited observer at their location.
+[01:36:19]	Alexander Klimov entered observer.
+[01:36:22]	Alexander Klimov exited observer at their location.
+[01:36:29]	Alexander Klimov has spawned a 'Entity [58][arccw_ammo_pistol_large]'.
+[01:36:29]	Alexander Klimov has spawned a 'Entity [59][arccw_ammo_pistol_large]'.
+[01:36:29]	Alexander Klimov has spawned a 'Entity [64][arccw_ammo_pistol_large]'.
+[01:37:12]	Alexander Klimov entered observer.
+[01:37:14]	Alexander Klimov exited observer at their location.
+[01:37:16]	Alexander Klimov entered observer.
+[01:37:18]	Alexander Klimov exited observer at their location.
+[01:37:42]	Alexander Klimov has spawned a 'Entity [58][arccw_ammo_smg1_large]'.
+[12:05:04]	Г@H3NK has connected.
+[12:05:27]	Г@H3NK loaded the character 'Alexander Klimov'
+[12:05:55]	Alexander Klimov has spawned a 'Entity [27][arccw_ammo_buckshot_large]'.
+[12:08:05]	Alexander Klimov used command '/CharDesc'.
+[12:08:32]	Alexander Klimov used command '/CharDesc Форма Повстанцев | Возраст 67 | Рост 175 | Вес 80 Кг | Сидые волосы | Сидая борода | Морщинистая кожа'.
+[12:22:04]	Г@H3NK created the character 'Морган Фриман'
+[12:23:37]	Alexander Klimov used command '/CharSetModel Alexander model/Group01/male_01'.
+[12:23:55]	Alexander Klimov used command '/CharSetModel Alexander models/Humans/Group01/Male_01.mdl'.
+[12:24:13]	Alexander Klimov ran 'drop' on item 'Citizen ID' (#2)
+[12:24:13]	Alexander Klimov has lost a 'Citizen ID' #2.
+[12:25:19]	Alexander Klimov ran 'take' on item 'Citizen ID' (#2)
+[12:25:19]	Alexander Klimov has gained a 'Citizen ID' #2.
+[12:25:21]	Alexander Klimov ran 'drop' on item 'Citizen ID' (#2)
+[12:25:21]	Alexander Klimov has lost a 'Citizen ID' #2.
+[12:25:56]	Г@H3NK loaded the character 'Морган Фриман'
+[12:33:17]	Морган Фриман has spawned a 'Entity [27][item_ammo_pistol_large]'.
+[12:33:20]	Морган Фриман has spawned a 'Entity [27][item_ammo_pistol_large]'.
+[12:34:08]	Морган Фриман has spawned a 'Entity [27][item_ammo_pistol_large]'.
+[12:34:11]	Морган Фриман has spawned a 'Entity [27][item_ammo_pistol_large]'.
+[12:35:06]	Морган Фриман entered observer.
+[12:35:10]	Морган Фриман exited observer at their location.
+[12:35:10]	Морган Фриман has taken 215 damage from worldspawn.
+[12:35:10]	worldspawn has killed Морган Фриман.
+[12:36:18]	Морган Фриман set itemPickupTime to '1'.
+[12:36:29]	Морган Фриман set throwForce to '201'.
+[12:36:32]	Морган Фриман set throwForce to '200'.
+[12:36:41]	Морган Фриман set day to '1'.
+[12:36:44]	Морган Фриман set month to '12'.
+[12:36:48]	Морган Фриман set year to '2287'.
+[12:36:56]	Морган Фриман set year to '2008'.
+[12:37:16]	Морган Фриман set defaultMoney to '100'.
+[12:37:54]	Морган Фриман set staminaDrain to '0.94'.
+[12:37:56]	Морган Фриман set staminaDrain to '0.95'.
+[12:38:06]	Морган Фриман set staminaDrain to '1.25'.
+[12:38:11]	Морган Фриман set staminaRegeneration to '1'.
+[12:38:32]	Морган Фриман set spawnTime to '12'.
+[12:39:03]	Морган Фриман set saveInterval to '100'.
+[12:39:12]	Морган Фриман set saveInterval to '60'.
+[12:39:27]	Морган Фриман set punchStamina to '20'.
+[12:39:33]	Морган Фриман set punchStamina to '10'.
+[12:39:42]	Морган Фриман set minNameLength to '4'.
+[12:40:04]	Морган Фриман set maxNameLength to '64'.
+[12:40:22]	Морган Фриман set maxNameLength to '32'.
+[12:40:47]	Морган Фриман set doorLockTime to '2'.
+[12:40:51]	Морган Фриман set doorLockTime to '3'.
+[12:41:15]	Морган Фриман set voiceDistance to '500'.
+[12:41:43]	Морган Фриман set weaponRaiseTime to '0.7'.
+[12:42:12]	Морган Фриман set oocDelay to '30'.
+[12:42:15]	Морган Фриман set oocDelay to '0'.
+[12:42:18]	Морган Фриман set oocDelay to '30'.
+[12:42:27]	Морган Фриман set chatRange to '275'.
+[12:42:33]	Морган Фриман set chatMax to '500'.
+[12:42:46]	Морган Фриман set chatMax to '512'.
+[12:45:58]	Морган Фриман entered observer.
+[12:45:58]	Морган Фриман exited observer at their location.
+[12:46:12]	Морган Фриман has spawned a 'Entity [27][ix_vendor]'.
+[12:46:37]	Морган Фриман entered observer.
+[12:46:39]	Морган Фриман exited observer at their location.
+[12:47:06]	Морган Фриман used the 'John Doe' vendor.
+[12:49:41]	Морган Фриман used the 'Валерий' vendor.
+[12:55:33]	Морган Фриман used the 'Валерий' vendor.
+[12:55:41]	Морган Фриман has gained 0 tokens.
+[12:55:41]	Морган Фриман has gained a 'Breen's Water' #41.
+[12:55:44]	Морган Фриман has gained 0 tokens.
+[12:56:42]	Морган Фриман used the 'Валерий' vendor.
+[12:56:43]	Морган Фриман has lost 10 tokens.
+[12:56:43]	Морган Фриман has gained a 'Breen's Water' #41.
+[12:56:52]	Морган Фриман has gained 10 tokens.
+[12:56:54]	Морган Фриман has lost 20 tokens.
+[12:56:54]	Морган Фриман has gained a 'Flashlight' #41.
+[12:56:59]	Морган Фриман used the 'Валерий' vendor.
+[12:57:25]	Морган Фриман has spawned a 'Entity [490][ix_vendor]'.
+[12:57:32]	Морган Фриман entered observer.
+[12:57:41]	Морган Фриман exited observer at their location.
+[12:57:42]	Морган Фриман entered observer.
+[12:57:44]	Морган Фриман exited observer at their location.
+[12:57:51]	Морган Фриман entered observer.
+[12:57:53]	Морган Фриман exited observer at their location.
+[12:57:56]	Морган Фриман entered observer.
+[12:58:01]	Морган Фриман exited observer at their location.
+[12:58:06]	Морган Фриман entered observer.
+[12:58:12]	Морган Фриман exited observer at their location.
+[12:58:14]	Морган Фриман entered observer.
+[12:58:15]	Морган Фриман exited observer at their location.
+[12:58:18]	Морган Фриман entered observer.
+[12:58:33]	Морган Фриман exited observer at their location.
+[12:58:39]	Морган Фриман entered observer.
+[12:58:41]	Морган Фриман exited observer at their location.
+[12:58:48]	Морган Фриман entered observer.
+[12:58:55]	Морган Фриман exited observer at their location.
+[12:58:56]	Морган Фриман has spawned a 'Entity [490][ix_vendingmachine]'.
+[12:59:01]	Морган Фриман has spawned a 'Entity [490][ix_vendingmachine]'.
+[12:59:02]	Морган Фриман has spawned a 'Entity [550][ix_vendingmachine]'.
+[12:59:05]	Морган Фриман has spawned a 'Entity [490][ix_vendingmachine]'.
+[12:59:07]	Морган Фриман has spawned a 'Entity [550][ix_vendingmachine]'.
+[12:59:19]	Морган Фриман has lost 15 tokens.
+[12:59:22]	Морган Фриман ran 'take' on item 'Breen's Water' (#42)
+[12:59:22]	Морган Фриман has gained a 'Breen's Water' #42.
+[12:59:26]	Морган Фриман ran 'Drink' on item 'Breen's Water' (#42)
+[12:59:31]	Морган Фриман entered observer.
+[12:59:39]	Морган Фриман exited observer at their location.
+[12:59:45]	Морган Фриман entered observer.
+[12:59:50]	Морган Фриман exited observer at their location.
+[12:59:58]	Морган Фриман entered observer.
+[13:00:11]	Морган Фриман has spawned a 'Entity [490][ix_forcefield]'.
+[13:00:12]	Морган Фриман exited observer at their location.
+[13:00:15]	Морган Фриман entered observer.
+[13:00:16]	Морган Фриман has spawned a 'Entity [551][ix_forcefield]'.
+[13:00:17]	Морган Фриман has spawned a 'Entity [553][ix_forcefield]'.
+[13:00:18]	Морган Фриман has spawned a 'Entity [551][ix_forcefield]'.
+[13:00:20]	Морган Фриман exited observer at their location.
+[13:00:40]	Морган Фриман has spawned a 'Entity [551][ix_forcefield]'.
+[13:00:42]	Морган Фриман has spawned a 'Entity [553][ix_forcefield]'.
+[13:00:46]	Морган Фриман entered observer.
+[13:00:50]	Морган Фриман has spawned a 'Entity [551][ix_forcefield]'.
+[13:00:51]	Морган Фриман exited observer at their location.
+[13:00:54]	Морган Фриман has spawned a 'Entity [551][ix_forcefield]'.
+[13:01:48]	Морган Фриман entered observer.
+[13:02:02]	Морган Фриман exited observer at their location.
+[13:02:12]	Морган Фриман used command '/MapSceneAdd'.
+[13:02:38]	Морган Фриман entered observer.
+[13:02:57]	Морган Фриман used command '/MapSceneAdd'.
+[13:03:05]	Морган Фриман exited observer at their location.
+[13:03:14]	Морган Фриман used command '/MapSceneRemove'.
+[13:03:15]	Морган Фриман entered observer.
+[13:03:18]	Морган Фриман exited observer at their location.
+[13:03:19]	Морган Фриман used command '/MapSceneRemove'.
+[13:03:20]	Морган Фриман entered observer.
+[13:03:22]	Морган Фриман exited observer at their location.
+[13:03:24]	Морган Фриман used command '/MapSceneRemove'.
+[13:03:25]	Морган Фриман entered observer.
+[13:03:27]	Морган Фриман exited observer at their location.
+[13:03:28]	Морган Фриман used command '/MapSceneRemove'.
+[13:03:31]	Морган Фриман used command '/MapSceneRemove'.
+[13:03:32]	Морган Фриман used command '/MapSceneRemove'.
+[13:03:35]	Морган Фриман used command '/MapSceneRemove'.
+[13:03:35]	Морган Фриман entered observer.
+[13:03:37]	Морган Фриман exited observer at their location.
+[13:03:37]	Морган Фриман entered observer.
+[13:03:39]	Морган Фриман used command '/MapSceneRemove'.
+[13:03:59]	Морган Фриман exited observer at their location.
+[13:04:02]	Морган Фриман entered observer.
+[13:04:06]	Морган Фриман exited observer at their location.
+[13:04:07]	Морган Фриман entered observer.
+[13:04:21]	Морган Фриман exited observer at their location.
+[13:04:27]	Морган Фриман used command '/MapSceneAdd'.
+[13:05:01]	Морган Фриман entered observer.
+[13:05:14]	Морган Фриман has spawned a 'Entity [490][ix_forcefield]'.
+[13:05:16]	Морган Фриман exited observer at their location.
+[13:05:19]	Морган Фриман has spawned a 'Entity [490][ix_forcefield]'.
+[13:05:25]	Морган Фриман has spawned a 'Entity [490][ix_forcefield]'.
+[13:05:28]	Морган Фриман has spawned a 'Entity [552][ix_forcefield]'.
+[13:05:30]	Морган Фриман has spawned a 'Entity [490][ix_forcefield]'.
+[13:05:50]	Г@H3NK loaded the character 'MPF-I4.51977'
+[13:05:50]	MPF-I4.51977 entered observer.
+[13:06:07]	MPF-I4.51977 exited observer at their location.
+[13:06:58]	MPF-I4.51977 entered observer.
+[13:07:01]	MPF-I4.51977 exited observer at their location.
+[13:07:03]	MPF-I4.51977 has spawned a 'Entity [26][ix_forcefield]'.
+[13:07:06]	MPF-I4.51977 has spawned a 'Entity [26][ix_forcefield]'.
+[13:07:07]	MPF-I4.51977 has spawned a 'Entity [32][ix_forcefield]'.
+[13:07:22]	MPF-I4.51977 entered observer.
+[13:07:34]	MPF-I4.51977 exited observer at their location.
+[13:07:37]	MPF-I4.51977 has spawned a 'Entity [26][ix_combinelock]'.
+[13:07:38]	MPF-I4.51977 entered observer.
+[13:07:43]	MPF-I4.51977 exited observer at their location.
+[13:07:46]	MPF-I4.51977 entered observer.
+[13:07:47]	MPF-I4.51977 exited observer at their location.
+[13:07:48]	MPF-I4.51977 has spawned a 'Entity [26][ix_combinelock]'.
+[13:07:56]	MPF-I4.51977 entered observer.
+[13:07:59]	MPF-I4.51977 exited observer at their location.
+[13:08:00]	MPF-I4.51977 has spawned a 'Entity [26][ix_combinelock]'.
+[13:08:00]	MPF-I4.51977 entered observer.
+[13:08:04]	MPF-I4.51977 exited observer at their location.
+[13:08:05]	MPF-I4.51977 entered observer.
+[13:08:07]	MPF-I4.51977 exited observer at their location.
+[13:08:07]	MPF-I4.51977 has spawned a 'Entity [26][ix_combinelock]'.
+[13:09:09]	MPF-I4.51977 has spawned a 'Entity [26][ix_combinelock]'.
+[13:09:11]	MPF-I4.51977 entered observer.
+[13:09:11]	MPF-I4.51977 exited observer at their location.
+[13:09:13]	MPF-I4.51977 has spawned a 'Entity [29][ix_combinelock]'.
+[13:09:17]	MPF-I4.51977 entered observer.
+[13:09:19]	MPF-I4.51977 exited observer at their location.
+[13:09:23]	MPF-I4.51977 entered observer.
+[13:09:39]	MPF-I4.51977 has spawned a 'Entity [26][ix_combinelock]'.
+[13:09:43]	MPF-I4.51977 exited observer at their location.
+[13:09:43]	MPF-I4.51977 has spawned a 'Entity [26][ix_combinelock]'.
+[13:09:44]	MPF-I4.51977 entered observer.
+[13:09:46]	MPF-I4.51977 exited observer at their location.
+[13:09:58]	MPF-I4.51977 has spawned a 'Entity [26][ix_combinelock]'.
+[13:10:00]	MPF-I4.51977 entered observer.
+[13:10:04]	MPF-I4.51977 exited observer at their location.
+[13:10:05]	MPF-I4.51977 entered observer.
+[13:10:07]	MPF-I4.51977 has spawned a 'Entity [26][ix_combinelock]'.
+[13:10:08]	MPF-I4.51977 exited observer at their location.
+[13:10:08]	MPF-I4.51977 entered observer.
+[13:10:11]	MPF-I4.51977 exited observer at their location.
+[13:10:11]	MPF-I4.51977 has spawned a 'Entity [26][ix_combinelock]'.
+[13:10:18]	MPF-I4.51977 entered observer.
+[13:10:21]	MPF-I4.51977 exited observer at their location.
+[13:10:22]	MPF-I4.51977 has spawned a 'Entity [26][ix_combinelock]'.
+[13:10:28]	MPF-I4.51977 entered observer.
+[13:10:42]	MPF-I4.51977 exited observer at their location.
+[13:10:43]	MPF-I4.51977 has spawned a 'Entity [549][ix_combinelock]'.
+[13:10:43]	MPF-I4.51977 entered observer.
+[13:10:46]	MPF-I4.51977 has spawned a 'Entity [549][ix_combinelock]'.
+[13:10:48]	MPF-I4.51977 has spawned a 'Entity [549][ix_combinelock]'.
+[13:10:50]	MPF-I4.51977 exited observer at their location.
+[13:10:50]	MPF-I4.51977 has gained 300 tokens.
+[13:10:55]	MPF-I4.51977 has spawned a 'Entity [549][ix_combinelock]'.
+[13:11:04]	MPF-I4.51977 entered observer.
+[13:11:07]	MPF-I4.51977 exited observer at their location.
+[13:11:08]	MPF-I4.51977 entered observer.
+[13:11:08]	MPF-I4.51977 exited observer at their location.
+[13:11:10]	MPF-I4.51977 entered observer.
+[13:11:12]	MPF-I4.51977 exited observer at their location.
+[13:11:25]	MPF-I4.51977 entered observer.
+[13:11:38]	MPF-I4.51977 exited observer at their location.
+[13:12:09]	MPF-I4.51977 has gained a '.9mm Pistol' #42.
+[13:12:09]	MPF-I4.51977 used command '/CharGiveItem MPF pistol'.
+[13:12:15]	MPF-I4.51977 has gained a '9mm Pistol Bullets' #43.
+[13:12:15]	MPF-I4.51977 has gained a '9mm Pistol Bullets' #44.
+[13:12:15]	MPF-I4.51977 has gained a '9mm Pistol Bullets' #45.
+[13:12:15]	MPF-I4.51977 used command '/CharGiveItem MPF pistolammo 3'.
+[13:12:26]	MPF-I4.51977 ran 'Equip' on item '.9mm Pistol' (#42)
+[13:12:28]	MPF-I4.51977 ran 'use' on item '9mm Pistol Bullets' (#43)
+[13:12:29]	MPF-I4.51977 ran 'use' on item '9mm Pistol Bullets' (#44)
+[13:12:30]	MPF-I4.51977 ran 'use' on item '9mm Pistol Bullets' (#45)
+[13:14:03]	MPF-I4.51977 used command '/DoorSetUnownable'.
+[13:14:11]	MPF-I4.51977 used command '/DoorSetUnownable'.
+[13:14:16]	MPF-I4.51977 used command '/DoorBuy'.
+[13:14:17]	MPF-I4.51977 entered observer.
+[13:14:21]	MPF-I4.51977 exited observer at their location.
+[13:14:23]	MPF-I4.51977 used command '/DoorBuy'.
+[13:14:24]	MPF-I4.51977 used command '/DoorBuy'.
+[13:14:31]	MPF-I4.51977 used command '/DoorSetUnownable'.
+[13:14:32]	MPF-I4.51977 used command '/DoorSetUnownable'.
+[13:14:36]	MPF-I4.51977 used command '/DoorSetOwnable'.
+[13:14:43]	MPF-I4.51977 used command '/DoorSetUnownable'.
+[13:14:53]	MPF-I4.51977 used command '/DoorRemoveChild'.
+[13:14:58]	MPF-I4.51977 used command '/DoorSell'.
+[13:15:20]	MPF-I4.51977 used command '/DoorSetHidden 1'.
+[13:15:23]	MPF-I4.51977 used command '/DoorBuy'.
+[13:15:35]	MPF-I4.51977 used command '/DoorSetFaction mpf'.
+[13:15:43]	MPF-I4.51977 used command '/DoorSetFaction metropoliceforce'.
+[13:15:45]	MPF-I4.51977 used command '/DoorSetFaction metropolice'.
+[13:15:50]	MPF-I4.51977 has gained 300 tokens.
+[13:16:41]	MPF-I4.51977 set doorLockTime to '1'.
+[13:16:49]	MPF-I4.51977 entered observer.
+[13:16:54]	MPF-I4.51977 exited observer at their location.
+[13:18:26]	MPF-I4.51977 used command '/DoorSetFaction metropolice'.
+[13:18:40]	Г@H3NK loaded the character 'Alexander Klimov'
+[13:18:42]	Alexander Klimov entered observer.
+[13:18:45]	Alexander Klimov exited observer at their location.
+[13:18:53]	Г@H3NK loaded the character 'MPF-I4.51977'
+[13:19:01]	MPF-I4.51977 entered observer.
+[13:19:03]	MPF-I4.51977 exited observer at their location.
+[13:19:03]	MPF-I4.51977 entered observer.
+[13:19:17]	MPF-I4.51977 exited observer at their location.
+[13:19:22]	MPF-I4.51977 entered observer.
+[13:19:25]	MPF-I4.51977 exited observer at their location.
+[13:19:25]	MPF-I4.51977 entered observer.
+[13:20:29]	MPF-I4.51977 exited observer at their location.
+[13:21:32]	MPF-I4.51977 has spawned 'models/props_wasteland/interior_fence003d.mdl'.
+[13:21:36]	MPF-I4.51977 has spawned 'models/props_wasteland/interior_fence001g.mdl'.
+[13:22:12]	MPF-I4.51977 entered observer.
+[13:22:14]	MPF-I4.51977 exited observer at their location.
+[13:22:39]	MPF-I4.51977 has spawned 'models/props_wasteland/exterior_fence003b.mdl'.
+[13:22:46]	MPF-I4.51977 entered observer.
+[13:22:47]	MPF-I4.51977 exited observer at their location.
+[13:22:49]	MPF-I4.51977 has enabled persistence for 'models/props_wasteland/exterior_fence003b.mdl'.
+[13:22:50]	MPF-I4.51977 entered observer.
+[13:23:30]	MPF-I4.51977 has spawned a 'Entity [554][ix_rationdispenser]'.
+[13:23:33]	MPF-I4.51977 has spawned a 'Entity [554][ix_rationdispenser]'.
+[13:23:34]	MPF-I4.51977 has spawned a 'Entity [562][ix_rationdispenser]'.
+[13:23:53]	MPF-I4.51977 has gained 300 tokens.
+[13:24:05]	MPF-I4.51977 exited observer at their location.
+[13:24:10]	MPF-I4.51977 has spawned a 'Entity [554][ix_rationdispenser]'.
+[13:24:11]	MPF-I4.51977 has spawned a 'Entity [561][ix_rationdispenser]'.
+[13:24:12]	MPF-I4.51977 has spawned a 'Entity [566][ix_rationdispenser]'.
+[13:24:13]	MPF-I4.51977 has spawned a 'Entity [569][ix_rationdispenser]'.
+[13:24:14]	MPF-I4.51977 has spawned a 'Entity [572][ix_rationdispenser]'.
+[13:24:58]	MPF-I4.51977 has spawned a 'Entity [575][ix_rationdispenser]'.
+[13:25:06]	MPF-I4.51977 has spawned a 'Entity [575][ix_vendingmachine]'.
+[13:25:13]	MPF-I4.51977 has spawned a 'Entity [575][ix_vendingmachine]'.
+[13:25:22]	MPF-I4.51977 has spawned a 'Entity [575][ix_vendingmachine]'.
+[13:25:35]	MPF-I4.51977 entered observer.
+[13:25:38]	MPF-I4.51977 exited observer at their location.
+[13:25:51]	MPF-I4.51977 entered observer.
+[13:25:53]	MPF-I4.51977 exited observer at their location.
+[13:26:01]	MPF-I4.51977 entered observer.
+[13:26:41]	MPF-I4.51977 exited observer at their location.
+[13:27:02]	MPF-I4.51977 entered observer.
+[13:27:04]	MPF-I4.51977 exited observer at their location.
+[13:27:05]	MPF-I4.51977 has spawned a 'Entity [28][ix_combinelock]'.
+[13:27:17]	MPF-I4.51977 entered observer.
+[13:27:22]	MPF-I4.51977 exited observer at their location.
+[13:27:23]	MPF-I4.51977 entered observer.
+[13:27:26]	MPF-I4.51977 exited observer at their location.
+[13:27:35]	MPF-I4.51977 has spawned a 'Entity [200][ix_vendingmachine]'.
+[13:27:36]	MPF-I4.51977 has spawned a 'Entity [575][ix_vendingmachine]'.
+[13:27:37]	MPF-I4.51977 entered observer.
+[13:27:40]	MPF-I4.51977 exited observer at their location.
+[13:27:42]	MPF-I4.51977 entered observer.
+[13:27:47]	MPF-I4.51977 exited observer at their location.
+[13:27:49]	MPF-I4.51977 has spawned a 'Entity [200][ix_vendingmachine]'.
+[13:27:52]	MPF-I4.51977 has spawned a 'Entity [575][ix_vendingmachine]'.
+[13:27:53]	MPF-I4.51977 has spawned a 'Entity [200][ix_vendingmachine]'.
+[13:28:04]	MPF-I4.51977 has spawned a 'Entity [575][ix_vendingmachine]'.
+[13:28:52]	MPF-I4.51977 has gained 300 tokens.
+[13:28:56]	MPF-I4.51977 has gained 0 tokens.
+[13:28:56]	MPF-I4.51977 ordered a shipment
+[13:29:03]	MPF-I4.51977 has gained a 'Metropolice Supplements' #43.
+[13:29:03]	MPF-I4.51977 took 'Metropolice Supplements' from the shipment
+[13:29:09]	MPF-I4.51977 ran 'Eat' on item 'Metropolice Supplements' (#43)
+[13:29:17]	Г@H3NK loaded the character 'Alexander Klimov'
+[13:29:24]	Г@H3NK loaded the character 'Морган Фриман'
+[13:29:34]	Морган Фриман has gained 0 tokens.
+[13:29:34]	Морган Фриман ordered a shipment
+[13:29:43]	Морган Фриман has gained a 'Combine Lock' #43.
+[13:29:43]	Морган Фриман took 'Combine Lock' from the shipment
+[13:29:58]	Морган Фриман entered observer.
+[13:30:01]	Морган Фриман exited observer at their location.
+[13:30:06]	Морган Фриман ran 'Place' on item 'Combine Lock' (#43)
+[13:30:07]	Морган Фриман entered observer.
+[13:30:08]	Морган Фриман exited observer at their location.
+[13:30:12]	Морган Фриман entered observer.
+[13:30:14]	Морган Фриман exited observer at their location.
+[13:30:15]	Морган Фриман ran 'Place' on item 'Combine Lock' (#43)
+[13:30:23]	Морган Фриман entered observer.
+[13:30:28]	Морган Фриман exited observer at their location.
+[13:30:29]	Морган Фриман entered observer.
+[13:30:30]	Морган Фриман exited observer at their location.
+[13:30:37]	Г@H3NK loaded the character 'MPF-I4.51977'
+[13:30:38]	MPF-I4.51977 entered observer.
+[13:30:46]	MPF-I4.51977 exited observer at their location.
+[13:31:05]	MPF-I4.51977 entered observer.
+[13:31:23]	MPF-I4.51977 exited observer at their location.
+[13:31:24]	MPF-I4.51977 has spawned a 'Entity [200][ix_combinelock]'.
+[13:31:26]	MPF-I4.51977 entered observer.
+[13:31:27]	MPF-I4.51977 has spawned a 'Entity [200][ix_combinelock]'.
+[13:31:30]	MPF-I4.51977 exited observer at their location.
+[13:33:26]	MPF-I4.51977 has spawned a 'NPC [200][npc_citizen]'.
+[13:34:13]	MPF-I4.51977 entered observer.
+[13:34:47]	MPF-I4.51977 exited observer at their location.
+[13:34:47]	MPF-I4.51977 entered observer.
+[13:35:14]	MPF-I4.51977 used command '/TextAdd Рационы'.
+[13:35:18]	MPF-I4.51977 exited observer at their location.
+[13:35:19]	MPF-I4.51977 entered observer.
+[13:35:20]	MPF-I4.51977 exited observer at their location.
+[13:35:36]	Г@H3NK loaded the character 'Alexander Klimov'
+[13:36:16]	Alexander Klimov ran 'take' on item 'Citizen ID' (#2)
+[13:36:16]	Alexander Klimov has gained a 'Citizen ID' #2.
+[13:36:20]	Alexander Klimov ran 'drop' on item 'Citizen ID' (#2)
+[13:36:20]	Alexander Klimov has lost a 'Citizen ID' #2.
+[13:36:38]	Alexander Klimov ran 'take' on item 'Citizen ID' (#2)
+[13:36:38]	Alexander Klimov has gained a 'Citizen ID' #2.
+[13:36:57]	Alexander Klimov ran 'take' on item 'Ration' (#43)
+[13:36:57]	Alexander Klimov has gained a 'Ration' #43.
+[13:36:59]	Alexander Klimov ran 'take' on item 'Ration' (#44)
+[13:36:59]	Alexander Klimov has gained a 'Ration' #44.
+[13:37:59]	Alexander Klimov entered observer.
+[13:38:01]	Alexander Klimov exited observer at their location.
+[13:38:02]	Alexander Klimov used the 'Валерий' vendor.
+[13:40:14]	Alexander Klimov used the 'Валерий' vendor.
+[13:40:17]	Alexander Klimov has gained 35 tokens.
+[13:40:18]	Alexander Klimov has gained 35 tokens.
+[13:40:20]	Alexander Klimov has gained 20 tokens.
+[13:41:49]	Alexander Klimov used command '/CharDesc'.
+[13:42:15]	Alexander Klimov used command '/CharDesc Гражданская форма | Возраст 67 | Рост 175 | Вес 80 Кг | Сидые волосы | Сидая борода | Морщинистая кожа'.
+[13:42:27]	Alexander Klimov entered observer.
+[13:43:36]	Alexander Klimov exited observer at their location.
+[13:43:55]	Alexander Klimov ran 'take' on item 'Ration' (#43)
+[13:43:55]	Alexander Klimov has gained a 'Ration' #43.
+[13:43:56]	Alexander Klimov ran 'take' on item 'Ration' (#44)
+[13:43:56]	Alexander Klimov has gained a 'Ration' #44.
+[13:44:00]	Alexander Klimov ran 'Open' on item 'Ration' (#43)
+[13:44:00]	Alexander Klimov has gained a 'Supplements' #45.
+[13:44:00]	Alexander Klimov has gained a 'Breen's Water' #46.
+[13:44:00]	Alexander Klimov has gained 20 tokens.
+[13:44:09]	Alexander Klimov ran 'Eat' on item 'Supplements' (#45)
+[13:44:10]	Alexander Klimov ran 'Drink' on item 'Breen's Water' (#46)
+[13:44:13]	Alexander Klimov ran 'Open' on item 'Ration' (#44)
+[13:44:13]	Alexander Klimov has gained a 'Supplements' #45.
+[13:44:13]	Alexander Klimov has gained a 'Breen's Water' #46.
+[13:44:13]	Alexander Klimov has gained 20 tokens.
+[13:44:14]	Alexander Klimov ran 'Drink' on item 'Breen's Water' (#46)
+[13:44:15]	Alexander Klimov ran 'Eat' on item 'Supplements' (#45)
+[13:44:22]	Alexander Klimov entered observer.
+[13:44:27]	Alexander Klimov exited observer at their location.
+[13:44:48]	Г@H3NK loaded the character 'Морган Фриман'
+[13:44:56]	Г@H3NK (STEAM_0:0:65326356) deleted character 'Морган Фриман'
+[13:45:01]	Г@H3NK loaded the character 'MPF-I4.51977'
+[13:45:32]	Г@H3NK created the character 'Артем Петров'
+[13:45:32]	Артем Петров has gained a 'UMP-45' #43.
+[13:45:32]	Артем Петров has gained a '9mm Pistol Bullets' #44.
+[13:45:32]	Артем Петров has gained a '9mm Pistol Bullets' #45.
+[13:45:36]	Г@H3NK loaded the character 'Артем Петров'
+[13:45:49]	Артем Петров ran 'Equip' on item 'UMP-45' (#43)
+[13:45:56]	Артем Петров ran 'use' on item '9mm Pistol Bullets' (#44)
+[13:45:57]	Артем Петров ran 'use' on item '9mm Pistol Bullets' (#45)
+[13:49:44]	Артем Петров ran 'drop' on item 'UMP-45' (#43)
+[13:49:44]	Артем Петров has lost a 'UMP-45' #43.
+[13:49:50]	Артем Петров ran 'take' on item 'UMP-45' (#43)
+[13:49:50]	Артем Петров has gained a 'UMP-45' #43.
+[13:49:52]	Артем Петров ran 'drop' on item 'UMP-45' (#43)
+[13:49:52]	Артем Петров has lost a 'UMP-45' #43.
+[13:49:55]	Артем Петров ran 'take' on item 'UMP-45' (#43)
+[13:49:55]	Артем Петров has gained a 'UMP-45' #43.
+[13:49:57]	Артем Петров ran 'Equip' on item 'UMP-45' (#43)
+[13:51:05]	Артем Петров has gained a '9mm Pistol Bullets' #44.
+[13:51:05]	Артем Петров has gained a '9mm Pistol Bullets' #45.
+[13:51:05]	Артем Петров used command '/CharGiveItem Артем pistolammo 2'.
+[13:55:54]	Артем Петров ran 'drop' on item 'UMP-45' (#43)
+[13:55:54]	Артем Петров has lost a 'UMP-45' #43.
+[13:55:58]	Артем Петров ran 'take' on item 'UMP-45' (#43)
+[13:55:58]	Артем Петров has gained a 'UMP-45' #43.
+[13:57:19]	Г@H3NK has connected.
+[13:58:34]	Г@H3NK loaded the character 'Артем Петров'
+[13:58:43]	Артем Петров ran 'Equip' on item 'UMP-45' (#43)
+[13:58:45]	Артем Петров ran 'EquipUn' on item 'UMP-45' (#43)
+[13:58:46]	Артем Петров ran 'Equip' on item 'UMP-45' (#43)
+[13:58:48]	Артем Петров ran 'EquipUn' on item 'UMP-45' (#43)
+[13:59:56]	Г@H3NK has connected.
+[14:00:14]	Г@H3NK loaded the character 'Артем Петров'
+[14:00:57]	Г@H3NK has connected.
+[14:01:17]	Г@H3NK loaded the character 'Артем Петров'
+[14:03:19]	Г@H3NK has connected.
+[14:03:38]	Г@H3NK loaded the character 'Артем Петров'
+[14:04:45]	Г@H3NK has connected.
+[14:05:02]	Г@H3NK loaded the character 'Артем Петров'
+[14:05:25]	Г@H3NK has connected.
+[14:05:41]	Г@H3NK loaded the character 'Артем Петров'
+[14:05:49]	Артем Петров ran 'Equip' on item 'UMP-45' (#43)
+[14:08:47]	Г@H3NK has connected.
+[14:09:06]	Г@H3NK loaded the character 'Артем Петров'
+[14:09:56]	Г@H3NK has connected.
+[14:10:12]	Г@H3NK loaded the character 'Артем Петров'
+[14:11:20]	Г@H3NK has connected.
+[14:11:36]	Г@H3NK loaded the character 'Артем Петров'
+[14:12:37]	Г@H3NK has connected.
+[14:12:53]	Г@H3NK loaded the character 'Артем Петров'
+[14:18:18]	Г@H3NK has connected.
+[14:18:36]	Г@H3NK loaded the character 'Артем Петров'
+[14:19:03]	Артем Петров has gained a 'MP7' #46.
+[14:19:03]	Артем Петров used command '/CharGiveItem Ар smg1'.
+[14:19:24]	Артем Петров ran 'Equip' on item 'MP7' (#46)
+[14:19:25]	Артем Петров ran 'Equip' on item 'MP7' (#46)
+[14:19:29]	Артем Петров ran 'EquipUn' on item 'UMP-45' (#43)
+[14:19:30]	Артем Петров ran 'Equip' on item 'MP7' (#46)
+[14:29:35]	Г@H3NK has connected.
+[14:30:02]	Г@H3NK loaded the character 'Артем Петров'
+[14:30:04]	Артем Петров ran 'EquipUn' on item 'MP7' (#46)
+[14:30:06]	Артем Петров ran 'drop' on item 'MP7' (#46)
+[14:30:06]	Артем Петров has lost a 'MP7' #46.
+[14:34:13]	Артем Петров ran 'Equip' on item 'UMP-45' (#43)
+[14:34:16]	Артем Петров ran 'use' on item '9mm Bullets' (#44)
+[14:37:13]	Артем Петров used command '/PlyWhitelist А OTA'.
+[14:37:47]	Г@H3NK created the character 'OTA-ECHO.OWS-57367'
+[14:37:47]	OTA-ECHO.OWS-57367 has gained a '.9mm Pistol' #47.
+[14:37:47]	OTA-ECHO.OWS-57367 has gained a '9mm Bullets' #48.
+[14:37:47]	OTA-ECHO.OWS-57367 has gained a '9mm Bullets' #49.
+[14:37:47]	OTA-ECHO.OWS-57367 has gained a 'Pulse-Rifle' #50.
+[14:37:47]	OTA-ECHO.OWS-57367 has gained a 'Pulse-Rifle Energy' #51.
+[14:37:47]	OTA-ECHO.OWS-57367 has gained a 'Pulse-Rifle Energy' #52.
+[14:37:53]	Г@H3NK loaded the character 'OTA-ECHO.OWS-57367'
+[14:41:11]	OTA-ECHO.OWS-57367 used the 'Валерий' vendor.
+[14:42:53]	OTA-ECHO.OWS-57367 has gained 40 tokens.
+[14:47:56]	OTA-ECHO.OWS-57367 has gained 40 tokens.
+[14:54:52]	OTA-ECHO.OWS-57367 ran 'Equip' on item 'Pulse-Rifle' (#50)
+[14:54:58]	OTA-ECHO.OWS-57367 ran 'use' on item 'Pulse-Rifle Energy' (#51)
+[14:54:58]	OTA-ECHO.OWS-57367 ran 'use' on item 'Pulse-Rifle Energy' (#52)
+[14:57:43]	OTA-ECHO.OWS-57367 has gained 40 tokens.
+[15:09:14]	Г@H3NK has connected.
+[15:10:11]	Г@H3NK loaded the character 'Артем Петров'
+[15:22:17]	Г@H3NK has connected.
+[15:23:17]	Г@H3NK loaded the character 'Артем Петров'
+[15:23:19]	Артем Петров entered observer.
+[15:23:21]	Артем Петров exited observer at their location.
+[15:23:26]	Артем Петров entered observer.
+[15:23:40]	Артем Петров exited observer at their location.
+[15:23:52]	Артем Петров entered observer.
+[15:25:39]	Артем Петров exited observer at their location.
+[15:25:46]	Г@H3NK loaded the character 'OTA-ECHO.OWS-57367'
+[15:25:52]	OTA-ECHO.OWS-57367 ran 'EquipUn' on item 'Pulse-Rifle' (#50)
+[15:25:55]	OTA-ECHO.OWS-57367 ran 'Equip' on item 'Pulse-Rifle' (#50)
+[15:26:03]	Г@H3NK loaded the character 'Артем Петров'
+[15:26:48]	֍ Aime-moi ֍ has connected.
+[15:27:53]	֍ Aime-moi ֍ loaded the character 'Антон Миронов'
+[15:27:55]	Антон Миронов entered observer.
+[15:27:56]	Антон Миронов exited observer at their location.
+[15:28:08]	Артем Петров ran 'EquipUn' on item 'UMP-45' (#43)
+[15:28:10]	Артем Петров ran 'Equip' on item 'UMP-45' (#43)
+[15:28:11]	Артем Петров ran 'EquipUn' on item 'UMP-45' (#43)
+[15:28:11]	Артем Петров ran 'drop' on item 'UMP-45' (#43)
+[15:28:11]	Артем Петров has lost a 'UMP-45' #43.
+[15:28:24]	Антон Миронов entered observer.
+[15:28:36]	Антон Миронов exited observer at their location.
+[15:28:41]	Артем Петров entered observer.
+[15:28:44]	Артем Петров exited observer at their location.
+[15:28:47]	Артем Петров entered observer.
+[15:28:51]	Артем Петров exited observer at their location.
+[15:29:05]	Антон Миронов entered observer.
+[15:29:09]	Антон Миронов exited observer at their location.
+[15:29:22]	Антон Миронов entered observer.
+[15:29:25]	Антон Миронов exited observer at their location.
+[15:29:40]	Антон Миронов has spawned a 'Entity [389][gmod_sent_vehicle_fphysics_base]'.
+[15:30:28]	֍ Aime-moi ֍ (STEAM_0:0:424879351) has disconnected.
+[15:30:57]	Артем Петров has gained a 'UMP-45' #51.
+[15:30:57]	Артем Петров used command '/CharGiveItem Ар ump45'.
+[15:31:01]	Артем Петров ran 'Equip' on item 'UMP-45' (#51)
+[15:31:02]	Артем Петров ran 'use' on item '.9mm Bullets' (#45)
+[15:32:58]	Артем Петров used command '/CharGiveItem Ар pistolamm 3'.
+[15:33:06]	Артем Петров has gained a '.9mm Bullets' #52.
+[15:33:06]	Артем Петров has gained a '.9mm Bullets' #53.
+[15:33:06]	Артем Петров has gained a '.9mm Bullets' #54.
+[15:33:06]	Артем Петров used command '/CharGiveItem Ар pistolammo 3'.
+[15:33:09]	Артем Петров ran 'use' on item '.9mm Bullets' (#52)
+[15:33:10]	Артем Петров ran 'use' on item '.9mm Bullets' (#53)
+[15:33:10]	Артем Петров ran 'use' on item '.9mm Bullets' (#54)
+[15:33:13]	Артем Петров has gained a '.9mm Bullets' #52.
+[15:33:13]	Артем Петров has gained a '.9mm Bullets' #53.
+[15:33:13]	Артем Петров has gained a '.9mm Bullets' #54.
+[15:33:13]	Артем Петров used command '/CharGiveItem Ар pistolammo 3'.
+[15:34:28]	֍ Aime-moi ֍ has connected.
+[15:35:03]	֍ Aime-moi ֍ loaded the character 'Артем Петров'
+[15:35:14]	֍ Aime-moi ֍ (STEAM_0:0:424879351) deleted character 'Артем Петров'
+[15:35:36]	Артем Петров used command '/CharDesc'.
+[15:37:13]	Артем Петров used command '/CharDesc Форма сопротивления : Кореец : 32 года : Вес 76 Кг : Рост 175'.
+[15:37:28]	Артем Петров used command '/CharDesc'.
+[15:37:30]	Артем Петров used command '/CharDesc Форма сопротивления : Кореец : 32 года : Вес 76 Кг : Рост 175 см'.
+[15:37:34]	֍ Aime-moi ֍ created the character 'Антон Петров'
+[15:37:34]	Антон Петров has gained a 'Suitcase' #55.
+[15:37:34]	Антон Петров has gained a 'Citizen ID' #56.
+[15:37:34]	֍ Aime-moi ֍ loaded the character 'Антон Петров'
+[15:37:47]	Антон Петров entered observer.
+[15:38:18]	Антон Петров exited observer at their location.
+[15:38:19]	Антон Петров entered observer.
+[15:38:43]	Антон Петров used command '/CharGiveFlag Антон CVcenprtv'.
+[15:38:56]	Артем Петров has taken 13 damage from worldspawn.
+[15:38:59]	Артем Петров entered observer.
+[15:39:01]	Артем Петров exited observer at their location.
+[15:39:02]	Артем Петров entered observer.
+[15:39:04]	Артем Петров exited observer at their location.
+[15:39:13]	Артем Петров has taken 46 damage from worldspawn.
+[15:39:20]	Антон Петров exited observer at their location.
+[15:39:21]	Антон Петров has spawned a 'Entity [490][gmod_sent_vehicle_fphysics_base]'.
+[15:39:26]	Антон Петров has spawned a 'Entity [490][gmod_sent_vehicle_fphysics_base]'.
+[15:39:28]	Антон Петров entered observer.
+[15:39:30]	Антон Петров has spawned a 'Entity [490][gmod_sent_vehicle_fphysics_base]'.
+[15:39:41]	Антон Петров exited observer at their location.
+[15:39:44]	Антон Петров has spawned a 'Entity [490][gmod_sent_vehicle_fphysics_base]'.
+[15:39:53]	Артем Петров has taken 500 damage from gmod_sent_vehicle_fphysics_base.
+[15:39:53]	gmod_sent_vehicle_fphysics_base has killed Артем Петров.
+[15:39:54]	Антон Петров has taken 5 damage from worldspawn.
+[15:40:07]	Антон Петров entered observer.
+[15:40:14]	Артем Петров used command '/PlyWhitelist Антон rebel'.
+[15:40:21]	֍ Aime-moi ֍ (STEAM_0:0:424879351) deleted character 'Антон Петров'
+[15:40:24]	֍ Aime-moi ֍ loaded the character 'Антон Миронов'
+[15:40:27]	Артем Петров ran 'Equip' on item 'UMP-45' (#51)
+[15:40:37]	Антон Миронов entered observer.
+[15:40:43]	Артем Петров ran 'use' on item '.9mm Bullets' (#52)
+[15:40:44]	Антон Миронов exited observer at their location.
+[15:40:47]	Антон Миронов has spawned a 'Entity [486][gmod_sent_vehicle_fphysics_base]'.
+[15:40:55]	Антон Миронов has taken 2 damage from worldspawn.
+[15:40:56]	Антон Миронов has taken 57 damage from Артем Петров.
+[15:40:57]	Антон Миронов has taken 53 damage from Артем Петров.
+[15:40:57]	Артем Петров has killed Антон Миронов with arccw_ump45.
+[15:41:10]	Антон Миронов entered observer.
+[15:41:12]	Антон Миронов exited observer at their location.
+[15:41:16]	Артем Петров ran 'use' on item '.9mm Bullets' (#53)
+[15:41:16]	Антон Миронов has spawned a 'Entity [486][gmod_sent_vehicle_fphysics_base]'.
+[15:41:17]	Артем Петров ran 'use' on item '.9mm Bullets' (#54)
+[15:41:19]	Антон Миронов entered observer.
+[15:41:20]	Антон Миронов exited observer at their location.
+[15:41:30]	Антон Миронов has taken 2 damage from worldspawn.
+[15:41:33]	Антон Миронов has taken 32 damage from Артем Петров.
+[15:41:34]	Антон Миронов has taken 2 damage from worldspawn.
+[15:41:35]	Антон Миронов has taken 30 damage from Артем Петров.
+[15:41:36]	Антон Миронов has taken 29 damage from Артем Петров.
+[15:41:37]	Антон Миронов has taken 30 damage from Артем Петров.
+[15:41:37]	Артем Петров has killed Антон Миронов with arccw_ump45.
+[15:41:56]	Антон Миронов has spawned a 'Vehicle [536][prop_vehicle_airboat]'.
+[15:42:10]	Антон Миронов entered observer.
+[15:42:13]	Антон Миронов exited observer at their location.
+[15:42:36]	Антон Миронов has taken 30 damage from Артем Петров.
+[15:42:38]	Антон Миронов has taken 29 damage from Артем Петров.
+[15:42:38]	Антон Миронов has taken 29 damage from Артем Петров.
+[15:42:45]	Антон Миронов entered observer.
+[15:42:48]	Антон Миронов exited observer at their location.
+[15:43:14]	Антон Миронов has spawned a 'NPC [542][npc_citizen]'.
+[15:43:16]	Антон Миронов has spawned a 'NPC [545][npc_citizen]'.
+[15:43:17]	Антон Миронов has spawned a 'NPC [542][npc_citizen]'.
+[15:43:23]	Артем Петров has gained a 'Flashlight' #52.
+[15:43:23]	Артем Петров used command '/CharGiveItem Артем flashlight'.
+[15:43:25]	Антон Миронов has taken 33 damage from Артем Петров.
+[15:43:26]	Артем Петров has killed Антон Миронов with arccw_ump45.
+[15:43:26]	Антон Миронов entered observer.
+[15:43:39]	Антон Миронов entered observer.
+[15:43:44]	Антон Миронов has spawned a 'NPC [486][npc_citizen]'.
+[15:43:44]	Антон Миронов has spawned a 'NPC [573][npc_citizen]'.
+[15:43:44]	Антон Миронов has spawned a 'NPC [578][npc_citizen]'.
+[15:43:44]	Антон Миронов has spawned a 'NPC [580][npc_citizen]'.
+[15:43:45]	Антон Миронов has spawned a 'NPC [593][npc_citizen]'.
+[15:43:45]	Антон Миронов has spawned a 'NPC [598][npc_citizen]'.
+[15:43:45]	Антон Миронов has spawned a 'NPC [669][npc_citizen]'.
+[15:43:45]	Антон Миронов has spawned a 'NPC [671][npc_citizen]'.
+[15:43:45]	Антон Миронов has spawned a 'NPC [672][npc_citizen]'.
+[15:44:16]	Артем Петров has spawned a 'Entity [573][arccw_ammo_pistol_large]'.
+[15:44:17]	Антон Миронов has spawned a 'NPC [581][npc_combine_s]'.
+[15:44:17]	Антон Миронов has spawned a 'NPC [573][npc_combine_s]'.
+[15:44:18]	Антон Миронов has spawned a 'NPC [590][npc_combine_s]'.
+[15:44:19]	Антон Миронов has spawned a 'NPC [598][npc_combine_s]'.
+[15:44:23]	Антон Миронов has spawned a 'NPC [490][npc_combine_s]'.
+[15:44:24]	Антон Миронов has spawned a 'NPC [664][npc_combine_s]'.
+[15:44:24]	Антон Миронов has spawned a 'NPC [598][npc_combine_s]'.
+[15:44:25]	Антон Миронов has spawned a 'NPC [670][npc_combine_s]'.
+[15:44:34]	Антон Миронов has spawned a 'NPC [605][npc_combine_s]'.
+[15:44:35]	Антон Миронов has spawned a 'NPC [490][npc_combine_s]'.
+[15:44:46]	Антон Миронов exited observer at their location.
+[15:44:48]	Антон Миронов has spawned a 'Entity [665][gmod_sent_vehicle_fphysics_base]'.
+[15:44:58]	Артем Петров has taken 25 damage from Антон Миронов.
+[15:44:58]	Артем Петров has taken 25 damage from Антон Миронов.
+[15:44:58]	Артем Петров has taken 25 damage from Антон Миронов.
+[15:45:12]	Артем Петров has taken 25 damage from Антон Миронов.
+[15:45:12]	Антон Миронов has killed Артем Петров with ix_hands.
+[15:45:17]	Антон Миронов entered observer.
+[15:45:22]	Антон Миронов has spawned a 'NPC [489][npc_combine_s]'.
+[15:45:22]	Антон Миронов has spawned a 'NPC [581][npc_combine_s]'.
+[15:45:23]	Антон Миронов has spawned a 'NPC [665][npc_combine_s]'.
+[15:45:23]	Антон Миронов has spawned a 'NPC [672][npc_combine_s]'.
+[15:45:23]	Антон Миронов has spawned a 'NPC [677][npc_combine_s]'.
+[15:45:24]	Антон Миронов has spawned a 'NPC [714][npc_combine_s]'.
+[15:45:24]	Антон Миронов has spawned a 'NPC [723][npc_combine_s]'.
+[15:45:25]	Антон Миронов has spawned a 'NPC [725][npc_combine_s]'.
+[15:45:25]	Антон Миронов has spawned a 'NPC [729][npc_combine_s]'.
+[15:45:40]	Антон Миронов exited observer at their location.
+[15:45:40]	Антон Миронов entered observer.
+[15:45:47]	Антон Миронов has spawned a 'NPC [734][npc_combine_s]'.
+[15:45:47]	Антон Миронов has spawned a 'NPC [744][npc_combine_s]'.
+[15:45:48]	Артем Петров has taken 6 damage from npc_combine_s.
+[15:45:48]	Артем Петров ran 'Equip' on item 'UMP-45' (#51)
+[15:45:50]	Артем Петров has taken 1 damage from npc_combine_s.
+[15:45:54]	Артем Петров has taken 1 damage from npc_combine_s.
+[15:45:55]	Артем Петров has taken 1 damage from npc_combine_s.
+[15:45:57]	Антон Миронов has spawned a 'NPC [392][npc_combine_s]'.
+[15:45:57]	Антон Миронов has spawned a 'NPC [767][npc_combine_s]'.
+[15:45:59]	Антон Миронов has spawned a 'NPC [488][npc_combine_s]'.
+[15:45:59]	Антон Миронов has spawned a 'NPC [756][npc_combine_s]'.
+[15:46:01]	Артем Петров has spawned a 'Entity [747][arccw_ammo_pistol_large]'.
+[15:46:10]	Антон Миронов has spawned a 'NPC [580][npc_combine_s]'.
+[15:46:12]	Антон Миронов has spawned a 'NPC [581][npc_combine_s]'.
+[15:46:16]	Антон Миронов has spawned a 'NPC [751][npc_combine_s]'.
+[15:46:16]	Антон Миронов has spawned a 'NPC [766][npc_combine_s]'.
+[15:46:17]	Антон Миронов has spawned a 'NPC [795][npc_combine_s]'.
+[15:46:20]	Артем Петров has taken 1 damage from npc_combine_s.
+[15:46:24]	Артем Петров has taken 3 damage from npc_combine_s.
+[15:46:24]	Артем Петров has taken 1 damage from npc_combine_s.
+[15:46:24]	Артем Петров has taken 1 damage from npc_combine_s.
+[15:46:27]	Артем Петров has taken 3 damage from npc_combine_s.
+[15:46:27]	Антон Миронов has spawned a 'NPC [542][npc_citizen]'.
+[15:46:28]	Антон Миронов has spawned a 'NPC [770][npc_citizen]'.
+[15:46:28]	Антон Миронов has spawned a 'NPC [849][npc_citizen]'.
+[15:46:28]	Антон Миронов has spawned a 'NPC [888][npc_citizen]'.
+[15:46:28]	Артем Петров has taken 1 damage from npc_combine_s.
+[15:46:29]	Артем Петров has taken 49 damage from npc_combine_s.
+[15:46:29]	Антон Миронов has spawned a 'NPC [767][npc_citizen]'.
+[15:46:30]	Антон Миронов has spawned a 'NPC [846][npc_citizen]'.
+[15:46:30]	Артем Петров has taken 3 damage from npc_combine_s.
+[15:46:30]	Артем Петров has taken 1 damage from npc_combine_s.
+[15:46:31]	Артем Петров has taken 1 damage from npc_combine_s.
+[15:46:31]	Артем Петров has taken 3 damage from npc_combine_s.
+[15:46:31]	Артем Петров has taken 6 damage from npc_combine_s.
+[15:46:31]	Артем Петров has taken 3 damage from npc_combine_s.
+[15:46:31]	Артем Петров has taken 3 damage from npc_combine_s.
+[15:46:33]	Артем Петров has taken 1 damage from npc_combine_s.
+[15:46:35]	Антон Миронов has spawned a 'NPC [744][npc_citizen]'.
+[15:46:44]	Артем Петров has taken 1 damage from npc_combine_s.
+[15:46:46]	Артем Петров has taken 1 damage from npc_combine_s.
+[15:46:53]	Артем Петров has taken 1 damage from npc_combine_s.
+[15:46:55]	npc_citizen destroyed a 'UMP-45' #43.
+[15:47:22]	Антон Миронов exited observer at their location.
+[15:47:22]	Антон Миронов entered observer.
+[15:47:29]	Антон Миронов has spawned a 'NPC [491][npc_metropolice]'.
+[15:47:29]	Антон Миронов has spawned a 'NPC [770][npc_metropolice]'.
+[15:47:30]	Антон Миронов has spawned a 'NPC [844][npc_metropolice]'.
+[15:47:30]	Антон Миронов has spawned a 'NPC [766][npc_metropolice]'.
+[15:47:30]	Антон Миронов has spawned a 'NPC [848][npc_metropolice]'.
+[15:47:37]	Антон Миронов has spawned a 'NPC [756][npc_metropolice]'.
+[15:47:38]	Антон Миронов has spawned a 'NPC [677][npc_metropolice]'.
+[15:47:38]	Антон Миронов has spawned a 'NPC [846][npc_metropolice]'.
+[15:47:39]	Антон Миронов has spawned a 'NPC [840][npc_metropolice]'.
+[15:47:39]	Антон Миронов has spawned a 'NPC [886][npc_metropolice]'.
+[15:47:39]	Антон Миронов has spawned a 'NPC [1015][npc_metropolice]'.
+[15:47:41]	Артем Петров has spawned a 'Entity [751][arccw_ammo_pistol_large]'.
+[15:47:42]	Артем Петров has spawned a 'Entity [751][arccw_ammo_pistol_large]'.
+[15:47:57]	Антон Миронов has spawned a 'NPC [672][npc_metropolice]'.
+[15:47:57]	Антон Миронов has spawned a 'NPC [714][npc_metropolice]'.
+[15:48:06]	Антон Миронов has spawned a 'NPC [672][npc_metropolice]'.
+[15:48:06]	Антон Миронов has spawned a 'NPC [767][npc_metropolice]'.
+[15:48:06]	Антон Миронов has spawned a 'NPC [840][npc_metropolice]'.
+[15:48:07]	Антон Миронов has spawned a 'NPC [847][npc_metropolice]'.
+[15:48:07]	Антон Миронов has spawned a 'NPC [886][npc_metropolice]'.
+[15:48:16]	Антон Миронов has spawned a 'NPC [491][npc_metropolice]'.
+[15:48:17]	Антон Миронов has spawned a 'NPC [1049][npc_metropolice]'.
+[15:48:21]	Антон Миронов has spawned a 'NPC [1204][npc_metropolice]'.
+[15:48:21]	Антон Миронов has spawned a 'NPC [1206][npc_metropolice]'.
+[15:48:21]	Антон Миронов has spawned a 'NPC [1208][npc_metropolice]'.
+[15:48:23]	Антон Миронов has spawned a 'NPC [491][npc_metropolice]'.
+[15:48:23]	Антон Миронов has spawned a 'NPC [1270][npc_metropolice]'.
+[15:48:24]	Антон Миронов has spawned a 'NPC [1053][npc_metropolice]'.
+[15:48:25]	Антон Миронов has spawned a 'NPC [1274][npc_metropolice]'.
+[15:48:43]	Антон Миронов has spawned a 'NPC [1278][npc_metropolice]'.
+[15:48:44]	Антон Миронов has spawned a 'NPC [1418][npc_metropolice]'.
+[15:48:45]	Артем Петров has taken 3 damage from npc_metropolice.
+[15:48:45]	Артем Петров has taken 12 damage from npc_metropolice.
+[15:48:49]	Артем Петров has taken 3 damage from npc_metropolice.
+[15:49:19]	Артем Петров has taken 3 damage from npc_metropolice.
+[15:49:22]	Артем Петров has taken 3 damage from npc_metropolice.
+[15:49:37]	Антон Миронов has spawned a 'NPC [491][npc_metropolice]'.
+[15:49:38]	Антон Миронов has spawned a 'NPC [1204][npc_metropolice]'.
+[15:49:40]	Антон Миронов has spawned a 'NPC [1535][npc_metropolice]'.
+[15:49:42]	Антон Миронов has spawned a 'NPC [1554][npc_metropolice]'.
+[15:49:52]	Артем Петров has taken 12 damage from npc_metropolice.
+[15:49:53]	Артем Петров has taken 12 damage from npc_metropolice.
+[15:49:53]	Артем Петров has taken 12 damage from npc_metropolice.
+[15:49:53]	npc_metropolice has killed Артем Петров.
+[15:50:25]	Артем Петров ran 'Equip' on item 'UMP-45' (#51)
+[15:50:28]	Артем Петров ran 'EquipUn' on item 'UMP-45' (#51)
+[15:50:31]	Артем Петров ran 'Equip' on item 'UMP-45' (#51)
+[15:50:34]	Артем Петров has spawned a 'Entity [1203][arccw_ammo_pistol_large]'.
+[15:50:34]	Артем Петров has spawned a 'Entity [1266][arccw_ammo_pistol_large]'.
+[15:50:39]	Антон Миронов has spawned a 'NPC [1203][npc_metropolice]'.
+[15:50:39]	Антон Миронов has spawned a 'NPC [1267][npc_metropolice]'.
+[15:50:51]	Артем Петров has taken 1 damage from npc_metropolice.
+[15:50:51]	Артем Петров has taken 3 damage from npc_metropolice.
+[15:50:57]	Антон Миронов has spawned a 'NPC [672][npc_metropolice]'.
+[15:50:59]	Антон Миронов has spawned a 'NPC [840][npc_metropolice]'.
+[15:51:05]	Артем Петров has taken 3 damage from npc_metropolice.
+[15:51:07]	Антон Миронов has spawned a 'NPC [672][npc_metropolice]'.
+[15:51:09]	Артем Петров has taken 13 damage from npc_metropolice.
+[15:51:09]	Артем Петров has taken 13 damage from npc_metropolice.
+[15:51:09]	Артем Петров has taken 3 damage from npc_metropolice.
+[15:51:10]	Артем Петров has taken 3 damage from npc_metropolice.
+[15:51:10]	Артем Петров has taken 13 damage from npc_metropolice.
+[15:51:25]	Антон Миронов has spawned a 'NPC [1566][npc_metropolice]'.
+[15:51:28]	Артем Петров has taken 3 damage from npc_metropolice.
+[15:51:34]	Артем Петров has taken 25 damage from npc_metropolice.
+[15:51:36]	Антон Миронов has spawned a 'NPC [767][npc_metropolice]'.
+[15:51:36]	Артем Петров has taken 3 damage from npc_metropolice.
+[15:51:37]	Антон Миронов has spawned a 'NPC [1572][npc_metropolice]'.
+[15:51:48]	Антон Миронов has spawned a 'NPC [840][npc_metropolice]'.
+[15:51:53]	Антон Миронов has spawned a 'NPC [840][npc_metropolice]'.
+[15:51:56]	Антон Миронов has spawned a 'NPC [840][npc_metropolice]'.
+[15:52:05]	Артем Петров has taken 3 damage from npc_metropolice.
+[15:52:05]	Артем Петров has taken 12 damage from npc_metropolice.
+[15:52:06]	Артем Петров has taken 3 damage from npc_metropolice.
+[15:52:06]	Артем Петров has taken 3 damage from npc_metropolice.
+[15:52:07]	Антон Миронов has spawned a 'NPC [491][npc_metropolice]'.
+[15:52:07]	Антон Миронов has spawned a 'NPC [1577][npc_metropolice]'.
+[15:52:10]	Антон Миронов has spawned a 'NPC [1535][npc_metropolice]'.
+[15:52:25]	Артем Петров has taken 3 damage from npc_metropolice.
+[15:52:53]	Антон Миронов exited observer at their location.
+[15:53:10]	Антон Миронов entered observer.
+[19:14:01]	Г@H3NK has connected.
+[19:17:09]	Г@H3NK loaded the character 'Артем Петров'
+[19:18:14]	Артем Петров entered observer.
+[19:18:43]	Артем Петров exited observer at their location.
+[19:22:43]	Артем Петров ran 'EquipUn' on item 'UMP-45' (#51)
+[19:22:54]	Артем Петров ran 'Equip' on item 'UMP-45' (#51)
+[19:24:25]	Г@H3NK has connected.
+[19:25:32]	Г@H3NK loaded the character 'Артем Петров'
+[19:30:15]	֍ Aime-moi ֍ has connected.
+[19:35:53]	֍ Aime-moi ֍ loaded the character 'Антон Миронов'
+[19:35:56]	Антон Миронов entered observer.
+[19:39:43]	Антон Миронов exited observer at their location.
+[19:39:44]	Антон Миронов entered observer.
+[19:40:30]	Антон Миронов has spawned a 'Entity [77][gmod_sent_vehicle_fphysics_base]'.
+[19:40:36]	Антон Миронов exited observer at their location.
+[19:40:42]	Антон Миронов entered observer.
+[19:40:43]	Антон Миронов exited observer at their location.
+[19:40:57]	Антон Миронов entered observer.
+[19:40:58]	Антон Миронов exited observer at their location.
+[19:41:13]	Антон Миронов entered observer.
+[19:41:14]	Антон Миронов exited observer at their location.
+[19:41:16]	Антон Миронов entered observer.
+[19:41:18]	Антон Миронов exited observer at their location.
+[19:47:53]	Артем Петров entered observer.
+[19:47:58]	Артем Петров exited observer at their location.
+[19:48:05]	Антон Миронов has taken 66 damage from Артем Петров.
+[19:48:06]	֍ Aime-moi ֍ created the character 'MPF-RCT.57989'
+[19:48:06]	MPF-RCT.57989 has gained a '.9mm Pistol' #53.
+[19:48:06]	MPF-RCT.57989 has gained a '.9mm Bullets' #54.
+[19:48:06]	MPF-RCT.57989 has gained a '.9mm Bullets' #55.
+[19:48:10]	֍ Aime-moi ֍ loaded the character 'MPF-RCT.57989'
+[19:48:11]	MPF-RCT.57989 entered observer.
+[19:48:21]	Артем Петров entered observer.
+[19:48:22]	Артем Петров exited observer at their location.
+[19:49:42]	[ME] Артем Петров: Обосрался
+[19:50:01]	Артем Петров entered observer.
+[19:50:08]	Артем Петров exited observer at their location.
+[19:50:15]	Артем Петров entered observer.
+[19:50:15]	Артем Петров exited observer at their location.
+[19:50:26]	Артем Петров entered observer.
+[19:50:27]	Артем Петров exited observer at their location.
+[19:50:29]	D8.MPF-BLADE.57989 used command '/CharSetName MPF-RCT D8.MPF-BLADE.57989'.
+[19:50:29]	Артем Петров entered observer.
+[19:50:30]	Артем Петров exited observer at their location.
+[19:50:31]	Артем Петров entered observer.
+[19:50:33]	Артем Петров exited observer at their location.
+[19:50:34]	Артем Петров entered observer.
+[19:50:35]	Артем Петров exited observer at their location.
+[19:50:35]	Артем Петров entered observer.
+[19:50:36]	D8.MPF-BLADE.57989 exited observer at their location.
+[19:50:37]	Артем Петров exited observer at their location.
+[19:50:58]	D8.MPF-BLADE.57989 used command '/CharGiveFlag D8 CVcenrtpv'.
+[19:50:59]	D8.MPF-BLADE.57989 entered observer.
+[19:51:27]	Артем Петров has taken 36 damage from worldspawn.
+[19:51:31]	D8.MPF-BLADE.57989 exited observer at their location.
+[19:51:33]	Артем Петров entered observer.
+[19:51:38]	Артем Петров exited observer at their location.
+[19:51:39]	D8.MPF-BLADE.57989 entered observer.
+[19:51:43]	D8.MPF-BLADE.57989 exited observer at their location.
+[19:51:44]	D8.MPF-BLADE.57989 entered observer.
+[19:52:38]	D8.MPF-BLADE.57989 exited observer at their location.
+[19:52:38]	Артем Петров entered observer.
+[19:52:45]	Артем Петров exited observer at their location.
+[19:52:58]	D8.MPF-BLADE.57989 entered observer.
+[19:53:10]	D8.MPF-BLADE.57989 has gained 300 tokens.
+[19:53:21]	D8.MPF-BLADE.57989 exited observer at their location.
+[19:53:28]	Артем Петров has taken 11 damage from D8.MPF-BLADE.57989.
+[19:53:28]	Артем Петров has taken 22 damage from D8.MPF-BLADE.57989.
+[19:53:29]	Артем Петров has taken 22 damage from D8.MPF-BLADE.57989.
+[19:53:29]	Артем Петров has taken 22 damage from D8.MPF-BLADE.57989.
+[19:53:29]	D8.MPF-BLADE.57989 has killed Артем Петров with weapon_ar2.
+[19:53:52]	Артем Петров entered observer.
+[19:53:59]	D8.MPF-BLADE.57989 entered observer.
+[19:54:10]	D8.MPF-BLADE.57989 exited observer at their location.
+[19:54:47]	D8.MPF-BLADE.57989 used command '/SpawnAdd metropolice'.
+[19:54:48]	D8.MPF-BLADE.57989 entered observer.
+[19:54:59]	D8.MPF-BLADE.57989 exited observer at their location.
+[19:55:12]	D8.MPF-BLADE.57989 has taken 150 damage from D8.MPF-BLADE.57989.
+[19:55:12]	D8.MPF-BLADE.57989 has killed D8.MPF-BLADE.57989.
+[19:55:26]	D8.MPF-BLADE.57989 entered observer.
+[19:55:29]	D8.MPF-BLADE.57989 exited observer at their location.
+[19:55:30]	D8.MPF-BLADE.57989 entered observer.
+[19:55:36]	Артем Петров exited observer at their location.
+[19:55:38]	D8.MPF-BLADE.57989 exited observer at their location.
+[19:55:38]	Артем Петров entered observer.
+[19:55:39]	D8.MPF-BLADE.57989 entered observer.
+[19:55:40]	D8.MPF-BLADE.57989 exited observer at their location.
+[19:55:53]	֍ Aime-moi ֍ (STEAM_0:0:424879351) deleted character 'MPF.RAZOR-I1.39728'
+[19:56:22]	֍ Aime-moi ֍ created the character 'Альберт Кольм'
+[19:56:22]	Альберт Кольм has gained a 'UMP-45' #56.
+[19:56:22]	Альберт Кольм has gained a '.9mm Bullets' #57.
+[19:56:22]	Альберт Кольм has gained a '.9mm Bullets' #58.
+[19:56:26]	֍ Aime-moi ֍ loaded the character 'Альберт Кольм'
+[19:56:27]	Альберт Кольм entered observer.
+[19:56:31]	Альберт Кольм exited observer at their location.
+[19:56:32]	Артем Петров exited observer at their location.
+[19:56:35]	Артем Петров entered observer.
+[19:56:39]	Артем Петров exited observer at their location.
+[19:56:42]	Альберт Кольм used command '/SpawnAdd Сопротивления'.
+[19:56:52]	Альберт Кольм used command '/SpawnAdd Rebel'.
+[19:56:53]	Альберт Кольм entered observer.
+[19:56:54]	Альберт Кольм exited observer at their location.
+[19:56:58]	Артем Петров entered observer.
+[19:57:00]	Альберт Кольм entered observer.
+[19:57:01]	Артем Петров exited observer at their location.
+[19:57:03]	Альберт Кольм exited observer at their location.
+[19:57:15]	Альберт Кольм entered observer.
+[19:57:17]	Альберт Кольм exited observer at their location.
+[19:57:29]	Альберт Кольм has spawned 'models/c08cop_foofoo.mdl'.
+[19:57:33]	Альберт Кольм has spawned 'models/shrike_soldier.mdl'.
+[19:57:36]	Альберт Кольм has spawned 'models/rexlee9000.mdl'.
+[19:57:39]	Альберт Кольм entered observer.
+[19:57:43]	Альберт Кольм exited observer at their location.
+[19:57:44]	Альберт Кольм has spawned 'models/zara_kane2.mdl'.
+[19:57:46]	Альберт Кольм entered observer.
+[19:57:47]	Альберт Кольм exited observer at their location.
+[19:57:49]	Альберт Кольм has spawned 'models/urbantrenchcoat.mdl'.
+[19:57:57]	Альберт Кольм has spawned 'models/icarus_anon.mdl'.
+[19:58:01]	Альберт Кольм has spawned 'models/t100.mdl'.
+[19:58:06]	Альберт Кольм has spawned 'models/dogmeat.mdl'.
+[19:58:23]	Альберт Кольм used command '/CharGiveFlag Альберт CVcenrpt'.
+[19:58:33]	Альберт Кольм used command '/CharGiveFlag Альберт'.
+[19:58:36]	Альберт Кольм used command '/CharGiveFlag Альберт Кольм v'.
+[19:58:48]	Альберт Кольм has spawned 'models/t70test.mdl'.
+[19:58:57]	Альберт Кольм has spawned 'models/uazjeep.mdl'.
+[19:59:03]	Альберт Кольм has spawned 'models/flyboi/littlebird/littlebird_fb.mdl'.
+[19:59:09]	Альберт Кольм has spawned 'models/barnes/refugee/male_44.mdl'.
+[19:59:25]	Альберт Кольм has spawned 'models/barnes/refugee/male_80.mdl'.
+[19:59:36]	Альберт Кольм has spawned 'models/barnes/refugee/male_22.mdl'.
+[19:59:40]	Альберт Кольм has spawned 'models/barnes/refugee/male_113.mdl'.
+[19:59:49]	Альберт Кольм has spawned 'models/barnes/refugee/male_91.mdl'.
+[20:00:10]	Альберт Кольм has spawned 'models/humans/group03/female_51.mdl'.
+[20:00:10]	Артем Петров has spawned 'models/flyboi/blackhawk/blackhawk_fb.mdl'.
+[20:00:10]	Артем Петров has taken 5 damage from prop_physics.
+[20:00:11]	Артем Петров has taken 500 damage from prop_physics.
+[20:00:11]	prop_physics has killed Артем Петров.
+[20:00:11]	Альберт Кольм has taken 100 damage from prop_physics.
+[20:00:11]	prop_physics has killed Альберт Кольм.
+[20:00:24]	Альберт Кольм entered observer.
+[20:00:26]	Артем Петров entered observer.
+[20:00:28]	Артем Петров exited observer at their location.
+[20:00:30]	Альберт Кольм exited observer at their location.
+[20:00:32]	Альберт Кольм entered observer.
+[20:00:37]	Альберт Кольм exited observer at their location.
+[20:00:46]	Альберт Кольм has spawned 'models/humans/group03/female_50.mdl'.
+[20:00:54]	Альберт Кольм has spawned 'models/humans/group03/male_118.mdl'.
+[20:01:01]	Альберт Кольм has spawned 'models/humans/group03/male_121.mdl'.
+[20:01:21]	Альберт Кольм has spawned 'models/humans/group03/reno.mdl'.
+[20:01:26]	Альберт Кольм has spawned 'models/humans/group03/suit_gh.mdl'.
+[20:01:30]	Альберт Кольм has spawned 'models/humans/group03/suit_gh.mdl'.
+[20:01:39]	Альберт Кольм has spawned 'models/humans/group03m/female_70.mdl'.
+[20:01:43]	Альберт Кольм has spawned 'models/humans/group03m/female_69.mdl'.
+[20:02:01]	Альберт Кольм has spawned 'models/humans/group03m/female_69.mdl'.
+[20:02:14]	Альберт Кольм has spawned 'models/humans/group03m/male_67.mdl'.
+[20:02:24]	Альберт Кольм has spawned 'models/humans/group03m/male_80.mdl'.
+[20:02:28]	Альберт Кольм entered observer.
+[20:02:32]	Альберт Кольм exited observer at their location.
+[20:02:32]	Артем Петров has spawned 'models/weapons/w_m16_goose.mdl'.
+[20:02:34]	Артем Петров has spawned 'models/weapons/w_m16_goose.mdl'.
+[20:02:37]	Артем Петров has spawned 'models/weapons/w_sawnoff.mdl'.
+[20:02:39]	Артем Петров has spawned 'models/weapons/w_rif_aksu.mdl'.
+[20:02:43]	Артем Петров has spawned 'models/weapons/w_xm8rifle.mdl'.
+[20:02:44]	Альберт Кольм entered observer.
+[20:02:45]	Альберт Кольм exited observer at their location.
+[20:02:47]	Артем Петров has spawned 'models/weapons/w_sbr.mdl'.
+[20:02:50]	Артем Петров has spawned 'models/weapons/w_rif_an94.mdl'.
+[20:02:51]	Альберт Кольм has spawned 'models/purvis/male_01_metrocop.mdl'.
+[20:02:52]	Артем Петров has spawned 'models/weapons/w_rif_g36c.mdl'.
+[20:02:57]	Артем Петров has spawned 'models/weapons/w_rif_g36f.mdl'.
+[20:03:03]	Альберт Кольм has spawned 'models/humans/group03/male_111.mdl'.
+[20:03:12]	Артем Петров has spawned 'models/humans/group03m/male_44.mdl'.
+[20:03:19]	Альберт Кольм has spawned 'models/tactical_rebel_female.mdl'.
+[20:03:20]	Альберт Кольм has spawned 'models/tactical_rebel.mdl'.
+[20:03:23]	Альберт Кольм has spawned 'models/lambdamovement.mdl'.
+[20:03:32]	Альберт Кольм has spawned 'models/javelin_unit.mdl'.
+[20:03:34]	Артем Петров entered observer.
+[20:03:40]	Альберт Кольм has spawned 'models/citizen_radio.mdl'.
+[20:03:44]	Альберт Кольм has spawned 'models/police_female.mdl'.
+[20:03:53]	Альберт Кольм has spawned 'models/barnes/refugee/zara.mdl'.
+[20:03:58]	Альберт Кольм has spawned 'models/barnes/refugee/male_hc.mdl'.
+[20:03:59]	Артем Петров exited observer at their location.
+[20:04:01]	Артем Петров entered observer.
+[20:04:02]	Артем Петров exited observer at their location.
+[20:04:10]	Артем Петров has taken 54 damage from Альберт Кольм.
+[20:04:11]	Артем Петров has taken 26 damage from Альберт Кольм.
+[20:04:18]	Артем Петров has taken 1 damage from env_fire.
+[20:04:20]	Артем Петров has taken 1 damage from env_fire.
+[20:04:22]	Альберт Кольм entered observer.
+[20:04:22]	Артем Петров has taken 1 damage from env_fire.
+[20:04:22]	Альберт Кольм exited observer at their location.
+[20:04:23]	Артем Петров has taken 1 damage from env_fire.
+[20:04:24]	Артем Петров has taken 1 damage from env_fire.
+[20:04:25]	Артем Петров has taken 1 damage from env_fire.
+[20:04:26]	Артем Петров has taken 1 damage from env_fire.
+[20:04:27]	Артем Петров has taken 1 damage from env_fire.
+[20:04:29]	Альберт Кольм has spawned 'models/barnes/refugee/male_55.mdl'.
+[20:04:29]	Артем Петров has taken 1 damage from env_fire.
+[20:04:30]	Артем Петров has taken 1 damage from env_fire.
+[20:04:31]	Артем Петров has taken 1 damage from env_fire.
+[20:04:32]	Артем Петров has taken 1 damage from env_fire.
+[20:04:33]	Артем Петров has taken 1 damage from env_fire.
+[20:04:35]	Артем Петров has taken 1 damage from env_fire.
+[20:04:38]	Альберт Кольм has spawned 'models/barnes/refugee/male_61.mdl'.
+[20:04:41]	Альберт Кольм entered observer.
+[20:04:41]	Артем Петров has taken 1 damage from env_fire.
+[20:04:43]	Артем Петров has taken 1 damage from env_fire.
+[20:04:43]	Альберт Кольм exited observer at their location.
+[20:04:44]	Артем Петров has taken 1 damage from env_fire.
+[20:04:45]	Артем Петров has taken 1 damage from env_fire.
+[20:04:46]	Артем Петров has taken 1 damage from env_fire.
+[20:04:47]	Артем Петров has taken 1 damage from env_fire.
+[20:04:47]	env_fire has killed Артем Петров.
+[20:04:58]	Альберт Кольм used command '/CharSetModel Альберт models/barnes/refugee/male_61.mdl'.
+[20:05:03]	Артем Петров entered observer.
+[20:05:07]	Артем Петров exited observer at their location.
+[20:05:27]	Артем Петров has taken 65 damage from Альберт Кольм.
+[20:05:27]	Артем Петров has taken 64 damage from Альберт Кольм.
+[20:05:27]	Альберт Кольм has killed Артем Петров with arccw_ak47.
+[20:05:32]	Альберт Кольм has spawned a 'Entity [91][arccw_ammo_smg1_large]'.
+[20:05:34]	Альберт Кольм has spawned a 'Entity [91][arccw_ammo_ar2_large]'.
+[20:05:35]	Альберт Кольм has spawned a 'Entity [92][arccw_ammo_ar2_large]'.
+[20:05:35]	Альберт Кольм has spawned a 'Entity [91][arccw_ammo_ar2_large]'.
+[20:05:41]	Артем Петров entered observer.
+[20:05:42]	Артем Петров exited observer at their location.
+[20:05:45]	Альберт Кольм entered observer.
+[20:05:48]	Альберт Кольм exited observer at their location.
+[20:05:49]	Артем Петров entered observer.
+[20:05:50]	Альберт Кольм entered observer.
+[20:05:52]	Альберт Кольм exited observer at their location.
+[20:05:53]	Альберт Кольм entered observer.
+[20:05:54]	Альберт Кольм exited observer at their location.
+[20:05:57]	Альберт Кольм entered observer.
+[20:05:58]	Альберт Кольм exited observer at their location.
+[20:05:59]	Артем Петров exited observer at their location.
+[20:06:00]	Артем Петров has taken 32 damage from Альберт Кольм.
+[20:06:00]	Артем Петров has taken 32 damage from Альберт Кольм.
+[20:06:01]	Артем Петров has taken 32 damage from Альберт Кольм.
+[20:06:08]	Альберт Кольм entered observer.
+[20:06:09]	Альберт Кольм exited observer at their location.
+[20:06:12]	Альберт Кольм entered observer.
+[20:06:12]	Альберт Кольм exited observer at their location.
+[20:06:18]	Альберт Кольм entered observer.
+[20:06:19]	Артем Петров ran 'Equip' on item 'UMP-45' (#51)
+[20:06:21]	Альберт Кольм exited observer at their location.
+[20:06:26]	Артем Петров has taken 25 damage from Альберт Кольм.
+[20:06:26]	Альберт Кольм has killed Артем Петров with arccw_ak47.
+[20:06:41]	Артем Петров has spawned a 'Entity [88][arccw_ammo_pistol_large]'.
+[20:06:42]	Артем Петров has spawned a 'Entity [91][arccw_ammo_pistol_large]'.
+[20:06:43]	Артем Петров has spawned a 'Entity [97][arccw_ammo_pistol_large]'.
+[20:06:45]	Артем Петров ran 'Equip' on item 'UMP-45' (#51)
+[20:06:45]	Альберт Кольм has spawned a 'Entity [91][arccw_ammo_buckshot_large]'.
+[20:07:07]	Альберт Кольм entered observer.
+[20:07:07]	Альберт Кольм exited observer at their location.
+[20:07:09]	Альберт Кольм entered observer.
+[20:07:10]	Альберт Кольм exited observer at their location.
+[20:07:11]	Альберт Кольм entered observer.
+[20:07:11]	Альберт Кольм exited observer at their location.
+[20:07:12]	Артем Петров has taken 72 damage from Альберт Кольм.
+[20:07:12]	Артем Петров has taken 72 damage from Альберт Кольм.
+[20:07:12]	Альберт Кольм has killed Артем Петров with arccw_m1014.
+[20:07:13]	Альберт Кольм entered observer.
+[20:07:14]	Альберт Кольм exited observer at their location.
+[20:07:30]	Артем Петров ran 'Equip' on item 'UMP-45' (#51)
+[20:07:31]	Альберт Кольм entered observer.
+[20:07:32]	Альберт Кольм exited observer at their location.
+[20:07:34]	Альберт Кольм entered observer.
+[20:07:34]	Артем Петров has spawned a 'Entity [97][item_ammo_pistol_large]'.
+[20:07:35]	Артем Петров has spawned a 'Entity [99][item_ammo_pistol_large]'.
+[20:07:35]	Альберт Кольм exited observer at their location.
+[20:07:35]	Артем Петров has spawned a 'Entity [107][item_ammo_pistol_large]'.
+[20:07:35]	Артем Петров has spawned a 'Entity [108][item_ammo_pistol_large]'.
+[20:07:35]	Артем Петров has spawned a 'Entity [109][item_ammo_pistol_large]'.
+[20:07:36]	Альберт Кольм entered observer.
+[20:07:36]	Альберт Кольм exited observer at their location.
+[20:07:37]	Альберт Кольм entered observer.
+[20:07:37]	Альберт Кольм exited observer at their location.
+[20:07:39]	Альберт Кольм entered observer.
+[20:07:39]	Альберт Кольм exited observer at their location.
+[20:07:41]	Альберт Кольм entered observer.
+[20:07:42]	Альберт Кольм exited observer at their location.
+[20:07:45]	Артем Петров has taken 14 damage from Альберт Кольм.
+[20:07:46]	Артем Петров has taken 58 damage from Альберт Кольм.
+[20:07:46]	Артем Петров has taken 55 damage from Альберт Кольм.
+[20:07:46]	Альберт Кольм has killed Артем Петров with arccw_m1014.
+[20:08:01]	Артем Петров has spawned a 'Entity [88][item_ammo_pistol_large]'.
+[20:08:01]	Артем Петров has spawned a 'Entity [97][item_ammo_pistol_large]'.
+[20:08:02]	Артем Петров has spawned a 'Entity [99][item_ammo_pistol_large]'.
+[20:08:05]	Артем Петров ran 'Equip' on item 'UMP-45' (#51)
+[20:08:06]	Артем Петров ran 'drop' on item 'Flashlight' (#52)
+[20:08:06]	Артем Петров has lost a 'Flashlight' #52.
+[20:08:07]	Альберт Кольм entered observer.
+[20:08:09]	Альберт Кольм exited observer at their location.
+[20:08:10]	Артем Петров ran 'take' on item 'Flashlight' (#52)
+[20:08:10]	Артем Петров has gained a 'Flashlight' #52.
+[20:08:10]	Альберт Кольм entered observer.
+[20:08:14]	Альберт Кольм exited observer at their location.
+[20:08:18]	Альберт Кольм entered observer.
+[20:08:19]	Альберт Кольм exited observer at their location.
+[20:08:22]	Альберт Кольм entered observer.
+[20:08:22]	Альберт Кольм exited observer at their location.
+[20:08:25]	Альберт Кольм entered observer.
+[20:08:26]	Альберт Кольм exited observer at their location.
+[20:08:27]	Альберт Кольм entered observer.
+[20:08:27]	Альберт Кольм exited observer at their location.
+[20:08:31]	Альберт Кольм entered observer.
+[20:08:32]	Альберт Кольм exited observer at their location.
+[20:08:40]	Альберт Кольм entered observer.
+[20:08:41]	Альберт Кольм exited observer at their location.
+[20:08:42]	Альберт Кольм entered observer.
+[20:08:43]	Альберт Кольм exited observer at their location.
+[20:08:47]	Артем Петров has taken 15 damage from Альберт Кольм.
+[20:08:47]	Артем Петров has taken 15 damage from Альберт Кольм.
+[20:08:47]	Артем Петров has taken 15 damage from Альберт Кольм.
+[20:08:47]	Артем Петров has taken 15 damage from Альберт Кольм.
+[20:08:47]	Артем Петров has taken 15 damage from Альберт Кольм.
+[20:08:47]	Артем Петров has taken 15 damage from Альберт Кольм.
+[20:08:47]	Альберт Кольм has taken 8 damage from Артем Петров.
+[20:08:48]	Артем Петров has taken 59 damage from Альберт Кольм.
+[20:08:48]	Альберт Кольм has killed Артем Петров with arccw_m1014.
+[20:08:53]	Альберт Кольм has spawned a 'Entity [88][item_healthkit]'.
+[20:08:55]	Альберт Кольм has spawned a 'Entity [88][item_battery]'.
+[20:08:55]	Альберт Кольм has spawned a 'Entity [93][item_battery]'.
+[20:08:56]	Альберт Кольм has spawned a 'Entity [88][item_battery]'.
+[20:08:56]	Альберт Кольм has spawned a 'Entity [95][item_battery]'.
+[20:08:57]	Альберт Кольм has spawned a 'Entity [93][item_battery]'.
+[20:08:57]	Альберт Кольм has spawned a 'Entity [109][item_battery]'.
+[20:08:57]	Альберт Кольм has spawned a 'Entity [88][item_battery]'.
+[20:09:14]	Альберт Кольм entered observer.
+[20:09:15]	Альберт Кольм exited observer at their location.
+[20:09:18]	Альберт Кольм entered observer.
+[20:09:19]	Альберт Кольм exited observer at their location.
+[20:09:20]	Артем Петров has spawned a 'Entity [88][item_ammo_pistol_large]'.
+[20:09:21]	Артем Петров has spawned a 'Entity [92][item_ammo_pistol_large]'.
+[20:09:21]	Артем Петров has taken 64 damage from Альберт Кольм.
+[20:09:21]	Артем Петров has spawned a 'Entity [108][item_ammo_pistol_large]'.
+[20:09:25]	Артем Петров ran 'Equip' on item 'UMP-45' (#51)
+[20:09:25]	Альберт Кольм entered observer.
+[20:09:26]	Альберт Кольм exited observer at their location.
+[20:09:30]	Альберт Кольм entered observer.
+[20:09:31]	Альберт Кольм exited observer at their location.
+[20:09:32]	Альберт Кольм entered observer.
+[20:09:33]	Альберт Кольм exited observer at their location.
+[20:09:36]	Артем Петров has taken 23 damage from Альберт Кольм.
+[20:09:36]	Артем Петров has taken 92 damage from Альберт Кольм.
+[20:09:36]	Альберт Кольм has killed Артем Петров with arccw_m1014.
+[20:09:50]	Артем Петров entered observer.
+[20:09:55]	Альберт Кольм entered observer.
+[20:09:55]	Альберт Кольм exited observer at their location.
+[20:09:56]	Альберт Кольм entered observer.
+[20:09:58]	Альберт Кольм exited observer at their location.
+[20:10:00]	Артем Петров exited observer at their location.
+[20:10:01]	Альберт Кольм entered observer.
+[20:10:02]	Альберт Кольм exited observer at their location.
+[20:10:02]	Артем Петров has spawned a 'Entity [93][item_ammo_pistol_large]'.
+[20:10:02]	Артем Петров has spawned a 'Entity [109][item_ammo_pistol_large]'.
+[20:10:02]	Артем Петров has spawned a 'Entity [112][item_ammo_pistol_large]'.
+[20:10:08]	Альберт Кольм entered observer.
+[20:10:08]	Альберт Кольм exited observer at their location.
+[20:10:09]	Артем Петров has spawned a 'Entity [109][item_box_buckshot]'.
+[20:10:09]	Артем Петров has spawned a 'Entity [112][item_box_buckshot]'.
+[20:10:09]	Артем Петров has spawned a 'Entity [113][item_box_buckshot]'.
+[20:10:15]	Альберт Кольм has taken 15 damage from Артем Петров.
+[20:10:15]	Альберт Кольм has taken 15 damage from Артем Петров.
+[20:10:17]	Альберт Кольм has taken 16 damage from Артем Петров.
+[20:10:17]	Альберт Кольм has taken 62 damage from Артем Петров.
+[20:10:20]	Альберт Кольм has taken 73 damage from Артем Петров.
+[20:10:20]	Альберт Кольм has taken 72 damage from Артем Петров.
+[20:10:20]	Артем Петров has killed Альберт Кольм with arccw_shorty.
+[20:10:39]	Альберт Кольм entered observer.
+[20:10:39]	Альберт Кольм exited observer at their location.
+[20:10:45]	Альберт Кольм has spawned a 'Entity [89][arccw_ammo_smg1_grenade_large]'.
+[20:10:50]	Альберт Кольм entered observer.
+[20:10:51]	Альберт Кольм exited observer at their location.
+[20:10:52]	Альберт Кольм entered observer.
+[20:10:53]	Альберт Кольм exited observer at their location.
+[20:10:56]	Альберт Кольм entered observer.
+[20:10:56]	Альберт Кольм exited observer at their location.
+[20:10:57]	Артем Петров has taken 137 damage from Альберт Кольм.
+[20:10:57]	Альберт Кольм has killed Артем Петров with arccw_minimi.
+[20:11:03]	Альберт Кольм entered observer.
+[20:11:05]	Альберт Кольм exited observer at their location.
+[20:11:13]	Артем Петров has spawned a 'Entity [88][item_box_buckshot]'.
+[20:11:13]	Артем Петров has spawned a 'Entity [91][item_box_buckshot]'.
+[20:11:13]	Артем Петров has spawned a 'Entity [98][item_box_buckshot]'.
+[20:11:14]	Артем Петров has spawned a 'Entity [108][item_box_buckshot]'.
+[20:11:16]	Артем Петров has spawned a 'Entity [88][item_ammo_pistol_large]'.
+[20:11:16]	Артем Петров has spawned a 'Entity [91][item_ammo_pistol_large]'.
+[20:11:16]	Артем Петров has spawned a 'Entity [98][item_ammo_pistol_large]'.
+[20:11:16]	Артем Петров has spawned a 'Entity [108][item_ammo_pistol_large]'.
+[20:11:28]	Альберт Кольм entered observer.
+[20:11:29]	Альберт Кольм exited observer at their location.
+[20:11:29]	Альберт Кольм entered observer.
+[20:11:30]	Альберт Кольм exited observer at their location.
+[20:11:31]	Альберт Кольм entered observer.
+[20:11:34]	Альберт Кольм exited observer at their location.
+[20:11:45]	Артем Петров has taken 8 damage from Альберт Кольм.
+[20:11:45]	Альберт Кольм has taken 27 damage from Артем Петров.
+[20:11:45]	Альберт Кольм has taken 27 damage from Артем Петров.
+[20:11:45]	Альберт Кольм has taken 27 damage from Артем Петров.
+[20:11:45]	Артем Петров has taken 64 damage from Альберт Кольм.
+[20:11:45]	Артем Петров has taken 8 damage from Альберт Кольм.
+[20:11:45]	Артем Петров has taken 8 damage from Альберт Кольм.
+[20:11:45]	Артем Петров has taken 8 damage from Альберт Кольм.
+[20:11:45]	Артем Петров has taken 32 damage from Альберт Кольм.
+[20:11:45]	Альберт Кольм has killed Артем Петров with arccw_minimi.
+[20:11:54]	Альберт Кольм has spawned a 'Entity [88][arccw_ammo_pistol_large]'.
+[20:11:56]	Альберт Кольм has spawned a 'Entity [88][arccw_ammo_pistol_large]'.
+[20:12:06]	Альберт Кольм has spawned a 'Entity [93][item_healthkit]'.
+[20:12:06]	Альберт Кольм has spawned a 'Entity [107][item_healthkit]'.
+[20:12:06]	Альберт Кольм has spawned a 'Entity [108][item_healthkit]'.
+[20:12:06]	Альберт Кольм has spawned a 'Entity [109][item_healthkit]'.
+[20:12:07]	Альберт Кольм has spawned a 'Entity [93][item_healthkit]'.
+[20:12:08]	Альберт Кольм has spawned a 'Entity [107][item_battery]'.
+[20:12:08]	Альберт Кольм has spawned a 'Entity [93][item_battery]'.
+[20:12:09]	Альберт Кольм has spawned a 'Entity [108][item_battery]'.
+[20:12:09]	Альберт Кольм has spawned a 'Entity [109][item_battery]'.
+[20:12:09]	Альберт Кольм has spawned a 'Entity [112][item_battery]'.
+[20:12:10]	Альберт Кольм has spawned a 'Entity [93][item_battery]'.
+[20:12:10]	Альберт Кольм has spawned a 'Entity [107][item_battery]'.
+[20:12:10]	Альберт Кольм entered observer.
+[20:12:11]	Альберт Кольм exited observer at their location.
+[20:12:12]	Артем Петров has spawned a 'Entity [93][item_ammo_pistol_large]'.
+[20:12:13]	Артем Петров has spawned a 'Entity [107][item_ammo_pistol_large]'.
+[20:12:13]	Артем Петров has spawned a 'Entity [108][item_ammo_pistol_large]'.
+[20:12:13]	Артем Петров has spawned a 'Entity [109][item_ammo_pistol_large]'.
+[20:12:13]	Артем Петров has spawned a 'Entity [112][item_ammo_pistol_large]'.
+[20:12:15]	Альберт Кольм entered observer.
+[20:12:18]	Альберт Кольм exited observer at their location.
+[20:12:22]	Артем Петров has taken 20 damage from Альберт Кольм.
+[20:12:24]	Альберт Кольм entered observer.
+[20:12:25]	Альберт Кольм exited observer at their location.
+[20:12:27]	Артем Петров ran 'Equip' on item 'UMP-45' (#51)
+[20:12:36]	Артем Петров has taken 138 damage from Альберт Кольм.
+[20:12:36]	Альберт Кольм has killed Артем Петров with arccw_minimi.
+[20:12:38]	Альберт Кольм entered observer.
+[20:12:39]	Альберт Кольм exited observer at their location.
+[20:12:53]	Альберт Кольм entered observer.
+[20:12:54]	Альберт Кольм exited observer at their location.
+[20:12:56]	Альберт Кольм entered observer.
+[20:12:56]	Альберт Кольм exited observer at their location.
+[20:12:58]	Артем Петров has taken 21 damage from Альберт Кольм.
+[20:12:58]	Артем Петров has taken 20 damage from Альберт Кольм.
+[20:13:00]	Альберт Кольм entered observer.
+[20:13:00]	Альберт Кольм exited observer at their location.
+[20:13:02]	Альберт Кольм entered observer.
+[20:13:04]	Альберт Кольм exited observer at their location.
+[20:13:08]	Альберт Кольм entered observer.
+[20:13:09]	Альберт Кольм exited observer at their location.
+[20:13:13]	Альберт Кольм entered observer.
+[20:13:13]	Альберт Кольм exited observer at their location.
+[20:13:15]	Альберт Кольм entered observer.
+[20:13:17]	Альберт Кольм exited observer at their location.
+[20:13:21]	Альберт Кольм entered observer.
+[20:13:21]	Альберт Кольм exited observer at their location.
+[20:13:21]	Артем Петров ran 'Equip' on item 'UMP-45' (#51)
+[20:13:24]	Артем Петров has spawned a 'Entity [96][item_ammo_pistol_large]'.
+[20:13:24]	Артем Петров has spawned a 'Entity [107][item_ammo_pistol_large]'.
+[20:13:24]	Артем Петров has spawned a 'Entity [108][item_ammo_pistol_large]'.
+[20:13:28]	Альберт Кольм entered observer.
+[20:13:30]	Альберт Кольм exited observer at their location.
+[20:13:30]	Артем Петров has taken 1 damage from env_fire.
+[20:13:31]	Альберт Кольм entered observer.
+[20:13:33]	Альберт Кольм exited observer at their location.
+[20:13:38]	Альберт Кольм entered observer.
+[20:13:43]	Альберт Кольм exited observer at their location.
+[20:13:44]	Альберт Кольм has taken 122 damage from Альберт Кольм.
+[20:13:50]	Альберт Кольм entered observer.
+[20:13:52]	Альберт Кольм exited observer at their location.
+[20:13:53]	Артем Петров has taken 32 damage from Альберт Кольм.
+[20:13:53]	Альберт Кольм has taken 8 damage from Артем Петров.
+[20:13:53]	Артем Петров has taken 32 damage from Альберт Кольм.
+[20:13:53]	Альберт Кольм has killed Артем Петров with arccw_minimi.
+[20:13:58]	Альберт Кольм has spawned a 'Entity [88][item_healthkit]'.
+[20:13:58]	Альберт Кольм has spawned a 'Entity [93][item_healthkit]'.
+[20:14:00]	Альберт Кольм has spawned a 'Entity [88][item_battery]'.
+[20:14:00]	Альберт Кольм has spawned a 'Entity [93][item_battery]'.
+[20:14:00]	Альберт Кольм has spawned a 'Entity [95][item_battery]'.
+[20:14:00]	Альберт Кольм has spawned a 'Entity [108][item_battery]'.
+[20:14:00]	Альберт Кольм has spawned a 'Entity [109][item_battery]'.
+[20:14:01]	Альберт Кольм has spawned a 'Entity [88][item_battery]'.
+[20:14:01]	Альберт Кольм has spawned a 'Entity [93][item_battery]'.
+[20:14:12]	Альберт Кольм entered observer.
+[20:14:13]	Альберт Кольм exited observer at their location.
+[20:14:16]	Артем Петров has spawned a 'Entity [96][item_box_buckshot]'.
+[20:14:16]	Артем Петров has spawned a 'Entity [107][item_box_buckshot]'.
+[20:14:16]	Артем Петров has spawned a 'Entity [108][item_box_buckshot]'.
+[20:14:26]	Альберт Кольм entered observer.
+[20:14:27]	Альберт Кольм exited observer at their location.
+[20:14:28]	Альберт Кольм entered observer.
+[20:14:30]	Альберт Кольм exited observer at their location.
+[20:14:34]	Артем Петров has taken 21 damage from Альберт Кольм.
+[20:14:35]	Артем Петров has taken 21 damage from Альберт Кольм.
+[20:14:35]	Альберт Кольм has taken 23 damage from Артем Петров.
+[20:14:36]	Альберт Кольм has taken 1 damage from entityflame.
+[20:14:36]	Артем Петров has taken 21 damage from Альберт Кольм.
+[20:14:38]	Альберт Кольм entered observer.
+[20:14:39]	Альберт Кольм exited observer at their location.
+[20:14:41]	Артем Петров has taken 21 damage from Альберт Кольм.
+[20:14:43]	Альберт Кольм entered observer.
+[20:14:43]	Альберт Кольм exited observer at their location.
+[20:14:45]	Альберт Кольм entered observer.
+[20:14:45]	Альберт Кольм exited observer at their location.
+[20:14:46]	Артем Петров has taken 5 damage from Альберт Кольм.
+[20:14:47]	Артем Петров has taken 21 damage from Альберт Кольм.
+[20:14:47]	Альберт Кольм has killed Артем Петров with arccw_mac11.
+[20:14:55]	Альберт Кольм has spawned a 'Entity [92][arccw_ammo_pistol_large]'.
+[20:14:56]	Альберт Кольм has spawned a 'Entity [93][arccw_ammo_pistol_large]'.
+[20:15:00]	Артем Петров entered observer.
+[20:15:02]	Артем Петров exited observer at their location.
+[20:15:11]	Артем Петров has taken 5 damage from Альберт Кольм.
+[20:15:11]	Артем Петров has taken 5 damage from Альберт Кольм.
+[20:15:13]	Альберт Кольм entered observer.
+[20:15:15]	Альберт Кольм exited observer at their location.
+[20:15:16]	Артем Петров has spawned a 'Entity [88][item_box_buckshot]'.
+[20:15:16]	Артем Петров has spawned a 'Entity [91][item_box_buckshot]'.
+[20:15:16]	Артем Петров has spawned a 'Entity [96][item_box_buckshot]'.
+[20:15:16]	Артем Петров has spawned a 'Entity [98][item_box_buckshot]'.
+[20:15:24]	Альберт Кольм entered observer.
+[20:15:25]	Альберт Кольм exited observer at their location.
+[20:15:28]	Альберт Кольм entered observer.
+[20:15:28]	Альберт Кольм exited observer at their location.
+[20:15:36]	Артем Петров has taken 21 damage from Альберт Кольм.
+[20:15:37]	Альберт Кольм has taken 121 damage from Артем Петров.
+[20:15:37]	Альберт Кольм has taken 121 damage from Артем Петров.
+[20:15:37]	Артем Петров has killed Альберт Кольм with arccw_shorty.
+[20:15:50]	Альберт Кольм entered observer.
+[20:15:53]	Альберт Кольм exited observer at their location.
+[20:15:56]	Альберт Кольм entered observer.
+[20:15:58]	Альберт Кольм exited observer at their location.
+[20:16:02]	Альберт Кольм entered observer.
+[20:16:02]	Альберт Кольм exited observer at their location.
+[20:16:03]	Альберт Кольм entered observer.
+[20:16:04]	Альберт Кольм exited observer at their location.
+[20:16:11]	Артем Петров has taken 177 damage from Альберт Кольм.
+[20:16:11]	Альберт Кольм has killed Артем Петров with arccw_m107.
+[20:16:18]	Альберт Кольм has spawned a 'Entity [88][arccw_ammo_sniper_large]'.
+[20:16:31]	Альберт Кольм entered observer.
+[20:16:32]	Альберт Кольм exited observer at their location.
+[20:16:38]	Альберт Кольм entered observer.
+[20:16:39]	Артем Петров has spawned a 'Entity [96][item_box_buckshot]'.
+[20:16:39]	Артем Петров has spawned a 'Entity [107][item_box_buckshot]'.
+[20:16:40]	Артем Петров has spawned a 'Entity [112][item_box_buckshot]'.
+[20:16:41]	Альберт Кольм exited observer at their location.
+[20:16:43]	Альберт Кольм entered observer.
+[20:16:43]	Альберт Кольм exited observer at their location.
+[20:16:47]	Артем Петров has taken 1 damage from env_fire.
+[20:16:50]	Артем Петров has taken 32 damage from Альберт Кольм.
+[20:16:51]	Артем Петров has taken 32 damage from Альберт Кольм.
+[20:16:53]	Артем Петров has taken 3 damage from entityflame.
+[20:16:53]	Артем Петров has taken 3 damage from entityflame.
+[20:16:53]	Артем Петров has taken 3 damage from entityflame.
+[20:16:53]	Артем Петров has taken 3 damage from entityflame.
+[20:16:53]	Артем Петров has taken 3 damage from entityflame.
+[20:16:55]	Артем Петров has taken 8 damage from Альберт Кольм.
+[20:16:56]	Артем Петров has taken 32 damage from Альберт Кольм.
+[20:16:56]	Альберт Кольм has killed Артем Петров with arccw_minimi.
+[20:16:56]	Альберт Кольм has taken 0 damage from entityflame.
+[20:16:57]	Альберт Кольм has taken 1 damage from entityflame.
+[20:17:13]	Артем Петров has taken 5 damage from Альберт Кольм.
+[20:17:14]	Артем Петров has taken 21 damage from Альберт Кольм.
+[20:17:14]	Артем Петров has taken 21 damage from Альберт Кольм.
+[20:17:14]	Артем Петров has taken 5 damage from Альберт Кольм.
+[20:17:14]	Артем Петров has taken 21 damage from Альберт Кольм.
+[20:17:14]	Артем Петров has taken 21 damage from Альберт Кольм.
+[20:17:14]	Артем Петров has taken 5 damage from Альберт Кольм.
+[20:17:14]	Альберт Кольм has killed Артем Петров with arccw_mac11.
+[20:17:38]	Альберт Кольм entered observer.
+[20:17:38]	Альберт Кольм exited observer at their location.
+[20:17:42]	Артем Петров has taken 18 damage from Альберт Кольм.
+[20:17:42]	Артем Петров has taken 18 damage from Альберт Кольм.
+[20:17:42]	Артем Петров has taken 4 damage from Альберт Кольм.
+[20:17:43]	Артем Петров has taken 4 damage from Альберт Кольм.
+[20:17:56]	Альберт Кольм has spawned a 'Entity [123][arccw_ammo_pistol_large]'.
+[20:17:57]	Альберт Кольм entered observer.
+[20:17:58]	Альберт Кольм exited observer at their location.
+[20:18:06]	Альберт Кольм entered observer.
+[20:18:06]	Альберт Кольм exited observer at their location.
+[20:18:09]	Альберт Кольм entered observer.
+[20:18:09]	Альберт Кольм exited observer at their location.
+[20:18:09]	Альберт Кольм entered observer.
+[20:18:10]	Альберт Кольм exited observer at their location.
+[20:18:12]	Альберт Кольм entered observer.
+[20:18:12]	Альберт Кольм exited observer at their location.
+[20:18:14]	Альберт Кольм entered observer.
+[20:18:14]	Артем Петров has spawned a 'Entity [92][item_box_buckshot]'.
+[20:18:14]	Артем Петров has spawned a 'Entity [120][item_box_buckshot]'.
+[20:18:14]	Альберт Кольм exited observer at their location.
+[20:18:14]	Артем Петров has spawned a 'Entity [123][item_box_buckshot]'.
+[20:18:14]	Артем Петров has spawned a 'Entity [124][item_box_buckshot]'.
+[20:18:14]	Артем Петров has spawned a 'Entity [142][item_box_buckshot]'.
+[20:18:19]	Альберт Кольм entered observer.
+[20:18:20]	Альберт Кольм exited observer at their location.
+[20:18:33]	Альберт Кольм entered observer.
+[20:18:35]	Альберт Кольм exited observer at their location.
+[20:18:46]	Альберт Кольм entered observer.
+[20:18:47]	Альберт Кольм exited observer at their location.
+[20:18:54]	Артем Петров has taken 5 damage from Альберт Кольм.
+[20:18:54]	Артем Петров has taken 21 damage from Альберт Кольм.
+[20:18:54]	Артем Петров has taken 1 damage from entityflame.
+[20:18:54]	Артем Петров has taken 1 damage from entityflame.
+[20:18:55]	Артем Петров has taken 1 damage from entityflame.
+[20:18:55]	Артем Петров has taken 1 damage from entityflame.
+[20:18:55]	Артем Петров has taken 1 damage from entityflame.
+[20:19:04]	Альберт Кольм entered observer.
+[20:19:04]	Альберт Кольм exited observer at their location.
+[20:19:13]	Альберт Кольм has taken 94 damage from Артем Петров.
+[20:19:13]	Альберт Кольм has taken 189 damage from Артем Петров.
+[20:19:13]	Артем Петров has killed Альберт Кольм with arccw_shorty.
+[20:19:26]	Альберт Кольм entered observer.
+[20:19:29]	Альберт Кольм exited observer at their location.
+[20:19:30]	Альберт Кольм entered observer.
+[20:19:33]	Альберт Кольм exited observer at their location.
+[20:19:36]	Альберт Кольм entered observer.
+[20:19:36]	Альберт Кольм exited observer at their location.
+[20:19:40]	Альберт Кольм entered observer.
+[20:19:43]	Альберт Кольм exited observer at their location.
+[20:19:47]	Альберт Кольм entered observer.
+[20:19:48]	Альберт Кольм exited observer at their location.
+[20:19:49]	Альберт Кольм entered observer.
+[20:19:49]	Альберт Кольм exited observer at their location.
+[20:19:58]	Альберт Кольм entered observer.
+[20:19:58]	Альберт Кольм exited observer at their location.
+[20:19:59]	Альберт Кольм entered observer.
+[20:19:59]	Альберт Кольм exited observer at their location.
+[20:20:00]	Альберт Кольм entered observer.
+[20:20:00]	Альберт Кольм exited observer at their location.
+[20:20:00]	Альберт Кольм entered observer.
+[20:20:00]	Альберт Кольм exited observer at their location.
+[20:20:00]	Альберт Кольм entered observer.
+[20:20:00]	Альберт Кольм exited observer at their location.
+[20:20:01]	Альберт Кольм entered observer.
+[20:20:01]	Альберт Кольм exited observer at their location.
+[20:20:02]	Альберт Кольм entered observer.
+[20:20:07]	Альберт Кольм exited observer at their location.
+[20:20:09]	Альберт Кольм entered observer.
+[20:20:09]	Альберт Кольм exited observer at their location.
+[20:20:12]	Альберт Кольм entered observer.
+[20:20:13]	Альберт Кольм exited observer at their location.
+[20:20:13]	Альберт Кольм entered observer.
+[20:20:16]	Альберт Кольм exited observer at their location.
+[20:20:17]	Альберт Кольм entered observer.
+[20:20:20]	Альберт Кольм exited observer at their location.
+[20:20:22]	Альберт Кольм entered observer.
+[20:20:22]	Альберт Кольм exited observer at their location.
+[20:20:27]	Альберт Кольм entered observer.
+[20:20:33]	Альберт Кольм exited observer at their location.
+[20:20:41]	Альберт Кольм has taken 28 damage from Артем Петров.
+[20:20:41]	Альберт Кольм has taken 28 damage from Артем Петров.
+[20:20:41]	Альберт Кольм has taken 109 damage from Артем Петров.
+[20:20:41]	Артем Петров has killed Альберт Кольм with arccw_shorty.
+[20:20:55]	Альберт Кольм entered observer.
+[20:20:59]	Альберт Кольм exited observer at their location.
+[20:21:06]	Альберт Кольм has taken 29 damage from Артем Петров.
+[20:21:06]	Альберт Кольм has taken 231 damage from Артем Петров.
+[20:21:06]	Артем Петров has killed Альберт Кольм with arccw_shorty.
+[20:21:20]	Альберт Кольм entered observer.
+[20:21:25]	Альберт Кольм exited observer at their location.
+[20:21:28]	Артем Петров has taken 57 damage from Альберт Кольм.
+[20:21:28]	Альберт Кольм has killed Артем Петров with arccw_m14.
+[20:21:29]	Альберт Кольм entered observer.
+[20:21:30]	Альберт Кольм exited observer at their location.
+[20:21:35]	Альберт Кольм entered observer.
+[20:21:39]	Альберт Кольм exited observer at their location.
+[20:21:43]	Альберт Кольм entered observer.
+[20:21:43]	Альберт Кольм exited observer at their location.
+[20:21:47]	Альберт Кольм entered observer.
+[20:21:47]	Альберт Кольм exited observer at their location.
+[20:21:50]	Альберт Кольм entered observer.
+[20:21:50]	Альберт Кольм exited observer at their location.
+[20:21:51]	Альберт Кольм entered observer.
+[20:21:52]	Альберт Кольм exited observer at their location.
+[20:21:55]	Альберт Кольм entered observer.
+[20:21:57]	Альберт Кольм exited observer at their location.
+[20:22:03]	Артем Петров entered observer.
+[20:22:04]	Альберт Кольм entered observer.
+[20:22:04]	Артем Петров exited observer at their location.
+[20:22:04]	Альберт Кольм exited observer at their location.
+[20:22:04]	Альберт Кольм entered observer.
+[20:22:05]	Альберт Кольм exited observer at their location.
+[20:22:13]	Артем Петров entered observer.
+[20:22:14]	Артем Петров exited observer at their location.
+[20:22:15]	Артем Петров has taken 20 damage from Альберт Кольм.
+[20:22:17]	Артем Петров has taken 81 damage from Альберт Кольм.
+[20:22:17]	Альберт Кольм has killed Артем Петров with arccw_m1014.
+[20:22:19]	Альберт Кольм entered observer.
+[20:22:19]	Альберт Кольм exited observer at their location.
+[20:22:28]	Альберт Кольм entered observer.
+[20:22:28]	Альберт Кольм exited observer at their location.
+[20:22:42]	Артем Петров has taken 10 damage from Альберт Кольм.
+[20:22:42]	Артем Петров has taken 3 damage from Альберт Кольм.
+[20:22:47]	Альберт Кольм entered observer.
+[20:22:47]	Альберт Кольм exited observer at their location.
+[20:23:05]	Альберт Кольм has taken 30 damage from Артем Петров.
+[20:23:05]	Альберт Кольм has taken 30 damage from Артем Петров.
+[20:23:05]	Альберт Кольм has taken 30 damage from Артем Петров.
+[20:23:05]	Альберт Кольм has taken 114 damage from Артем Петров.
+[20:23:05]	Артем Петров has killed Альберт Кольм with arccw_shorty.
+[20:23:17]	Артем Петров has spawned a 'Entity [85][item_box_buckshot]'.
+[20:23:17]	Артем Петров has spawned a 'Entity [86][item_box_buckshot]'.
+[20:23:17]	Артем Петров has spawned a 'Entity [88][item_box_buckshot]'.
+[20:23:17]	Артем Петров has spawned a 'Entity [119][item_box_buckshot]'.
+[20:23:23]	Альберт Кольм entered observer.
+[20:23:23]	Альберт Кольм exited observer at their location.
+[20:23:32]	Альберт Кольм has taken 13 damage from Артем Петров.
+[20:23:32]	Артем Петров has taken 3 damage from Альберт Кольм.
+[20:23:32]	Альберт Кольм has taken 3 damage from Артем Петров.
+[20:23:32]	Артем Петров has taken 3 damage from Альберт Кольм.
+[20:23:32]	Артем Петров has taken 3 damage from Альберт Кольм.
+[20:23:32]	Альберт Кольм has taken 12 damage from Артем Петров.
+[20:23:32]	Альберт Кольм has taken 12 damage from Артем Петров.
+[20:23:32]	Артем Петров has taken 13 damage from Альберт Кольм.
+[20:23:33]	Артем Петров has taken 3 damage from Альберт Кольм.
+[20:23:33]	Артем Петров has taken 3 damage from Альберт Кольм.
+[20:23:38]	Альберт Кольм has spawned a 'Entity [86][arccw_ammo_pistol_large]'.
+[20:23:39]	Артем Петров has spawned a 'Entity [88][item_ammo_pistol_large]'.
+[20:23:39]	Артем Петров has spawned a 'Entity [97][item_ammo_pistol_large]'.
+[20:23:39]	Артем Петров has spawned a 'Entity [98][item_ammo_pistol_large]'.
+[20:24:06]	Альберт Кольм entered observer.
+[20:24:06]	Альберт Кольм exited observer at their location.
+[20:24:07]	Альберт Кольм entered observer.
+[20:24:10]	Альберт Кольм exited observer at their location.
+[20:24:12]	Альберт Кольм has taken 4 damage from Артем Петров.
+[20:24:12]	Альберт Кольм has taken 1 damage from entityflame.
+[20:24:12]	Альберт Кольм has taken 4 damage from Артем Петров.
+[20:24:12]	Альберт Кольм has taken 1 damage from entityflame.
+[20:24:12]	Альберт Кольм has taken 29 damage from Артем Петров.
+[20:24:12]	Альберт Кольм has taken 1 damage from entityflame.
+[20:24:13]	Артем Петров has taken 4 damage from Альберт Кольм.
+[20:24:13]	Альберт Кольм has taken 1 damage from entityflame.
+[20:24:13]	Артем Петров has taken 3 damage from Альберт Кольм.
+[20:24:13]	Артем Петров has taken 1 damage from entityflame.
+[20:24:13]	Альберт Кольм has taken 28 damage from Артем Петров.
+[20:24:13]	Артем Петров has killed Альберт Кольм with arccw_ruger.
+[20:24:13]	Артем Петров has taken 1 damage from entityflame.
+[20:24:13]	Артем Петров has taken 1 damage from entityflame.
+[20:24:13]	Артем Петров has taken 1 damage from entityflame.
+[20:24:13]	Артем Петров has taken 1 damage from entityflame.
+[20:24:29]	Артем Петров has taken 4 damage from Альберт Кольм.
+[20:24:29]	Артем Петров has taken 4 damage from Альберт Кольм.
+[20:24:29]	Артем Петров has taken 1 damage from entityflame.
+[20:24:29]	Артем Петров has taken 4 damage from Альберт Кольм.
+[20:24:29]	Артем Петров has taken 4 damage from Альберт Кольм.
+[20:24:30]	Артем Петров has taken 1 damage from entityflame.
+[20:24:30]	Артем Петров has taken 16 damage from Альберт Кольм.
+[20:24:30]	Альберт Кольм has taken 31 damage from Артем Петров.
+[20:24:30]	Артем Петров has taken 15 damage from Альберт Кольм.
+[20:24:30]	Альберт Кольм has killed Артем Петров with arccw_ruger.
+[20:24:30]	Альберт Кольм has taken 1 damage from entityflame.
+[20:24:30]	Альберт Кольм has taken 1 damage from entityflame.
+[20:24:30]	Альберт Кольм has taken 1 damage from entityflame.
+[20:24:30]	Альберт Кольм has taken 1 damage from entityflame.
+[20:24:31]	Альберт Кольм has taken 1 damage from entityflame.
+[20:24:37]	Альберт Кольм has spawned a 'Entity [82][item_healthkit]'.
+[20:24:37]	Альберт Кольм has spawned a 'Entity [85][item_healthkit]'.
+[20:24:40]	Альберт Кольм has spawned a 'Entity [82][item_battery]'.
+[20:24:40]	Альберт Кольм has spawned a 'Entity [85][item_battery]'.
+[20:24:40]	Альберт Кольм has spawned a 'Entity [92][item_battery]'.
+[20:24:40]	Альберт Кольм has spawned a 'Entity [93][item_battery]'.
+[20:24:41]	Альберт Кольм has spawned a 'Entity [94][item_battery]'.
+[20:24:41]	Альберт Кольм has spawned a 'Entity [95][item_battery]'.
+[20:24:41]	Альберт Кольм has spawned a 'Entity [97][item_battery]'.
+[20:24:46]	Альберт Кольм has spawned a 'Entity [93][arccw_ammo_pistol_large]'.
+[20:24:50]	Артем Петров has spawned a 'Entity [93][item_ammo_pistol_large]'.
+[20:24:50]	Артем Петров has spawned a 'Entity [94][item_ammo_pistol_large]'.
+[20:24:50]	Артем Петров has spawned a 'Entity [95][item_ammo_pistol_large]'.
+[20:24:51]	Альберт Кольм entered observer.
+[20:24:51]	Альберт Кольм exited observer at their location.
+[20:24:55]	Альберт Кольм has taken 14 damage from Артем Петров.
+[20:24:55]	Альберт Кольм has taken 1 damage from entityflame.
+[20:24:57]	Альберт Кольм entered observer.
+[20:25:03]	Альберт Кольм exited observer at their location.
+[20:25:04]	Артем Петров has taken 12 damage from Альберт Кольм.
+[20:25:04]	Альберт Кольм entered observer.
+[20:25:11]	Альберт Кольм exited observer at their location.
+[20:25:12]	Альберт Кольм has taken 16 damage from Артем Петров.
+[20:25:12]	Альберт Кольм has taken 4 damage from Артем Петров.
+[20:25:12]	Альберт Кольм has taken 15 damage from Артем Петров.
+[20:25:12]	Альберт Кольм has taken 4 damage from Артем Петров.
+[20:25:13]	Альберт Кольм has taken 31 damage from Артем Петров.
+[20:25:13]	Альберт Кольм entered observer.
+[20:25:20]	Альберт Кольм exited observer at their location.
+[20:25:26]	Альберт Кольм has taken 12 damage from Артем Петров.
+[20:25:27]	Альберт Кольм has taken 1 damage from entityflame.
+[20:25:31]	Альберт Кольм entered observer.
+[20:25:32]	Альберт Кольм exited observer at their location.
+[20:25:34]	Альберт Кольм entered observer.
+[20:25:35]	Альберт Кольм exited observer at their location.
+[20:25:36]	Альберт Кольм entered observer.
+[20:25:37]	Альберт Кольм exited observer at their location.
+[20:25:42]	Артем Петров entered observer.
+[20:25:42]	Артем Петров exited observer at their location.
+[20:25:44]	Альберт Кольм has taken 28 damage from Артем Петров.
+[20:25:44]	Альберт Кольм has taken 1 damage from entityflame.
+[20:25:44]	Артем Петров has taken 12 damage from Альберт Кольм.
+[20:25:44]	Альберт Кольм has taken 1 damage from entityflame.
+[20:25:44]	Альберт Кольм has taken 1 damage from entityflame.
+[20:25:44]	Альберт Кольм has taken 27 damage from Артем Петров.
+[20:25:44]	Альберт Кольм has taken 1 damage from entityflame.
+[20:25:45]	Альберт Кольм has taken 1 damage from entityflame.
+[20:25:45]	Альберт Кольм has taken 1 damage from entityflame.
+[20:25:45]	Альберт Кольм has taken 1 damage from entityflame.
+[20:25:45]	Альберт Кольм has taken 1 damage from entityflame.
+[20:25:48]	Альберт Кольм has taken 14 damage from Артем Петров.
+[20:25:48]	Артем Петров has taken 12 damage from Альберт Кольм.
+[20:25:48]	Альберт Кольм has taken 1 damage from entityflame.
+[20:25:48]	Альберт Кольм has taken 1 damage from entityflame.
+[20:25:48]	Альберт Кольм has taken 1 damage from entityflame.
+[20:25:49]	Альберт Кольм has taken 1 damage from entityflame.
+[20:25:49]	entityflame has killed Альберт Кольм.
+[20:26:11]	Артем Петров has taken 135 damage from Альберт Кольм.
+[20:26:11]	Альберт Кольм has killed Артем Петров with arccw_db.
+[20:26:15]	Альберт Кольм has spawned a 'Entity [85][arccw_ammo_buckshot_large]'.
+[20:26:16]	Альберт Кольм entered observer.
+[20:26:18]	Альберт Кольм exited observer at their location.
+[20:26:37]	Альберт Кольм entered observer.
+[20:26:42]	Альберт Кольм exited observer at their location.
+[20:26:44]	Альберт Кольм entered observer.
+[20:26:45]	Альберт Кольм exited observer at their location.
+[20:26:46]	Артем Петров has spawned a 'Entity [99][item_box_buckshot]'.
+[20:26:47]	Альберт Кольм entered observer.
+[20:26:48]	Альберт Кольм exited observer at their location.
+[20:26:50]	Альберт Кольм entered observer.
+[20:26:50]	Артем Петров has spawned a 'Entity [99][item_box_buckshot]'.
+[20:26:50]	Артем Петров has spawned a 'Entity [107][item_box_buckshot]'.
+[20:26:50]	Альберт Кольм exited observer at their location.
+[20:26:56]	Альберт Кольм entered observer.
+[20:27:00]	Альберт Кольм exited observer at their location.
+[20:27:05]	Альберт Кольм entered observer.
+[20:27:07]	Альберт Кольм exited observer at their location.
+[20:27:10]	Альберт Кольм entered observer.
+[20:27:10]	Альберт Кольм exited observer at their location.
+[20:27:11]	Артем Петров has taken 24 damage from Альберт Кольм.
+[20:27:24]	Альберт Кольм entered observer.
+[20:27:31]	Альберт Кольм exited observer at their location.
+[20:27:34]	Альберт Кольм has taken 274 damage from Артем Петров.
+[20:27:34]	Артем Петров has killed Альберт Кольм with arccw_shorty.
+[20:27:47]	Альберт Кольм entered observer.
+[20:27:50]	Альберт Кольм exited observer at their location.
+[20:27:51]	Альберт Кольм entered observer.
+[20:27:53]	Альберт Кольм exited observer at their location.
+[20:27:56]	Альберт Кольм entered observer.
+[20:27:56]	Альберт Кольм exited observer at their location.
+[20:27:57]	Альберт Кольм entered observer.
+[20:27:57]	Альберт Кольм exited observer at their location.
+[20:28:02]	Альберт Кольм entered observer.
+[20:28:02]	Альберт Кольм exited observer at their location.
+[20:28:07]	Артем Петров has taken 165 damage from Альберт Кольм.
+[20:28:07]	Альберт Кольм has killed Артем Петров with arccw_scout.
+[20:28:31]	Артем Петров ran 'Equip' on item 'UMP-45' (#51)
+[20:28:36]	Артем Петров has spawned a 'Entity [112][arccw_ammo_pistol_large]'.
+[20:28:36]	Артем Петров has spawned a 'Entity [113][arccw_ammo_pistol_large]'.
+[20:28:37]	Артем Петров has spawned a 'Entity [114][arccw_ammo_pistol_large]'.
+[20:28:38]	Альберт Кольм entered observer.
+[20:28:41]	Альберт Кольм exited observer at their location.
+[20:28:42]	Альберт Кольм entered observer.
+[20:28:42]	Альберт Кольм exited observer at their location.
+[20:28:44]	Альберт Кольм entered observer.
+[20:28:44]	Альберт Кольм exited observer at their location.
+[20:28:46]	Альберт Кольм has taken 99 damage from Альберт Кольм.
+[20:28:51]	Альберт Кольм has spawned a 'Entity [112][arccw_ammo_smg1_grenade]'.
+[20:28:55]	Альберт Кольм has spawned a 'Entity [112][item_rpg_round]'.
+[20:28:55]	Артем Петров has spawned a 'Entity [113][arccw_ammo_buckshot_large]'.
+[20:28:56]	Артем Петров has spawned a 'Entity [112][arccw_ammo_buckshot_large]'.
+[20:28:56]	Альберт Кольм entered observer.
+[20:28:58]	Альберт Кольм exited observer at their location.
+[20:28:59]	Альберт Кольм entered observer.
+[20:29:02]	Альберт Кольм exited observer at their location.
+[20:29:03]	Альберт Кольм entered observer.
+[20:29:04]	Альберт Кольм exited observer at their location.
+[20:29:07]	Альберт Кольм has taken 99 damage from Альберт Кольм.
+[20:29:07]	Альберт Кольм has killed Альберт Кольм.
+[20:29:21]	Альберт Кольм entered observer.
+[20:29:25]	Альберт Кольм exited observer at their location.
+[20:29:30]	Альберт Кольм entered observer.
+[20:29:44]	Альберт Кольм has spawned a 'Entity [113][arccw_ammo_pistol_large]'.
+[20:29:50]	Артем Петров entered observer.
+[20:29:51]	Артем Петров exited observer at their location.
+[20:29:57]	Артем Петров has taken 22 damage from Альберт Кольм.
+[20:29:59]	Артем Петров entered observer.
+[20:30:00]	Артем Петров exited observer at their location.
+[20:30:01]	Артем Петров has taken 5 damage from Альберт Кольм.
+[20:30:07]	Альберт Кольм exited observer at their location.
+[20:30:14]	Альберт Кольм entered observer.
+[20:30:14]	Альберт Кольм exited observer at their location.
+[20:30:18]	Альберт Кольм entered observer.
+[20:30:19]	Альберт Кольм exited observer at their location.
+[20:30:24]	Альберт Кольм entered observer.
+[20:30:24]	Альберт Кольм exited observer at their location.
+[20:30:26]	Альберт Кольм has taken 31 damage from Артем Петров.
+[20:30:27]	Альберт Кольм has taken 136 damage from Артем Петров.
+[20:30:27]	Артем Петров has killed Альберт Кольм with arccw_shorty.
+[20:30:42]	Альберт Кольм used command '/CharSetModel Альберт models/barnes/refugee/male_25.mdl'.
+[20:30:42]	Альберт Кольм entered observer.
+[20:30:46]	Альберт Кольм exited observer at their location.
+[20:30:58]	Альберт Кольм has taken 170 damage from Артем Петров.
+[20:30:58]	Артем Петров has killed Альберт Кольм with arccw_shorty.
+[20:31:11]	Альберт Кольм entered observer.
+[20:31:14]	Альберт Кольм exited observer at their location.
+[20:31:14]	Альберт Кольм entered observer.
+[20:31:21]	Альберт Кольм has spawned a 'NPC [84][npc_manhack]'.
+[20:31:25]	Альберт Кольм has spawned a 'NPC [98][npc_manhack]'.
+[20:31:25]	Альберт Кольм has spawned a 'NPC [108][npc_manhack]'.
+[20:31:25]	Альберт Кольм has spawned a 'NPC [119][npc_manhack]'.
+[20:31:25]	Альберт Кольм has spawned a 'NPC [122][npc_manhack]'.
+[20:31:25]	Альберт Кольм has spawned a 'NPC [142][npc_manhack]'.
+[20:31:25]	Альберт Кольм has spawned a 'NPC [153][npc_manhack]'.
+[20:31:26]	Альберт Кольм has spawned a 'NPC [156][npc_manhack]'.
+[20:31:26]	Альберт Кольм has spawned a 'NPC [166][npc_manhack]'.
+[20:31:26]	Альберт Кольм has spawned a 'NPC [169][npc_manhack]'.
+[20:31:26]	Альберт Кольм has spawned a 'NPC [176][npc_manhack]'.
+[20:31:26]	Альберт Кольм has spawned a 'NPC [182][npc_manhack]'.
+[20:31:26]	Альберт Кольм has spawned a 'NPC [185][npc_manhack]'.
+[20:31:26]	Альберт Кольм has spawned a 'NPC [188][npc_manhack]'.
+[20:31:27]	Альберт Кольм has spawned a 'NPC [191][npc_manhack]'.
+[20:31:27]	Альберт Кольм has spawned a 'NPC [194][npc_manhack]'.
+[20:31:27]	Альберт Кольм has spawned a 'NPC [197][npc_manhack]'.
+[20:31:27]	Альберт Кольм has spawned a 'NPC [200][npc_manhack]'.
+[20:31:27]	Альберт Кольм has spawned a 'NPC [238][npc_manhack]'.
+[20:31:27]	Альберт Кольм has spawned a 'NPC [241][npc_manhack]'.
+[20:31:28]	Альберт Кольм has spawned a 'NPC [244][npc_manhack]'.
+[20:31:28]	Альберт Кольм has spawned a 'NPC [247][npc_manhack]'.
+[20:31:28]	Альберт Кольм has spawned a 'NPC [252][npc_manhack]'.
+[20:31:28]	Альберт Кольм has spawned a 'NPC [255][npc_manhack]'.
+[20:31:28]	Альберт Кольм has spawned a 'NPC [263][npc_manhack]'.
+[20:31:28]	Альберт Кольм has spawned a 'NPC [266][npc_manhack]'.
+[20:31:29]	Альберт Кольм has spawned a 'NPC [269][npc_manhack]'.
+[20:31:29]	Альберт Кольм has spawned a 'NPC [272][npc_manhack]'.
+[20:31:29]	Альберт Кольм has spawned a 'NPC [275][npc_manhack]'.
+[20:31:29]	Альберт Кольм has spawned a 'NPC [279][npc_manhack]'.
+[20:31:29]	Альберт Кольм has spawned a 'NPC [282][npc_manhack]'.
+[20:31:29]	Альберт Кольм has spawned a 'NPC [285][npc_manhack]'.
+[20:31:30]	Альберт Кольм has spawned a 'NPC [288][npc_manhack]'.
+[20:31:30]	Альберт Кольм has spawned a 'NPC [291][npc_manhack]'.
+[20:31:30]	Альберт Кольм has spawned a 'NPC [294][npc_manhack]'.
+[20:31:30]	Альберт Кольм has spawned a 'NPC [297][npc_manhack]'.
+[20:31:30]	Альберт Кольм has spawned a 'NPC [300][npc_manhack]'.
+[20:31:36]	Альберт Кольм has spawned a 'NPC [303][npc_manhack]'.
+[20:31:39]	Альберт Кольм has spawned a 'NPC [322][npc_manhack]'.
+[20:31:39]	Альберт Кольм has spawned a 'NPC [326][npc_manhack]'.
+[20:31:40]	Альберт Кольм has spawned a 'NPC [348][npc_manhack]'.
+[20:31:40]	Артем Петров has taken 4 damage from npc_manhack.
+[20:31:40]	Альберт Кольм has spawned a 'NPC [351][npc_manhack]'.
+[20:31:40]	Альберт Кольм has spawned a 'NPC [355][npc_manhack]'.
+[20:31:55]	Альберт Кольм has spawned a 'NPC [84][npc_manhack]'.
+[20:31:55]	Альберт Кольм has spawned a 'NPC [98][npc_manhack]'.
+[20:31:55]	Альберт Кольм has spawned a 'NPC [108][npc_manhack]'.
+[20:31:55]	Альберт Кольм has spawned a 'NPC [119][npc_manhack]'.
+[20:31:55]	Альберт Кольм has spawned a 'NPC [122][npc_manhack]'.
+[20:31:55]	Альберт Кольм has spawned a 'NPC [142][npc_manhack]'.
+[20:31:56]	Альберт Кольм has spawned a 'NPC [153][npc_manhack]'.
+[20:31:56]	Альберт Кольм has spawned a 'NPC [156][npc_manhack]'.
+[20:31:56]	Альберт Кольм has spawned a 'NPC [166][npc_manhack]'.
+[20:31:56]	Альберт Кольм has spawned a 'NPC [169][npc_manhack]'.
+[20:31:58]	Альберт Кольм has spawned a 'NPC [176][npc_manhack]'.
+[20:31:58]	Альберт Кольм has spawned a 'NPC [182][npc_manhack]'.
+[20:31:58]	Альберт Кольм has spawned a 'NPC [185][npc_manhack]'.
+[20:31:58]	Альберт Кольм has spawned a 'NPC [188][npc_manhack]'.
+[20:31:59]	Альберт Кольм has spawned a 'NPC [191][npc_manhack]'.
+[20:31:59]	Альберт Кольм has spawned a 'NPC [194][npc_manhack]'.
+[20:31:59]	Альберт Кольм has spawned a 'NPC [197][npc_manhack]'.
+[20:31:59]	Альберт Кольм has spawned a 'NPC [200][npc_manhack]'.
+[20:31:59]	Альберт Кольм has spawned a 'NPC [238][npc_manhack]'.
+[20:31:59]	Артем Петров has taken 4 damage from npc_manhack.
+[20:31:59]	Альберт Кольм has spawned a 'NPC [241][npc_manhack]'.
+[20:31:59]	Артем Петров has taken 4 damage from npc_manhack.
+[20:31:59]	Артем Петров has taken 4 damage from npc_manhack.
+[20:32:00]	Альберт Кольм has spawned a 'NPC [244][npc_manhack]'.
+[20:32:00]	Альберт Кольм has spawned a 'NPC [247][npc_manhack]'.
+[20:32:00]	Альберт Кольм has spawned a 'NPC [252][npc_manhack]'.
+[20:32:00]	Артем Петров has taken 4 damage from npc_manhack.
+[20:32:00]	Альберт Кольм has spawned a 'NPC [255][npc_manhack]'.
+[20:32:00]	Альберт Кольм has spawned a 'NPC [263][npc_manhack]'.
+[20:32:00]	Альберт Кольм has spawned a 'NPC [266][npc_manhack]'.
+[20:32:05]	Альберт Кольм has spawned a 'NPC [83][npc_manhack]'.
+[20:32:05]	Альберт Кольм has spawned a 'NPC [271][npc_manhack]'.
+[20:32:05]	Альберт Кольм has spawned a 'NPC [274][npc_manhack]'.
+[20:32:05]	Альберт Кольм has spawned a 'NPC [278][npc_manhack]'.
+[20:32:05]	Альберт Кольм has spawned a 'NPC [281][npc_manhack]'.
+[20:32:24]	Альберт Кольм has spawned a 'NPC [83][npc_metropolice]'.
+[20:32:26]	Артем Петров has taken 13 damage from npc_metropolice.
+[20:32:26]	Артем Петров has taken 13 damage from npc_metropolice.
+[20:32:26]	Артем Петров has taken 13 damage from npc_metropolice.
+[20:32:26]	Артем Петров has taken 13 damage from npc_metropolice.
+[20:32:27]	Артем Петров has taken 13 damage from npc_metropolice.
+[20:32:27]	npc_metropolice has killed Артем Петров.
+[20:32:38]	Альберт Кольм has spawned a 'NPC [83][npc_metropolice]'.
+[20:32:39]	Альберт Кольм has spawned a 'NPC [93][npc_metropolice]'.
+[20:32:40]	Артем Петров has taken 3 damage from npc_metropolice.
+[20:32:41]	Артем Петров has taken 6 damage from npc_metropolice.
+[20:32:41]	Артем Петров has taken 3 damage from npc_metropolice.
+[20:32:42]	Артем Петров has taken 1 damage from npc_metropolice.
+[20:32:42]	Артем Петров has taken 3 damage from npc_metropolice.
+[20:32:43]	Артем Петров has taken 3 damage from npc_metropolice.
+[20:32:43]	Артем Петров has taken 6 damage from npc_metropolice.
+[20:32:46]	Артем Петров has taken 3 damage from npc_metropolice.
+[20:32:48]	Артем Петров has taken 3 damage from npc_metropolice.
+[20:32:48]	Артем Петров has taken 1 damage from npc_metropolice.
+[20:32:48]	Артем Петров has taken 6 damage from npc_metropolice.
+[20:32:49]	Артем Петров has taken 6 damage from npc_metropolice.
+[20:32:51]	Артем Петров has taken 6 damage from npc_metropolice.
+[20:32:51]	Артем Петров has taken 3 damage from npc_metropolice.
+[20:32:52]	Артем Петров has taken 6 damage from npc_metropolice.
+[20:32:52]	Артем Петров has taken 3 damage from npc_metropolice.
+[20:32:53]	Артем Петров has taken 3 damage from npc_metropolice.
+[20:32:55]	Артем Петров has taken 3 damage from npc_metropolice.
+[20:32:55]	Артем Петров has taken 6 damage from npc_metropolice.
+[20:32:56]	Артем Петров has taken 1 damage from npc_metropolice.
+[20:32:57]	Артем Петров has taken 1 damage from npc_metropolice.
+[20:32:57]	Артем Петров has taken 6 damage from npc_metropolice.
+[20:32:58]	Артем Петров has taken 3 damage from npc_metropolice.
+[20:33:03]	Артем Петров has taken 3 damage from npc_metropolice.
+[20:33:04]	Артем Петров has taken 1 damage from npc_metropolice.
+[20:33:04]	Артем Петров has taken 1 damage from npc_metropolice.
+[20:33:04]	Артем Петров has taken 6 damage from npc_metropolice.
+[20:33:04]	Артем Петров has taken 3 damage from npc_metropolice.
+[20:33:05]	Артем Петров has taken 1 damage from npc_metropolice.
+[20:33:05]	npc_metropolice has killed Артем Петров.
+[20:33:17]	Артем Петров has taken 3 damage from npc_metropolice.
+[20:33:19]	Артем Петров has taken 6 damage from npc_metropolice.
+[20:33:19]	Артем Петров has taken 3 damage from npc_metropolice.
+[20:33:21]	Альберт Кольм has spawned a 'NPC [84][npc_metropolice]'.
+[20:33:24]	Альберт Кольм has spawned a 'NPC [94][npc_metropolice]'.
+[20:33:25]	Альберт Кольм has spawned a 'NPC [99][npc_metropolice]'.
+[20:33:29]	Артем Петров ran 'Equip' on item 'UMP-45' (#51)
+[20:33:31]	Альберт Кольм has spawned a 'NPC [109][npc_metropolice]'.
+[20:33:33]	Альберт Кольм has spawned a 'NPC [113][npc_metropolice]'.
+[20:33:37]	Артем Петров has spawned a 'Entity [109][arccw_ammo_pistol_large]'.
+[20:33:51]	Артем Петров has taken 1 damage from npc_metropolice.
+[20:33:52]	Артем Петров has taken 3 damage from npc_metropolice.
+[20:33:52]	Артем Петров has taken 3 damage from npc_metropolice.
+[20:33:57]	Альберт Кольм has spawned a 'NPC [94][npc_metropolice]'.
+[20:34:00]	Альберт Кольм has spawned a 'NPC [94][npc_metropolice]'.
+[20:34:00]	Артем Петров has taken 3 damage from npc_metropolice.
+[20:34:01]	Артем Петров has taken 3 damage from npc_metropolice.
+[20:34:01]	Артем Петров has taken 1 damage from npc_metropolice.
+[20:34:01]	Артем Петров has taken 6 damage from npc_metropolice.
+[20:34:01]	Артем Петров has taken 6 damage from npc_metropolice.
+[20:34:03]	Альберт Кольм has spawned a 'NPC [124][npc_metropolice]'.
+[20:34:04]	Артем Петров has taken 23 damage from npc_metropolice.
+[20:34:04]	Артем Петров has taken 23 damage from npc_metropolice.
+[20:34:04]	Артем Петров has taken 12 damage from npc_metropolice.
+[20:34:04]	Артем Петров has taken 23 damage from npc_metropolice.
+[20:34:04]	npc_metropolice has killed Артем Петров.
+[20:34:21]	Артем Петров has taken 11 damage from npc_metropolice.
+[20:34:21]	Артем Петров has taken 11 damage from npc_metropolice.
+[20:34:21]	Артем Петров has taken 11 damage from npc_metropolice.
+[20:34:22]	Артем Петров has taken 23 damage from npc_metropolice.
+[20:34:22]	Артем Петров has taken 11 damage from npc_metropolice.
+[20:34:22]	Артем Петров has taken 11 damage from npc_metropolice.
+[20:34:22]	Артем Петров has taken 11 damage from npc_metropolice.
+[20:34:24]	Артем Петров has taken 3 damage from npc_metropolice.
+[20:34:29]	Артем Петров has spawned a 'Entity [89][arccw_ammo_pistol_large]'.
+[20:34:29]	Артем Петров has spawned a 'Entity [142][arccw_ammo_pistol_large]'.
+[20:34:33]	Артем Петров ran 'Equip' on item 'UMP-45' (#51)
+[20:34:47]	Артем Петров has spawned a 'Entity [142][item_healthkit]'.
+[20:34:47]	Артем Петров has spawned a 'Entity [151][item_healthkit]'.
+[20:34:47]	Артем Петров has spawned a 'Entity [152][item_healthkit]'.
+[20:34:48]	Артем Петров has spawned a 'Entity [142][item_healthkit]'.
+[20:34:55]	Артем Петров has taken 3 damage from npc_metropolice.
+[20:34:55]	Артем Петров has taken 3 damage from npc_metropolice.
+[20:34:55]	Артем Петров has taken 12 damage from npc_metropolice.
+[20:34:55]	Артем Петров has taken 12 damage from npc_metropolice.
+[20:35:11]	Артем Петров has taken 1 damage from env_fire.
+[20:35:36]	Альберт Кольм has spawned a 'NPC [94][npc_combine_s]'.
+[20:35:41]	Артем Петров has taken 13 damage from npc_combine_s.
+[20:35:42]	Артем Петров has taken 13 damage from npc_combine_s.
+[20:35:42]	Артем Петров has taken 13 damage from npc_combine_s.
+[20:35:42]	Артем Петров has taken 3 damage from npc_combine_s.
+[20:35:42]	Артем Петров has taken 13 damage from npc_combine_s.
+[20:35:44]	Альберт Кольм has spawned a 'NPC [124][npc_combine_s]'.
+[20:35:45]	Альберт Кольм has spawned a 'NPC [94][npc_combine_s]'.
+[20:35:50]	Альберт Кольм has spawned a 'NPC [156][npc_combine_s]'.
+[20:35:52]	Альберт Кольм has spawned a 'NPC [165][npc_combine_s]'.
+[20:35:56]	Альберт Кольм has spawned a 'NPC [167][npc_combine_s]'.
+[20:35:57]	Артем Петров has taken 3 damage from npc_combine_s.
+[20:35:57]	Артем Петров has taken 13 damage from npc_combine_s.
+[20:35:57]	Артем Петров has taken 3 damage from npc_combine_s.
+[20:35:58]	Артем Петров has taken 26 damage from npc_combine_s.
+[20:36:01]	Альберт Кольм has spawned a 'NPC [169][npc_combine_s]'.
+[20:36:01]	Артем Петров has taken 13 damage from npc_combine_s.
+[20:36:01]	npc_combine_s has killed Артем Петров.
+[20:36:20]	Артем Петров has spawned a 'Entity [91][item_healthkit]'.
+[20:36:38]	Артем Петров has spawned a 'Entity [108][item_box_buckshot]'.
+[20:36:38]	Артем Петров has spawned a 'Entity [152][item_box_buckshot]'.
+[20:36:38]	Артем Петров has spawned a 'Entity [175][item_box_buckshot]'.
+[20:36:46]	Артем Петров entered observer.
+[20:37:07]	Альберт Кольм has spawned a 'NPC [12][npc_combine_s]'.
+[20:37:11]	Альберт Кольм has spawned a 'NPC [14][npc_combine_s]'.
+[20:37:22]	Артем Петров exited observer at their location.
+[20:37:27]	Альберт Кольм has spawned a 'NPC [12][npc_metropolice]'.
+[20:37:28]	Альберт Кольм has spawned a 'NPC [14][npc_metropolice]'.
+[20:37:33]	Альберт Кольм has spawned a 'NPC [77][npc_metropolice]'.
+[20:37:34]	Альберт Кольм has spawned a 'NPC [85][npc_metropolice]'.
+[20:37:43]	Альберт Кольм has spawned a 'NPC [85][npc_metropolice]'.
+[20:37:45]	Артем Петров has taken 3 damage from npc_metropolice.
+[20:37:45]	Артем Петров has taken 3 damage from npc_metropolice.
+[20:37:45]	Артем Петров has taken 3 damage from npc_metropolice.
+[20:37:45]	Артем Петров has taken 3 damage from npc_metropolice.
+[20:37:45]	Артем Петров has taken 12 damage from npc_metropolice.
+[20:37:45]	Артем Петров has taken 23 damage from npc_metropolice.
+[20:37:45]	Артем Петров has taken 12 damage from npc_metropolice.
+[20:37:46]	Артем Петров has taken 12 damage from npc_metropolice.
+[20:37:46]	Артем Петров has taken 3 damage from npc_metropolice.
+[20:37:46]	Артем Петров has taken 12 damage from npc_metropolice.
+[20:37:46]	Артем Петров has taken 23 damage from npc_metropolice.
+[20:37:46]	npc_metropolice has killed Артем Петров.
+[20:37:50]	Альберт Кольм has spawned a 'NPC [83][npc_metropolice]'.
+[20:37:57]	Альберт Кольм has spawned a 'NPC [91][npc_metropolice]'.
+[20:37:57]	Альберт Кольм has spawned a 'NPC [96][npc_metropolice]'.
+[20:38:00]	Артем Петров entered observer.
+[20:38:16]	Артем Петров exited observer at their location.
+[20:38:29]	Альберт Кольм has spawned a 'NPC [77][npc_metropolice]'.
+[20:38:30]	Альберт Кольм has spawned a 'NPC [324][npc_metropolice]'.
+[20:38:32]	Альберт Кольм has spawned a 'NPC [355][npc_metropolice]'.
+[20:38:34]	Артем Петров has spawned a 'Entity [366][item_box_buckshot]'.
+[20:38:34]	Артем Петров has spawned a 'Entity [370][item_box_buckshot]'.
+[20:38:34]	Альберт Кольм has spawned a 'NPC [378][npc_metropolice]'.
+[20:38:35]	Альберт Кольм has spawned a 'NPC [402][npc_metropolice]'.
+[20:38:36]	Альберт Кольм has spawned a 'NPC [370][npc_metropolice]'.
+[20:38:36]	Артем Петров has taken 22 damage from npc_metropolice.
+[20:38:36]	Артем Петров has taken 3 damage from npc_metropolice.
+[20:38:36]	Альберт Кольм has spawned a 'NPC [420][npc_metropolice]'.
+[20:38:37]	Артем Петров has taken 11 damage from npc_metropolice.
+[20:38:37]	Артем Петров has taken 11 damage from npc_metropolice.
+[20:38:37]	Артем Петров has taken 11 damage from npc_metropolice.
+[20:38:37]	Артем Петров has taken 3 damage from npc_metropolice.
+[20:38:38]	Артем Петров has taken 3 damage from npc_metropolice.
+[20:38:38]	Артем Петров has taken 3 damage from npc_metropolice.
+[20:38:38]	Артем Петров has taken 3 damage from npc_metropolice.
+[20:38:38]	Артем Петров has taken 12 damage from npc_metropolice.
+[20:38:38]	Артем Петров has taken 3 damage from npc_metropolice.
+[20:38:38]	Артем Петров has taken 23 damage from npc_metropolice.
+[20:38:38]	npc_metropolice has killed Артем Петров.
+[20:38:43]	Альберт Кольм has spawned a 'NPC [253][npc_citizen]'.
+[20:38:43]	Альберт Кольм has spawned a 'NPC [501][npc_citizen]'.
+[20:38:45]	Альберт Кольм has spawned a 'NPC [489][npc_citizen]'.
+[20:38:45]	Альберт Кольм has spawned a 'NPC [624][npc_citizen]'.
+[20:38:46]	Альберт Кольм has spawned a 'NPC [922][npc_citizen]'.
+[20:38:47]	Альберт Кольм has spawned a 'NPC [370][npc_citizen]'.
+[20:38:53]	Артем Петров entered observer.
+[20:39:04]	Артем Петров exited observer at their location.
+[20:39:05]	Альберт Кольм has spawned a 'Entity [845][gw_harvester]'.
+[20:39:08]	Артем Петров entered observer.
+[20:39:09]	Артем Петров exited observer at their location.
+[20:39:10]	Альберт Кольм has spawned a 'Entity [91][gw_strider]'.
+[20:39:10]	Артем Петров has spawned a 'Entity [996][item_box_buckshot]'.
+[20:39:11]	Артем Петров has spawned a 'Entity [1206][item_box_buckshot]'.
+[20:39:11]	Артем Петров has spawned a 'Entity [1333][item_box_buckshot]'.
+[20:39:11]	Артем Петров has spawned a 'Entity [1338][item_box_buckshot]'.
+[20:39:11]	Артем Петров has spawned a 'Entity [1398][item_box_buckshot]'.
+[20:39:12]	Альберт Кольм exited observer at their location.
+[20:39:19]	Артем Петров has taken 110 damage from gw_strider.
+[20:39:19]	gw_strider has killed Артем Петров.
+[20:39:30]	Альберт Кольм entered observer.
+[20:39:31]	Альберт Кольм has spawned a 'Entity [996][gw_hunter]'.
+[20:39:32]	Альберт Кольм exited observer at their location.
+[20:39:33]	Артем Петров entered observer.
+[20:39:39]	Альберт Кольм has taken 0 damage from gw_hunter.
+[20:39:39]	Альберт Кольм has taken 0 damage from gw_hunter.
+[20:39:40]	Артем Петров exited observer at their location.
+[20:39:45]	Артем Петров has spawned a 'Entity [91][item_box_buckshot]'.
+[20:39:46]	Артем Петров has spawned a 'Entity [253][item_box_buckshot]'.
+[20:39:46]	Артем Петров has spawned a 'Entity [347][item_box_buckshot]'.
+[20:39:46]	Артем Петров has spawned a 'Entity [355][item_box_buckshot]'.
+[20:39:52]	Артем Петров has taken 4 damage from gw_hunter.
+[20:39:52]	Артем Петров has taken 4 damage from gw_hunter.
+[20:39:53]	Артем Петров has taken 4 damage from gw_hunter.
+[20:39:53]	Артем Петров has taken 4 damage from gw_hunter.
+[20:39:54]	Артем Петров has taken 4 damage from gw_hunter.
+[20:39:54]	Артем Петров has taken 4 damage from gw_hunter.
+[20:39:55]	Артем Петров has taken 4 damage from gw_hunter.
+[20:39:55]	Артем Петров has taken 4 damage from gw_hunter.
+[20:39:55]	Артем Петров has taken 4 damage from gw_hunter.
+[20:39:55]	Артем Петров has taken 4 damage from gw_hunter.
+[20:39:58]	Артем Петров has taken 50 damage from gw_hunter.
+[20:39:59]	Артем Петров has taken 120 damage from Альберт Кольм.
+[20:39:59]	Альберт Кольм has killed Артем Петров with ix_hands.
+[20:40:08]	Альберт Кольм entered observer.
+[20:40:12]	Артем Петров entered observer.
+[20:40:17]	Артем Петров exited observer at their location.
+[20:40:20]	Альберт Кольм has spawned a 'Entity [91][sw_meteor]'.
+[20:40:25]	Альберт Кольм has spawned a 'Entity [91][sw_meteor]'.
+[20:40:26]	Альберт Кольм has spawned a 'Entity [347][sw_meteor]'.
+[20:40:27]	Альберт Кольм has spawned a 'Entity [91][sw_meteor]'.
+[20:40:33]	Альберт Кольм has spawned a 'Entity [378][sw_meteor]'.
+[20:40:40]	Артем Петров has spawned a 'Entity [378][item_box_buckshot]'.
+[20:40:40]	Артем Петров has spawned a 'Entity [489][item_box_buckshot]'.
+[20:40:40]	Артем Петров has spawned a 'Entity [501][item_box_buckshot]'.
+[20:41:04]	Альберт Кольм exited observer at their location.
+[20:41:36]	Альберт Кольм entered observer.
+[20:41:38]	Артем Петров has taken 22 damage from npc_metropolice.
+[20:41:38]	Артем Петров entered observer.
+[20:41:43]	Артем Петров exited observer at their location.
+[20:41:44]	Альберт Кольм exited observer at their location.
+[20:42:19]	Артем Петров entered observer.
+[20:42:21]	Артем Петров exited observer at their location.
+[20:43:35]	Альберт Кольм has taken 5 damage from npc_headcrab.
+[20:43:38]	Артем Петров has taken 5 damage from npc_headcrab.
+[20:43:39]	Артем Петров has taken 5 damage from npc_headcrab.
+[20:43:40]	Артем Петров ran 'Equip' on item 'UMP-45' (#51)
+[20:43:44]	Альберт Кольм has taken 5 damage from Альберт Кольм.
+[20:43:46]	Альберт Кольм has taken 5 damage from Альберт Кольм.
+[20:43:47]	Альберт Кольм has taken 5 damage from Альберт Кольм.
+[20:43:50]	Альберт Кольм entered observer.
+[20:43:51]	Артем Петров has spawned a 'Entity [489][item_ammo_smg1_large]'.
+[20:43:51]	Артем Петров has spawned a 'Entity [762][item_ammo_smg1_large]'.
+[20:43:51]	Альберт Кольм exited observer at their location.
+[20:43:52]	Артем Петров has spawned a 'Entity [1338][item_ammo_pistol_large]'.
+[20:43:52]	Артем Петров has spawned a 'Entity [1428][item_ammo_pistol_large]'.
+[20:43:52]	Артем Петров has spawned a 'Entity [1585][item_ammo_pistol_large]'.
+[20:43:52]	Артем Петров has spawned a 'Entity [2517][item_ammo_pistol_large]'.
+[20:43:54]	Артем Петров has taken 5 damage from Альберт Кольм.
+[20:43:55]	Артем Петров has taken 5 damage from Альберт Кольм.
+[20:43:56]	Артем Петров has taken 5 damage from Альберт Кольм.
+[20:43:57]	Артем Петров has taken 5 damage from Альберт Кольм.
+[20:43:59]	Артем Петров has taken 5 damage from Альберт Кольм.
+[20:44:00]	Артем Петров has taken 5 damage from Альберт Кольм.
+[20:44:01]	Артем Петров has taken 5 damage from Альберт Кольм.
+[20:44:02]	Артем Петров has taken 5 damage from Альберт Кольм.
+[20:44:03]	Артем Петров has taken 5 damage from Альберт Кольм.
+[20:44:06]	Альберт Кольм has taken 8 damage from Артем Петров.
+[20:44:06]	Альберт Кольм has taken 8 damage from Артем Петров.
+[20:44:06]	Альберт Кольм has taken 32 damage from Артем Петров.
+[20:44:06]	Альберт Кольм has taken 32 damage from Артем Петров.
+[20:44:06]	Артем Петров has killed Альберт Кольм with arccw_ump45.
+[20:44:07]	Альберт Кольм entered observer.
+[20:44:22]	Альберт Кольм entered observer.
+[20:44:23]	Артем Петров has taken 47 damage from worldspawn.
+[20:44:23]	worldspawn has killed Артем Петров.
+[20:44:33]	Альберт Кольм exited observer at their location.
+[20:44:34]	Альберт Кольм entered observer.
+[20:44:35]	Альберт Кольм exited observer at their location.
+[20:44:36]	Альберт Кольм entered observer.
+[20:44:43]	Артем Петров entered observer.
+[20:44:51]	Артем Петров exited observer at their location.
+[20:44:54]	Артем Петров has spawned a 'Entity [1585][item_ammo_pistol_large]'.
+[20:44:55]	Артем Петров has spawned a 'Entity [2393][item_ammo_pistol_large]'.
+[20:45:10]	Артем Петров entered observer.
+[20:45:11]	Артем Петров exited observer at their location.
+[20:45:12]	Артем Петров entered observer.
+[20:45:55]	Артем Петров exited observer at their location.
+[20:46:03]	Артем Петров has spawned a 'Entity [1035][item_ammo_pistol_large]'.
+[20:46:04]	Артем Петров has spawned a 'Entity [3133][item_ammo_pistol_large]'.
+[20:46:05]	Артем Петров has spawned a 'Entity [1035][item_box_buckshot]'.
+[20:46:05]	Артем Петров has spawned a 'Entity [3145][item_box_buckshot]'.
+[20:46:05]	Артем Петров has spawned a 'Entity [3133][item_box_buckshot]'.
+[20:46:05]	Артем Петров has spawned a 'Entity [3179][item_box_buckshot]'.
+[20:46:05]	Артем Петров has spawned a 'Entity [3191][item_box_buckshot]'.
+[20:46:06]	Артем Петров has spawned a 'Entity [1035][item_box_buckshot]'.
+[20:46:07]	Артем Петров has spawned a 'Entity [3133][item_box_buckshot]'.
+[20:46:12]	֍ Aime-moi ֍ (STEAM_0:0:424879351) has disconnected.
+[20:52:39]	Артем Петров entered observer.
+[20:52:42]	Артем Петров exited observer at their location.
+[20:52:51]	Артем Петров entered observer.
+[20:52:56]	Артем Петров exited observer at their location.
+[20:52:58]	Артем Петров entered observer.
+[20:52:58]	Артем Петров exited observer at their location.
+[20:55:42]	Артем Петров has gained a 'Shotgun' #59.
+[20:55:42]	Артем Петров used command '/CharGiveItem А shotgun'.
+[21:01:39]	Артем Петров has spawned 'models/weapons/w_rif_ak47.mdl'.
+[21:01:43]	Артем Петров has spawned 'models/weapons/w_shot_xm1014.mdl'.
+[21:01:44]	Артем Петров has spawned 'models/weapons/w_shot_m3super90.mdl'.
+[21:02:26]	Артем Петров has spawned 'models/weapons/arccw/w_defender.mdl'.
+[21:07:03]	Артем Петров has spawned 'models/Items/BoxBuckshot.mdl'.
+[21:07:49]	Артем Петров has gained a 'Weapon' #60.
+[21:07:49]	Артем Петров used command '/CharGiveItem А m3'.
+[21:07:57]	Артем Петров ran 'drop' on item 'Weapon' (#60)
+[21:07:57]	Артем Петров has lost a 'Weapon' #60.
+[21:08:34]	Г@H3NK has connected.
+[21:09:33]	Г@H3NK loaded the character 'Артем Петров'
+[21:09:50]	Артем Петров ran 'drop' on item 'Shotgun' (#59)
+[21:09:50]	Артем Петров has lost a 'Shotgun' #59.
+[21:09:52]	Артем Петров ran 'Equip' on item 'UMP-45' (#51)
+[21:09:54]	Артем Петров ran 'EquipUn' on item 'UMP-45' (#51)
+[21:10:13]	Артем Петров has gained a 'Weapon' #60.
+[21:10:13]	Артем Петров used command '/CharGiveItem А m3'.
+[21:21:53]	Г@H3NK has connected.
+[21:25:17]	Г@H3NK loaded the character 'Артем Петров'
+[21:25:21]	Артем Петров ran 'drop' on item 'Weapon' (#60)
+[21:25:21]	Артем Петров has lost a 'Weapon' #60.
+[21:25:25]	Артем Петров ran 'take' on item 'Weapon' (#60)
+[21:25:25]	Артем Петров has gained a 'Weapon' #60.
+[21:25:27]	Артем Петров ran 'Equip' on item 'Weapon' (#60)
+[21:27:07]	Артем Петров has gained a 'Weapon' #61.
+[21:27:07]	Артем Петров used command '/CharGiveItem А m3'.
+[21:27:13]	Артем Петров ran 'EquipUn' on item 'Weapon' (#60)
+[21:27:15]	Артем Петров ran 'drop' on item 'Weapon' (#60)
+[21:27:15]	Артем Петров has lost a 'Weapon' #60.
+[21:27:15]	Артем Петров ran 'drop' on item 'Weapon' (#61)
+[21:27:15]	Артем Петров has lost a 'Weapon' #61.
+[21:27:51]	Г@H3NK has connected.
+[21:28:08]	Г@H3NK loaded the character 'Артем Петров'
+[21:28:25]	Артем Петров has gained a 'Weapon' #60.
+[21:28:25]	Артем Петров used command '/CharGiveItem А m3'.
+[21:34:14]	Артем Петров ran 'drop' on item 'Weapon' (#60)
+[21:34:14]	Артем Петров has lost a 'Weapon' #60.
+[21:34:29]	Г@H3NK has connected.
+[21:34:47]	Г@H3NK loaded the character 'Артем Петров'
+[21:35:02]	Артем Петров has gained a 'Weapon' #60.
+[21:35:02]	Артем Петров used command '/CharGiveItem А m3'.
+[21:35:47]	Артем Петров has gained a 'M3 Super 90' #61.
+[21:35:47]	Артем Петров used command '/CharGiveItem А shorty'.
+[21:35:52]	Артем Петров ran 'drop' on item 'Weapon' (#60)
+[21:35:52]	Артем Петров has lost a 'Weapon' #60.
+[21:36:00]	Артем Петров ran 'Equip' on item 'M3 Super 90' (#61)
+[21:40:24]	Артем Петров entered observer.
+[21:41:05]	Артем Петров exited observer at their location.
+[21:41:08]	Артем Петров entered observer.
+[21:41:09]	Артем Петров exited observer at their location.
+[21:44:53]	Артем Петров ran 'EquipUn' on item 'M3 Super 90' (#61)
+[21:44:54]	Артем Петров ran 'Equip' on item 'UMP-45' (#51)
+[21:44:55]	Артем Петров ran 'Equip' on item 'M3 Super 90' (#61)
+[21:44:56]	Артем Петров ran 'Equip' on item 'M3 Super 90' (#61)
+[21:45:08]	Артем Петров ran 'Equip' on item 'M3 Super 90' (#61)
+[21:45:09]	Артем Петров ran 'drop' on item 'M3 Super 90' (#61)
+[21:45:09]	Артем Петров has lost a 'M3 Super 90' #61.
+[21:45:46]	Артем Петров ran 'take' on item 'M3 Super 90' (#61)
+[21:45:46]	Артем Петров has gained a 'M3 Super 90' #61.
+[21:46:16]	Артем Петров has gained a 'Suitcase' #62.
+[21:46:16]	Артем Петров used command '/CharGiveItem А suitcase'.
+[21:46:28]	Артем Петров ran 'drop' on item 'UMP-45' (#51)
+[21:46:28]	Артем Петров has lost a 'UMP-45' #51.
+[21:46:34]	Артем Петров ran 'take' on item 'UMP-45' (#51)
+[21:46:34]	Артем Петров has gained a 'UMP-45' #51.
+[21:49:22]	Г@H3NK has connected.
+[21:49:39]	Г@H3NK loaded the character 'Артем Петров'
+[21:50:03]	Артем Петров ran 'drop' on item 'M3 Super 90' (#61)
+[21:50:03]	Артем Петров has lost a 'M3 Super 90' #61.
+[21:50:06]	Артем Петров ran 'take' on item 'M3 Super 90' (#61)
+[21:50:06]	Артем Петров has gained a 'M3 Super 90' #61.
+[21:57:40]	Г@H3NK has connected.
+[22:00:13]	Г@H3NK loaded the character 'Артем Петров'
+[22:01:06]	Артем Петров has gained a 'M3 Super 90' #63.
+[22:01:06]	Артем Петров used command '/CharGiveItem А m3'.
+[22:02:47]	Артем Петров has spawned 'models/weapons/w_smg_ump45.mdl'.
+[22:04:03]	Г@H3NK has connected.
+[22:04:20]	Г@H3NK loaded the character 'Артем Петров'
+[22:04:24]	Артем Петров entered observer.
+[22:04:25]	Артем Петров exited observer at their location.
+[22:06:29]	Артем Петров ran 'Equip' on item 'M3 Super 90' (#63)
+[22:06:31]	Артем Петров ran 'EquipUn' on item 'M3 Super 90' (#63)
+[22:06:57]	Г@H3NK has connected.
+[22:07:14]	Г@H3NK loaded the character 'Артем Петров'
+[22:09:19]	Г@H3NK has connected.
+[22:10:01]	Г@H3NK loaded the character 'Артем Петров'
+[22:11:04]	Г@H3NK has connected.
+[22:11:20]	Г@H3NK loaded the character 'Артем Петров'
+[22:12:27]	Г@H3NK has connected.
+[22:12:47]	Г@H3NK loaded the character 'Артем Петров'
+[22:13:09]	Артем Петров has spawned 'models/weapons/w_shot_m3super90.mdl'.
+[22:14:10]	Г@H3NK has connected.
+[22:14:27]	Г@H3NK loaded the character 'Артем Петров'
+[22:14:52]	Артем Петров ran 'Equip' on item 'M3 Super 90' (#63)
+[22:40:29]	Артем Петров used command '/CharSetClass А RVN'.
+[22:45:29]	Артем Петров entered observer.
+[22:45:30]	Артем Петров exited observer at their location.
+[22:45:30]	Артем Петров used the 'Валерий' vendor.
+[23:01:26]	Артем Петров entered observer.
+[23:01:28]	Артем Петров exited observer at their location.
+[23:04:02]	Артем Петров has spawned 'models/player/terminator_fatty.mdl'.
+[23:04:03]	Артем Петров entered observer.
+[23:04:19]	Артем Петров has spawned 'models/humans/group03m/male_80.mdl'.
+[23:04:32]	Артем Петров has spawned 'models/humans/group03/suit_gh.mdl'.
+[23:04:39]	Артем Петров has spawned 'models/barnes/refugee/male_25.mdl'.
+[23:05:01]	Артем Петров has spawned 'models/barnes/refugee/male_100.mdl'.
+[23:05:03]	Артем Петров has spawned 'models/barnes/refugee/male_100.mdl'.
+[23:05:20]	Артем Петров has spawned 'models/barnes/refugee/male_24.mdl'.
+[23:05:21]	Артем Петров has spawned 'models/barnes/refugee/male_24.mdl'.
+[23:05:24]	Артем Петров has spawned 'models/barnes/refugee/male_13.mdl'.
+[23:05:26]	Артем Петров has spawned 'models/barnes/refugee/male_12.mdl'.
+[23:05:31]	Артем Петров has spawned 'models/barnes/refugee/male_115.mdl'.
+[23:05:34]	Артем Петров has spawned 'models/barnes/refugee/male_54.mdl'.
+[23:05:38]	Артем Петров has spawned 'models/barnes/refugee/male_55.mdl'.
+[23:05:42]	Артем Петров has spawned 'models/barnes/refugee/male_79.mdl'.
+[23:05:46]	Артем Петров has spawned 'models/tactical_rebel.mdl'.
+[23:05:50]	Артем Петров has spawned 'models/tactical_rebel_female.mdl'.
+[23:05:51]	Артем Петров has spawned 'models/tactical_rebel_coat.mdl'.
+[23:05:57]	Артем Петров has spawned 'models/lambdamovement.mdl'.
+[23:05:59]	Артем Петров has spawned 'models/tactical_rebel.mdl'.
+[23:06:01]	Артем Петров has spawned 'models/lambdamovement.mdl'.
+[23:06:36]	Артем Петров has spawned 'models/c08cop.mdl'.
+[23:06:38]	Артем Петров has spawned 'models/c08cop_rensai.mdl'.
+[23:06:40]	Артем Петров has spawned 'models/c08cop.mdl'.
+[23:06:43]	Артем Петров has spawned 'models/city8_ow_elite.mdl'.
+[23:06:45]	Артем Петров has spawned 'models/city8_ow_elite.mdl'.
+[23:06:50]	Артем Петров has spawned 'models/police_female_blondecp.mdl'.
+[23:06:52]	Артем Петров has spawned 'models/city8_overwatch.mdl'.
+[23:06:54]	Артем Петров has spawned 'models/city8_overwatch_elite.mdl'.
+[23:06:59]	Артем Петров has spawned 'models/barnes/refugee/male_91.mdl'.
+[23:07:01]	Артем Петров has spawned 'models/barnes/refugee/male_91.mdl'.
+[23:07:08]	Артем Петров has spawned 'models/barnes/refugee/male_22.mdl'.
+[23:07:12]	Артем Петров has spawned 'models/barnes/refugee/male_22.mdl'.
+[23:07:17]	Артем Петров has spawned 'models/barnes/refugee/male_17.mdl'.
+[23:07:20]	Артем Петров has spawned 'models/barnes/refugee/male_17.mdl'.
+[23:07:27]	Артем Петров has spawned 'models/barnes/refugee/male_115.mdl'.
+[23:07:30]	Артем Петров has spawned 'models/humans/sinner_sas.mdl'.
+[23:07:40]	Артем Петров has spawned 'models/barnes/refugee/male_91.mdl'.
+[23:07:43]	Артем Петров has spawned 'models/barnes/refugee/male_92.mdl'.
+[23:07:45]	Артем Петров has spawned 'models/barnes/refugee/male_88.mdl'.
+[23:07:48]	Артем Петров has spawned 'models/barnes/refugee/male_81.mdl'.
+[23:07:57]	Артем Петров has spawned 'models/humans/group01/lambda3.mdl'.
+[23:08:44]	Артем Петров has spawned 'models/barnes/refugee/male_26.mdl'.
+[23:08:45]	Артем Петров has spawned 'models/barnes/refugee/male_28.mdl'.
+[23:08:54]	Артем Петров has spawned 'models/barnes/refugee/male_41.mdl'.
+[23:08:56]	Артем Петров has spawned 'models/barnes/refugee/male_42.mdl'.
+[23:09:01]	Артем Петров has spawned 'models/barnes/refugee/male_44.mdl'.
+[23:09:04]	Артем Петров exited observer at their location.
+[23:09:04]	Артем Петров has spawned 'models/barnes/refugee/male_44.mdl'.
+[23:09:06]	Артем Петров has spawned 'models/barnes/refugee/male_44.mdl'.
+[23:09:52]	Артем Петров entered observer.
+[23:09:56]	Артем Петров exited observer at their location.
+[23:09:57]	Артем Петров entered observer.
+[23:10:11]	Артем Петров has spawned 'models/barnes/refugee/male_41.mdl'.
+[23:10:50]	Артем Петров has spawned 'models/barnes/refugee/male_52.mdl'.
+[23:10:53]	Артем Петров has spawned 'models/barnes/refugee/male_91.mdl'.
+[23:10:59]	Артем Петров has spawned 'models/barnes/refugee/male_113.mdl'.
+[23:11:07]	Артем Петров has spawned 'models/barnes/refugee/male_100.mdl'.
+[23:11:12]	Артем Петров has spawned 'models/urbantrenchcoat.mdl'.
+[23:11:21]	Артем Петров has spawned 'models/flyboi/blackhawk/blackhawk_fb.mdl'.
+[23:11:26]	Артем Петров has spawned 'models/flyboi/ch46/ch46_fb.mdl'.
+[23:11:27]	Артем Петров has spawned 'models/flyboi/hind/mi24_fb.mdl'.
+[23:11:30]	Артем Петров has spawned 'models/flyboi/hind/mi24_fb.mdl'.
+[23:11:32]	Артем Петров exited observer at their location.
+[23:11:39]	Артем Петров entered observer.
+[23:11:40]	Артем Петров exited observer at their location.
+[23:12:22]	Артем Петров entered observer.
+[23:12:25]	Артем Петров exited observer at their location.
+[23:12:39]	Артем Петров has spawned 'models/humans/group03/coalition_male.mdl'.
+[23:12:39]	Артем Петров entered observer.
+[23:12:43]	Артем Петров has spawned 'models/humans/group03/coalition_female.mdl'.
+[23:12:50]	Артем Петров has spawned 'models/humans/group03/female_pz.mdl'.
+[23:12:53]	Артем Петров has spawned 'models/humans/group03/female_51.mdl'.
+[23:12:56]	Артем Петров has spawned 'models/humans/group03/female_65.mdl'.
+[23:13:00]	Артем Петров has spawned 'models/humans/group03/male_118.mdl'.
+[23:13:17]	Артем Петров has spawned 'models/purvis/male_01_metrocop.mdl'.
+[23:13:35]	Артем Петров has spawned 'models/humans/group03m/male_89.mdl'.
+[23:13:47]	Артем Петров has spawned 'models/humans/group03m/male_94.mdl'.
+[23:13:54]	Артем Петров has spawned 'models/humans/group03m/male_78.mdl'.
+[23:14:04]	Артем Петров has spawned 'models/humans/group03m/male_61.mdl'.
+[23:14:25]	Артем Петров has spawned 'models/humans/group03m/male_72.mdl'.
+[23:14:27]	Артем Петров has spawned 'models/humans/group03m/male_73.mdl'.
+[23:14:42]	Артем Петров has spawned 'models/humans/group03m/male_61.mdl'.
+[23:14:49]	Артем Петров has spawned 'models/pmc/pmc_1/pmc__06.mdl'.
+[23:14:51]	Артем Петров has spawned 'models/pmc/pmc_1/pmc__05.mdl'.
+[23:14:57]	Артем Петров exited observer at their location.
+[23:15:09]	Артем Петров has spawned 'models/humans/group03m/male_hc.mdl'.
+[23:15:10]	Артем Петров entered observer.
+[23:15:14]	Артем Петров has spawned 'models/humans/group03m/male_jb.mdl'.
+[23:15:15]	Артем Петров has spawned 'models/humans/group03m/male_jb.mdl'.
+[23:15:42]	Артем Петров exited observer at their location.
+[23:15:53]	Артем Петров entered observer.
+[23:16:33]	Артем Петров exited observer at their location.
+[23:16:36]	Артем Петров entered observer.
+[23:16:37]	Артем Петров exited observer at their location.
+[23:16:56]	Артем Петров has spawned 'models/humans/group03m/male_93.mdl'.
+[23:16:56]	Артем Петров entered observer.
+[23:17:10]	Артем Петров has spawned 'models/humans/group03m/male_69.mdl'.
+[23:18:08]	Артем Петров exited observer at their location.
+[23:18:08]	Артем Петров entered observer.
+[23:18:17]	Артем Петров has spawned 'models/humans/group03m/male_102.mdl'.
+[23:18:28]	Артем Петров has spawned 'models/humans/group03m/male_49.mdl'.
+[23:18:33]	Артем Петров exited observer at their location.
+[23:19:29]	Артем Петров entered observer.
+[23:19:31]	Артем Петров has spawned 'models/humans/group03/male_49.mdl'.
+[23:19:33]	Артем Петров has spawned 'models/humans/group03/male_49.mdl'.
+[23:19:46]	Артем Петров has spawned 'models/humans/group03/male_74.mdl'.
+[23:19:56]	Артем Петров exited observer at their location.
+[23:20:07]	Артем Петров used command '/CharSetModel А models/humans/group03/male_49.mdl'.
+[23:20:20]	Артем Петров has spawned 'models/humans/group03/male_37.mdl'.
+[23:20:21]	Артем Петров entered observer.
+[23:20:25]	Артем Петров has spawned 'models/humans/group03/male_31.mdl'.
+[23:21:08]	Артем Петров has spawned 'models/humans/group03m/male_49.mdl'.
+[23:21:51]	Артем Петров has spawned 'models/humans/group03/male_49.mdl'.
+[23:21:55]	Артем Петров has spawned 'models/humans/group03/male_52.mdl'.
+[23:22:01]	Артем Петров has spawned 'models/humans/group03/male_55.mdl'.
+[23:22:03]	Артем Петров has spawned 'models/humans/group03/male_56.mdl'.
+[23:22:09]	Артем Петров has spawned 'models/humans/group03/male_61.mdl'.
+[23:22:13]	Артем Петров has spawned 'models/humans/group03/male_74.mdl'.
+[23:22:18]	Артем Петров has spawned 'models/humans/group03/male_92.mdl'.
+[23:22:19]	Артем Петров has spawned 'models/humans/group03/male_93.mdl'.
+[23:22:23]	Артем Петров has spawned 'models/humans/group03/male_100.mdl'.
+[23:22:46]	Артем Петров used command '/CharSetModel А models/humans/group03/male_49.mdl'.
+[23:22:47]	Артем Петров exited observer at their location.
+[23:23:44]	Артем Петров used command '/CharSetModel А models/humans/group03m/male_78.mdl'.
+[23:24:01]	Артем Петров has spawned 'models/humans/group03/male_26.mdl'.
+[23:24:03]	Артем Петров has spawned 'models/humans/group03/male_26.mdl'.
+[23:24:12]	Артем Петров entered observer.
+[23:24:14]	Артем Петров exited observer at their location.
+[23:24:21]	Артем Петров has spawned 'models/humans/group03/male_42.mdl'.
+[23:24:22]	Артем Петров entered observer.
+[23:24:26]	Артем Петров exited observer at their location.
+[23:24:29]	Артем Петров has spawned 'models/humans/group03/male_43.mdl'.
+[23:24:29]	Артем Петров entered observer.
+[23:24:31]	Артем Петров exited observer at their location.
+[23:26:03]	Артем Петров has spawned 'models/humans/group03/male_119.mdl'.
+[23:26:04]	Артем Петров entered observer.
+[23:26:05]	Артем Петров has spawned 'models/humans/group03/male_119.mdl'.
+[23:26:21]	Артем Петров has spawned 'models/barnes/refugee/male_91.mdl'.
+[23:26:24]	Артем Петров exited observer at their location.
+[23:26:43]	Артем Петров used command '/CharSetModel А models/barnes/refugee/male_91.mdl'.
+[23:31:19]	Артем Петров used command '/CharSetModel А models/barnes/refugee/male_100.mdl'.
+[23:33:22]	Артем Петров has gained 0 tokens.
+[23:33:22]	Артем Петров ordered a shipment
+[23:33:28]	Артем Петров has gained a 'Consumables Permit' #64.
+[23:33:28]	Артем Петров took 'Consumables Permit' from the shipment
+[23:33:33]	Артем Петров ran 'drop' on item 'Consumables Permit' (#64)
+[23:33:33]	Артем Петров has lost a 'Consumables Permit' #64.
+[23:33:39]	Артем Петров ran 'take' on item 'Consumables Permit' (#64)
+[23:33:39]	Артем Петров has gained a 'Consumables Permit' #64.
+[23:33:48]	Артем Петров ran 'drop' on item 'Consumables Permit' (#64)
+[23:33:48]	Артем Петров has lost a 'Consumables Permit' #64.
+[23:34:09]	Артем Петров ran 'Equip' on item 'UMP-45' (#51)
+[23:34:11]	Артем Петров ran 'EquipUn' on item 'M3 Super 90' (#63)
+[23:34:12]	Артем Петров ran 'Equip' on item 'UMP-45' (#51)
+[23:34:41]	Артем Петров ran 'EquipUn' on item 'UMP-45' (#51)
+[23:34:43]	Артем Петров ran 'Equip' on item 'UMP-45' (#51)
+[23:34:50]	Артем Петров ran 'EquipUn' on item 'UMP-45' (#51)
+[23:34:53]	Артем Петров ran 'Equip' on item 'UMP-45' (#51)
+[23:35:07]	Артем Петров ran 'EquipUn' on item 'UMP-45' (#51)
+[23:35:08]	Артем Петров ran 'Equip' on item 'UMP-45' (#51)
+[23:35:14]	Артем Петров ran 'EquipUn' on item 'UMP-45' (#51)
+[23:35:16]	Артем Петров ran 'Equip' on item 'UMP-45' (#51)
+[23:35:22]	Артем Петров ran 'EquipUn' on item 'UMP-45' (#51)
+[23:35:23]	Артем Петров ran 'Equip' on item 'UMP-45' (#51)
+[23:35:31]	Артем Петров ran 'Equip' on item 'M3 Super 90' (#63)
+[23:35:34]	Артем Петров ran 'EquipUn' on item 'UMP-45' (#51)
+[23:35:34]	Артем Петров ran 'Equip' on item 'M3 Super 90' (#63)
+[23:35:38]	Артем Петров ran 'EquipUn' on item 'M3 Super 90' (#63)
+[23:35:41]	Артем Петров ran 'Equip' on item 'M3 Super 90' (#63)
+[23:35:48]	Артем Петров ran 'EquipUn' on item 'M3 Super 90' (#63)
+[23:35:49]	Артем Петров ran 'Equip' on item 'M3 Super 90' (#63)
+[23:42:43]	Г@H3NK has connected.
+[23:43:25]	Г@H3NK loaded the character 'Артем Петров'
+[23:45:32]	Ветеран Сопротивления used command '/CharSetName А Ветеран Сопротивления'.
+[23:52:16]	Александр Климов used command '/CharSetName В Александр Климов'.
+[23:53:10]	Александр Климов used command '/CharSetClass А Ветеран'.
+[23:56:11]	Александр Климов has spawned 'models/weapons/w_9mmhandgun.mdl'.
+[23:56:18]	Александр Климов has spawned 'models/weapons/w_9mmhandgun.mdl'.
+[23:56:31]	Александр Климов has spawned 'models/weapons/w_pist_deagle.mdl'.
+[23:56:35]	Александр Климов has spawned 'models/weapons/w_rpg_hls.mdl'.
+[23:56:37]	Александр Климов has spawned 'models/weapons/w_rpg_hls.mdl'.
+[23:56:41]	Александр Климов has spawned 'models/weapons/w_pistol.mdl'.
+[23:56:43]	Александр Климов has spawned 'models/weapons/w_pist_usp_silencer.mdl'.
+[23:56:52]	Александр Климов has spawned 'models/weapons/w_stunbaton.mdl'.
+[23:57:03]	Александр Климов has spawned 'models/weapons/w_shotgun_hls.mdl'.
+[23:57:31]	Александр Климов ran 'EquipUn' on item 'M3 Super 90' (#63)
+[23:57:32]	Александр Климов ran 'Equip' on item 'UMP-45' (#51)
+[23:57:55]	Г@H3NK loaded the character 'Alexander Klimov'
+[23:57:58]	Alexander Klimov has taken 8 damage from worldspawn.
+[23:58:24]	Г@H3NK loaded the character 'Александр Климов'
+[23:58:47]	Александр Климов used command '/CharSetClass А'.
+[23:58:53]	Александр Климов used command '/CharSetClass А'.
+[23:59:07]	Александр Климов used command '/CharSetClass А Разведчик'.

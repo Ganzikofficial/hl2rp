@@ -1,0 +1,153 @@
+[00:00:34]	D47.MPF-DvL.514 used command '/Dispatch ANTI-CITIZEN'.
+[00:00:37]	D47.MPF-DvL.514 entered observer.
+[00:00:45]	D47.MPF-DvL.514 exited observer at their location.
+[00:01:07]	D47.MPF-DvL.514 used command '/Dispatch ACTIVITY LEVEL 1'.
+[00:01:32]	D47.MPF-DvL.514 used command '/Dispatch ACTIVITY LEVEL'.
+[00:01:37]	D47.MPF-DvL.514 used command '/Dispatch ANTI-CIVIL EVIDENCE'.
+[00:01:54]	D47.MPF-DvL.514 used command '/Dispatch ANTI-CIVIL EVIDENCE'.
+[00:02:05]	D47.MPF-DvL.514 used command '/Dispatch CITIZEN RELOCATION'.
+[00:02:32]	D47.MPF-DvL.514 used command '/Dispatch INDIVIDUAL CHARGED WITH'.
+[00:03:48]	D47.MPF-DvL.514 has gained 50 tokens.
+[00:04:59]	D47.MPF-DvL.514 used command '/Dispatch JUDGMENT WAIVER'.
+[00:09:22]	D47.MPF-DvL.514 has gained 50 tokens.
+[00:09:34]	D47.MPF-DvL.514 entered observer.
+[00:09:40]	D47.MPF-DvL.514 exited observer at their location.
+[00:17:00]	D47.MPF-DvL.514 has taken 10 damage from worldspawn.
+[00:18:18]	Г@H3NK loaded the character 'Александр Климов'
+[00:18:20]	Александр Климов ran 'EquipUn' on item 'AK-47' (#402)
+[00:18:21]	Александр Климов ran 'Equip' on item 'AK-47' (#402)
+[00:21:42]	Г@H3NK loaded the character 'D47.MPF-DvL.514'
+[00:26:42]	D47.MPF-DvL.514 has gained 50 tokens.
+[00:30:14]	D47.MPF-DvL.514 entered observer.
+[00:30:20]	D47.MPF-DvL.514 exited observer at their location.
+[00:30:20]	D47.MPF-DvL.514 entered observer.
+[00:30:41]	D47.MPF-DvL.514 has spawned a 'Entity [1345][ix_vendingmachine]'.
+[00:30:44]	D47.MPF-DvL.514 has spawned a 'Entity [1345][ix_vendingmachine]'.
+[00:30:46]	D47.MPF-DvL.514 has spawned a 'Entity [1367][ix_vendingmachine]'.
+[00:30:48]	D47.MPF-DvL.514 exited observer at their location.
+[00:30:57]	D47.MPF-DvL.514 entered observer.
+[00:31:06]	D47.MPF-DvL.514 exited observer at their location.
+[00:31:11]	D47.MPF-DvL.514 has spawned a 'Entity [474][ix_vendingmachine]'.
+[00:31:38]	D47.MPF-DvL.514 has spawned a 'Entity [474][ix_vendingmachine]'.
+[00:31:42]	D47.MPF-DvL.514 has gained 50 tokens.
+[00:31:45]	D47.MPF-DvL.514 entered observer.
+[00:31:59]	D47.MPF-DvL.514 has spawned a 'Entity [474][ix_forcefield]'.
+[00:32:02]	D47.MPF-DvL.514 has spawned a 'Entity [474][ix_forcefield]'.
+[00:32:05]	D47.MPF-DvL.514 exited observer at their location.
+[00:32:09]	D47.MPF-DvL.514 entered observer.
+[00:32:13]	D47.MPF-DvL.514 exited observer at their location.
+[00:32:21]	D47.MPF-DvL.514 has spawned a 'Entity [474][ix_forcefield]'.
+[00:32:23]	D47.MPF-DvL.514 has spawned a 'Entity [1345][ix_forcefield]'.
+[00:32:27]	D47.MPF-DvL.514 has spawned a 'Entity [1345][ix_forcefield]'.
+[00:33:03]	D47.MPF-DvL.514 has spawned a 'Entity [474][ix_combinelock]'.
+[00:33:05]	D47.MPF-DvL.514 entered observer.
+[00:33:07]	D47.MPF-DvL.514 exited observer at their location.
+[00:33:10]	D47.MPF-DvL.514 entered observer.
+[00:33:11]	D47.MPF-DvL.514 exited observer at their location.
+[00:33:11]	D47.MPF-DvL.514 has spawned a 'Entity [1367][ix_combinelock]'.
+[00:36:42]	D47.MPF-DvL.514 has gained 50 tokens.
+[00:41:42]	D47.MPF-DvL.514 has gained 50 tokens.
+[00:43:28]	D47.MPF-DvL.514 ran 'Equip' on item 'Броня ГО' (#415)
+[00:43:34]	D47.MPF-DvL.514 ran 'EquipUn' on item 'Броня ГО' (#415)
+[00:43:36]	D47.MPF-DvL.514 ran 'Equip' on item 'Броня ГО' (#415)
+[00:43:37]	D47.MPF-DvL.514 ran 'EquipUn' on item 'Броня ГО' (#415)
+[00:46:42]	D47.MPF-DvL.514 has gained 50 tokens.
+[00:46:44]	D47.MPF-DvL.514 has spawned 'models/toastlord/t_metrocop_reimagined.mdl'.
+[00:46:46]	D47.MPF-DvL.514 has spawned 'models/player/toastlord/pm_metrocop_reimagined.mdl'.
+[00:47:25]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/hunter_police_subtle.mdl'.
+[00:47:29]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/hunter_police_subtle.mdl'.
+[00:47:30]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/hunter_police_subtle_dvl.mdl'.
+[00:47:31]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/hunter_police_subtle_ofc.mdl'.
+[00:47:35]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/hunter_police_subtle_ofc.mdl'.
+[00:47:36]	D47.MPF-DvL.514 entered observer.
+[00:47:38]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/hunter_police_subtle_dvl.mdl'.
+[00:47:39]	D47.MPF-DvL.514 exited observer at their location.
+[00:47:40]	D47.MPF-DvL.514 entered observer.
+[00:47:40]	D47.MPF-DvL.514 exited observer at their location.
+[00:47:41]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/hunter_police_subtle_dvl.mdl'.
+[00:47:41]	D47.MPF-DvL.514 entered observer.
+[00:47:44]	D47.MPF-DvL.514 exited observer at their location.
+[00:47:44]	D47.MPF-DvL.514 entered observer.
+[00:47:45]	D47.MPF-DvL.514 exited observer at their location.
+[00:47:45]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/hunter_police_subtle_dvl.mdl'.
+[00:47:54]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/civil_medic_subtle.mdl'.
+[00:47:58]	D47.MPF-DvL.514 entered observer.
+[00:48:00]	D47.MPF-DvL.514 exited observer at their location.
+[00:48:03]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/hdpolice_i1.mdl'.
+[00:48:04]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/hdpolice_i2.mdl'.
+[00:48:06]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/hdpolice_i3.mdl'.
+[00:48:08]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/hdpolice_i4.mdl'.
+[00:48:10]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/hdpolice_i5.mdl'.
+[00:48:20]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/trenchcoat_i1.mdl'.
+[00:48:21]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/trenchcoat_i2.mdl'.
+[00:48:22]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/trenchcoat_i3.mdl'.
+[00:48:23]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/trenchcoat_i4.mdl'.
+[00:48:27]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/trenchcoat_ofc.mdl'.
+[00:48:28]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/trenchcoat_dvl.mdl'.
+[00:48:30]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/trenchcoat_dvl.mdl'.
+[00:48:37]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/hunter_police_subtle.mdl'.
+[00:48:40]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/hunter_police_subtle.mdl'.
+[00:48:48]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/hunter_police_subtle_ofc.mdl'.
+[00:48:51]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/hunter_police_subtle_dvl.mdl'.
+[00:53:10]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/playermodels/pm_hl2beta_police.mdl'.
+[00:53:13]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/playermodels/pm_hl2beta_police.mdl'.
+[00:53:58]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/playermodels/pm_retrocop.mdl'.
+[00:54:00]	D47.MPF-DvL.514 entered observer.
+[00:54:08]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/playermodels/pm_hl2concept.mdl'.
+[00:54:24]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/playermodels/pm_c08cop.mdl'.
+[00:54:26]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/playermodels/pm_c08cop.mdl'.
+[00:54:37]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/playermodels/pm_hdpolice.mdl'.
+[00:54:52]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/playermodels/pm_urban_police.mdl'.
+[00:56:49]	D47.MPF-DvL.514 exited observer at their location.
+[00:56:50]	D47.MPF-DvL.514 has gained 50 tokens.
+[00:56:51]	D47.MPF-DvL.514 entered observer.
+[00:56:59]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/hunter_police_subtle.mdl'.
+[00:57:03]	D47.MPF-DvL.514 exited observer at their location.
+[00:58:08]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/hunter_police_subtle_dvl.mdl'.
+[00:58:13]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/hunter_police_subtle.mdl'.
+[00:58:23]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/trenchcoat_hunter_ofc.mdl'.
+[00:58:25]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/trenchcoat_hunter_dvl.mdl'.
+[00:58:28]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/trenchcoat_dvl.mdl'.
+[00:58:29]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/hunter_police_subtle_ofc.mdl'.
+[00:58:41]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/hunter_police_subtle_ofc.mdl'.
+[00:58:54]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/playermodels/pm_hunter_police.mdl'.
+[00:58:59]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/playermodels/pm_tron_police_or.mdl'.
+[00:59:00]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/playermodels/pm_tron_police_cn.mdl'.
+[00:59:02]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/playermodels/pm_tribal_police.mdl'.
+[00:59:05]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/playermodels/pm_steampunk_police.mdl'.
+[00:59:08]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/playermodels/pm_skull_police.mdl'.
+[00:59:09]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/playermodels/pm_rogue_police.mdl'.
+[00:59:22]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/playermodels/pm_hunter_police.mdl'.
+[00:59:25]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/playermodels/pm_hl2beta_police.mdl'.
+[00:59:46]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/playermodels/pm_black_police.mdl'.
+[00:59:52]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/playermodels/pm_skull_police.mdl'.
+[00:59:52]	D47.MPF-DvL.514 entered observer.
+[01:00:02]	D47.MPF-DvL.514 exited observer at their location.
+[01:00:04]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/playermodels/pm_biopolice.mdl'.
+[01:00:05]	D47.MPF-DvL.514 entered observer.
+[01:00:07]	D47.MPF-DvL.514 exited observer at their location.
+[01:01:23]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/playermodels/pm_badass_police.mdl'.
+[01:01:26]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/playermodels/pm_arctic_police.mdl'.
+[01:01:31]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/playermodels/pm_arctic_police.mdl'.
+[01:01:50]	D47.MPF-DvL.514 has gained 50 tokens.
+[01:02:07]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/playermodels/pm_biopolice.mdl'.
+[01:02:09]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/props/badass_glasses.mdl'.
+[01:02:11]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/playermodels/pm_badass_police.mdl'.
+[01:02:13]	D47.MPF-DvL.514 has spawned 'models/dpfilms/metropolice/playermodels/pm_biopolice.mdl'.
+[01:06:51]	D47.MPF-DvL.514 has gained 50 tokens.
+[01:11:51]	D47.MPF-DvL.514 has gained 50 tokens.
+[01:16:51]	D47.MPF-DvL.514 has gained 50 tokens.
+[01:21:51]	D47.MPF-DvL.514 has gained 50 tokens.
+[01:26:51]	D47.MPF-DvL.514 has gained 50 tokens.
+[01:31:51]	D47.MPF-DvL.514 has gained 50 tokens.
+[01:32:14]	D47.MPF-DvL.514 entered observer.
+[01:32:34]	D47.MPF-DvL.514 has spawned a 'NPC [477][npc_metropolice]'.
+[01:32:49]	D47.MPF-DvL.514 has spawned a 'NPC [1392][npc_metropolice]'.
+[01:32:52]	D47.MPF-DvL.514 has spawned a 'NPC [477][npc_metropolice]'.
+[01:32:53]	D47.MPF-DvL.514 has spawned a 'NPC [1378][npc_metropolice]'.
+[01:33:00]	D47.MPF-DvL.514 has spawned a 'NPC [1378][npc_metropolice]'.
+[01:33:00]	D47.MPF-DvL.514 has spawned a 'NPC [1395][npc_metropolice]'.
+[01:33:01]	D47.MPF-DvL.514 exited observer at their location.
+[01:36:35]	D47.MPF-DvL.514 entered observer.
+[01:36:51]	D47.MPF-DvL.514 has gained 50 tokens.
+[01:38:32]	D47.MPF-DvL.514 exited observer at their location.

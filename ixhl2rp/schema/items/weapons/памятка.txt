@@ -1,0 +1,12 @@
+ITEM.name = "хлъ"
+ITEM.description = "нохяюмхе"
+ITEM.model = "лндекэ"
+ITEM.class = "йкюяя"
+ITEM.weaponCategory = "йюрецнпхъ"
+ITEM.width = 3 дкхммю
+ITEM.height = 2 ьхпхмю
+ITEM.iconCam = {
+	ang	= Angle(0, 270, 0), сцнк
+	fov	= 5.7, пюглеп
+	pos	= Vector(3, 330, 4) кебн-опюбн, дюкэмнярэ, бмхг-ббепу
+}

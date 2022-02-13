@@ -1,0 +1,124 @@
+[00:02:52]	D47.MPF-OfC.717 has gained 100 tokens.
+[00:07:40]	D47.MPF-OfC.717 has spawned 'models/dpfilms/metropolice/playermodels/pm_tron_police_or.mdl'.
+[00:08:16]	D47.MPF-OfC.717 exited observer at their location.
+[00:08:55]	D47.MPF-HELIX.514 used command '/CharSetName D47 D47.MPF-HELIX.514'.
+[00:09:26]	D47.MPF-HELIX.514 entered observer.
+[00:09:29]	D47.MPF-HELIX.514 exited observer at their location.
+[00:13:43]	D47.MPF-HELIX.514 has spawned 'models/props_combine/combine_explosivepanel_wall02a_shard02.mdl'.
+[00:13:54]	D47.MPF-HELIX.514 has spawned 'models/props_combine/stalkerpod_lid.mdl'.
+[00:14:03]	D47.MPF-HELIX.514 has spawned 'models/props_combine/corecontrolmonitor.mdl'.
+[00:14:10]	D47.MPF-HELIX.514 has gained 100 tokens.
+[00:14:25]	D47.MPF-HELIX.514 entered observer.
+[00:14:29]	D47.MPF-HELIX.514 exited observer at their location.
+[00:14:47]	D47.MPF-HELIX.514 has spawned 'models/props_combine/breenconsole.mdl'.
+[00:15:04]	D47.MPF-HELIX.514 has spawned 'models/Items/ammocrate_ar2.mdl'.
+[00:15:06]	D47.MPF-HELIX.514 has spawned 'models/Items/ammocrate_grenade.mdl'.
+[00:15:07]	D47.MPF-HELIX.514 has spawned 'models/Items/ammoCrate_Rockets.mdl'.
+[00:15:08]	D47.MPF-HELIX.514 has spawned 'models/Items/ammocrate_smg1.mdl'.
+[00:17:10]	D47.MPF-HELIX.514 used the 'Склад Боеприпасов' vendor.
+[00:17:19]	D47.MPF-HELIX.514 has gained 0 tokens.
+[00:17:19]	D47.MPF-HELIX.514 has gained a 'Коробочка 9×19 мм патронов' #377.
+[00:17:32]	D47.MPF-HELIX.514 ran 'use' on item 'Коробочка 9×19 мм патронов' (#377)
+[00:18:10]	D47.MPF-HELIX.514 ran 'Equip' on item 'M9' (#376)
+[00:18:11]	D47.MPF-HELIX.514 ran 'EquipUn' on item 'Five-seveN' (#124)
+[00:18:12]	D47.MPF-HELIX.514 ran 'Equip' on item 'M9' (#376)
+[00:19:16]	D47.MPF-HELIX.514 has gained 100 tokens.
+[00:21:07]	D47.MPF-HELIX.514 has spawned 'models/hunter/plates/plate025x2.mdl'.
+[00:21:11]	D47.MPF-HELIX.514 has spawned 'models/hunter/plates/plate025x1.mdl'.
+[00:21:31]	D47.MPF-HELIX.514 has spawned 'models/squad/sf_tris/sf_tri1x1.mdl'.
+[00:21:40]	D47.MPF-HELIX.514 has spawned 'models/squad/sf_tris/sf_tri4x4.mdl'.
+[00:21:53]	D47.MPF-HELIX.514 has spawned 'models/hunter/plates/tri2x1.mdl'.
+[00:22:04]	D47.MPF-HELIX.514 has spawned 'models/hunter/plates/plate1x4x2trap.mdl'.
+[00:22:09]	D47.MPF-HELIX.514 has spawned 'models/hunter/plates/tri3x1.mdl'.
+[00:22:16]	D47.MPF-HELIX.514 has spawned 'models/hunter/geometric/tri1x1eq.mdl'.
+[00:22:41]	D47.MPF-HELIX.514 entered observer.
+[00:22:46]	D47.MPF-HELIX.514 exited observer at their location.
+[00:23:10]	D47.MPF-HELIX.514 has spawned 'models/hunter/plates/plate025x125.mdl'.
+[00:23:12]	D47.MPF-HELIX.514 has spawned 'models/hunter/plates/plate025x125.mdl'.
+[00:23:51]	D47.MPF-HELIX.514 entered observer.
+[00:23:53]	D47.MPF-HELIX.514 exited observer at their location.
+[00:24:04]	D47.MPF-HELIX.514 entered observer.
+[00:24:19]	D47.MPF-HELIX.514 has gained 100 tokens.
+[00:27:12]	D47.MPF-HELIX.514 has spawned 'models/hunter/plates/plate025x125.mdl'.
+[00:27:12]	D47.MPF-HELIX.514 has spawned 'models/hunter/plates/plate025x125.mdl'.
+[00:27:12]	D47.MPF-HELIX.514 has spawned 'models/hunter/plates/plate025x125.mdl'.
+[00:27:12]	D47.MPF-HELIX.514 has spawned 'models/hunter/plates/plate025x125.mdl'.
+[00:27:12]	D47.MPF-HELIX.514 has spawned 'models/hunter/plates/plate025x125.mdl'.
+[00:27:29]	D47.MPF-HELIX.514 has spawned 'models/hunter/plates/plate025x125.mdl'.
+[00:27:43]	D47.MPF-HELIX.514 has spawned 'models/hunter/plates/plate025x125.mdl'.
+[00:27:46]	D47.MPF-HELIX.514 exited observer at their location.
+[00:28:23]	D47.MPF-HELIX.514 has spawned 'models/hunter/plates/plate025x125.mdl'.
+[00:28:35]	D47.MPF-HELIX.514 has spawned 'models/hunter/plates/plate025x125.mdl'.
+[00:29:20]	D47.MPF-HELIX.514 has spawned 'models/weapons/w_rif_m4a1.mdl'.
+[00:29:21]	D47.MPF-HELIX.514 has gained 100 tokens.
+[00:30:46]	D47.MPF-HELIX.514 has spawned 'models/weapons/w_rif_m4a1.mdl'.
+[00:30:47]	D47.MPF-HELIX.514 has spawned 'models/weapons/w_rif_m4a1.mdl'.
+[00:30:59]	D47.MPF-HELIX.514 has spawned 'models/hunter/plates/plate025x05.mdl'.
+[00:31:56]	D47.MPF-HELIX.514 has spawned 'models/Items/battery.mdl'.
+[00:31:57]	D47.MPF-HELIX.514 has spawned 'models/Items/battery.mdl'.
+[00:32:01]	D47.MPF-HELIX.514 has spawned 'models/Items/battery.mdl'.
+[00:32:15]	D47.MPF-HELIX.514 has spawned 'models/Items/BoxBuckshot.mdl'.
+[00:32:22]	D47.MPF-HELIX.514 has spawned 'models/Items/BoxSRounds.mdl'.
+[00:32:25]	D47.MPF-HELIX.514 has spawned 'models/Items/BoxMRounds.mdl'.
+[00:32:35]	D47.MPF-HELIX.514 entered observer.
+[00:32:38]	D47.MPF-HELIX.514 exited observer at their location.
+[00:32:42]	D47.MPF-HELIX.514 has spawned 'models/Items/HealthKit.mdl'.
+[00:33:41]	D47.MPF-HELIX.514 has spawned a 'Entity [1383][ix_vendor]'.
+[00:34:21]	D47.MPF-HELIX.514 has gained 100 tokens.
+[00:36:19]	D47.MPF-HELIX.514 used command '/BecomeClass mpu'.
+[00:36:27]	D47.MPF-HELIX.514 used command '/BecomeClass MPU'.
+[00:36:35]	D47.MPF-HELIX.514 used command '/BecomeClass Metropolice Unit'.
+[00:36:43]	D47.MPF-HELIX.514 used command '/BecomeClass Metro_police_unit'.
+[00:36:50]	D47.MPF-HELIX.514 used command '/BecomeClass metropolice_unit'.
+[00:37:12]	D47.MPF-HELIX.514 used command '/CharSetClass D47 metropolice_unit'.
+[00:37:16]	D47.MPF-HELIX.514 used the 'Аптечка' vendor.
+[00:37:48]	D47.MPF-HELIX.514 has spawned a 'Entity [1382][ix_vendor]'.
+[00:38:19]	D47.MPF-HELIX.514 has spawned a 'Entity [1344][item_suitcharger]'.
+[00:38:33]	D47.MPF-HELIX.514 has spawned a 'Entity [1344][item_suitcharger]'.
+[00:38:35]	D47.MPF-HELIX.514 has spawned a 'Entity [1381][item_suitcharger]'.
+[00:38:36]	D47.MPF-HELIX.514 has spawned a 'Entity [1344][item_suitcharger]'.
+[00:38:39]	D47.MPF-HELIX.514 has spawned a 'Entity [1344][item_suitcharger]'.
+[00:39:09]	D47.MPF-HELIX.514 has spawned 'models/Items/item_item_crate_dynamic.mdl'.
+[00:39:10]	D47.MPF-HELIX.514 has spawned 'models/Items/item_item_crate.mdl'.
+[00:39:21]	D47.MPF-HELIX.514 has gained 100 tokens.
+[00:39:51]	D47.MPF-HELIX.514 has spawned a 'Entity [1389][item_suitcharger]'.
+[00:41:50]	D47.MPF-HELIX.514 has spawned 'models/weapons/w_rif_m4a1.mdl'.
+[00:41:51]	D47.MPF-HELIX.514 has spawned 'models/weapons/w_rif_m4a1.mdl'.
+[00:44:23]	D47.MPF-HELIX.514 has gained 100 tokens.
+[00:44:53]	D47.MPF-HELIX.514 has spawned 'models/hunter/plates/plate025x125.mdl'.
+[00:45:34]	D47.MPF-HELIX.514 entered observer.
+[00:46:05]	D47.MPF-HELIX.514 exited observer at their location.
+[00:46:32]	D47.MPF-HELIX.514 has spawned 'models/hunter/plates/plate025x125.mdl'.
+[00:46:42]	D47.MPF-HELIX.514 has spawned 'models/hunter/plates/plate025x1.mdl'.
+[00:46:50]	D47.MPF-HELIX.514 has spawned 'models/hunter/plates/plate025x075.mdl'.
+[00:46:51]	D47.MPF-HELIX.514 has spawned 'models/hunter/plates/plate025x05.mdl'.
+[00:46:59]	D47.MPF-HELIX.514 entered observer.
+[00:47:38]	D47.MPF-HELIX.514 exited observer at their location.
+[00:47:47]	D47.MPF-HELIX.514 has spawned 'models/weapons/w_shot_m3super90.mdl'.
+[00:49:23]	D47.MPF-HELIX.514 has gained 100 tokens.
+[00:51:47]	D47.MPF-HELIX.514 has spawned 'models/weapons/w_shot_m3super90.mdl'.
+[00:51:48]	D47.MPF-HELIX.514 has spawned 'models/weapons/w_shot_m3super90.mdl'.
+[00:51:53]	D47.MPF-HELIX.514 has spawned 'models/weapons/w_shot_m3super90.mdl'.
+[00:51:54]	D47.MPF-HELIX.514 has spawned 'models/weapons/w_shot_m3super90.mdl'.
+[00:54:00]	D47.MPF-HELIX.514 has spawned a 'Entity [1351][ix_vendor]'.
+[00:54:23]	D47.MPF-HELIX.514 has gained 100 tokens.
+[00:55:37]	D47.MPF-HELIX.514 used the 'Стойка' vendor.
+[00:55:38]	D47.MPF-HELIX.514 has gained 0 tokens.
+[00:55:38]	D47.MPF-HELIX.514 has gained a 'M4' #377.
+[00:55:53]	D47.MPF-HELIX.514 ran 'drop' on item 'M4' (#377)
+[00:55:53]	D47.MPF-HELIX.514 has lost a 'M4' #377.
+[00:56:20]	D47.MPF-HELIX.514 used the 'Стойка' vendor.
+[00:57:17]	D47.MPF-HELIX.514 has spawned a 'Entity [1391][ix_vendor]'.
+[00:59:23]	D47.MPF-HELIX.514 has gained 100 tokens.
+[00:59:53]	D47.MPF-HELIX.514 used the 'Аптечка' vendor.
+[00:59:56]	D47.MPF-HELIX.514 has lost 40 tokens.
+[00:59:56]	D47.MPF-HELIX.514 has gained a 'Health Kit' #377.
+[00:59:59]	D47.MPF-HELIX.514 ran 'Apply' on item 'Health Kit' (#377)
+[01:01:09]	D47.MPF-HELIX.514 ran 'EquipUn' on item 'M9' (#376)
+[01:01:18]	D47.MPF-HELIX.514 ran 'Equip' on item 'M9' (#376)
+[01:01:23]	D47.MPF-HELIX.514 ran 'EquipUn' on item 'M9' (#376)
+[01:01:26]	D47.MPF-HELIX.514 ran 'Equip' on item 'Five-seveN' (#124)
+[01:01:53]	D47.MPF-HELIX.514 entered observer.
+[01:02:04]	D47.MPF-HELIX.514 exited observer at their location.
+[01:02:10]	D47.MPF-HELIX.514 entered observer.
+[01:02:22]	D47.MPF-HELIX.514 exited observer at their location.

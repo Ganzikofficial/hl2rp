@@ -1,0 +1,35 @@
+[19:21:29]	Г@H3NK has connected.
+[19:26:15]	Г@H3NK loaded the character 'Александр Климов'
+[19:28:58]	Александр Климов ran 'Equip' on item 'Benelli M3 Super 90' (#409)
+[19:29:49]	Александр Климов set weaponAlwaysRaised to '[false]'.
+[19:31:08]	Александр Климов set weaponAlwaysRaised to '[true]'.
+[19:31:35]	Александр Климов set weaponAlwaysRaised to '[false]'.
+[19:33:44]	Александр Климов has spawned a 'Entity [121][ix_forcefield]'.
+[19:33:45]	Александр Климов has spawned a 'Entity [123][ix_forcefield]'.
+[19:33:46]	Александр Климов has spawned a 'Entity [121][ix_forcefield]'.
+[19:33:51]	Александр Климов has spawned a 'Entity [123][ix_forcefield]'.
+[19:33:55]	Александр Климов has spawned a 'Entity [121][ix_vendingmachine]'.
+[19:34:05]	Александр Климов has spawned a 'Entity [121][ent_jack_gmod_ezarmor_hazmat]'.
+[19:34:21]	Александр Климов entered observer.
+[19:34:22]	Александр Климов exited observer at their location.
+[19:34:44]	Александр Климов has spawned a 'Entity [122][ent_jack_gmod_ezarmor_ltorso]'.
+[19:35:16]	Александр Климов has spawned a 'Entity [112][ent_jack_gmod_ezarmor_mtorso]'.
+[19:35:35]	Александр Климов has spawned a 'Entity [112][ent_jack_gmod_ezammo]'.
+[19:35:36]	Александр Климов has spawned a 'Entity [122][ent_jack_gmod_ezammo]'.
+[19:42:53]	Александр Климов has spawned a 'Entity [112][ent_jack_gmod_ezammo]'.
+[19:42:54]	Александр Климов has spawned a 'Entity [122][ent_jack_gmod_ezammo]'.
+[19:46:34]	Александр Климов set weaponRaiseTime to '0.5'.
+[19:48:48]	Александр Климов entered observer.
+[19:48:53]	Александр Климов exited observer at their location.
+[19:48:54]	Александр Климов entered observer.
+[19:48:55]	Александр Климов exited observer at their location.
+[19:54:42]	Александр Климов has spawned a 'Entity [122][npcg_cnscrpt_cmb]'.
+[19:54:42]	Александр Климов has taken 6 damage from npc_combine_s.
+[19:54:43]	Александр Климов has taken 0 damage from npc_combine_s.
+[19:54:43]	Александр Климов has taken 6 damage from npc_combine_s.
+[19:54:43]	Александр Климов has taken 1 damage from npc_combine_s.
+[19:54:50]	Александр Климов has spawned a 'NPC [122][npc_citizen]'.
+[19:54:58]	Александр Климов has spawned a 'NPC [122][npc_citizen]'.
+[19:54:59]	Александр Климов has spawned a 'NPC [132][npc_citizen]'.
+[19:56:30]	Александр Климов has spawned a 'NPC [122][npc_breen]'.
+[19:56:39]	Александр Климов has spawned a 'NPC [122][npc_citizen]'.

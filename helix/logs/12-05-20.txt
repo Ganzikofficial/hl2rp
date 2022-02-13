@@ -1,0 +1,2103 @@
+[06:57:06]	Г@H3NK has connected.
+[06:58:05]	Г@H3NK loaded the character 'Александр Климов'
+[06:58:41]	Александр Климов has lost 8 tokens.
+[06:58:42]	Александр Климов ordered a shipment
+[06:58:46]	Александр Климов has gained a 'Китайская лапша' #128.
+[06:58:46]	Александр Климов took 'Китайская лапша' from the shipment
+[06:58:48]	Александр Климов ran 'Eat' on item 'Китайская лапша' (#128)
+[06:58:55]	Александр Климов used the 'Валерий' vendor.
+[07:01:18]	Александр Климов used the 'Валерий' vendor.
+[07:01:20]	Александр Климов has lost 8 tokens.
+[07:01:20]	Александр Климов has gained a 'Наручкики' #128.
+[07:01:25]	Александр Климов ran 'Use' on item 'Наручкики' (#128)
+[07:04:06]	Александр Климов entered observer.
+[07:04:58]	Александр Климов exited observer at their location.
+[07:05:34]	Александр Климов ran 'EquipUn' on item 'ДС Дробовик' (#91)
+[07:05:35]	Александр Климов ran 'EquipUn' on item 'Glock' (#89)
+[07:05:36]	Александр Климов ran 'Toggle' on item 'Портативная рация' (#93)
+[07:06:51]	Александр Климов set weaponRaiseTime to '1'.
+[07:07:13]	Александр Климов has spawned a 'Entity [678][ix_forcefield]'.
+[07:07:21]	Александр Климов has spawned a 'Entity [678][ix_rationdispenser]'.
+[07:07:22]	Александр Климов has spawned a 'Entity [689][ix_vendingmachine]'.
+[07:07:24]	Александр Климов has spawned a 'Entity [678][ix_rationdispenser]'.
+[07:07:34]	Александр Климов has spawned a 'Entity [678][st_radio_country_n]'.
+[07:07:36]	Александр Климов has spawned a 'Entity [679][st_radio_jams_n]'.
+[07:07:38]	Александр Климов has spawned a 'Entity [678][st_radio_cuban_n]'.
+[07:07:49]	Александр Климов entered observer.
+[07:07:57]	Александр Климов exited observer at their location.
+[07:08:00]	Александр Климов entered observer.
+[07:08:06]	Александр Климов exited observer at their location.
+[07:08:08]	Александр Климов entered observer.
+[07:08:10]	Александр Климов exited observer at their location.
+[07:08:30]	Александр Климов has spawned 'models/props_junk/wood_pallet001a.mdl'.
+[07:08:43]	Александр Климов has spawned 'models/props_junk/wood_pallet001a.mdl'.
+[07:08:46]	Александр Климов has spawned 'models/props_junk/wood_pallet001a.mdl'.
+[07:08:48]	Александр Климов has spawned 'models/props_junk/wood_pallet001a.mdl'.
+[07:08:52]	Александр Климов has spawned 'models/props_junk/wood_pallet001a.mdl'.
+[07:09:21]	Александр Климов has spawned 'models/props_junk/wood_pallet001a.mdl'.
+[07:10:46]	Александр Климов has spawned 'models/props_debris/metal_panel01a.mdl'.
+[07:10:48]	Александр Климов has spawned 'models/props_debris/metal_panel02a.mdl'.
+[07:12:17]	Александр Климов has spawned 'models/props_debris/metal_panel02a.mdl'.
+[07:12:51]	Александр Климов has spawned 'models/props_interiors/Furniture_chair03a.mdl'.
+[07:13:05]	Александр Климов has spawned 'models/props_trainstation/BenchOutdoor01a.mdl'.
+[07:13:21]	Александр Климов has spawned 'models/props_lab/lockerdoorleft.mdl'.
+[07:13:32]	Александр Климов has spawned 'models/props_debris/metal_panel02a.mdl'.
+[07:13:37]	Александр Климов has spawned 'models/props_docks/dock01_cleat01a.mdl'.
+[07:13:38]	Александр Климов has spawned 'models/props_docks/dock01_pole01a_128.mdl'.
+[07:14:26]	Александр Климов has spawned 'models/props_trainstation/BenchOutdoor01a.mdl'.
+[07:14:55]	Александр Климов has spawned 'models/props_junk/TrashDumpster02b.mdl'.
+[07:15:24]	Александр Климов entered observer.
+[07:15:26]	Александр Климов exited observer at their location.
+[07:15:28]	Александр Климов has spawned 'models/props_wasteland/controlroom_storagecloset001a.mdl'.
+[07:16:07]	Александр Климов entered observer.
+[07:16:09]	Александр Климов has spawned 'models/props_wasteland/cafeteria_table001a.mdl'.
+[07:16:15]	Александр Климов has spawned 'models/props_wasteland/cafeteria_table001a.mdl'.
+[07:16:17]	Александр Климов exited observer at their location.
+[07:16:33]	Александр Климов entered observer.
+[07:16:35]	Александр Климов exited observer at their location.
+[07:17:12]	Александр Климов has spawned 'models/props_junk/iBeam01a_cluster01.mdl'.
+[07:17:19]	Александр Климов has spawned 'models/props_junk/iBeam01a_cluster01.mdl'.
+[07:17:25]	Александр Климов entered observer.
+[07:17:41]	Александр Климов exited observer at their location.
+[07:17:56]	Александр Климов has spawned 'models/props_junk/TrashDumpster02b.mdl'.
+[07:18:34]	Александр Климов entered observer.
+[07:18:36]	Александр Климов exited observer at their location.
+[07:18:49]	Александр Климов has spawned 'models/props_junk/cardboard_box001a.mdl'.
+[07:18:56]	Александр Климов entered observer.
+[07:18:58]	Александр Климов exited observer at their location.
+[07:19:01]	Александр Климов has spawned 'models/props_junk/MetalBucket01a.mdl'.
+[07:20:42]	Александр Климов has spawned 'models/props_c17/door01_left.mdl'.
+[07:21:41]	Александр Климов has spawned 'models/props_lab/filecabinet02.mdl'.
+[07:22:00]	Александр Климов has set the password for 'File Cabinet'.
+[07:22:09]	Александр Климов opened the 'File Cabinet' #43 container.
+[07:22:25]	Александр Климов closed the 'File Cabinet' #43 container.
+[07:22:30]	Александр Климов has spawned 'models/props_junk/TrashDumpster01a.mdl'.
+[07:22:38]	Александр Климов has spawned 'models/props_c17/door01_left.mdl'.
+[07:23:18]	Александр Климов has spawned 'models/props_wasteland/interior_fence001g.mdl'.
+[07:24:23]	Александр Климов has spawned 'models/props_wasteland/interior_fence002e.mdl'.
+[07:25:05]	Александр Климов has spawned 'models/props_wasteland/interior_fence002d.mdl'.
+[07:25:24]	Александр Климов entered observer.
+[07:25:28]	Александр Климов exited observer at their location.
+[07:25:36]	Александр Климов has spawned 'models/props_c17/fence01b.mdl'.
+[07:26:45]	Александр Климов has spawned 'models/props_wasteland/interior_fence002b.mdl'.
+[07:27:34]	Александр Климов entered observer.
+[07:27:35]	Александр Климов exited observer at their location.
+[07:27:36]	Александр Климов entered observer.
+[07:27:39]	Александр Климов exited observer at their location.
+[07:27:43]	Александр Климов has spawned a 'Entity [830][ix_vendor]'.
+[07:27:45]	Александр Климов entered observer.
+[07:27:46]	Александр Климов exited observer at their location.
+[07:28:00]	Александр Климов entered observer.
+[07:28:09]	Александр Климов has spawned a 'Entity [830][ix_vendor]'.
+[07:28:13]	Александр Климов has spawned a 'Entity [830][ix_vendor]'.
+[07:28:14]	Александр Климов exited observer at their location.
+[07:28:26]	Александр Климов used the 'John Doe' vendor.
+[07:29:38]	Александр Климов used the 'Сара' vendor.
+[07:29:51]	Александр Климов used the 'Сара' vendor.
+[07:30:01]	Александр Климов entered observer.
+[07:30:05]	Александр Климов has spawned a 'Entity [830][ix_vendor]'.
+[07:30:06]	Александр Климов exited observer at their location.
+[07:30:10]	Александр Климов used the 'John Doe' vendor.
+[07:30:39]	Александр Климов entered observer.
+[07:30:46]	Александр Климов exited observer at their location.
+[07:31:24]	Александр Климов used the 'Сара' vendor.
+[07:39:17]	Александр Климов entered observer.
+[07:39:20]	Александр Климов exited observer at their location.
+[07:39:27]	Александр Климов entered observer.
+[07:39:29]	Александр Климов used the 'Сара' vendor.
+[07:39:36]	Александр Климов exited observer at their location.
+[07:39:55]	Александр Климов entered observer.
+[07:40:06]	Александр Климов exited observer at their location.
+[07:40:09]	Александр Климов entered observer.
+[07:40:13]	Александр Климов exited observer at their location.
+[07:42:18]	Александр Климов entered observer.
+[07:42:25]	Александр Климов exited observer at their location.
+[07:42:33]	Александр Климов entered observer.
+[07:42:36]	Александр Климов exited observer at their location.
+[07:42:36]	Александр Климов entered observer.
+[07:42:37]	Александр Климов exited observer at their location.
+[07:42:37]	Александр Климов entered observer.
+[07:42:38]	Александр Климов exited observer at their location.
+[07:42:50]	Александр Климов entered observer.
+[07:42:51]	Александр Климов exited observer at their location.
+[07:43:17]	Александр Климов entered observer.
+[07:43:19]	Александр Климов exited observer at their location.
+[07:43:19]	Александр Климов entered observer.
+[07:43:20]	Александр Климов exited observer at their location.
+[07:43:24]	Александр Климов entered observer.
+[07:43:25]	Александр Климов exited observer at their location.
+[07:43:35]	Александр Климов entered observer.
+[07:43:37]	Александр Климов exited observer at their location.
+[07:43:48]	Александр Климов entered observer.
+[07:43:50]	Александр Климов exited observer at their location.
+[07:44:19]	Александр Климов used the 'Сара' vendor.
+[07:45:08]	Александр Климов entered observer.
+[07:45:08]	Александр Климов exited observer at their location.
+[07:45:09]	Александр Климов opened the 'File Cabinet' #43 container.
+[07:45:22]	Александр Климов closed the 'File Cabinet' #43 container.
+[07:45:22]	Александр Климов entered observer.
+[07:45:23]	Александр Климов exited observer at their location.
+[07:45:40]	Александр Климов used the 'Арина' vendor.
+[07:47:39]	Александр Климов used the 'Арина' vendor.
+[07:47:41]	Александр Климов has gained 0 tokens.
+[07:47:41]	Александр Климов has gained a 'AK-47' #129.
+[07:47:42]	Александр Климов has gained 0 tokens.
+[07:47:47]	Александр Климов ran 'take' on item 'AK-47' (#130)
+[07:47:50]	Александр Климов ran 'drop' on item 'AK-47' (#129)
+[07:47:50]	Александр Климов has lost a 'AK-47' #129.
+[07:48:02]	Александр Климов used the 'Арина' vendor.
+[07:48:59]	Александр Климов used the 'Арина' vendor.
+[07:49:01]	Александр Климов used the 'Арина' vendor.
+[07:52:41]	Александр Климов has spawned a 'Entity [840][item_ammo_pistol_large]'.
+[07:54:18]	Александр Климов has spawned 'models/weapons/arccw/c_ppa.mdl'.
+[07:54:24]	Александр Климов has spawned 'models/weapons/arccw/w_roland.mdl'.
+[07:54:31]	Александр Климов has spawned 'models/weapons/arccw/c_sp40.mdl'.
+[07:54:39]	Александр Климов has spawned 'models/weapons/arccw/w_pmt.mdl'.
+[08:00:06]	Александр Климов used the 'Арина' vendor.
+[08:00:58]	Александр Климов used the 'Арина' vendor.
+[08:01:11]	Александр Климов used the 'Арина' vendor.
+[08:05:56]	Александр Климов used the 'Арина' vendor.
+[08:06:07]	Александр Климов used the 'Арина' vendor.
+[08:06:10]	Александр Климов has gained 80 tokens.
+[08:06:52]	Александр Климов entered observer.
+[08:06:53]	Александр Климов opened the 'File Cabinet' #43 container.
+[08:06:56]	Александр Климов has gained a 'ДС Дробовик' #91.
+[08:06:58]	Александр Климов closed the 'File Cabinet' #43 container.
+[08:07:00]	Александр Климов exited observer at their location.
+[08:07:00]	Александр Климов entered observer.
+[08:07:00]	Александр Климов exited observer at their location.
+[08:07:01]	Александр Климов used the 'Арина' vendor.
+[08:07:13]	Александр Климов used the 'Арина' vendor.
+[08:09:30]	Александр Климов has gained a 'M3 Super 90' #129.
+[08:09:30]	Александр Климов used command '/CharGiveItem А m3 2'.
+[08:09:33]	Александр Климов used command '/CharGiveItem А m3'.
+[08:09:37]	Александр Климов used the 'Арина' vendor.
+[08:09:40]	Александр Климов has gained 100 tokens.
+[08:09:41]	Александр Климов has gained 300 tokens.
+[08:59:18]	Александр Климов entered observer.
+[08:59:19]	Александр Климов exited observer at their location.
+[09:01:11]	Александр Климов has spawned 'models/props_c17/Lockers001a.mdl'.
+[09:01:24]	Александр Климов has set container 44 name to 'Арсенал'.
+[09:01:26]	Александр Климов opened the 'Арсенал' #44 container.
+[09:01:31]	Александр Климов closed the 'Арсенал' #44 container.
+[09:03:22]	Александр Климов has spawned 'models/props_junk/wood_crate001a.mdl'.
+[09:03:50]	Александр Климов entered observer.
+[09:03:54]	Александр Климов exited observer at their location.
+[09:03:55]	Александр Климов entered observer.
+[09:04:03]	Александр Климов has spawned a 'Entity [691][ix_vendor]'.
+[09:04:04]	Александр Климов exited observer at their location.
+[09:04:05]	Александр Климов used the 'John Doe' vendor.
+[09:05:00]	Александр Климов used the 'John Doe' vendor.
+[09:11:29]	Александр Климов used the 'Арина' vendor.
+[09:11:39]	Александр Климов entered observer.
+[09:12:42]	Александр Климов exited observer at their location.
+[09:13:02]	Александр Климов entered observer.
+[09:13:26]	Александр Климов exited observer at their location.
+[09:14:08]	Александр Климов entered observer.
+[09:14:11]	Александр Климов exited observer at their location.
+[09:14:25]	Александр Климов entered observer.
+[09:14:26]	Александр Климов exited observer at their location.
+[09:14:28]	Александр Климов entered observer.
+[09:14:40]	Александр Климов exited observer at their location.
+[09:14:51]	Александр Климов entered observer.
+[09:15:04]	Александр Климов exited observer at their location.
+[09:15:32]	Александр Климов entered observer.
+[09:15:36]	Александр Климов exited observer at their location.
+[09:15:48]	Александр Климов used the 'Арина' vendor.
+[09:15:59]	Александр Климов entered observer.
+[09:16:01]	Александр Климов exited observer at their location.
+[09:16:06]	Александр Климов has spawned 'models/props_c17/FurnitureMattress001a.mdl'.
+[09:16:25]	Александр Климов has enabled persistence for 'Entity [841][prop_ragdoll]'.
+[09:16:33]	Александр Климов has spawned 'models/props_debris/metal_panel02a.mdl'.
+[09:16:35]	Александр Климов has spawned 'models/props_c17/FurnitureMattress001a.mdl'.
+[09:16:40]	Александр Климов has spawned 'models/props_c17/FurnitureMattress001a.mdl'.
+[09:16:54]	Александр Климов has enabled persistence for 'Entity [842][prop_ragdoll]'.
+[09:17:04]	Александр Климов has enabled persistence for 'models/props_wasteland/prison_bedframe001b.mdl'.
+[09:17:06]	Александр Климов has enabled persistence for 'models/props_wasteland/prison_bedframe001b.mdl'.
+[09:17:08]	Александр Климов has enabled persistence for 'models/props_wasteland/prison_bedframe001b.mdl'.
+[09:17:09]	Александр Климов has enabled persistence for 'models/props_wasteland/prison_bedframe001b.mdl'.
+[09:18:36]	Александр Климов has spawned 'models/Items/ammocrate_grenade.mdl'.
+[09:18:42]	Александр Климов has spawned 'models/Items/ammocrate_smg1.mdl'.
+[09:18:50]	Александр Климов opened the 'Ammo Crate' #44 container.
+[09:18:51]	Александр Климов closed the 'Ammo Crate' #44 container.
+[09:18:52]	Александр Климов opened the 'Ammo Crate' #44 container.
+[09:18:52]	Александр Климов closed the 'Ammo Crate' #44 container.
+[09:18:53]	Александр Климов opened the 'Ammo Crate' #44 container.
+[09:18:53]	Александр Климов closed the 'Ammo Crate' #44 container.
+[09:19:00]	Александр Климов opened the 'Ammo Crate' #44 container.
+[09:19:02]	Александр Климов closed the 'Ammo Crate' #44 container.
+[09:19:18]	Александр Климов has gained a 'Ящик среднекалиберных патрон' #129.
+[09:19:18]	Александр Климов used command '/CharGiveItem А smg1ammo'.
+[09:19:21]	Александр Климов has gained a 'Ящик среднекалиберных патрон' #130.
+[09:19:21]	Александр Климов used command '/CharGiveItem А smg1ammo'.
+[09:19:24]	Александр Климов has gained a 'Ящик среднекалиберных патрон' #131.
+[09:19:24]	Александр Климов used command '/CharGiveItem А smg1ammo'.
+[09:19:25]	Александр Климов has gained a 'Ящик среднекалиберных патрон' #132.
+[09:19:25]	Александр Климов used command '/CharGiveItem А smg1ammo'.
+[09:19:25]	Александр Климов has gained a 'Ящик среднекалиберных патрон' #133.
+[09:19:25]	Александр Климов used command '/CharGiveItem А smg1ammo'.
+[09:19:26]	Александр Климов has gained a 'Ящик среднекалиберных патрон' #134.
+[09:19:26]	Александр Климов used command '/CharGiveItem А smg1ammo'.
+[09:19:27]	Александр Климов has gained a 'Ящик среднекалиберных патрон' #135.
+[09:19:27]	Александр Климов used command '/CharGiveItem А smg1ammo'.
+[09:19:27]	Александр Климов has gained a 'Ящик среднекалиберных патрон' #136.
+[09:19:27]	Александр Климов used command '/CharGiveItem А smg1ammo'.
+[09:19:28]	Александр Климов has gained a 'Ящик среднекалиберных патрон' #137.
+[09:19:28]	Александр Климов used command '/CharGiveItem А smg1ammo'.
+[09:19:29]	Александр Климов has gained a 'Ящик среднекалиберных патрон' #138.
+[09:19:29]	Александр Климов used command '/CharGiveItem А smg1ammo'.
+[09:19:31]	Александр Климов has gained a 'Ящик среднекалиберных патрон' #139.
+[09:19:31]	Александр Климов used command '/CharGiveItem А smg1ammo'.
+[09:19:32]	Александр Климов has gained a 'Ящик среднекалиберных патрон' #140.
+[09:19:32]	Александр Климов used command '/CharGiveItem А smg1ammo'.
+[09:19:33]	Александр Климов has gained a 'Ящик среднекалиберных патрон' #141.
+[09:19:33]	Александр Климов used command '/CharGiveItem А smg1ammo'.
+[09:19:33]	Александр Климов has gained a 'Ящик среднекалиберных патрон' #142.
+[09:19:33]	Александр Климов used command '/CharGiveItem А smg1ammo'.
+[09:19:34]	Александр Климов has gained a 'Ящик среднекалиберных патрон' #143.
+[09:19:34]	Александр Климов used command '/CharGiveItem А smg1ammo'.
+[09:19:36]	Александр Климов opened the 'Ammo Crate' #44 container.
+[09:19:56]	Александр Климов closed the 'Ammo Crate' #44 container.
+[09:20:03]	Александр Климов has set the password for 'Ammo Crate'.
+[09:20:25]	Александр Климов has set container 44 name to 'Ящик с патронами среднего калибра'.
+[09:20:54]	Александр Климов has set container 44 name to 'ПАТРОНЫ (пароль: ammo)'.
+[09:21:06]	Александр Климов has spawned 'models/Items/ammoCrate_Rockets.mdl'.
+[09:21:07]	Александр Климов has taken 10 damage from Александр Климов.
+[09:21:09]	Александр Климов has spawned 'models/Items/ammocrate_smg1.mdl'.
+[09:21:34]	Александр Климов has set container 45 name to 'ПАТРОНЫ (пароль: ammo)'.
+[09:21:43]	Александр Климов has set the password for 'ПАТРОНЫ (пароль: ammo)'.
+[09:21:50]	Александр Климов opened the 'ПАТРОНЫ (пароль: ammo)' #45 container.
+[09:21:51]	Александр Климов closed the 'ПАТРОНЫ (пароль: ammo)' #45 container.
+[09:22:07]	Александр Климов has gained a 'Ящик среднекалиберных патрон' #144.
+[09:22:07]	Александр Климов has gained a 'Ящик среднекалиберных патрон' #145.
+[09:22:07]	Александр Климов has gained a 'Ящик среднекалиберных патрон' #146.
+[09:22:07]	Александр Климов has gained a 'Ящик среднекалиберных патрон' #147.
+[09:22:07]	Александр Климов has gained a 'Ящик среднекалиберных патрон' #148.
+[09:22:07]	Александр Климов has gained a 'Ящик среднекалиберных патрон' #149.
+[09:22:07]	Александр Климов has gained a 'Ящик среднекалиберных патрон' #150.
+[09:22:07]	Александр Климов has gained a 'Ящик среднекалиберных патрон' #151.
+[09:22:07]	Александр Климов has gained a 'Ящик среднекалиберных патрон' #152.
+[09:22:07]	Александр Климов has gained a 'Ящик среднекалиберных патрон' #153.
+[09:22:07]	Александр Климов has gained a 'Ящик среднекалиберных патрон' #154.
+[09:22:07]	Александр Климов has gained a 'Ящик среднекалиберных патрон' #155.
+[09:22:07]	Александр Климов has gained a 'Ящик среднекалиберных патрон' #156.
+[09:22:07]	Александр Климов has gained a 'Ящик среднекалиберных патрон' #157.
+[09:22:07]	Александр Климов has gained a 'Ящик среднекалиберных патрон' #158.
+[09:22:07]	Александр Климов has gained a 'Ящик среднекалиберных патрон' #159.
+[09:22:07]	Александр Климов has gained a 'Ящик среднекалиберных патрон' #160.
+[09:22:07]	Александр Климов has gained a 'Ящик среднекалиберных патрон' #161.
+[09:22:07]	Александр Климов has gained a 'Ящик среднекалиберных патрон' #162.
+[09:22:07]	Александр Климов has gained a 'Ящик среднекалиберных патрон' #163.
+[09:22:07]	Александр Климов has gained a 'Ящик среднекалиберных патрон' #164.
+[09:22:07]	Александр Климов used command '/CharGiveItem А smg1ammo 30'.
+[09:22:09]	Александр Климов opened the 'ПАТРОНЫ (пароль: ammo)' #45 container.
+[09:22:26]	Александр Климов closed the 'ПАТРОНЫ (пароль: ammo)' #45 container.
+[09:22:27]	Александр Климов ran 'use' on item 'Ящик среднекалиберных патрон' (#159)
+[09:22:28]	Александр Климов ran 'use' on item 'Ящик среднекалиберных патрон' (#160)
+[09:22:28]	Александр Климов ran 'use' on item 'Ящик среднекалиберных патрон' (#161)
+[09:22:29]	Александр Климов ran 'use' on item 'Ящик среднекалиберных патрон' (#162)
+[09:22:29]	Александр Климов ran 'use' on item 'Ящик среднекалиберных патрон' (#163)
+[09:22:30]	Александр Климов ran 'use' on item 'Ящик среднекалиберных патрон' (#164)
+[09:22:34]	Александр Климов opened the 'ПАТРОНЫ (пароль: ammo)' #45 container.
+[09:22:36]	Александр Климов closed the 'ПАТРОНЫ (пароль: ammo)' #45 container.
+[09:22:47]	Александр Климов has spawned 'models/Items/ammocrate_smg1.mdl'.
+[09:22:59]	Александр Климов has spawned 'models/Items/ammocrate_smg1.mdl'.
+[09:23:02]	Александр Климов has spawned 'models/Items/ammocrate_ar2.mdl'.
+[09:23:03]	Александр Климов has spawned 'models/Items/ammocrate_grenade.mdl'.
+[09:23:06]	Александр Климов has spawned 'models/Items/ammocrate_smg1.mdl'.
+[09:23:13]	Александр Климов entered observer.
+[09:23:19]	Александр Климов exited observer at their location.
+[09:23:19]	Александр Климов used the 'Арина' vendor.
+[09:23:25]	Александр Климов entered observer.
+[09:23:27]	Александр Климов exited observer at their location.
+[09:23:39]	Александр Климов entered observer.
+[09:23:43]	Александр Климов exited observer at their location.
+[09:23:48]	Александр Климов opened the 'Ammo Crate' #47 container.
+[09:23:50]	Александр Климов closed the 'Ammo Crate' #47 container.
+[09:24:04]	Александр Климов opened the 'ПАТРОНЫ (пароль: ammo)' #45 container.
+[09:24:06]	Александр Климов closed the 'ПАТРОНЫ (пароль: ammo)' #45 container.
+[09:24:14]	Александр Климов entered observer.
+[09:24:16]	Александр Климов exited observer at their location.
+[09:24:20]	Александр Климов entered observer.
+[09:24:24]	Александр Климов exited observer at their location.
+[09:25:19]	Александр Климов used command '/TextAdd ПАТРОНЫ Ср. калибр'.
+[09:25:24]	Александр Климов used command '/TextAdd ПАТРОНЫ Ср. калибр'.
+[09:25:28]	Александр Климов used command '/TextRemove'.
+[09:25:32]	Александр Климов used command '/TextAdd ПАТРОНЫ Ср. калибр'.
+[09:26:08]	Александр Климов used command '/TextAdd ПАТРОНЫ Млк. калибр'.
+[09:26:09]	Александр Климов used command '/TextRemove'.
+[09:26:28]	Александр Климов used command '/TextAdd ПАТРОНЫ Млк. калибр'.
+[09:26:33]	Александр Климов used command '/TextAdd ПАТРОНЫ Млк. калибр'.
+[09:26:59]	Александр Климов entered observer.
+[09:27:14]	Александр Климов exited observer at their location.
+[09:28:02]	Александр Климов has set container 47 name to 'ПАТРОНЫ (пароль: ammo)'.
+[09:28:07]	Александр Климов has set container 46 name to 'ПАТРОНЫ (пароль: ammo)'.
+[09:28:10]	Александр Климов has set the password for 'ПАТРОНЫ (пароль: ammo)'.
+[09:28:14]	Александр Климов has set the password for 'ПАТРОНЫ (пароль: ammo)'.
+[09:28:20]	Александр Климов opened the 'ПАТРОНЫ (пароль: ammo)' #47 container.
+[09:28:21]	Александр Климов closed the 'ПАТРОНЫ (пароль: ammo)' #47 container.
+[09:28:26]	Александр Климов opened the 'ПАТРОНЫ (пароль: ammo)' #46 container.
+[09:28:27]	Александр Климов closed the 'ПАТРОНЫ (пароль: ammo)' #46 container.
+[09:28:49]	Александр Климов has gained a 'Ящик мелкокалиберных патронов' #159.
+[09:28:49]	Александр Климов has gained a 'Ящик мелкокалиберных патронов' #160.
+[09:28:49]	Александр Климов has gained a 'Ящик мелкокалиберных патронов' #161.
+[09:28:49]	Александр Климов has gained a 'Ящик мелкокалиберных патронов' #162.
+[09:28:49]	Александр Климов has gained a 'Ящик мелкокалиберных патронов' #163.
+[09:28:49]	Александр Климов has gained a 'Ящик мелкокалиберных патронов' #164.
+[09:28:49]	Александр Климов has gained a 'Ящик мелкокалиберных патронов' #165.
+[09:28:49]	Александр Климов has gained a 'Ящик мелкокалиберных патронов' #166.
+[09:28:49]	Александр Климов has gained a 'Ящик мелкокалиберных патронов' #167.
+[09:28:49]	Александр Климов has gained a 'Ящик мелкокалиберных патронов' #168.
+[09:28:49]	Александр Климов has gained a 'Ящик мелкокалиберных патронов' #169.
+[09:28:49]	Александр Климов has gained a 'Ящик мелкокалиберных патронов' #170.
+[09:28:49]	Александр Климов has gained a 'Ящик мелкокалиберных патронов' #171.
+[09:28:49]	Александр Климов has gained a 'Ящик мелкокалиберных патронов' #172.
+[09:28:49]	Александр Климов has gained a 'Ящик мелкокалиберных патронов' #173.
+[09:28:49]	Александр Климов used command '/CharGiveItem А pistolammo 15'.
+[09:28:51]	Александр Климов opened the 'ПАТРОНЫ (пароль: ammo)' #47 container.
+[09:29:25]	Александр Климов closed the 'ПАТРОНЫ (пароль: ammo)' #47 container.
+[09:29:27]	Александр Климов has gained a 'Ящик мелкокалиберных патронов' #174.
+[09:29:27]	Александр Климов has gained a 'Ящик мелкокалиберных патронов' #175.
+[09:29:27]	Александр Климов has gained a 'Ящик мелкокалиберных патронов' #176.
+[09:29:27]	Александр Климов has gained a 'Ящик мелкокалиберных патронов' #177.
+[09:29:27]	Александр Климов has gained a 'Ящик мелкокалиберных патронов' #178.
+[09:29:27]	Александр Климов has gained a 'Ящик мелкокалиберных патронов' #179.
+[09:29:27]	Александр Климов has gained a 'Ящик мелкокалиберных патронов' #180.
+[09:29:27]	Александр Климов has gained a 'Ящик мелкокалиберных патронов' #181.
+[09:29:27]	Александр Климов has gained a 'Ящик мелкокалиберных патронов' #182.
+[09:29:27]	Александр Климов has gained a 'Ящик мелкокалиберных патронов' #183.
+[09:29:27]	Александр Климов has gained a 'Ящик мелкокалиберных патронов' #184.
+[09:29:27]	Александр Климов has gained a 'Ящик мелкокалиберных патронов' #185.
+[09:29:27]	Александр Климов has gained a 'Ящик мелкокалиберных патронов' #186.
+[09:29:27]	Александр Климов has gained a 'Ящик мелкокалиберных патронов' #187.
+[09:29:27]	Александр Климов has gained a 'Ящик мелкокалиберных патронов' #188.
+[09:29:27]	Александр Климов used command '/CharGiveItem А pistolammo 15'.
+[09:29:28]	Александр Климов opened the 'ПАТРОНЫ (пароль: ammo)' #46 container.
+[09:29:52]	Александр Климов closed the 'ПАТРОНЫ (пароль: ammo)' #46 container.
+[09:30:59]	Александр Климов used command '/TextAdd ПАТРОНЫ ЕЖЕ НЕДЕЛЬНО ПОПОЛНЯЮТСЯ'.
+[09:31:04]	Александр Климов used command '/TextAdd ПАТРОНЫ ЕЖЕ НЕДЕЛЬНО ПОПОЛНЯЮТСЯ'.
+[09:31:08]	Александр Климов used command '/TextRemove'.
+[09:32:05]	Александр Климов used command '/TextRemove'.
+[09:32:08]	Александр Климов used command '/TextRemove'.
+[09:32:11]	Александр Климов used command '/TextRemove'.
+[09:32:13]	Александр Климов used command '/TextRemove'.
+[09:32:15]	Александр Климов used command '/TextRemove'.
+[09:32:56]	Александр Климов used command '/TextAdd ПАТРОНЫ ЕЖЕ НЕДЕЛЬНО ПОПОЛНЯЮТСЯ'.
+[09:33:16]	Александр Климов used command '/TextRemove'.
+[09:34:01]	Александр Климов has spawned 'models/props_c17/Lockers001a.mdl'.
+[09:34:34]	Александр Климов has spawned 'models/props_c17/Lockers001a.mdl'.
+[09:34:45]	Александр Климов has spawned 'models/props_c17/Lockers001a.mdl'.
+[09:34:50]	Александр Климов has spawned 'models/props_c17/Lockers001a.mdl'.
+[09:34:53]	Александр Климов has spawned 'models/props_c17/Lockers001a.mdl'.
+[09:34:55]	Александр Климов has spawned 'models/props_c17/Lockers001a.mdl'.
+[09:34:57]	Александр Климов has spawned 'models/props_c17/Lockers001a.mdl'.
+[09:35:27]	Александр Климов has spawned 'models/props_c17/concrete_barrier001a.mdl'.
+[09:35:34]	Александр Климов has spawned 'models/props_c17/concrete_barrier001a.mdl'.
+[09:36:05]	Александр Климов has spawned 'models/props_c17/concrete_barrier001a.mdl'.
+[09:36:14]	Александр Климов has spawned 'models/props_c17/concrete_barrier001a.mdl'.
+[09:36:42]	Александр Климов has enabled persistence for 'models/props_c17/concrete_barrier001a.mdl'.
+[09:36:43]	Александр Климов has enabled persistence for 'models/props_c17/concrete_barrier001a.mdl'.
+[09:36:43]	Александр Климов has enabled persistence for 'models/props_c17/concrete_barrier001a.mdl'.
+[09:36:44]	Александр Климов has enabled persistence for 'models/props_c17/concrete_barrier001a.mdl'.
+[09:37:19]	Александр Климов entered observer.
+[09:37:50]	Александр Климов exited observer at their location.
+[09:37:51]	Александр Климов opened the 'ПАТРОНЫ (пароль: ammo)' #47 container.
+[09:37:53]	Александр Климов closed the 'ПАТРОНЫ (пароль: ammo)' #47 container.
+[09:37:54]	Александр Климов opened the 'ПАТРОНЫ (пароль: ammo)' #46 container.
+[09:37:57]	Александр Климов closed the 'ПАТРОНЫ (пароль: ammo)' #46 container.
+[09:40:12]	Александр Климов entered observer.
+[09:40:23]	Александр Климов exited observer at their location.
+[09:40:33]	Александр Климов entered observer.
+[09:40:39]	Александр Климов exited observer at their location.
+[09:40:47]	Александр Климов entered observer.
+[09:40:48]	Александр Климов exited observer at their location.
+[09:42:53]	Александр Климов has spawned 'models/props_phx/construct/concrete_pipe01.mdl'.
+[09:43:45]	Александр Климов entered observer.
+[09:43:52]	Александр Климов exited observer at their location.
+[09:44:04]	Александр Климов has spawned 'models/props_phx/construct/concrete_barrier00.mdl'.
+[09:44:15]	Александр Климов has spawned 'models/mechanics/various/211.mdl'.
+[09:44:17]	Александр Климов has spawned 'models/mechanics/various/211.mdl'.
+[09:44:22]	Александр Климов has spawned 'models/props_phx/misc/bunker01.mdl'.
+[09:44:39]	Александр Климов has spawned 'models/props_c17/Lockers001a.mdl'.
+[09:44:45]	Александр Климов entered observer.
+[09:44:46]	Александр Климов exited observer at their location.
+[09:44:51]	Александр Климов entered observer.
+[09:44:53]	Александр Климов exited observer at their location.
+[09:45:32]	Александр Климов has spawned 'models/hunter/blocks/cube4x6x025.mdl'.
+[09:46:19]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[09:47:00]	Александр Климов has spawned 'models/hunter/blocks/cube025x3x025.mdl'.
+[09:47:02]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[09:47:03]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[09:47:05]	Александр Климов has spawned 'models/hunter/blocks/cube025x3x025.mdl'.
+[09:48:11]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[09:48:31]	Александр Климов has spawned 'models/hunter/plates/plate2x2.mdl'.
+[09:48:38]	Александр Климов has spawned 'models/hunter/plates/plate1x5.mdl'.
+[09:48:39]	Александр Климов has spawned 'models/hunter/plates/plate1x4.mdl'.
+[09:48:41]	Александр Климов has spawned 'models/hunter/plates/plate1x3.mdl'.
+[09:50:15]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[09:50:56]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[09:51:09]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[09:51:35]	Александр Климов has spawned 'models/hunter/plates/plate1x3.mdl'.
+[09:51:36]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[09:52:05]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[09:54:24]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[09:54:24]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[09:54:24]	Александр Климов has spawned 'models/hunter/blocks/cube025x3x025.mdl'.
+[09:54:24]	Александр Климов has spawned 'models/hunter/plates/plate1x3.mdl'.
+[09:54:24]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[09:54:24]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[09:55:07]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[09:55:07]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[09:55:07]	Александр Климов has spawned 'models/hunter/blocks/cube025x3x025.mdl'.
+[09:55:07]	Александр Климов has spawned 'models/hunter/plates/plate1x3.mdl'.
+[09:55:07]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[09:55:08]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[09:55:13]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[09:55:14]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[09:55:14]	Александр Климов has spawned 'models/hunter/blocks/cube025x3x025.mdl'.
+[09:55:14]	Александр Климов has spawned 'models/hunter/plates/plate1x3.mdl'.
+[09:55:14]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[09:55:14]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[09:55:17]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[09:55:17]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[09:55:17]	Александр Климов has spawned 'models/hunter/blocks/cube025x3x025.mdl'.
+[09:55:17]	Александр Климов has spawned 'models/hunter/plates/plate1x3.mdl'.
+[09:55:17]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[09:55:17]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[09:55:20]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[09:55:20]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[09:55:20]	Александр Климов has spawned 'models/hunter/blocks/cube025x3x025.mdl'.
+[09:55:20]	Александр Климов has spawned 'models/hunter/plates/plate1x3.mdl'.
+[09:55:20]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[09:55:20]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[09:55:27]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[09:55:27]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[09:55:27]	Александр Климов has spawned 'models/hunter/blocks/cube025x3x025.mdl'.
+[09:55:27]	Александр Климов has spawned 'models/hunter/plates/plate1x3.mdl'.
+[09:55:27]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[09:55:27]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[09:55:50]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[09:55:50]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[09:55:50]	Александр Климов has spawned 'models/hunter/blocks/cube025x3x025.mdl'.
+[09:55:50]	Александр Климов has spawned 'models/hunter/plates/plate1x3.mdl'.
+[09:55:50]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[09:55:50]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[09:55:54]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[09:55:54]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[09:55:54]	Александр Климов has spawned 'models/hunter/blocks/cube025x3x025.mdl'.
+[09:55:54]	Александр Климов has spawned 'models/hunter/plates/plate1x3.mdl'.
+[09:55:54]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[09:55:54]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[09:55:56]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[09:55:57]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[09:55:57]	Александр Климов has spawned 'models/hunter/blocks/cube025x3x025.mdl'.
+[09:55:57]	Александр Климов has spawned 'models/hunter/plates/plate1x3.mdl'.
+[09:55:57]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[09:55:57]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[09:56:02]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[09:56:02]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[09:56:02]	Александр Климов has spawned 'models/hunter/blocks/cube025x3x025.mdl'.
+[09:56:02]	Александр Климов has spawned 'models/hunter/plates/plate1x3.mdl'.
+[09:56:02]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[09:56:02]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[09:56:08]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[09:56:08]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[09:56:08]	Александр Климов has spawned 'models/hunter/blocks/cube025x3x025.mdl'.
+[09:56:08]	Александр Климов has spawned 'models/hunter/plates/plate1x3.mdl'.
+[09:56:08]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[09:56:08]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[09:56:14]	Александр Климов entered observer.
+[09:56:15]	Александр Климов exited observer at their location.
+[09:56:27]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[09:56:27]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[09:56:27]	Александр Климов has spawned 'models/hunter/blocks/cube025x3x025.mdl'.
+[09:56:27]	Александр Климов has spawned 'models/hunter/plates/plate1x3.mdl'.
+[09:56:27]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[09:56:27]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[09:56:36]	Александр Климов entered observer.
+[09:56:38]	Александр Климов exited observer at their location.
+[09:56:52]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[09:56:52]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[09:56:52]	Александр Климов has spawned 'models/hunter/blocks/cube025x3x025.mdl'.
+[09:56:52]	Александр Климов has spawned 'models/hunter/plates/plate1x3.mdl'.
+[09:56:52]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[09:56:52]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[09:57:03]	Александр Климов entered observer.
+[09:57:05]	Александр Климов exited observer at their location.
+[09:57:08]	Александр Климов entered observer.
+[09:57:09]	Александр Климов exited observer at their location.
+[09:57:16]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[09:57:16]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[09:57:16]	Александр Климов has spawned 'models/hunter/blocks/cube025x3x025.mdl'.
+[09:57:16]	Александр Климов has spawned 'models/hunter/plates/plate1x3.mdl'.
+[09:57:16]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[09:57:16]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[09:57:20]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[09:57:20]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[09:57:20]	Александр Климов has spawned 'models/hunter/blocks/cube025x3x025.mdl'.
+[09:57:20]	Александр Климов has spawned 'models/hunter/plates/plate1x3.mdl'.
+[09:57:20]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[09:57:20]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[09:57:36]	Александр Климов entered observer.
+[09:57:38]	Александр Климов exited observer at their location.
+[09:58:19]	Александр Климов has spawned 'models/props_c17/Lockers001a.mdl'.
+[09:58:22]	Александр Климов has spawned 'models/props_c17/Lockers001a.mdl'.
+[09:58:24]	Александр Климов has spawned 'models/props_c17/Lockers001a.mdl'.
+[09:58:27]	Александр Климов has spawned 'models/props_c17/FurnitureCouch002a.mdl'.
+[09:58:28]	Александр Климов has spawned 'models/props_c17/Lockers001a.mdl'.
+[09:58:30]	Александр Климов has spawned 'models/props_c17/Lockers001a.mdl'.
+[09:58:32]	Александр Климов has spawned 'models/props_c17/Lockers001a.mdl'.
+[09:58:34]	Александр Климов has spawned 'models/props_c17/Lockers001a.mdl'.
+[09:58:36]	Александр Климов has spawned 'models/props_c17/Lockers001a.mdl'.
+[09:58:38]	Александр Климов has spawned 'models/props_c17/Lockers001a.mdl'.
+[09:58:40]	Александр Климов has spawned 'models/props_c17/Lockers001a.mdl'.
+[09:58:42]	Александр Климов has spawned 'models/props_c17/Lockers001a.mdl'.
+[09:58:44]	Александр Климов has spawned 'models/props_c17/Lockers001a.mdl'.
+[09:58:46]	Александр Климов has spawned 'models/props_c17/Lockers001a.mdl'.
+[10:00:05]	Александр Климов has spawned 'models/props_trainstation/benchoutdoor01a.mdl'.
+[10:00:34]	Александр Климов has spawned 'models/props_trainstation/benchoutdoor01a.mdl'.
+[10:00:35]	Александр Климов has spawned 'models/props_trainstation/benchoutdoor01a.mdl'.
+[10:00:36]	Александр Климов has spawned 'models/props_trainstation/benchoutdoor01a.mdl'.
+[10:00:37]	Александр Климов has spawned 'models/props_trainstation/benchoutdoor01a.mdl'.
+[10:00:50]	Александр Климов has spawned 'models/props_trainstation/benchoutdoor01a.mdl'.
+[10:00:51]	Александр Климов has spawned 'models/props_trainstation/benchoutdoor01a.mdl'.
+[10:00:51]	Александр Климов has spawned 'models/props_trainstation/benchoutdoor01a.mdl'.
+[10:00:52]	Александр Климов has spawned 'models/props_trainstation/benchoutdoor01a.mdl'.
+[10:00:56]	Александр Климов has spawned 'models/props_trainstation/benchoutdoor01a.mdl'.
+[10:01:07]	Александр Климов entered observer.
+[10:01:08]	Александр Климов exited observer at their location.
+[10:01:28]	Александр Климов entered observer.
+[10:01:28]	Александр Климов exited observer at their location.
+[10:01:48]	Александр Климов entered observer.
+[10:01:50]	Александр Климов exited observer at their location.
+[10:02:12]	Александр Климов entered observer.
+[10:02:15]	Александр Климов exited observer at their location.
+[10:02:24]	Александр Климов has spawned 'models/props_trainstation/benchoutdoor01a.mdl'.
+[10:02:24]	Александр Климов has spawned 'models/props_trainstation/benchoutdoor01a.mdl'.
+[10:02:25]	Александр Климов has spawned 'models/props_trainstation/benchoutdoor01a.mdl'.
+[10:02:26]	Александр Климов has spawned 'models/props_trainstation/benchoutdoor01a.mdl'.
+[10:02:37]	Александр Климов has spawned 'models/props_trainstation/benchoutdoor01a.mdl'.
+[10:02:38]	Александр Климов has spawned 'models/props_trainstation/benchoutdoor01a.mdl'.
+[10:02:39]	Александр Климов has spawned 'models/props_trainstation/benchoutdoor01a.mdl'.
+[10:02:40]	Александр Климов has spawned 'models/props_trainstation/benchoutdoor01a.mdl'.
+[10:02:52]	Александр Климов entered observer.
+[10:02:56]	Александр Климов exited observer at their location.
+[10:03:20]	Александр Климов used command '/ActSit'.
+[10:03:23]	Александр Климов used command '/ExitAct'.
+[10:04:01]	Александр Климов entered observer.
+[10:04:05]	Александр Климов exited observer at their location.
+[10:05:41]	Александр Климов used the 'Арина' vendor.
+[10:06:05]	Александр Климов used command '/AreaEdit'.
+[10:06:06]	Александр Климов entered observer.
+[10:07:12]	Александр Климов has added area "База Сопротивления".
+[10:07:23]	Александр Климов exited observer at their location.
+[10:07:28]	Александр Климов entered observer.
+[10:07:29]	Александр Климов exited observer at their location.
+[10:07:31]	Александр Климов entered observer.
+[10:07:32]	Александр Климов exited observer at their location.
+[10:07:37]	Александр Климов entered observer.
+[10:07:39]	Александр Климов exited observer at their location.
+[10:07:44]	Александр Климов entered observer.
+[10:07:48]	Александр Климов exited observer at their location.
+[10:07:51]	Александр Климов entered observer.
+[10:07:52]	Александр Климов exited observer at their location.
+[10:07:55]	Александр Климов entered observer.
+[10:08:00]	Александр Климов exited observer at their location.
+[10:08:02]	Александр Климов entered observer.
+[10:08:08]	Александр Климов exited observer at their location.
+[10:10:34]	Александр Климов opened the 'Locker' #48 container.
+[10:10:36]	Александр Климов closed the 'Locker' #48 container.
+[10:10:45]	Александр Климов opened the 'Locker' #49 container.
+[10:10:46]	Александр Климов closed the 'Locker' #49 container.
+[10:10:52]	Александр Климов ran 'Frequency' on item 'Портативная рация' (#93)
+[10:10:54]	Александр Климов ran 'Toggle' on item 'Портативная рация' (#93)
+[10:11:27]	Александр Климов entered observer.
+[10:11:29]	Александр Климов exited observer at their location.
+[10:17:43]	Александр Климов entered observer.
+[10:17:49]	Александр Климов exited observer at their location.
+[10:17:57]	Александр Климов opened the 'ПАТРОНЫ (пароль: ammo)' #47 container.
+[10:18:01]	Александр Климов closed the 'ПАТРОНЫ (пароль: ammo)' #47 container.
+[10:18:09]	Александр Климов opened the 'ПАТРОНЫ (пароль: ammo)' #45 container.
+[10:18:11]	Александр Климов closed the 'ПАТРОНЫ (пароль: ammo)' #45 container.
+[10:18:24]	Александр Климов ran 'Toggle' on item 'Портативная рация' (#93)
+[10:18:26]	Александр Климов ran 'Toggle' on item 'Портативная рация' (#93)
+[10:18:27]	Александр Климов ran 'Frequency' on item 'Портативная рация' (#93)
+[10:18:45]	Александр Климов opened the 'ПАТРОНЫ (пароль: ammo)' #44 container.
+[10:18:48]	Александр Климов closed the 'ПАТРОНЫ (пароль: ammo)' #44 container.
+[10:21:59]	Александр Климов opened the 'Locker' #48 container.
+[10:22:01]	Александр Климов closed the 'Locker' #48 container.
+[10:22:16]	Александр Климов used command '/ActSit'.
+[10:25:08]	Александр Климов used command '/ExitAct'.
+[10:29:21]	Александр Климов has gained 0 tokens.
+[10:29:21]	Александр Климов ordered a shipment
+[10:29:25]	Александр Климов has gained a 'Standard Supplements' #189.
+[10:29:25]	Александр Климов took 'Standard Supplements' from the shipment
+[10:29:25]	Александр Климов has gained a 'Standard Supplements' #190.
+[10:29:25]	Александр Климов took 'Standard Supplements' from the shipment
+[10:29:28]	Александр Климов ran 'Consume' on item 'Standard Supplements' (#189)
+[10:29:29]	Александр Климов ran 'Consume' on item 'Standard Supplements' (#190)
+[10:30:32]	֍ Aime-moi ֍ has connected.
+[10:31:12]	֍ Aime-moi ֍ loaded the character 'D8.MPF-BLADE.57989'
+[10:31:42]	D8.MPF-BLADE.57989 entered observer.
+[10:31:50]	Александр Климов has gained 0 tokens.
+[10:31:50]	Александр Климов ordered a shipment
+[10:31:54]	Александр Климов has gained a '2L Water' #189.
+[10:31:54]	Александр Климов took '2L Water' from the shipment
+[10:31:54]	Александр Климов has gained a '2L Water' #190.
+[10:31:54]	Александр Климов took '2L Water' from the shipment
+[10:31:54]	Александр Климов has gained a '2L Water' #191.
+[10:31:54]	Александр Климов took '2L Water' from the shipment
+[10:31:57]	Александр Климов ran 'Consume' on item '2L Water' (#191)
+[10:31:57]	Александр Климов ran 'Consume' on item '2L Water' (#190)
+[10:31:58]	Александр Климов ran 'drop' on item '2L Water' (#189)
+[10:31:58]	Александр Климов has lost a '2L Water' #189.
+[10:32:00]	D8.MPF-BLADE.57989 exited observer at their location.
+[10:32:21]	D8.MPF-BLADE.57989 used command '/ViewData Александр'.
+[10:32:37]	Александр Климов entered observer.
+[10:32:41]	Александр Климов opened the 'File Cabinet' #43 container.
+[10:32:43]	Александр Климов has gained a 'И.К. Гражданина' #70.
+[10:32:44]	Александр Климов closed the 'File Cabinet' #43 container.
+[10:32:46]	Александр Климов exited observer at their location.
+[10:32:48]	D8.MPF-BLADE.57989 used command '/ViewObjectives'.
+[10:32:53]	D8.MPF-BLADE.57989 used command '/ViewObjectives'.
+[10:33:18]	Александр Климов has gained 0 tokens.
+[10:33:18]	Александр Климов ordered a shipment
+[10:33:22]	Александр Климов has gained a 'Standard Supplements' #190.
+[10:33:22]	Александр Климов took 'Standard Supplements' from the shipment
+[10:33:23]	Александр Климов has gained a 'Standard Supplements' #191.
+[10:33:23]	Александр Климов took 'Standard Supplements' from the shipment
+[10:33:23]	Александр Климов has gained a 'Standard Supplements' #192.
+[10:33:23]	Александр Климов took 'Standard Supplements' from the shipment
+[10:33:25]	Александр Климов ran 'Consume' on item 'Standard Supplements' (#192)
+[10:33:26]	Александр Климов ran 'Consume' on item 'Standard Supplements' (#191)
+[10:33:27]	Александр Климов ran 'drop' on item 'Standard Supplements' (#190)
+[10:33:27]	Александр Климов has lost a 'Standard Supplements' #190.
+[10:34:07]	Александр Климов ran 'drop' on item 'Наручкики' (#128)
+[10:34:07]	Александр Климов has lost a 'Наручкики' #128.
+[10:34:11]	D8.MPF-BLADE.57989 ran 'Use' on item 'Наручкики' (#128)
+[10:34:15]	D8.MPF-BLADE.57989 ran 'Use' on item 'Наручкики' (#128)
+[10:34:18]	D8.MPF-BLADE.57989 ran 'Use' on item 'Наручкики' (#128)
+[10:34:49]	D8.MPF-BLADE.57989 ran 'Use' on item 'Наручкики' (#128)
+[10:34:52]	D8.MPF-BLADE.57989 ran 'Use' on item 'Наручкики' (#128)
+[10:35:27]	֍ Aime-moi ֍ loaded the character 'OTA-ECHO.OWS-34096'
+[10:36:05]	OTA-ECHO.OWS-34096 used command '/CharSetModel OTA models/romka/romka_combine_soldier.mdl'.
+[10:36:19]	OTA-ECHO.OWS-34096 used command '/CharGiveFlag OTA CVcenrptv'.
+[10:36:50]	OTA-ECHO.OWS-34096 used command '/CharSetModel OTA models/combine_soldier_notr.mdl'.
+[10:36:56]	֍ Aime-moi ֍ (STEAM_0:0:424879351) has disconnected.
+[10:38:35]	Г@H3NK has connected.
+[10:39:42]	Г@H3NK loaded the character 'Александр Климов'
+[10:40:09]	Александр Климов entered observer.
+[10:40:11]	Александр Климов exited observer at their location.
+[10:40:15]	Александр Климов entered observer.
+[10:40:17]	Александр Климов exited observer at their location.
+[10:42:02]	Александр Климов has spawned 'models/props_junk/wood_pallet001a.mdl'.
+[10:42:14]	Александр Климов entered observer.
+[10:42:18]	Александр Климов exited observer at their location.
+[10:42:42]	֍ Aime-moi ֍ has connected.
+[10:43:15]	֍ Aime-moi ֍ loaded the character 'OTA-ECHO.OWS-34096'
+[10:44:07]	Г@H3NK has connected.
+[10:45:49]	֍ Aime-moi ֍ has connected.
+[10:46:37]	֍ Aime-moi ֍ created the character 'OTA-ECHO.OWS-06673'
+[10:46:37]	OTA-ECHO.OWS-06673 has gained a 'FAMAS' #189.
+[10:46:37]	OTA-ECHO.OWS-06673 has gained a 'Five-seveN' #190.
+[10:46:37]	OTA-ECHO.OWS-06673 has gained a 'Ящик среднекалиберных патрон' #191.
+[10:46:37]	OTA-ECHO.OWS-06673 has gained a 'Ящик среднекалиберных патрон' #192.
+[10:46:37]	OTA-ECHO.OWS-06673 has gained a 'Ящик среднекалиберных патрон' #193.
+[10:46:37]	OTA-ECHO.OWS-06673 has gained a 'Ящик среднекалиберных патрон' #194.
+[10:46:37]	֍ Aime-moi ֍ loaded the character 'OTA-ECHO.OWS-06673'
+[10:47:10]	OTA-ECHO.OWS-06673 used command '/CharSetModel OTA models/romka/romka_combine_soldier.mdl'.
+[10:47:21]	֍ Aime-moi ֍ (STEAM_0:0:424879351) deleted character 'OTA-ECHO.OWS-06673'
+[10:47:23]	֍ Aime-moi ֍ loaded the character 'OTA-ECHO.OWS-34096'
+[10:47:34]	OTA-ECHO.OWS-34096 ran 'Equip' on item '.9mm Pistol' (#23)
+[10:47:35]	OTA-ECHO.OWS-34096 ran 'use' on item 'Ящик мелкокалиберных патронов' (#24)
+[10:47:36]	OTA-ECHO.OWS-34096 ran 'use' on item 'Ящик мелкокалиберных патронов' (#25)
+[10:48:00]	OTA-ECHO.OWS-34096 entered observer.
+[10:48:09]	OTA-ECHO.OWS-34096 exited observer at their location.
+[10:48:10]	OTA-ECHO.OWS-34096 entered observer.
+[10:48:19]	Г@H3NK loaded the character 'Александр Климов'
+[10:48:36]	OTA-ECHO.OWS-34096 exited observer at their location.
+[10:48:38]	OTA-ECHO.OWS-34096 entered observer.
+[10:48:41]	OTA-ECHO.OWS-34096 exited observer at their location.
+[10:48:45]	OTA-ECHO.OWS-34096 entered observer.
+[10:48:49]	OTA-ECHO.OWS-34096 exited observer at their location.
+[10:48:51]	OTA-ECHO.OWS-34096 entered observer.
+[10:48:53]	OTA-ECHO.OWS-34096 exited observer at their location.
+[10:48:59]	OTA-ECHO.OWS-34096 entered observer.
+[10:49:02]	OTA-ECHO.OWS-34096 exited observer at their location.
+[10:49:25]	Александр Климов used the 'Арина' vendor.
+[10:49:28]	OTA-ECHO.OWS-34096 entered observer.
+[10:49:29]	OTA-ECHO.OWS-34096 exited observer at their location.
+[10:49:30]	Александр Климов has lost 290 tokens.
+[10:49:30]	Александр Климов has gained a 'M3 Super 90' #189.
+[10:49:30]	OTA-ECHO.OWS-34096 entered observer.
+[10:49:32]	OTA-ECHO.OWS-34096 exited observer at their location.
+[10:49:34]	OTA-ECHO.OWS-34096 entered observer.
+[10:49:35]	OTA-ECHO.OWS-34096 exited observer at their location.
+[10:49:38]	Александр Климов has gained 0 tokens.
+[10:49:38]	Александр Климов ordered a shipment
+[10:49:41]	OTA-ECHO.OWS-34096 entered observer.
+[10:49:41]	Александр Климов has gained a 'Ящик гильз' #190.
+[10:49:41]	Александр Климов took 'Ящик гильз' from the shipment
+[10:49:45]	OTA-ECHO.OWS-34096 exited observer at their location.
+[10:49:46]	Александр Климов ran 'Equip' on item 'M3 Super 90' (#189)
+[10:49:48]	Александр Климов ran 'use' on item 'Ящик гильз' (#190)
+[10:49:48]	OTA-ECHO.OWS-34096 entered observer.
+[10:49:50]	OTA-ECHO.OWS-34096 exited observer at their location.
+[10:49:55]	OTA-ECHO.OWS-34096 has spawned a 'Entity [880][item_ammo_ar2_large]'.
+[10:49:55]	OTA-ECHO.OWS-34096 has spawned a 'Entity [881][item_ammo_ar2_large]'.
+[10:49:56]	OTA-ECHO.OWS-34096 has spawned a 'Entity [880][item_ammo_ar2_altfire]'.
+[10:49:56]	OTA-ECHO.OWS-34096 has spawned a 'Entity [881][item_ammo_ar2_altfire]'.
+[10:49:56]	OTA-ECHO.OWS-34096 has spawned a 'Entity [882][item_ammo_ar2_altfire]'.
+[10:50:21]	OTA-ECHO.OWS-34096 entered observer.
+[10:50:24]	OTA-ECHO.OWS-34096 exited observer at their location.
+[10:50:25]	Александр Климов has taken 11 damage from OTA-ECHO.OWS-34096.
+[10:50:28]	Александр Климов has taken 1000 damage from OTA-ECHO.OWS-34096.
+[10:50:28]	OTA-ECHO.OWS-34096 has killed Александр Климов with weapon_ar2.
+[10:50:36]	OTA-ECHO.OWS-34096 entered observer.
+[10:50:45]	Александр Климов ran 'Equip' on item 'M3 Super 90' (#189)
+[10:50:53]	Александр Климов has gained 0 tokens.
+[10:50:53]	Александр Климов ordered a shipment
+[10:50:57]	Александр Климов has gained a 'Коробочка с гильзами' #190.
+[10:50:57]	Александр Климов took 'Коробочка с гильзами' from the shipment
+[10:50:57]	Александр Климов has gained a 'Коробочка с гильзами' #191.
+[10:50:57]	Александр Климов took 'Коробочка с гильзами' from the shipment
+[10:51:00]	Александр Климов ran 'use' on item 'Коробочка с гильзами' (#190)
+[10:51:00]	Александр Климов ran 'use' on item 'Коробочка с гильзами' (#191)
+[10:51:11]	OTA-ECHO.OWS-34096 exited observer at their location.
+[10:51:19]	OTA-ECHO.OWS-34096 entered observer.
+[10:51:25]	OTA-ECHO.OWS-34096 exited observer at their location.
+[10:51:31]	֍ Aime-moi ֍ loaded the character 'D8.MPF-BLADE.57989'
+[10:51:32]	D8.MPF-BLADE.57989 entered observer.
+[10:54:31]	Александр Климов entered observer.
+[10:54:33]	Александр Климов exited observer at their location.
+[10:54:33]	Александр Климов entered observer.
+[10:54:34]	Александр Климов exited observer at their location.
+[10:58:21]	Г@H3NK has connected.
+[10:59:04]	Г@H3NK loaded the character 'Александр Климов'
+[11:01:56]	Г@H3NK has connected.
+[11:02:51]	Г@H3NK loaded the character 'Александр Климов'
+[11:02:54]	Александр Климов entered observer.
+[11:02:57]	Александр Климов exited observer at their location.
+[11:03:21]	Александр Климов has spawned 'models/props_junk/wood_pallet001a.mdl'.
+[11:03:32]	Александр Климов has spawned 'models/props_junk/wood_pallet001a.mdl'.
+[11:03:34]	Александр Климов has spawned 'models/props_junk/wood_pallet001a.mdl'.
+[11:03:38]	Александр Климов has spawned 'models/props_junk/wood_pallet001a.mdl'.
+[11:04:31]	Александр Климов has spawned 'models/props_interiors/refrigerator01a.mdl'.
+[11:04:41]	Александр Климов has spawned 'models/props_junk/PushCart01a.mdl'.
+[11:04:47]	Александр Климов has spawned 'models/props_wasteland/cafeteria_table001a.mdl'.
+[11:04:49]	Александр Климов has spawned 'models/props_wasteland/cafeteria_table001a.mdl'.
+[11:04:54]	Александр Климов has spawned 'models/props_wasteland/cafeteria_table001a.mdl'.
+[11:05:10]	Александр Климов has spawned 'models/props_docks/channelmarker_gib01.mdl'.
+[11:05:12]	Александр Климов has spawned 'models/props_docks/dock01_pole01a_128.mdl'.
+[11:05:13]	Александр Климов has spawned 'models/props_docks/dock01_pole01a_256.mdl'.
+[11:05:35]	Александр Климов has spawned 'models/props_wasteland/prison_shelf002a.mdl'.
+[11:05:55]	Александр Климов has spawned 'models/props_wasteland/controlroom_filecabinet001a.mdl'.
+[11:05:59]	Александр Климов has spawned 'models/props_wasteland/controlroom_filecabinet002a.mdl'.
+[11:06:11]	Александр Климов has spawned 'models/props_wasteland/cafeteria_table001a.mdl'.
+[11:06:39]	Александр Климов has spawned 'models/props_interiors/ElevatorShaft_Door01a.mdl'.
+[11:07:05]	Александр Климов has enabled persistence for 'models/props_junk/wood_pallet001a.mdl'.
+[11:07:07]	Александр Климов has enabled persistence for 'models/props_junk/wood_pallet001a.mdl'.
+[11:07:08]	Александр Климов has enabled persistence for 'models/props_junk/wood_pallet001a.mdl'.
+[11:07:09]	Александр Климов has enabled persistence for 'models/props_junk/wood_pallet001a.mdl'.
+[11:07:21]	Александр Климов has spawned 'models/props_wasteland/interior_fence002e.mdl'.
+[11:07:34]	֍ Aime-moi ֍ has connected.
+[11:07:40]	Александр Климов has spawned 'models/props_wasteland/interior_fence003d.mdl'.
+[11:08:16]	Александр Климов has spawned 'models/props_wasteland/prison_cellwindow002a.mdl'.
+[11:08:24]	Александр Климов used the 'Арина' vendor.
+[11:08:39]	Александр Климов has spawned 'models/props_c17/door01_left.mdl'.
+[11:08:43]	֍ Aime-moi ֍ loaded the character 'MPF-RL.51561'
+[11:09:04]	MPF-RL.51561 used command '/CharSetModel MPF models/metropolice/male_09.mdl'.
+[11:09:24]	Александр Климов has spawned 'models/props_wasteland/interior_fence002b.mdl'.
+[11:09:26]	Александр Климов has spawned 'models/props_wasteland/interior_fence002a.mdl'.
+[11:09:53]	֍ Aime-moi ֍ (STEAM_0:0:424879351) deleted character 'MPF-RL.51561'
+[11:09:59]	֍ Aime-moi ֍ loaded the character 'D8.MPF-BLADE.57989'
+[11:10:08]	D8.MPF-BLADE.57989 entered observer.
+[11:10:32]	Александр Климов has spawned 'models/props_wasteland/interior_fence003d.mdl'.
+[11:10:33]	D8.MPF-BLADE.57989 has spawned 'models/combine_advisor_pod/combine_advisor_pod.mdl'.
+[11:10:36]	Александр Климов has spawned 'models/props_wasteland/interior_fence001g.mdl'.
+[11:10:42]	D8.MPF-BLADE.57989 has spawned 'models/combine_turrets/combine_cannon.mdl'.
+[11:10:52]	D8.MPF-BLADE.57989 has spawned 'models/combine_turrets/combine_cannon.mdl'.
+[11:11:02]	Александр Климов has taken 5 damage from D8.MPF-BLADE.57989.
+[11:11:10]	Александр Климов has taken 100 damage from D8.MPF-BLADE.57989.
+[11:11:10]	D8.MPF-BLADE.57989 has killed Александр Климов with weapon_physgun.
+[11:11:25]	D8.MPF-BLADE.57989 exited observer at their location.
+[11:11:27]	Александр Климов entered observer.
+[11:11:29]	Александр Климов exited observer at their location.
+[11:12:12]	Александр Климов has disabled persistence for 'models/props_junk/wood_pallet001a.mdl'.
+[11:12:14]	Александр Климов has disabled persistence for 'models/props_junk/wood_pallet001a.mdl'.
+[11:12:19]	Александр Климов has enabled persistence for 'models/props_junk/wood_pallet001a.mdl'.
+[11:12:20]	Александр Климов has disabled persistence for 'models/props_junk/wood_pallet001a.mdl'.
+[11:12:24]	D8.MPF-BLADE.57989 entered observer.
+[11:12:26]	Александр Климов has enabled persistence for 'models/props_junk/wood_pallet001a.mdl'.
+[11:12:26]	D8.MPF-BLADE.57989 has spawned 'models/combine_turrets/floor_turret_gib1.mdl'.
+[11:12:27]	Александр Климов has enabled persistence for 'models/props_junk/wood_pallet001a.mdl'.
+[11:12:33]	D8.MPF-BLADE.57989 has spawned 'models/dogvsstrider/rockslide.mdl'.
+[11:12:38]	D8.MPF-BLADE.57989 has spawned 'models/effects/vol_light256x512.mdl'.
+[11:12:42]	D8.MPF-BLADE.57989 has spawned 'models/effects/vol_light128x128.mdl'.
+[11:12:45]	D8.MPF-BLADE.57989 exited observer at their location.
+[11:12:47]	D8.MPF-BLADE.57989 entered observer.
+[11:12:48]	D8.MPF-BLADE.57989 has spawned 'models/effects/vol_light01.mdl'.
+[11:13:13]	D8.MPF-BLADE.57989 has spawned 'models/props_citizen_tech/transponder.mdl'.
+[11:13:15]	D8.MPF-BLADE.57989 exited observer at their location.
+[11:13:21]	D8.MPF-BLADE.57989 has spawned 'models/props_citizen_tech/firetrap_gashose01d.mdl'.
+[11:13:23]	D8.MPF-BLADE.57989 entered observer.
+[11:13:44]	D8.MPF-BLADE.57989 has spawned 'models/props_radiostation/radio_metaldoor01a.mdl'.
+[11:13:48]	D8.MPF-BLADE.57989 has spawned 'models/props_radiostation/radio_metaldoor01.mdl'.
+[11:13:48]	D8.MPF-BLADE.57989 exited observer at their location.
+[11:13:55]	Александр Климов has spawned 'models/props_wasteland/prison_celldoor001b.mdl'.
+[11:14:01]	D8.MPF-BLADE.57989 entered observer.
+[11:14:11]	D8.MPF-BLADE.57989 has spawned 'models/props_trainstation/train_orecar.mdl'.
+[11:14:15]	D8.MPF-BLADE.57989 has spawned 'models/props_trainstation/diesel.mdl'.
+[11:14:21]	D8.MPF-BLADE.57989 exited observer at their location.
+[11:14:25]	Александр Климов has spawned 'models/props_wasteland/controlroom_filecabinet001a.mdl'.
+[11:14:40]	D8.MPF-BLADE.57989 has spawned a 'Entity [851][ix_rationdispenser]'.
+[11:14:42]	D8.MPF-BLADE.57989 has spawned a 'Entity [880][ix_rationdispenser]'.
+[11:14:44]	D8.MPF-BLADE.57989 entered observer.
+[11:14:46]	D8.MPF-BLADE.57989 exited observer at their location.
+[11:14:49]	Александр Климов has spawned 'models/props_docks/dock01_pole01a_128.mdl'.
+[11:14:54]	D8.MPF-BLADE.57989 entered observer.
+[11:14:55]	D8.MPF-BLADE.57989 exited observer at their location.
+[11:14:56]	D8.MPF-BLADE.57989 entered observer.
+[11:14:56]	D8.MPF-BLADE.57989 exited observer at their location.
+[11:14:59]	D8.MPF-BLADE.57989 has gained 100 tokens.
+[11:15:08]	D8.MPF-BLADE.57989 entered observer.
+[11:15:12]	D8.MPF-BLADE.57989 exited observer at their location.
+[11:15:17]	D8.MPF-BLADE.57989 has spawned a 'Entity [854][ix_rationdispenser]'.
+[11:15:23]	Александр Климов has spawned 'models/props_docks/dock01_pole01a_128.mdl'.
+[11:15:33]	D8.MPF-BLADE.57989 entered observer.
+[11:15:34]	D8.MPF-BLADE.57989 exited observer at their location.
+[11:15:35]	D8.MPF-BLADE.57989 entered observer.
+[11:15:35]	D8.MPF-BLADE.57989 exited observer at their location.
+[11:15:43]	D8.MPF-BLADE.57989 entered observer.
+[11:15:54]	D8.MPF-BLADE.57989 exited observer at their location.
+[11:15:58]	D8.MPF-BLADE.57989 entered observer.
+[11:16:04]	D8.MPF-BLADE.57989 has spawned a 'Entity [836][beds_frame]'.
+[11:16:11]	D8.MPF-BLADE.57989 exited observer at their location.
+[11:16:14]	D8.MPF-BLADE.57989 has spawned a 'Entity [836][beds_custom]'.
+[11:16:19]	D8.MPF-BLADE.57989 entered observer.
+[11:16:20]	D8.MPF-BLADE.57989 exited observer at their location.
+[11:16:48]	D8.MPF-BLADE.57989 has spawned a 'Entity [836][beds_mattress]'.
+[11:16:53]	D8.MPF-BLADE.57989 entered observer.
+[11:17:10]	D8.MPF-BLADE.57989 has spawned a 'Entity [838][sent_ball]'.
+[11:17:14]	Александр Климов entered observer.
+[11:17:19]	Александр Климов exited observer at their location.
+[11:17:20]	D8.MPF-BLADE.57989 has spawned a 'Entity [911][sent_ball]'.
+[11:17:23]	D8.MPF-BLADE.57989 has spawned a 'Entity [838][sent_ball]'.
+[11:17:23]	D8.MPF-BLADE.57989 has spawned a 'Entity [911][sent_ball]'.
+[11:17:23]	D8.MPF-BLADE.57989 has spawned a 'Entity [912][sent_ball]'.
+[11:17:23]	D8.MPF-BLADE.57989 has spawned a 'Entity [913][sent_ball]'.
+[11:17:23]	D8.MPF-BLADE.57989 has spawned a 'Entity [914][sent_ball]'.
+[11:17:23]	D8.MPF-BLADE.57989 has spawned a 'Entity [915][sent_ball]'.
+[11:17:24]	D8.MPF-BLADE.57989 has spawned a 'Entity [916][sent_ball]'.
+[11:17:24]	D8.MPF-BLADE.57989 has spawned a 'Entity [917][sent_ball]'.
+[11:17:24]	D8.MPF-BLADE.57989 has spawned a 'Entity [924][sent_ball]'.
+[11:17:24]	D8.MPF-BLADE.57989 has spawned a 'Entity [925][sent_ball]'.
+[11:17:24]	D8.MPF-BLADE.57989 has spawned a 'Entity [926][sent_ball]'.
+[11:17:24]	D8.MPF-BLADE.57989 has spawned a 'Entity [927][sent_ball]'.
+[11:17:24]	D8.MPF-BLADE.57989 has spawned a 'Entity [928][sent_ball]'.
+[11:17:24]	D8.MPF-BLADE.57989 has spawned a 'Entity [929][sent_ball]'.
+[11:17:25]	D8.MPF-BLADE.57989 has spawned a 'Entity [930][sent_ball]'.
+[11:17:25]	D8.MPF-BLADE.57989 has spawned a 'Entity [937][sent_ball]'.
+[11:17:25]	D8.MPF-BLADE.57989 has spawned a 'Entity [975][sent_ball]'.
+[11:17:25]	D8.MPF-BLADE.57989 has spawned a 'Entity [980][sent_ball]'.
+[11:17:25]	D8.MPF-BLADE.57989 has spawned a 'Entity [981][sent_ball]'.
+[11:17:25]	D8.MPF-BLADE.57989 has spawned a 'Entity [997][sent_ball]'.
+[11:17:25]	D8.MPF-BLADE.57989 has spawned a 'Entity [998][sent_ball]'.
+[11:17:26]	D8.MPF-BLADE.57989 has spawned a 'Entity [999][sent_ball]'.
+[11:17:36]	D8.MPF-BLADE.57989 has spawned a 'Entity [838][sent_ball]'.
+[11:17:37]	D8.MPF-BLADE.57989 has spawned a 'Entity [911][sent_ball]'.
+[11:17:37]	D8.MPF-BLADE.57989 has spawned a 'Entity [912][sent_ball]'.
+[11:17:38]	D8.MPF-BLADE.57989 has spawned a 'Entity [913][sent_ball]'.
+[11:17:39]	D8.MPF-BLADE.57989 has spawned a 'Entity [914][sent_ball]'.
+[11:17:39]	D8.MPF-BLADE.57989 has spawned a 'Entity [915][sent_ball]'.
+[11:17:40]	D8.MPF-BLADE.57989 has spawned a 'Entity [916][sent_ball]'.
+[11:17:40]	D8.MPF-BLADE.57989 has spawned a 'Entity [917][sent_ball]'.
+[11:17:41]	D8.MPF-BLADE.57989 has spawned a 'Entity [924][sent_ball]'.
+[11:17:41]	D8.MPF-BLADE.57989 has spawned a 'Entity [925][sent_ball]'.
+[11:17:41]	D8.MPF-BLADE.57989 has spawned a 'Entity [926][sent_ball]'.
+[11:17:42]	D8.MPF-BLADE.57989 has spawned a 'Entity [927][sent_ball]'.
+[11:17:42]	D8.MPF-BLADE.57989 has spawned a 'Entity [928][sent_ball]'.
+[11:17:43]	D8.MPF-BLADE.57989 has spawned a 'Entity [929][sent_ball]'.
+[11:17:43]	D8.MPF-BLADE.57989 has spawned a 'Entity [930][sent_ball]'.
+[11:17:43]	D8.MPF-BLADE.57989 has spawned a 'Entity [937][sent_ball]'.
+[11:17:43]	D8.MPF-BLADE.57989 has spawned a 'Entity [975][sent_ball]'.
+[11:17:44]	D8.MPF-BLADE.57989 has spawned a 'Entity [980][sent_ball]'.
+[11:17:44]	D8.MPF-BLADE.57989 has spawned a 'Entity [981][sent_ball]'.
+[11:17:44]	D8.MPF-BLADE.57989 has spawned a 'Entity [997][sent_ball]'.
+[11:17:44]	D8.MPF-BLADE.57989 has spawned a 'Entity [998][sent_ball]'.
+[11:17:45]	D8.MPF-BLADE.57989 has spawned a 'Entity [999][sent_ball]'.
+[11:17:45]	D8.MPF-BLADE.57989 has spawned a 'Entity [1000][sent_ball]'.
+[11:17:45]	D8.MPF-BLADE.57989 has spawned a 'Entity [1001][sent_ball]'.
+[11:17:45]	D8.MPF-BLADE.57989 has spawned a 'Entity [1002][sent_ball]'.
+[11:17:45]	D8.MPF-BLADE.57989 has spawned a 'Entity [1003][sent_ball]'.
+[11:17:46]	D8.MPF-BLADE.57989 has spawned a 'Entity [1068][sent_ball]'.
+[11:17:46]	D8.MPF-BLADE.57989 has spawned a 'Entity [1073][sent_ball]'.
+[11:17:46]	D8.MPF-BLADE.57989 has spawned a 'Entity [1084][sent_ball]'.
+[11:17:46]	D8.MPF-BLADE.57989 has spawned a 'Entity [1085][sent_ball]'.
+[11:17:46]	D8.MPF-BLADE.57989 has spawned a 'Entity [1095][sent_ball]'.
+[11:17:47]	D8.MPF-BLADE.57989 has spawned a 'Entity [1097][sent_ball]'.
+[11:17:47]	D8.MPF-BLADE.57989 has spawned a 'Entity [1098][sent_ball]'.
+[11:17:47]	D8.MPF-BLADE.57989 has spawned a 'Entity [1099][sent_ball]'.
+[11:17:53]	Александр Климов has spawned 'models/props_debris/metal_panel01a.mdl'.
+[11:18:11]	D8.MPF-BLADE.57989 has spawned a 'Entity [838][sent_ball]'.
+[11:18:59]	D8.MPF-BLADE.57989 exited observer at their location.
+[11:19:01]	D8.MPF-BLADE.57989 entered observer.
+[11:19:07]	Александр Климов entered observer.
+[11:19:08]	Александр Климов exited observer at their location.
+[11:19:08]	Александр Климов entered observer.
+[11:19:23]	Александр Климов exited observer at their location.
+[11:19:25]	Александр Климов entered observer.
+[11:19:30]	Александр Климов has spawned 'models/props_interiors/Furniture_chair03a.mdl'.
+[11:19:37]	Александр Климов has spawned 'models/props_junk/cardboard_box001a.mdl'.
+[11:19:50]	Александр Климов has spawned 'models/props_junk/cardboard_box003a.mdl'.
+[11:19:59]	D8.MPF-BLADE.57989 has gained 100 tokens.
+[11:20:07]	Александр Климов has spawned 'models/props_lab/filecabinet02.mdl'.
+[11:20:12]	Александр Климов exited observer at their location.
+[11:20:14]	D8.MPF-BLADE.57989 has spawned a 'Entity [913][st_radio_cuban_n]'.
+[11:20:30]	Александр Климов has spawned 'models/props_c17/oildrum001.mdl'.
+[11:20:31]	D8.MPF-BLADE.57989 has spawned a 'Entity [915][st_radio_bongo_n]'.
+[11:20:36]	Александр Климов has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[11:20:42]	Александр Климов has spawned 'models/props_lab/blastdoor001a.mdl'.
+[11:20:52]	D8.MPF-BLADE.57989 has spawned a 'Entity [915][st_radio_flamenco_n]'.
+[11:20:54]	D8.MPF-BLADE.57989 has spawned a 'Entity [915][st_radio_flamenco_o]'.
+[11:21:02]	D8.MPF-BLADE.57989 exited observer at their location.
+[11:21:04]	D8.MPF-BLADE.57989 entered observer.
+[11:21:13]	Александр Климов entered observer.
+[11:21:14]	Александр Климов exited observer at their location.
+[11:21:18]	Александр Климов entered observer.
+[11:21:19]	Александр Климов exited observer at their location.
+[11:21:20]	D8.MPF-BLADE.57989 has spawned a 'Entity [836][st_radio_finetuned_o]'.
+[11:21:27]	D8.MPF-BLADE.57989 exited observer at their location.
+[11:21:30]	D8.MPF-BLADE.57989 entered observer.
+[11:21:36]	D8.MPF-BLADE.57989 exited observer at their location.
+[11:21:37]	D8.MPF-BLADE.57989 has spawned a 'Entity [836][st_radio_country_o]'.
+[11:21:37]	Александр Климов has spawned 'models/props_docks/dock01_pole01a_128.mdl'.
+[11:21:44]	D8.MPF-BLADE.57989 entered observer.
+[11:21:57]	D8.MPF-BLADE.57989 exited observer at their location.
+[11:21:58]	D8.MPF-BLADE.57989 entered observer.
+[11:21:59]	D8.MPF-BLADE.57989 exited observer at their location.
+[11:22:38]	D8.MPF-BLADE.57989 entered observer.
+[11:23:28]	Александр Климов entered observer.
+[11:23:29]	Александр Климов exited observer at their location.
+[11:23:45]	Александр Климов has spawned 'models/props_trainstation/BenchOutdoor01a.mdl'.
+[11:23:59]	Александр Климов has spawned 'models/props_trainstation/benchoutdoor01a.mdl'.
+[11:23:59]	Александр Климов has spawned 'models/props_trainstation/benchoutdoor01a.mdl'.
+[11:24:00]	Александр Климов has spawned 'models/props_trainstation/benchoutdoor01a.mdl'.
+[11:24:01]	Александр Климов has spawned 'models/props_trainstation/benchoutdoor01a.mdl'.
+[11:24:11]	D8.MPF-BLADE.57989 used command '/PanelAdd https://s.tcdn.co/b1c/332/b1c3320c-b169-38ec-8b6b-f4c2e9916745/9.png 1'.
+[11:24:14]	D8.MPF-BLADE.57989 exited observer at their location.
+[11:24:14]	D8.MPF-BLADE.57989 entered observer.
+[11:24:30]	D8.MPF-BLADE.57989 used command '/PanelAdd https://s.tcdn.co/b1c/332/b1c3320c-b169-38ec-8b6b-f4c2e9916745/9.png 5 5 5'.
+[11:24:31]	Александр Климов has enabled persistence for 'models/props_wasteland/interior_fence002a.mdl'.
+[11:24:32]	Александр Климов has enabled persistence for 'models/props_wasteland/interior_fence002e.mdl'.
+[11:24:33]	Александр Климов has enabled persistence for 'models/props_c17/door01_left.mdl'.
+[11:24:34]	Александр Климов has enabled persistence for 'models/props_wasteland/interior_fence003d.mdl'.
+[11:24:35]	D8.MPF-BLADE.57989 exited observer at their location.
+[11:24:36]	Александр Климов has enabled persistence for 'models/props_wasteland/cafeteria_table001a.mdl'.
+[11:24:42]	D8.MPF-BLADE.57989 entered observer.
+[11:25:01]	D8.MPF-BLADE.57989 has gained 100 tokens.
+[11:25:22]	Александр Климов has enabled persistence for 'models/props_debris/metal_panel01a.mdl'.
+[11:25:24]	Александр Климов has enabled persistence for 'models/props_junk/cardboard_box003a.mdl'.
+[11:25:25]	Александр Климов has enabled persistence for 'models/props_junk/cardboard_box001a.mdl'.
+[11:25:25]	Александр Климов has enabled persistence for 'models/props_interiors/furniture_chair03a.mdl'.
+[11:25:27]	Александр Климов has enabled persistence for 'models/props_docks/dock01_pole01a_128.mdl'.
+[11:25:32]	Александр Климов has enabled persistence for 'models/props_docks/dock01_pole01a_128.mdl'.
+[11:25:33]	Александр Климов has enabled persistence for 'models/props_docks/dock01_pole01a_128.mdl'.
+[11:25:39]	Александр Климов has enabled persistence for 'models/props_wasteland/interior_fence001g.mdl'.
+[11:25:43]	Александр Климов has enabled persistence for 'models/props_c17/oildrum001.mdl'.
+[11:25:44]	Александр Климов has enabled persistence for 'models/props_lab/blastdoor001a.mdl'.
+[11:25:45]	Александр Климов entered observer.
+[11:25:46]	D8.MPF-BLADE.57989 used command '/PanelRemove'.
+[11:25:48]	Александр Климов has disabled persistence for 'models/props_junk/wood_pallet001a.mdl'.
+[11:25:48]	Александр Климов has disabled persistence for 'models/props_junk/wood_pallet001a.mdl'.
+[11:25:50]	Александр Климов has enabled persistence for 'models/props_junk/wood_pallet001a.mdl'.
+[11:25:51]	Александр Климов has enabled persistence for 'models/props_junk/wood_pallet001a.mdl'.
+[11:25:52]	D8.MPF-BLADE.57989 used command '/PanelRemove'.
+[11:25:56]	D8.MPF-BLADE.57989 used command '/PanelRemove'.
+[11:25:59]	Александр Климов exited observer at their location.
+[11:26:01]	D8.MPF-BLADE.57989 used command '/PanelRemove'.
+[11:26:29]	Александр Климов has enabled persistence for 'models/props_trainstation/benchoutdoor01a.mdl'.
+[11:26:29]	Александр Климов has enabled persistence for 'models/props_trainstation/benchoutdoor01a.mdl'.
+[11:26:30]	Александр Климов has enabled persistence for 'models/props_trainstation/benchoutdoor01a.mdl'.
+[11:26:32]	Александр Климов has enabled persistence for 'models/props_trainstation/benchoutdoor01a.mdl'.
+[11:26:33]	Александр Климов has enabled persistence for 'models/props_trainstation/benchoutdoor01a.mdl'.
+[11:26:34]	Александр Климов entered observer.
+[11:26:35]	Александр Климов exited observer at their location.
+[11:26:51]	D8.MPF-BLADE.57989 used command '/PanelAdd https://i.playground.ru/i/pix/62076/image.jpg 10 10 10'.
+[11:27:06]	D8.MPF-BLADE.57989 used command '/PanelRemove'.
+[11:27:14]	D8.MPF-BLADE.57989 used command '/PanelAdd https://i.playground.ru/i/pix/62076/image.jpg 50 100'.
+[11:27:26]	D8.MPF-BLADE.57989 used command '/PanelRemove'.
+[11:27:30]	Александр Климов entered observer.
+[11:27:32]	Александр Климов exited observer at their location.
+[11:27:32]	Александр Климов has taken 5 damage from pipe_damage.
+[11:27:33]	Александр Климов entered observer.
+[11:27:33]	D8.MPF-BLADE.57989 used command '/PanelAdd https://i.playground.ru/i/pix/62076/image.jpg 50 80 30'.
+[11:27:34]	Александр Климов exited observer at their location.
+[11:27:37]	D8.MPF-BLADE.57989 used command '/PanelRemove'.
+[11:27:38]	Александр Климов entered observer.
+[11:27:39]	Александр Климов exited observer at their location.
+[11:27:42]	D8.MPF-BLADE.57989 used command '/PanelAdd https://i.playground.ru/i/pix/62076/image.jpg 50 80 10'.
+[11:27:44]	Александр Климов entered observer.
+[11:27:45]	Александр Климов exited observer at their location.
+[11:27:45]	D8.MPF-BLADE.57989 used command '/PanelRemove'.
+[11:27:48]	D8.MPF-BLADE.57989 used command '/PanelAdd https://i.playground.ru/i/pix/62076/image.jpg 50 80 10'.
+[11:27:52]	D8.MPF-BLADE.57989 used command '/PanelRemove'.
+[11:27:55]	D8.MPF-BLADE.57989 used command '/PanelAdd https://i.playground.ru/i/pix/62076/image.jpg 50 80 10'.
+[11:29:04]	Александр Климов has spawned 'models/props_c17/FurnitureTable001a.mdl'.
+[11:29:16]	Александр Климов entered observer.
+[11:29:42]	D8.MPF-BLADE.57989 used command '/PanelAdd https://static.hentai-img.com/upload/20091004/32/32474/115.jpg 10 10 5'.
+[11:29:44]	D8.MPF-BLADE.57989 exited observer at their location.
+[11:29:47]	D8.MPF-BLADE.57989 used command '/PanelRemove'.
+[11:29:50]	D8.MPF-BLADE.57989 entered observer.
+[11:29:51]	D8.MPF-BLADE.57989 exited observer at their location.
+[11:30:01]	D8.MPF-BLADE.57989 has gained 100 tokens.
+[11:30:03]	D8.MPF-BLADE.57989 used command '/PanelAdd https://s.tcdn.co/b1c/332/b1c3320c-b169-38ec-8b6b-f4c2e9916745/9.png 5 5 5'.
+[11:30:03]	Александр Климов exited observer at their location.
+[11:30:05]	D8.MPF-BLADE.57989 entered observer.
+[11:30:05]	Александр Климов entered observer.
+[11:30:08]	Александр Климов exited observer at their location.
+[11:30:11]	Александр Климов entered observer.
+[11:30:14]	Александр Климов exited observer at their location.
+[11:30:22]	Александр Климов has spawned 'models/hunter/plates/plate1x1.mdl'.
+[11:30:38]	D8.MPF-BLADE.57989 used command '/PanelRemove'.
+[11:30:47]	Александр Климов ran 'Equip' on item 'M3 Super 90' (#189)
+[11:30:51]	D8.MPF-BLADE.57989 used command '/PanelAdd https://static2.hentai-img.com/upload/20160801/75/76668/17.jpg 10 10 10'.
+[11:30:53]	D8.MPF-BLADE.57989 exited observer at their location.
+[11:30:55]	D8.MPF-BLADE.57989 used command '/PanelRemove'.
+[11:30:57]	Александр Климов has gained 0 tokens.
+[11:30:57]	Александр Климов ordered a shipment
+[11:30:58]	D8.MPF-BLADE.57989 used command '/PanelAdd https://static2.hentai-img.com/upload/20160801/75/76668/17.jpg 10 10'.
+[11:31:00]	Александр Климов has gained a 'Ящик гильз' #190.
+[11:31:00]	Александр Климов took 'Ящик гильз' from the shipment
+[11:31:01]	D8.MPF-BLADE.57989 used command '/PanelRemove'.
+[11:31:03]	Александр Климов ran 'use' on item 'Ящик гильз' (#190)
+[11:31:30]	D8.MPF-BLADE.57989 entered observer.
+[11:31:36]	Александр Климов opened the 'File Cabinet' #61 container.
+[11:31:40]	D8.MPF-BLADE.57989 used command '/PanelAdd https://pbs.twimg.com/profile_banners/1656266911/1451300116/1500x500 10 10 50'.
+[11:31:41]	Александр Климов ran 'EquipUn' on item 'M3 Super 90' (#189)
+[11:31:43]	Александр Климов closed the 'File Cabinet' #61 container.
+[11:31:43]	D8.MPF-BLADE.57989 used command '/PanelRemove'.
+[11:31:47]	D8.MPF-BLADE.57989 exited observer at their location.
+[11:31:56]	D8.MPF-BLADE.57989 used command '/PanelAdd https://pbs.twimg.com/profile_banners/1656266911/1451300116/1500x500 10 10'.
+[11:31:58]	D8.MPF-BLADE.57989 used command '/PanelRemove'.
+[11:32:05]	Александр Климов opened the 'File Cabinet' #61 container.
+[11:32:07]	Александр Климов has gained a 'M3 Super 90' #189.
+[11:32:08]	Александр Климов closed the 'File Cabinet' #61 container.
+[11:32:12]	D8.MPF-BLADE.57989 entered observer.
+[11:32:16]	Александр Климов has set the password for 'File Cabinet'.
+[11:32:31]	Александр Климов entered observer.
+[11:32:32]	Александр Климов exited observer at their location.
+[11:32:33]	Александр Климов entered observer.
+[11:32:37]	Александр Климов exited observer at their location.
+[11:33:02]	D8.MPF-BLADE.57989 has spawned a 'Entity [836][st_radio_jams_o]'.
+[11:33:05]	Александр Климов entered observer.
+[11:33:05]	Александр Климов used the 'Арина' vendor.
+[11:33:07]	D8.MPF-BLADE.57989 exited observer at their location.
+[11:33:08]	D8.MPF-BLADE.57989 entered observer.
+[11:33:08]	Александр Климов exited observer at their location.
+[11:33:09]	D8.MPF-BLADE.57989 exited observer at their location.
+[11:33:10]	D8.MPF-BLADE.57989 entered observer.
+[11:33:20]	D8.MPF-BLADE.57989 has spawned a 'Entity [836][st_radio_cuban_n]'.
+[11:33:24]	D8.MPF-BLADE.57989 exited observer at their location.
+[11:33:27]	D8.MPF-BLADE.57989 entered observer.
+[11:33:31]	Александр Климов has lost 24 tokens.
+[11:33:31]	Александр Климов ordered a shipment
+[11:33:34]	Александр Климов has gained a 'Китайская лапша' #190.
+[11:33:34]	Александр Климов took 'Китайская лапша' from the shipment
+[11:33:36]	Александр Климов took 'Китайская лапша' from the shipment
+[11:33:36]	D8.MPF-BLADE.57989 has spawned a 'Entity [879][gw_hunter]'.
+[11:33:36]	Александр Климов took 'Китайская лапша' from the shipment
+[11:33:38]	D8.MPF-BLADE.57989 exited observer at their location.
+[11:33:42]	D8.MPF-BLADE.57989 entered observer.
+[11:33:53]	Александр Климов ran 'Eat' on item 'Китайская лапша' (#190)
+[11:35:01]	D8.MPF-BLADE.57989 has gained 100 tokens.
+[11:35:09]	Александр Климов ran 'Eat' on item 'Китайская лапша' (#191)
+[11:35:10]	Александр Климов ran 'Eat' on item 'Китайская лапша' (#192)
+[11:35:27]	Александр Климов entered observer.
+[11:35:27]	Александр Климов exited observer at their location.
+[11:35:54]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[11:35:56]	D8.MPF-BLADE.57989 used command '/PanelAdd http://risovach.ru/upload/2013/10/mem/mne-kazhetsya-ili-lila_32899270_orig_.jpg 10 10 10'.
+[11:36:12]	D8.MPF-BLADE.57989 used command '/PanelRemove'.
+[11:36:18]	D8.MPF-BLADE.57989 used command '/PanelAdd http://risovach.ru/upload/2013/10/mem/mne-kazhetsya-ili-lila_32899270_orig_.jpg 10 10 30'.
+[11:36:22]	D8.MPF-BLADE.57989 used command '/PanelRemove'.
+[11:36:24]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[11:36:24]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[11:36:25]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[11:36:26]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[11:36:26]	D8.MPF-BLADE.57989 used command '/PanelAdd http://risovach.ru/upload/2013/10/mem/mne-kazhetsya-ili-lila_32899270_orig_.jpg 10 10 60'.
+[11:36:26]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[11:36:27]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[11:36:27]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[11:36:29]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[11:36:43]	D8.MPF-BLADE.57989 used command '/PanelRemove'.
+[11:36:43]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[11:36:48]	D8.MPF-BLADE.57989 used command '/PanelAdd http://risovach.ru/upload/2013/10/mem/mne-kazhetsya-ili-lila_32899270_orig_.jpg 20 20 80'.
+[11:36:52]	D8.MPF-BLADE.57989 used command '/PanelRemove'.
+[11:36:54]	D8.MPF-BLADE.57989 used command '/PanelAdd http://risovach.ru/upload/2013/10/mem/mne-kazhetsya-ili-lila_32899270_orig_.jpg 20 20 80'.
+[11:36:57]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[11:36:57]	D8.MPF-BLADE.57989 used command '/PanelRemove'.
+[11:37:01]	Александр Климов has spawned 'models/hunter/blocks/cube025x3x025.mdl'.
+[11:37:03]	D8.MPF-BLADE.57989 used command '/PanelAdd http://risovach.ru/upload/2013/10/mem/mne-kazhetsya-ili-lila_32899270_orig_.jpg 20 20 100'.
+[11:37:05]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[11:37:06]	Александр Климов has spawned 'models/hunter/blocks/cube025x3x025.mdl'.
+[11:37:26]	D8.MPF-BLADE.57989 used command '/PanelRemove'.
+[11:37:43]	D8.MPF-BLADE.57989 used command '/PanelAdd http://risovach.ru/upload/2014/10/mem/leonid-arkadevich-nedovolen_64607493_orig_.jpeg 20 20 100'.
+[11:37:47]	D8.MPF-BLADE.57989 exited observer at their location.
+[11:37:47]	D8.MPF-BLADE.57989 entered observer.
+[11:37:49]	D8.MPF-BLADE.57989 used command '/PanelRemove'.
+[11:37:55]	D8.MPF-BLADE.57989 used command '/PanelAdd http://risovach.ru/upload/2014/10/mem/leonid-arkadevich-nedovolen_64607493_orig_.jpeg 10 10 50'.
+[11:37:59]	D8.MPF-BLADE.57989 exited observer at their location.
+[11:37:59]	D8.MPF-BLADE.57989 entered observer.
+[11:38:01]	D8.MPF-BLADE.57989 used command '/PanelRemove'.
+[11:38:14]	Александр Климов entered observer.
+[11:38:21]	Александр Климов exited observer at their location.
+[11:39:29]	Александр Климов has spawned 'models/props_debris/metal_panel02a.mdl'.
+[11:39:45]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[11:39:59]	Александр Климов entered observer.
+[11:40:01]	D8.MPF-BLADE.57989 has gained 100 tokens.
+[11:40:47]	Александр Климов exited observer at their location.
+[11:41:04]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[11:41:08]	Александр Климов entered observer.
+[11:41:23]	D8.MPF-BLADE.57989 used command '/PanelAdd https://i.pinimg.com/originals/dc/b2/dd/dcb2ddaec11ee607494254c20febefa6.jpg 10 20 50'.
+[11:41:27]	D8.MPF-BLADE.57989 used command '/PanelRemove'.
+[11:41:30]	D8.MPF-BLADE.57989 used command '/PanelAdd https://i.pinimg.com/originals/dc/b2/dd/dcb2ddaec11ee607494254c20febefa6.jpg 10 20 50'.
+[11:41:32]	D8.MPF-BLADE.57989 exited observer at their location.
+[11:41:34]	D8.MPF-BLADE.57989 used command '/PanelRemove'.
+[11:41:37]	D8.MPF-BLADE.57989 used command '/PanelAdd https://i.pinimg.com/originals/dc/b2/dd/dcb2ddaec11ee607494254c20febefa6.jpg 10 20 50'.
+[11:41:38]	D8.MPF-BLADE.57989 entered observer.
+[11:42:40]	Александр Климов exited observer at their location.
+[11:43:03]	Александр Климов has spawned 'models/props_phx/construct/glass/glass_plate1x1.mdl'.
+[11:44:08]	D8.MPF-BLADE.57989 used command '/PanelAdd https://steamuserimages-a.akamaihd.net/ugc/271715193877535852/EA9BB2EF988197898C9C57C8E8C49202B4C53006/?imw=512&amp;imh=898&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true 10 25 50'.
+[11:44:09]	Александр Климов has spawned 'models/hunter/blocks/cube025x3x025.mdl'.
+[11:44:09]	Александр Климов has spawned 'models/hunter/blocks/cube025x3x025.mdl'.
+[11:44:11]	D8.MPF-BLADE.57989 exited observer at their location.
+[11:44:14]	D8.MPF-BLADE.57989 used command '/PanelRemove'.
+[11:44:36]	Александр Климов entered observer.
+[11:44:48]	Александр Климов exited observer at their location.
+[11:44:49]	D8.MPF-BLADE.57989 used command '/PanelAdd https://get.wallhere.com/photo/Half-Life-Black-Mesa-1539703.jpg 10 25 50'.
+[11:44:55]	D8.MPF-BLADE.57989 used command '/PanelRemove'.
+[11:44:58]	D8.MPF-BLADE.57989 used command '/PanelAdd https://get.wallhere.com/photo/Half-Life-Black-Mesa-1539703.jpg 10 25 50'.
+[11:45:01]	D8.MPF-BLADE.57989 has gained 100 tokens.
+[11:45:02]	D8.MPF-BLADE.57989 used command '/PanelRemove'.
+[11:45:12]	D8.MPF-BLADE.57989 used command '/PanelAdd https://get.wallhere.com/photo/Half-Life-Black-Mesa-1539703.jpg 15 25 50'.
+[11:45:16]	D8.MPF-BLADE.57989 used command '/PanelRemove'.
+[11:45:20]	D8.MPF-BLADE.57989 used command '/PanelAdd https://get.wallhere.com/photo/Half-Life-Black-Mesa-1539703.jpg 15 25 50'.
+[11:45:21]	D8.MPF-BLADE.57989 entered observer.
+[11:45:24]	D8.MPF-BLADE.57989 exited observer at their location.
+[11:45:25]	D8.MPF-BLADE.57989 entered observer.
+[11:45:27]	D8.MPF-BLADE.57989 exited observer at their location.
+[11:45:34]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[11:45:37]	D8.MPF-BLADE.57989 entered observer.
+[11:46:04]	D8.MPF-BLADE.57989 has spawned 'models/props_borealis/borealis_door001a.mdl'.
+[11:46:08]	D8.MPF-BLADE.57989 has spawned 'models/props_c17/FurnitureDrawer003a.mdl'.
+[11:46:12]	Александр Климов has spawned 'models/hunter/plates/plate1x3.mdl'.
+[11:46:28]	D8.MPF-BLADE.57989 used command '/PanelAdd https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c2/c2a155f566d2ea4bf0ae763b3b11b73bd8a89270_full.jpg 50 50 100'.
+[11:46:36]	Александр Климов entered observer.
+[11:46:43]	Александр Климов exited observer at their location.
+[11:46:51]	D8.MPF-BLADE.57989 used command '/PanelRemove'.
+[11:46:55]	D8.MPF-BLADE.57989 used command '/PanelRemove'.
+[11:46:58]	Александр Климов entered observer.
+[11:46:59]	Александр Климов exited observer at their location.
+[11:46:59]	Александр Климов entered observer.
+[11:47:04]	Александр Климов exited observer at their location.
+[11:47:08]	Александр Климов has spawned 'models/props_c17/door01_left.mdl'.
+[11:47:13]	D8.MPF-BLADE.57989 used command '/PanelAdd https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c2/c2a155f566d2ea4bf0ae763b3b11b73bd8a89270_full.jpg 50 50 100'.
+[11:47:15]	D8.MPF-BLADE.57989 used command '/PanelRemove'.
+[11:47:26]	D8.MPF-BLADE.57989 used command '/PanelAdd https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c2/c2a155f566d2ea4bf0ae763b3b11b73bd8a89270_full.jpg 60 30'.
+[11:47:31]	D8.MPF-BLADE.57989 used command '/PanelRemove'.
+[11:47:33]	Александр Климов has spawned 'models/props_c17/door01_left.mdl'.
+[11:47:33]	D8.MPF-BLADE.57989 used command '/PanelAdd https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c2/c2a155f566d2ea4bf0ae763b3b11b73bd8a89270_full.jpg 60 30 70'.
+[11:47:53]	D8.MPF-BLADE.57989 used command '/PanelRemove'.
+[11:47:54]	Александр Климов ran 'Equip' on item 'M3 Super 90' (#189)
+[11:47:56]	D8.MPF-BLADE.57989 used command '/PanelRemove'.
+[11:48:37]	D8.MPF-BLADE.57989 used command '/PanelAdd https://ae01.alicdn.com/kf/HTB1SolLQVXXXXcTXFXXq6xXFXXXy/-.jpg 15 25 50'.
+[11:48:47]	Александр Климов entered observer.
+[11:48:47]	D8.MPF-BLADE.57989 used command '/PanelRemove'.
+[11:48:50]	Александр Климов exited observer at their location.
+[11:49:01]	D8.MPF-BLADE.57989 used command '/PanelAdd https://ae01.alicdn.com/kf/HTB1SolLQVXXXXcTXFXXq6xXFXXXy/-.jpg 13 25 50'.
+[11:49:05]	Александр Климов entered observer.
+[11:49:08]	D8.MPF-BLADE.57989 used command '/PanelRemove'.
+[11:49:09]	Александр Климов exited observer at their location.
+[11:49:11]	D8.MPF-BLADE.57989 used command '/PanelRemove'.
+[11:49:25]	D8.MPF-BLADE.57989 used command '/PanelAdd https://ae01.alicdn.com/kf/HTB1SolLQVXXXXcTXFXXq6xXFXXXy/-.jpg 12 28 50'.
+[11:49:29]	D8.MPF-BLADE.57989 used command '/PanelRemove'.
+[11:49:38]	Александр Климов entered observer.
+[11:49:38]	D8.MPF-BLADE.57989 used command '/PanelAdd https://ae01.alicdn.com/kf/HTB1SolLQVXXXXcTXFXXq6xXFXXXy/-.jpg 13 27 50'.
+[11:49:38]	Александр Климов exited observer at their location.
+[11:50:01]	D8.MPF-BLADE.57989 has gained 100 tokens.
+[11:50:42]	Александр Климов has spawned 'models/props_c17/door01_left.mdl'.
+[11:51:00]	D8.MPF-BLADE.57989 used command '/PanelAdd https://i.imgur.com/UJCZD3i.png 13 27 50'.
+[11:51:03]	D8.MPF-BLADE.57989 exited observer at their location.
+[11:51:04]	D8.MPF-BLADE.57989 entered observer.
+[11:51:08]	D8.MPF-BLADE.57989 used command '/PanelRemove'.
+[11:51:20]	Александр Климов has spawned 'models/props_c17/gate_door01a.mdl'.
+[11:52:17]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[11:52:17]	Александр Климов has spawned 'models/hunter/blocks/cube025x3x025.mdl'.
+[11:52:17]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[11:52:17]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[11:52:17]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[11:52:27]	D8.MPF-BLADE.57989 exited observer at their location.
+[11:52:30]	D8.MPF-BLADE.57989 entered observer.
+[11:52:32]	D8.MPF-BLADE.57989 exited observer at their location.
+[11:52:35]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[11:52:35]	Александр Климов has spawned 'models/hunter/blocks/cube025x3x025.mdl'.
+[11:52:35]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[11:52:35]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[11:52:35]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[11:52:38]	Александр Климов entered observer.
+[11:52:39]	Александр Климов exited observer at their location.
+[11:52:43]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[11:52:43]	Александр Климов has spawned 'models/hunter/blocks/cube025x3x025.mdl'.
+[11:52:43]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[11:52:43]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[11:52:43]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[11:52:45]	D8.MPF-BLADE.57989 entered observer.
+[11:52:49]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[11:52:49]	Александр Климов has spawned 'models/hunter/blocks/cube025x3x025.mdl'.
+[11:52:49]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[11:52:49]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[11:52:50]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[11:52:56]	Александр Климов entered observer.
+[11:52:58]	Александр Климов exited observer at their location.
+[11:52:59]	D8.MPF-BLADE.57989 has spawned a 'Entity [1084][st_radio_desert_n]'.
+[11:53:04]	D8.MPF-BLADE.57989 exited observer at their location.
+[11:53:06]	D8.MPF-BLADE.57989 entered observer.
+[11:53:07]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[11:53:07]	Александр Климов has spawned 'models/hunter/blocks/cube025x3x025.mdl'.
+[11:53:07]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[11:53:07]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[11:53:07]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[11:53:07]	Александр Климов entered observer.
+[11:53:08]	Александр Климов exited observer at their location.
+[11:53:15]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[11:53:15]	Александр Климов has spawned 'models/hunter/blocks/cube025x3x025.mdl'.
+[11:53:15]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[11:53:15]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[11:53:15]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[11:53:22]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[11:53:22]	Александр Климов has spawned 'models/hunter/blocks/cube025x3x025.mdl'.
+[11:53:22]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[11:53:22]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[11:53:22]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[11:53:30]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[11:53:30]	Александр Климов has spawned 'models/hunter/blocks/cube025x3x025.mdl'.
+[11:53:30]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[11:53:30]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[11:53:30]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[11:53:49]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[11:53:49]	Александр Климов has spawned 'models/hunter/blocks/cube025x3x025.mdl'.
+[11:53:49]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[11:53:49]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[11:53:49]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[11:53:56]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[11:53:56]	Александр Климов has spawned 'models/hunter/blocks/cube025x3x025.mdl'.
+[11:53:56]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[11:53:56]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[11:53:56]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[11:54:04]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[11:54:04]	Александр Климов has spawned 'models/hunter/blocks/cube025x3x025.mdl'.
+[11:54:04]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[11:54:04]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[11:54:04]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[11:54:43]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[11:54:43]	Александр Климов has spawned 'models/hunter/blocks/cube025x3x025.mdl'.
+[11:54:43]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[11:54:43]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[11:54:43]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[11:54:43]	Александр Климов entered observer.
+[11:54:44]	Александр Климов exited observer at their location.
+[11:55:01]	D8.MPF-BLADE.57989 has gained 100 tokens.
+[11:55:04]	Александр Климов entered observer.
+[11:55:12]	Александр Климов exited observer at their location.
+[11:55:14]	Александр Климов entered observer.
+[11:55:30]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[11:55:30]	Александр Климов has spawned 'models/hunter/blocks/cube025x3x025.mdl'.
+[11:55:30]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[11:55:30]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[11:55:30]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[11:55:50]	Александр Климов exited observer at their location.
+[11:55:55]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[11:55:55]	Александр Климов has spawned 'models/hunter/blocks/cube025x3x025.mdl'.
+[11:55:55]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[11:55:55]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[11:55:55]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[11:55:55]	Александр Климов has spawned 'models/hunter/plates/plate1x3.mdl'.
+[11:55:57]	Александр Климов entered observer.
+[11:55:57]	Александр Климов exited observer at their location.
+[11:56:00]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[11:56:00]	Александр Климов has spawned 'models/hunter/blocks/cube025x3x025.mdl'.
+[11:56:00]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[11:56:00]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[11:56:00]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[11:56:00]	Александр Климов has spawned 'models/hunter/plates/plate1x3.mdl'.
+[11:56:08]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[11:56:08]	Александр Климов has spawned 'models/hunter/blocks/cube025x3x025.mdl'.
+[11:56:08]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[11:56:08]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[11:56:08]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[11:56:08]	Александр Климов has spawned 'models/hunter/plates/plate1x3.mdl'.
+[11:56:11]	Александр Климов entered observer.
+[11:56:16]	Александр Климов exited observer at their location.
+[11:56:28]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[11:56:28]	Александр Климов has spawned 'models/hunter/blocks/cube025x3x025.mdl'.
+[11:56:28]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[11:56:28]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[11:56:28]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[11:56:28]	Александр Климов has spawned 'models/hunter/plates/plate1x3.mdl'.
+[11:56:34]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[11:56:34]	Александр Климов has spawned 'models/hunter/blocks/cube025x3x025.mdl'.
+[11:56:34]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[11:56:34]	Александр Климов has spawned 'models/hunter/plates/plate1x2.mdl'.
+[11:56:34]	Александр Климов has spawned 'models/hunter/blocks/cube025x2x025.mdl'.
+[11:56:34]	Александр Климов has spawned 'models/hunter/plates/plate1x3.mdl'.
+[11:56:38]	Александр Климов entered observer.
+[11:56:49]	Александр Климов exited observer at their location.
+[11:57:05]	D8.MPF-BLADE.57989 used command '/TextAdd Магазинчи'.
+[11:57:12]	D8.MPF-BLADE.57989 used command '/TextRemove'.
+[11:57:23]	Александр Климов entered observer.
+[11:57:23]	Александр Климов exited observer at their location.
+[11:57:59]	Александр Климов has spawned a 'Entity [1084][st_radio_desert_n]'.
+[11:58:04]	Александр Климов has spawned a 'Entity [1108][st_radio_finetuned_n]'.
+[11:58:19]	Александр Климов used command '/ActSit'.
+[11:59:17]	Александр Климов used the 'Арина' vendor.
+[11:59:27]	D8.MPF-BLADE.57989 used command '/TextAdd Магазинчик'.
+[11:59:42]	Александр Климов used command '/ExitAct'.
+[11:59:46]	Александр Климов used the 'Арина' vendor.
+[11:59:56]	D8.MPF-BLADE.57989 has enabled persistence for 'models/hunter/blocks/cube025x2x025.mdl'.
+[11:59:57]	D8.MPF-BLADE.57989 has enabled persistence for 'models/hunter/blocks/cube025x2x025.mdl'.
+[11:59:58]	Александр Климов has enabled persistence for 'models/hunter/plates/plate1x2.mdl'.
+[11:59:59]	Александр Климов has enabled persistence for 'models/hunter/blocks/cube025x2x025.mdl'.
+[11:59:59]	Александр Климов has enabled persistence for 'models/hunter/blocks/cube025x2x025.mdl'.
+[12:00:00]	D8.MPF-BLADE.57989 has enabled persistence for 'models/hunter/blocks/cube025x3x025.mdl'.
+[12:00:00]	Александр Климов has enabled persistence for 'models/hunter/plates/plate1x2.mdl'.
+[12:00:01]	D8.MPF-BLADE.57989 has enabled persistence for 'models/hunter/plates/plate1x2.mdl'.
+[12:00:01]	D8.MPF-BLADE.57989 has gained 100 tokens.
+[12:00:01]	Александр Климов has enabled persistence for 'models/hunter/blocks/cube025x3x025.mdl'.
+[12:00:02]	D8.MPF-BLADE.57989 has enabled persistence for 'models/hunter/plates/plate1x2.mdl'.
+[12:00:02]	Александр Климов has enabled persistence for 'models/hunter/plates/plate1x3.mdl'.
+[12:00:05]	D8.MPF-BLADE.57989 has enabled persistence for 'models/hunter/blocks/cube025x2x025.mdl'.
+[12:00:05]	D8.MPF-BLADE.57989 has enabled persistence for 'models/hunter/blocks/cube025x2x025.mdl'.
+[12:00:06]	D8.MPF-BLADE.57989 has enabled persistence for 'models/hunter/blocks/cube025x3x025.mdl'.
+[12:00:06]	Александр Климов has enabled persistence for 'models/hunter/plates/plate1x2.mdl'.
+[12:00:07]	Александр Климов has enabled persistence for 'models/hunter/blocks/cube025x2x025.mdl'.
+[12:00:07]	D8.MPF-BLADE.57989 has enabled persistence for 'models/hunter/plates/plate1x2.mdl'.
+[12:00:08]	D8.MPF-BLADE.57989 has enabled persistence for 'models/hunter/plates/plate1x2.mdl'.
+[12:00:08]	Александр Климов has enabled persistence for 'models/hunter/blocks/cube025x2x025.mdl'.
+[12:00:09]	Александр Климов has enabled persistence for 'models/hunter/plates/plate1x2.mdl'.
+[12:00:10]	Александр Климов has enabled persistence for 'models/hunter/blocks/cube025x3x025.mdl'.
+[12:00:11]	Александр Климов has enabled persistence for 'models/hunter/plates/plate1x3.mdl'.
+[12:00:18]	Александр Климов has enabled persistence for 'models/hunter/blocks/cube025x2x025.mdl'.
+[12:00:19]	Александр Климов has enabled persistence for 'models/hunter/blocks/cube025x2x025.mdl'.
+[12:00:19]	Александр Климов has enabled persistence for 'models/hunter/plates/plate1x2.mdl'.
+[12:00:20]	D8.MPF-BLADE.57989 has disabled persistence for 'models/hunter/plates/plate1x2.mdl'.
+[12:00:20]	Александр Климов has enabled persistence for 'models/hunter/blocks/cube025x3x025.mdl'.
+[12:00:21]	Александр Климов has enabled persistence for 'models/hunter/plates/plate1x2.mdl'.
+[12:00:22]	Александр Климов has enabled persistence for 'models/hunter/plates/plate1x3.mdl'.
+[12:00:23]	D8.MPF-BLADE.57989 has enabled persistence for 'models/hunter/plates/plate1x2.mdl'.
+[12:00:51]	D8.MPF-BLADE.57989 exited observer at their location.
+[12:00:54]	D8.MPF-BLADE.57989 entered observer.
+[12:00:56]	D8.MPF-BLADE.57989 exited observer at their location.
+[12:00:57]	D8.MPF-BLADE.57989 has taken 5 damage from pipe_damage.
+[12:00:57]	D8.MPF-BLADE.57989 entered observer.
+[12:01:05]	D8.MPF-BLADE.57989 exited observer at their location.
+[12:01:08]	D8.MPF-BLADE.57989 entered observer.
+[12:01:18]	Александр Климов entered observer.
+[12:01:19]	Александр Климов exited observer at their location.
+[12:01:44]	D8.MPF-BLADE.57989 exited observer at their location.
+[12:01:48]	Александр Климов has taken 5 damage from D8.MPF-BLADE.57989.
+[12:01:48]	Александр Климов has taken 5 damage from D8.MPF-BLADE.57989.
+[12:01:49]	Александр Климов has taken 5 damage from D8.MPF-BLADE.57989.
+[12:02:03]	D8.MPF-BLADE.57989 entered observer.
+[12:02:04]	D8.MPF-BLADE.57989 entered observer.
+[12:02:08]	D8.MPF-BLADE.57989 exited observer at their location.
+[12:02:09]	D8.MPF-BLADE.57989 has taken 22 damage from worldspawn.
+[12:02:10]	D8.MPF-BLADE.57989 entered observer.
+[12:02:39]	D8.MPF-BLADE.57989 exited observer at their location.
+[12:02:40]	D8.MPF-BLADE.57989 entered observer.
+[12:02:51]	֍ Aime-moi ֍ (STEAM_0:0:424879351) has disconnected.
+[12:05:13]	Г@H3NK has connected.
+[12:11:19]	Г@H3NK has connected.
+[12:13:44]	֍ Aime-moi ֍ has connected.
+[12:14:43]	֍ Aime-moi ֍ loaded the character 'D8.MPF-BLADE.57989'
+[12:14:44]	D8.MPF-BLADE.57989 entered observer.
+[12:14:45]	D8.MPF-BLADE.57989 exited observer at their location.
+[12:14:57]	D8.MPF-BLADE.57989 used command '/CharEditBodygroup'.
+[12:15:03]	D8.MPF-BLADE.57989 used command '/CharEditBodygroup MPF'.
+[12:15:21]	D8.MPF-BLADE.57989 has changed D8.MPF-BLADE.57989's bodygroups.
+[12:15:22]	D8.MPF-BLADE.57989 has changed D8.MPF-BLADE.57989's bodygroups.
+[12:15:42]	D8.MPF-BLADE.57989 entered observer.
+[12:16:19]	D8.MPF-BLADE.57989 exited observer at their location.
+[12:19:43]	D8.MPF-BLADE.57989 has gained 100 tokens.
+[12:22:14]	D8.MPF-BLADE.57989 entered observer.
+[12:22:25]	D8.MPF-BLADE.57989 exited observer at their location.
+[12:22:35]	D8.MPF-BLADE.57989 entered observer.
+[12:22:53]	D8.MPF-BLADE.57989 exited observer at their location.
+[12:22:55]	D8.MPF-BLADE.57989 entered observer.
+[12:22:59]	D8.MPF-BLADE.57989 exited observer at their location.
+[12:23:01]	D8.MPF-BLADE.57989 entered observer.
+[12:23:03]	D8.MPF-BLADE.57989 exited observer at their location.
+[12:23:04]	D8.MPF-BLADE.57989 entered observer.
+[12:23:14]	D8.MPF-BLADE.57989 exited observer at their location.
+[12:23:34]	֍ Aime-moi ֍ (STEAM_0:0:424879351) has disconnected.
+[20:08:55]	Г@H3NK has connected.
+[20:09:51]	Г@H3NK loaded the character 'Александр Климов'
+[20:13:13]	Г@H3NK has connected.
+[20:13:40]	Г@H3NK loaded the character 'Александр Климов'
+[20:16:20]	Александр Климов used the 'Валерий' vendor.
+[20:16:26]	Александр Климов used the 'Валерий' vendor.
+[20:16:27]	Александр Климов has lost 8 tokens.
+[20:16:27]	Александр Климов has gained a 'Наручкики' #193.
+[20:17:05]	Александр Климов ran 'drop' on item 'Наручкики' (#193)
+[20:17:05]	Александр Климов has lost a 'Наручкики' #193.
+[20:17:11]	Александр Климов ran 'take' on item 'Наручкики' (#193)
+[20:17:11]	Александр Климов has gained a 'Наручкики' #193.
+[20:19:15]	Александр Климов has spawned 'models/Gibs/wood_gib01b.mdl'.
+[20:20:13]	Александр Климов has spawned 'models/props_junk/khovellol.mdl'.
+[20:20:19]	Александр Климов has spawned 'models/weapons/w_351.mdl'.
+[20:20:24]	Александр Климов has spawned 'models/weapons/w_191145.mdl'.
+[20:20:32]	Александр Климов has spawned 'models/weapons/w_p90.mdl'.
+[20:20:35]	Александр Климов has spawned 'models/weapons/w_oc14_groza.mdl'.
+[20:20:37]	Александр Климов has spawned 'models/weapons/w_phasedx.mdl'.
+[20:20:38]	Александр Климов has spawned 'models/weapons/w_makaro.mdl'.
+[20:20:40]	Александр Климов has spawned 'models/weapons/w_tetra.mdl'.
+[20:20:43]	Александр Климов has spawned 'models/weapons/w_xm.mdl'.
+[20:20:47]	Александр Климов has spawned 'models/weapons/w_xm8rifle.mdl'.
+[20:20:50]	Александр Климов has spawned 'models/weapons/w_snip_hk416.mdl'.
+[20:20:54]	Александр Климов has spawned 'models/weapons/w_shot_winch1300.mdl'.
+[20:21:02]	Александр Климов has spawned 'models/weapons/w_mach_m60para.mdl'.
+[20:21:07]	Александр Климов has spawned 'models/weapons/w_60watt.mdl'.
+[20:21:10]	Александр Климов has spawned 'models/weapons/w_ak74su_mod.mdl'.
+[20:21:14]	Александр Климов has spawned 'models/weapons/w_ak47.mdl'.
+[20:21:17]	Александр Климов has spawned 'models/weapons/w_ak74.mdl'.
+[20:21:20]	Александр Климов has spawned 'models/weapons/w_aa12.mdl'.
+[20:21:21]	Александр Климов has spawned 'models/weapons/w_acr.mdl'.
+[20:21:24]	Александр Климов has spawned 'models/weapons/w_ak47.mdl'.
+[20:21:35]	Александр Климов has spawned 'models/weapons/w_beef_m3super90.mdl'.
+[20:21:44]	Александр Климов has spawned 'models/props/cs_office/amariapc.mdl'.
+[20:21:55]	Александр Климов has spawned 'models/citizen_radio.mdl'.
+[20:22:15]	Александр Климов has spawned 'models/tnb/weapons/w_glock.mdl'.
+[20:22:25]	Александр Климов has spawned 'models/dorado/tarjeta1.mdl'.
+[20:22:27]	Александр Климов has spawned 'models/dorado/tarjeta2.mdl'.
+[20:22:28]	Александр Климов has spawned 'models/dorado/tarjeta3.mdl'.
+[20:22:29]	Александр Климов has spawned 'models/dorado/tarjeta4.mdl'.
+[20:22:30]	Александр Климов has spawned 'models/dorado/tarjetazero.mdl'.
+[20:22:32]	Александр Климов has spawned 'models/dorado/tarjeta2.mdl'.
+[20:22:45]	Александр Климов has spawned 'models/dorado/tarjeta4.mdl'.
+[20:22:57]	Александр Климов has spawned 'models/dorado/tarjeta1.mdl'.
+[20:22:58]	Александр Климов has spawned 'models/dorado/tarjetazero.mdl'.
+[20:23:02]	Александр Климов has spawned 'models/dorado/tarjeta2.mdl'.
+[20:23:03]	Александр Климов has spawned 'models/dorado/tarjeta3.mdl'.
+[20:23:06]	Александр Климов has spawned 'models/dorado/tarjeta2.mdl'.
+[20:27:12]	Александр Климов has gained a 'И.К. Гражданина' #194.
+[20:27:12]	Александр Климов used command '/CharGiveItem А cid'.
+[20:27:22]	Александр Климов ran 'drop' on item 'И.К. Гражданина' (#194)
+[20:27:22]	Александр Климов has lost a 'И.К. Гражданина' #194.
+[20:31:59]	Г@H3NK has connected.
+[20:32:24]	Г@H3NK loaded the character 'Александр Климов'
+[20:34:06]	Александр Климов ran 'take' on item 'Ящик гильз' (#125)
+[20:34:06]	Александр Климов has gained a 'Ящик гильз' #125.
+[20:34:25]	Александр Климов entered observer.
+[20:34:39]	Александр Климов exited observer at their location.
+[20:34:39]	Александр Климов entered observer.
+[20:34:55]	Александр Климов exited observer at their location.
+[20:34:56]	Александр Климов entered observer.
+[20:35:01]	Александр Климов exited observer at their location.
+[20:35:06]	Александр Климов entered observer.
+[20:35:15]	Александр Климов exited observer at their location.
+[20:35:16]	Александр Климов has spawned a 'Entity [24][ix_cidterminal]'.
+[20:35:18]	Александр Климов has spawned a 'Entity [24][ix_cidterminal]'.
+[20:35:29]	Александр Климов ran 'drop' on item 'И.К. Гражданина' (#70)
+[20:35:29]	Александр Климов has lost a 'И.К. Гражданина' #70.
+[20:35:35]	Александр Климов ran 'take' on item 'И.К. Гражданина' (#70)
+[20:35:35]	Александр Климов has gained a 'И.К. Гражданина' #70.
+[20:37:25]	Александр Климов ran 'drop' on item 'Ящик гильз' (#125)
+[20:37:25]	Александр Климов has lost a 'Ящик гильз' #125.
+[20:37:27]	Александр Климов ran 'take' on item 'Ящик гильз' (#125)
+[20:37:27]	Александр Климов has gained a 'Ящик гильз' #125.
+[20:37:51]	Александр Климов ran 'EquipUn' on item 'M3 Super 90' (#189)
+[20:40:38]	Александр Климов has spawned a 'Entity [28][ix_cidterminal]'.
+[20:41:13]	Александр Климов has spawned 'models/props_combine/combine_barricade_short01a.mdl'.
+[20:41:14]	Александр Климов has spawned 'models/props_combine/combine_barricade_short02a.mdl'.
+[20:41:15]	Александр Климов has spawned 'models/props_combine/combine_barricade_short01a.mdl'.
+[20:41:28]	Александр Климов has spawned 'models/props_combine/combine_barricade_short02a.mdl'.
+[20:42:04]	Александр Климов has spawned 'models/props_combine/prison01b.mdl'.
+[20:42:09]	Александр Климов has spawned 'models/props_combine/tpcontrollerscreens.mdl'.
+[20:42:17]	Александр Климов has spawned 'models/props_combine/railing_corner_outside.mdl'.
+[20:42:44]	Александр Климов has spawned 'models/props_combine/combine_barricade_med01a.mdl'.
+[20:42:49]	Александр Климов has spawned 'models/props_combine/combine_booth_med01a.mdl'.
+[20:42:57]	Александр Климов has spawned 'models/props_combine/combine_intwallunit.mdl'.
+[20:43:01]	Александр Климов has spawned 'models/props_combine/combine_intmonitor003.mdl'.
+[20:43:03]	Александр Климов has spawned 'models/props_combine/combine_intmonitor001.mdl'.
+[20:44:40]	֍ Aime-moi ֍ has connected.
+[20:45:15]	֍ Aime-moi ֍ loaded the character 'D8.MPF-BLADE.57989'
+[20:45:21]	D8.MPF-BLADE.57989 entered observer.
+[20:45:27]	Александр Климов entered observer.
+[20:45:27]	D8.MPF-BLADE.57989 exited observer at their location.
+[20:45:33]	Александр Климов exited observer at their location.
+[20:45:33]	Александр Климов entered observer.
+[20:45:34]	Александр Климов exited observer at their location.
+[20:45:43]	Александр Климов entered observer.
+[20:45:44]	Александр Климов exited observer at their location.
+[20:45:52]	D8.MPF-BLADE.57989 has spawned a 'Entity [1000][ix_cidterminal]'.
+[20:46:41]	Александр Климов ran 'drop' on item 'И.К. Гражданина' (#70)
+[20:46:41]	Александр Климов has lost a 'И.К. Гражданина' #70.
+[20:46:47]	D8.MPF-BLADE.57989 has spawned a 'Entity [1068][ix_loyaltykiosk]'.
+[20:46:49]	D8.MPF-BLADE.57989 has spawned a 'Entity [1000][ix_questgiver]'.
+[20:46:58]	Александр Климов ran 'take' on item 'И.К. Гражданина' (#70)
+[20:46:58]	Александр Климов has gained a 'И.К. Гражданина' #70.
+[20:47:01]	Александр Климов ran 'drop' on item 'И.К. Гражданина' (#70)
+[20:47:01]	Александр Климов has lost a 'И.К. Гражданина' #70.
+[20:47:17]	Александр Климов ran 'ViewRecord' on item 'И.К. Гражданина' (#70)
+[20:47:20]	Александр Климов ran 'take' on item 'И.К. Гражданина' (#70)
+[20:47:20]	Александр Климов has gained a 'И.К. Гражданина' #70.
+[20:47:40]	Г@H3NK loaded the character 'MPF-I4.51977'
+[20:47:41]	MPF-I4.51977 entered observer.
+[20:47:45]	MPF-I4.51977 exited observer at their location.
+[20:48:27]	MPF-I4.51977 has gained a 'И.К. Гражданина' #194.
+[20:48:27]	MPF-I4.51977 has created a new CID with the name Александр Климов
+[20:48:51]	MPF-I4.51977 has gained a 'И.К. Гражданина' #195.
+[20:48:51]	MPF-I4.51977 has created a new CID with the name Александр
+[20:49:03]	MPF-I4.51977 ran 'drop' on item 'И.К. Гражданина' (#194)
+[20:49:03]	MPF-I4.51977 has lost a 'И.К. Гражданина' #194.
+[20:49:13]	MPF-I4.51977 ran 'drop' on item 'И.К. Гражданина' (#195)
+[20:49:13]	MPF-I4.51977 has lost a 'И.К. Гражданина' #195.
+[20:49:16]	MPF-I4.51977 ran 'drop' on item 'И.К. Гражданина' (#95)
+[20:49:16]	MPF-I4.51977 has lost a 'И.К. Гражданина' #95.
+[20:49:42]	֍ Aime-moi ֍ created the character 'MPF-RCT.20021'
+[20:49:42]	MPF-RCT.20021 has gained a 'Glock' #194.
+[20:49:42]	MPF-RCT.20021 has gained a 'Коробочка мелкокалиберных патронов' #195.
+[20:49:42]	MPF-RCT.20021 has gained a 'Коробочка мелкокалиберных патронов' #196.
+[20:49:42]	MPF-RCT.20021 has gained a 'Коробочка мелкокалиберных патронов' #197.
+[20:49:42]	MPF-RCT.20021 has gained a 'Коробочка мелкокалиберных патронов' #198.
+[20:49:42]	MPF-RCT.20021 has gained a 'Наручники' #199.
+[20:49:46]	֍ Aime-moi ֍ loaded the character 'MPF-RCT.20021'
+[20:49:47]	MPF-RCT.20021 entered observer.
+[20:49:50]	MPF-RCT.20021 exited observer at their location.
+[20:49:56]	MPF-RCT.20021 entered observer.
+[20:49:57]	MPF-RCT.20021 exited observer at their location.
+[20:49:57]	MPF-RCT.20021 entered observer.
+[20:49:58]	MPF-RCT.20021 exited observer at their location.
+[20:50:13]	MPF-I4.51977 ran 'Equip' on item 'Five-seveN' (#124)
+[20:50:27]	MPF-I4.51977 entered observer.
+[20:50:28]	MPF-I4.51977 exited observer at their location.
+[20:50:33]	MPF-RCT.20021 entered observer.
+[20:50:34]	MPF-RCT.20021 exited observer at their location.
+[20:50:37]	MPF-RCT.20021 entered observer.
+[20:51:05]	MPF-RCT.20021 has spawned 'models/c24_exterior/c24_cityposters.mdl'.
+[20:51:07]	MPF-I4.51977 entered observer.
+[20:51:14]	MPF-RCT.20021 has spawned 'models/c24/c24_flagpole.mdl'.
+[20:51:16]	MPF-I4.51977 exited observer at their location.
+[20:51:18]	MPF-RCT.20021 has spawned 'models/esther/objects/candle_clump_002.mdl'.
+[20:51:19]	MPF-I4.51977 entered observer.
+[20:51:20]	MPF-I4.51977 has spawned 'models/props_combine/combine_booth_short01a.mdl'.
+[20:51:21]	MPF-RCT.20021 has spawned 'models/rocks/wallpipes64.mdl'.
+[20:51:26]	MPF-RCT.20021 has spawned 'models/c24_exterior/c24_combine_bridge_ext1_part2.mdl'.
+[20:51:29]	MPF-RCT.20021 has spawned 'models/c24_exterior/c24_combine_bridge_ext2_part1.mdl'.
+[20:51:32]	MPF-I4.51977 exited observer at their location.
+[20:51:33]	MPF-I4.51977 has spawned a 'Entity [28][ix_cidterminal]'.
+[20:51:33]	MPF-RCT.20021 has spawned 'models/c24_exterior/c24_combine_bridge_topplatform.mdl'.
+[20:51:35]	MPF-RCT.20021 has spawned 'models/c24_exterior/c24_d2_monument.mdl'.
+[20:51:37]	MPF-I4.51977 has spawned a 'Entity [1073][ix_cidterminal]'.
+[20:51:40]	MPF-I4.51977 has spawned a 'Entity [28][ix_cidterminal]'.
+[20:51:49]	MPF-RCT.20021 exited observer at their location.
+[20:51:50]	MPF-RCT.20021 entered observer.
+[20:51:53]	MPF-I4.51977 entered observer.
+[20:51:59]	MPF-I4.51977 exited observer at their location.
+[20:52:00]	MPF-RCT.20021 used command '/BecomeClass I4'.
+[20:52:01]	MPF-RCT.20021 exited observer at their location.
+[20:52:01]	MPF-RCT.20021 entered observer.
+[20:52:02]	MPF-RCT.20021 exited observer at their location.
+[20:52:24]	MPF-RCT.20021 used command '/CharSetName MPF MPF-I4.20021'.
+[20:52:41]	MPF-I4.20021 has gained 100 tokens.
+[20:54:02]	MPF-I4.51977 used command '/CharSetName MPF-I4.20021 MPF-I4.51977'.
+[20:54:07]	MPF-I4.20021 used command '/CharSetName MPF-RCT.20021 MPF-I4.20021'.
+[20:54:34]	֍ Aime-moi ֍ (STEAM_0:0:424879351) deleted character 'MPF-I4.20021'
+[20:54:46]	֍ Aime-moi ֍ created the character 'MPF-RCT.04383'
+[20:54:46]	MPF-RCT.04383 has gained a 'Glock' #194.
+[20:54:46]	MPF-RCT.04383 has gained a 'Коробочка мелкокалиберных патронов' #195.
+[20:54:46]	MPF-RCT.04383 has gained a 'Коробочка мелкокалиберных патронов' #196.
+[20:54:46]	MPF-RCT.04383 has gained a 'Коробочка мелкокалиберных патронов' #197.
+[20:54:46]	MPF-RCT.04383 has gained a 'Коробочка мелкокалиберных патронов' #198.
+[20:54:46]	MPF-RCT.04383 has gained a 'Наручники' #199.
+[20:54:46]	֍ Aime-moi ֍ loaded the character 'MPF-RCT.04383'
+[20:54:48]	MPF-RCT.04383 entered observer.
+[20:54:51]	MPF-RCT.04383 exited observer at their location.
+[20:55:00]	MPF-RCT.04383 entered observer.
+[20:55:06]	MPF-I4.51977 ran 'EquipUn' on item 'Five-seveN' (#124)
+[20:55:08]	MPF-I4.51977 ran 'Toggle' on item 'Портативная рация' (#39)
+[20:55:10]	MPF-I4.51977 ran 'Toggle' on item 'Портативная рация' (#39)
+[20:55:11]	MPF-RCT.04383 has spawned 'models/c24_exterior/c24_smallfountain.mdl'.
+[20:55:15]	MPF-RCT.04383 has spawned 'models/props_fortifications/barricade_burning_02.mdl'.
+[20:55:18]	MPF-I4.51977 entered observer.
+[20:55:20]	MPF-RCT.04383 has spawned 'models/props_unique/wooden_barricade.mdl'.
+[20:55:22]	MPF-RCT.04383 has spawned 'models/props_unique/spawn_apartment/lantern.mdl'.
+[20:55:24]	MPF-RCT.04383 has spawned 'models/rocks/wallpipescorner.mdl'.
+[20:55:25]	MPF-RCT.04383 has spawned 'models/spire/pipes/s_pipeset1_corner1.mdl'.
+[20:55:31]	MPF-RCT.04383 has spawned 'models/c24_exterior/c24_bar_ext.mdl'.
+[20:55:33]	MPF-I4.51977 exited observer at their location.
+[20:55:37]	MPF-I4.51977 has spawned 'models/props_c17/door01_left.mdl'.
+[20:55:37]	MPF-RCT.04383 has spawned 'models/c24/metal_stairs_64.mdl'.
+[20:55:38]	MPF-RCT.04383 has spawned 'models/c24_exterior/c24_cityposters.mdl'.
+[20:55:46]	MPF-I4.51977 entered observer.
+[20:55:48]	MPF-I4.51977 exited observer at their location.
+[20:55:52]	MPF-RCT.04383 exited observer at their location.
+[20:56:33]	MPF-RCT.04383 used command '/BecomeClass Elite_metropolice'.
+[20:57:41]	MPF-I4.51977 has gained 100 tokens.
+[20:58:03]	MPF-EpU.20021 used command '/CharSetName MPF-RCT.04383 MPF-EpU.20021'.
+[20:58:15]	MPF-I4.51977 entered observer.
+[20:58:20]	MPF-I4.51977 exited observer at their location.
+[20:58:21]	MPF-EpU.20021 used command '/CharEditBodygroup'.
+[20:58:27]	MPF-EpU.20021 used command '/CharEditBodygroup EpU'.
+[20:58:45]	MPF-EpU.20021 has changed MPF-EpU.20021's bodygroups.
+[20:59:29]	MPF-EpU.20021 used command '/BecomeClass RL'.
+[20:59:46]	MPF-EpU.20021 has gained 100 tokens.
+[21:00:10]	MPF-RL.20021 used command '/CharSetName MPF-EpU.20021 MPF-RL.20021'.
+[21:00:38]	MPF-RL.20021 ran 'Equip' on item 'Glock' (#194)
+[21:00:39]	MPF-RL.20021 ran 'use' on item 'Коробочка мелкокалиберных патронов' (#195)
+[21:00:40]	MPF-RL.20021 ran 'use' on item 'Коробочка мелкокалиберных патронов' (#196)
+[21:00:41]	MPF-RL.20021 ran 'use' on item 'Коробочка мелкокалиберных патронов' (#197)
+[21:00:41]	MPF-RL.20021 ran 'use' on item 'Коробочка мелкокалиберных патронов' (#198)
+[21:00:49]	MPF-I4.51977 used command '/CharGiveItem MPF-I4 zip-tie'.
+[21:00:55]	MPF-I4.51977 has gained a 'Наручники' #200.
+[21:00:55]	MPF-I4.51977 used command '/CharGiveItem MPF-I4 zip_tie'.
+[21:01:03]	MPF-I4.51977 ran 'drop' on item 'Наручники' (#200)
+[21:01:03]	MPF-I4.51977 has lost a 'Наручники' #200.
+[21:01:29]	MPF-I4.51977 ran 'take' on item 'Наручники' (#200)
+[21:01:29]	MPF-I4.51977 has gained a 'Наручники' #200.
+[21:03:07]	MPF-I4.51977 has spawned 'models/props_combine/combine_interface003.mdl'.
+[21:03:14]	MPF-I4.51977 has spawned 'models/props_combine/combine_interface001.mdl'.
+[21:03:31]	MPF-I4.51977 has spawned 'models/props_combine/combine_smallmonitor001.mdl'.
+[21:03:41]	MPF-I4.51977 entered observer.
+[21:03:44]	MPF-I4.51977 exited observer at their location.
+[21:03:54]	MPF-I4.51977 has spawned 'models/props_combine/breenconsole.mdl'.
+[21:04:13]	MPF-I4.51977 ran 'Toggle' on item 'Портативная рация' (#39)
+[21:04:52]	MPF-I4.51977 has spawned 'models/props_combine/combine_bunker_shield01a.mdl'.
+[21:04:57]	MPF-I4.51977 has spawned 'models/props_combine/combine_generator01.mdl'.
+[21:04:58]	MPF-RL.20021 has taken 10 damage from prop_physics leaving them at 98 HP!
+[21:04:58]	MPF-RL.20021 has taken 10 damage from prop_physics.
+[21:05:12]	MPF-I4.51977 has spawned 'models/props_combine/railing_128.mdl'.
+[21:05:40]	MPF-I4.51977 has spawned 'models/props_combine/railing_128.mdl'.
+[21:06:02]	MPF-I4.51977 has spawned 'models/props_combine/railing_corner_outside.mdl'.
+[21:06:25]	MPF-I4.51977 has gained 100 tokens.
+[21:06:25]	MPF-RL.20021 has gained 100 tokens.
+[21:07:09]	MPF-I4.51977 has spawned 'models/props_combine/combine_interface003.mdl'.
+[21:07:10]	MPF-I4.51977 has spawned 'models/props_combine/combine_interface002.mdl'.
+[21:07:12]	MPF-I4.51977 has spawned 'models/props_combine/combine_interface002.mdl'.
+[21:07:27]	MPF-I4.51977 has spawned 'models/props_combine/combine_smallmonitor001.mdl'.
+[21:07:37]	MPF-I4.51977 has spawned 'models/props_combine/combine_intwallunit.mdl'.
+[21:08:00]	MPF-I4.51977 has spawned 'models/props_combine/combine_intmonitor003.mdl'.
+[21:08:09]	MPF-I4.51977 has spawned 'models/props_combine/combine_intmonitor003.mdl'.
+[21:08:52]	C17.MPF-OBS-20021 used command '/CharSetName MPF-RL C17.MPF-OBS-20021'.
+[21:08:59]	C17.MPF-OBS-20021 used command '/CharDesc'.
+[21:09:14]	MPF-I4.51977 ran 'Equip' on item 'FAMAS' (#90)
+[21:09:34]	MPF-I4.51977 used command '/ActStand'.
+[21:09:45]	MPF-I4.51977 used command '/ExitAct'.
+[21:09:46]	C17.MPF-OBS-20021 entered observer.
+[21:09:47]	MPF-I4.51977 used command '/ActStand 2'.
+[21:09:48]	MPF-I4.51977 used command '/ActStand 3'.
+[21:09:50]	MPF-I4.51977 used command '/ActStand 4'.
+[21:09:50]	MPF-I4.51977 used command '/ActStand 1'.
+[21:10:02]	C17.MPF-OBS-20021 exited observer at their location.
+[21:10:09]	C17.MPF-OBS-20021 used command '/ActDeny'.
+[21:10:14]	MPF-I4.51977 used command '/ExitAct'.
+[21:10:15]	C17.MPF-OBS-20021 used command '/ActDeny'.
+[21:10:23]	C17.MPF-OBS-20021 used command '/ActMotion'.
+[21:10:26]	MPF-I4.51977 used command '/ActMotion'.
+[21:10:36]	C17.MPF-OBS-20021 used command '/ActLean'.
+[21:10:39]	MPF-I4.51977 used command '/ActMotion 2'.
+[21:10:40]	C17.MPF-OBS-20021 used command '/ActLean'.
+[21:10:45]	C17.MPF-OBS-20021 used command '/ActLean'.
+[21:10:46]	MPF-I4.51977 used command '/ActMotion 2'.
+[21:10:51]	C17.MPF-OBS-20021 used command '/ExitAct'.
+[21:11:01]	C17.MPF-OBS-20021 used command '/ActLean'.
+[21:11:25]	MPF-I4.51977 has gained 100 tokens.
+[21:11:25]	C17.MPF-OBS-20021 has gained 100 tokens.
+[21:14:07]	C17.MPF-OBS-20021 used command '/ExitAct'.
+[21:14:19]	C17.MPF-OBS-20021 used command '/ActThreat'.
+[21:14:22]	C17.MPF-OBS-20021 used command '/ExitAct'.
+[21:14:23]	C17.MPF-OBS-20021 used command '/ExitAct'.
+[21:14:30]	C17.MPF-OBS-20021 used command '/ActThreat'.
+[21:14:34]	C17.MPF-OBS-20021 used command '/ExitAct'.
+[21:14:35]	C17.MPF-OBS-20021 used command '/ExitAct'.
+[21:14:44]	MPF-I4.51977 used command '/ActThreat'.
+[21:14:51]	MPF-I4.51977 used command '/ActThreat'.
+[21:15:10]	MPF-I4.51977 has enabled persistence for 'models/props_combine/railing_128.mdl'.
+[21:15:11]	MPF-I4.51977 has enabled persistence for 'models/props_combine/railing_corner_outside.mdl'.
+[21:15:12]	MPF-I4.51977 has enabled persistence for 'models/props_combine/combine_interface002.mdl'.
+[21:15:13]	MPF-I4.51977 has enabled persistence for 'models/props_combine/combine_intmonitor003.mdl'.
+[21:15:15]	MPF-I4.51977 has enabled persistence for 'models/props_combine/combine_intwallunit.mdl'.
+[21:15:53]	MPF-I4.51977 ran 'EquipUn' on item 'FAMAS' (#90)
+[21:15:54]	MPF-I4.51977 ran 'Equip' on item 'Five-seveN' (#124)
+[21:16:02]	MPF-I4.51977 has spawned a 'Entity [1098][item_ammo_smg1_large]'.
+[21:16:25]	MPF-I4.51977 used command '/ActStand'.
+[21:16:37]	֍ Aime-moi ֍ loaded the character 'Артем Каллов'
+[21:16:40]	Артем Каллов entered observer.
+[21:16:47]	Артем Каллов exited observer at their location.
+[21:17:25]	MPF-I4.51977 used command '/ExitAct'.
+[21:17:38]	MPF-I4.51977 used command '/ActMotion 2'.
+[21:17:58]	Артем Каллов has taken 21.127063751221 damage from MPF-I4.51977 using arccw_fiveseven leaving them at 77 HP!
+[21:17:58]	Артем Каллов has taken 21 damage from MPF-I4.51977.
+[21:17:58]	Артем Каллов has taken 21.243528366089 damage from MPF-I4.51977 using arccw_fiveseven leaving them at 56 HP!
+[21:17:58]	Артем Каллов has taken 21 damage from MPF-I4.51977.
+[21:17:58]	Артем Каллов has taken 16.208396911621 damage from MPF-I4.51977 using arccw_fiveseven leaving them at 40 HP!
+[21:17:58]	Артем Каллов has taken 16 damage from MPF-I4.51977.
+[21:18:02]	Артем Каллов has taken 20.144414901733 damage from MPF-I4.51977 using arccw_fiveseven leaving them at 20 HP!
+[21:18:02]	Артем Каллов has taken 20 damage from MPF-I4.51977.
+[21:18:04]	Артем Каллов has taken 14.47681427002 damage from MPF-I4.51977 using arccw_fiveseven leaving them at 5 HP!
+[21:18:04]	Артем Каллов has taken 14 damage from MPF-I4.51977.
+[21:18:13]	Артем Каллов entered observer.
+[21:18:16]	Артем Каллов exited observer at their location.
+[21:18:25]	Артем Каллов entered observer.
+[21:18:26]	Артем Каллов exited observer at their location.
+[21:18:28]	MPF-I4.51977 has taken 21.806131362915 damage from Артем Каллов using arccw_fiveseven leaving them at 96 HP!
+[21:18:28]	MPF-I4.51977 has taken 22 damage from Артем Каллов.
+[21:18:29]	MPF-I4.51977 has taken 21.908708572388 damage from Артем Каллов using arccw_fiveseven leaving them at 91 HP!
+[21:18:29]	MPF-I4.51977 has taken 22 damage from Артем Каллов.
+[21:18:33]	Артем Каллов entered observer.
+[21:18:36]	MPF-I4.51977 has gained 100 tokens.
+[21:18:44]	Артем Каллов exited observer at their location.
+[21:18:49]	Артем Каллов has spawned a 'Entity [1003][arccw_ammo_pistol_large]'.
+[21:18:52]	Артем Каллов has spawned a 'Entity [1003][arccw_ammo_pistol_large]'.
+[21:18:54]	Артем Каллов has spawned a 'Entity [1003][arccw_ammo_ar2_large]'.
+[21:18:56]	Артем Каллов has spawned a 'Entity [1003][arccw_ammo_357_large]'.
+[21:19:02]	Артем Каллов has spawned a 'Entity [1003][item_ammo_pistol]'.
+[21:19:04]	Артем Каллов has spawned a 'Entity [1003][item_ammo_pistol_large]'.
+[21:19:09]	Артем Каллов entered observer.
+[21:19:14]	Артем Каллов exited observer at their location.
+[21:19:17]	Артем Каллов has spawned a 'Entity [1003][arccw_ammo_357_large]'.
+[21:19:19]	Артем Каллов has spawned a 'Entity [1003][arccw_ammo_smg1_large]'.
+[21:19:20]	Артем Каллов entered observer.
+[21:19:26]	Артем Каллов exited observer at their location.
+[21:19:28]	MPF-I4.51977 has taken 22.131811141968 damage from Артем Каллов using arccw_fiveseven leaving them at 87 HP!
+[21:19:28]	MPF-I4.51977 has taken 22 damage from Артем Каллов.
+[21:19:41]	Артем Каллов has taken 23.443349838257 damage from MPF-I4.51977 using arccw_fiveseven leaving them at -18 HP!
+[21:19:41]	Артем Каллов has taken 23 damage from MPF-I4.51977.
+[21:19:41]	Артем Каллов was killed by MPF-I4.51977 using arccw_fiveseven
+[21:19:41]	MPF-I4.51977 has killed Артем Каллов with arccw_fiveseven.
+[21:19:59]	Артем Каллов entered observer.
+[21:20:01]	Артем Каллов exited observer at their location.
+[21:20:03]	MPF-I4.51977 has taken 19.388687133789 damage from Артем Каллов using arccw_bizon leaving them at 83 HP!
+[21:20:03]	MPF-I4.51977 has taken 19 damage from Артем Каллов.
+[21:20:04]	MPF-I4.51977 has taken 19.249668121338 damage from Артем Каллов using arccw_bizon leaving them at 79 HP!
+[21:20:04]	MPF-I4.51977 has taken 19 damage from Артем Каллов.
+[21:20:04]	MPF-I4.51977 has taken 19.312683105469 damage from Артем Каллов using arccw_bizon leaving them at 70 HP!
+[21:20:04]	MPF-I4.51977 has taken 19 damage from Артем Каллов.
+[21:20:11]	MPF-I4.51977 ran 'Equip' on item 'FAMAS' (#90)
+[21:20:18]	Артем Каллов has taken 33.404754638672 damage from MPF-I4.51977 using arccw_famas leaving them at 66 HP!
+[21:20:18]	Артем Каллов has taken 33 damage from MPF-I4.51977.
+[21:20:18]	MPF-I4.51977 has taken 18.525463104248 damage from Артем Каллов using arccw_bizon leaving them at 51 HP!
+[21:20:18]	MPF-I4.51977 has taken 19 damage from Артем Каллов.
+[21:20:19]	MPF-I4.51977 has taken 18.458793640137 damage from Артем Каллов using arccw_bizon leaving them at 33 HP!
+[21:20:19]	MPF-I4.51977 has taken 18 damage from Артем Каллов.
+[21:20:21]	Артем Каллов has taken 33.302764892578 damage from MPF-I4.51977 using arccw_famas leaving them at 33 HP!
+[21:20:21]	Артем Каллов has taken 33 damage from MPF-I4.51977.
+[21:20:21]	MPF-I4.51977 has taken 18.296775817871 damage from Артем Каллов using arccw_bizon leaving them at 15 HP!
+[21:20:21]	MPF-I4.51977 has taken 18 damage from Артем Каллов.
+[21:20:21]	Артем Каллов has taken 33.254104614258 damage from MPF-I4.51977 using arccw_famas leaving them at 0 HP!
+[21:20:21]	Артем Каллов has taken 33 damage from MPF-I4.51977.
+[21:20:21]	Артем Каллов was killed by MPF-I4.51977 using arccw_famas
+[21:20:21]	MPF-I4.51977 has killed Артем Каллов with arccw_famas.
+[21:20:37]	Артем Каллов entered observer.
+[21:20:40]	Артем Каллов exited observer at their location.
+[21:20:52]	Артем Каллов has taken 34.09888458252 damage from MPF-I4.51977 using arccw_famas leaving them at 66 HP!
+[21:20:52]	Артем Каллов has taken 34 damage from MPF-I4.51977.
+[21:20:53]	Артем Каллов has taken 340.91903686523 damage from MPF-I4.51977 using arccw_famas leaving them at -275 HP!
+[21:20:53]	Артем Каллов has taken 341 damage from MPF-I4.51977.
+[21:20:53]	Артем Каллов was killed by MPF-I4.51977 using arccw_famas
+[21:20:53]	MPF-I4.51977 has killed Артем Каллов with arccw_famas.
+[21:20:59]	MPF-I4.51977 entered observer.
+[21:21:00]	MPF-I4.51977 exited observer at their location.
+[21:21:10]	Артем Каллов entered observer.
+[21:21:14]	Артем Каллов exited observer at their location.
+[21:21:20]	Артем Каллов entered observer.
+[21:21:24]	Артем Каллов exited observer at their location.
+[21:21:29]	MPF-I4.51977 has spawned a 'Entity [28][ix_vendor]'.
+[21:21:29]	MPF-I4.51977 has spawned a 'Entity [1003][ix_cidterminal]'.
+[21:21:31]	Артем Каллов has spawned a 'Entity [28][ix_loyaltykiosk]'.
+[21:21:37]	Артем Каллов ran 'drop' on item 'И.К. Гражданина' (#127)
+[21:21:37]	Артем Каллов has lost a 'И.К. Гражданина' #127.
+[21:21:43]	Артем Каллов ran 'ViewRecord' on item 'И.К. Гражданина' (#127)
+[21:21:47]	Артем Каллов ran 'take' on item 'И.К. Гражданина' (#127)
+[21:21:47]	Артем Каллов has gained a 'И.К. Гражданина' #127.
+[21:22:04]	Артем Каллов entered observer.
+[21:22:05]	Артем Каллов exited observer at their location.
+[21:22:09]	MPF-I4.51977 has gained a 'И.К. Гражданина' #201.
+[21:22:09]	MPF-I4.51977 has created a new CID with the name Артем Калов
+[21:22:17]	MPF-I4.51977 ran 'drop' on item 'И.К. Гражданина' (#201)
+[21:22:17]	MPF-I4.51977 has lost a 'И.К. Гражданина' #201.
+[21:22:20]	MPF-I4.51977 has taken 13.741302490234 damage from Артем Каллов using ix_hands leaving them at 1 HP!
+[21:22:20]	MPF-I4.51977 has taken 14 damage from Артем Каллов.
+[21:22:20]	Артем Каллов destroyed a 'И.К. Гражданина' #201.
+[21:22:20]	Артем Каллов entered observer.
+[21:22:21]	Артем Каллов exited observer at their location.
+[21:22:44]	Артем Каллов entered observer.
+[21:22:44]	Артем Каллов exited observer at their location.
+[21:22:46]	MPF-I4.51977 has taken 24.919368743896 damage from Артем Каллов using arccw_mp5 leaving them at -24 HP!
+[21:22:46]	MPF-I4.51977 has taken 25 damage from Артем Каллов.
+[21:22:46]	MPF-I4.51977 was killed by Артем Каллов using arccw_mp5
+[21:22:46]	Артем Каллов has killed MPF-I4.51977 with arccw_mp5.
+[21:22:47]	Артем Каллов entered observer.
+[21:22:47]	Артем Каллов exited observer at their location.
+[21:23:04]	MPF-I4.51977 entered observer.
+[21:23:07]	Артем Каллов entered observer.
+[21:23:09]	MPF-I4.51977 exited observer at their location.
+[21:23:15]	Артем Каллов exited observer at their location.
+[21:23:16]	Артем Каллов entered observer.
+[21:23:16]	Артем Каллов exited observer at their location.
+[21:23:17]	MPF-I4.51977 has spawned a 'Entity [1107][ix_cidterminal]'.
+[21:23:22]	Артем Каллов entered observer.
+[21:23:33]	MPF-I4.51977 has taken 87.920028686523 damage from Артем Каллов using ix_hands leaving them at 82 HP!
+[21:23:33]	MPF-I4.51977 has taken 88 damage from Артем Каллов.
+[21:23:36]	MPF-I4.51977 has gained 100 tokens.
+[21:23:45]	MPF-I4.51977 ran 'Equip' on item 'Five-seveN' (#124)
+[21:23:50]	Артем Каллов exited observer at their location.
+[21:23:54]	MPF-I4.51977 has spawned a 'Entity [1111][item_ammo_smg1]'.
+[21:23:54]	MPF-I4.51977 has spawned a 'Entity [1172][item_ammo_smg1_large]'.
+[21:23:54]	MPF-I4.51977 has spawned a 'Entity [1173][item_ammo_smg1_large]'.
+[21:23:54]	MPF-I4.51977 has spawned a 'Entity [1174][item_ammo_smg1_large]'.
+[21:23:55]	Артем Каллов entered observer.
+[21:23:55]	Артем Каллов exited observer at their location.
+[21:23:55]	Артем Каллов entered observer.
+[21:23:56]	Артем Каллов exited observer at their location.
+[21:23:56]	Артем Каллов entered observer.
+[21:23:57]	Артем Каллов exited observer at their location.
+[21:23:58]	MPF-I4.51977 has taken 24.659954071045 damage from Артем Каллов using arccw_galil556 leaving them at 77 HP!
+[21:23:58]	MPF-I4.51977 has taken 25 damage from Артем Каллов.
+[21:23:59]	MPF-I4.51977 entered observer.
+[21:24:00]	Артем Каллов entered observer.
+[21:24:00]	Артем Каллов exited observer at their location.
+[21:24:02]	Артем Каллов entered observer.
+[21:24:06]	MPF-I4.51977 exited observer at their location.
+[21:24:16]	Артем Каллов exited observer at their location.
+[21:24:17]	MPF-I4.51977 has taken 24.913568496704 damage from Артем Каллов using arccw_galil556 leaving them at 62 HP!
+[21:24:17]	MPF-I4.51977 has taken 25 damage from Артем Каллов.
+[21:24:20]	Артем Каллов entered observer.
+[21:24:20]	Артем Каллов exited observer at their location.
+[21:24:32]	Артем Каллов entered observer.
+[21:24:32]	Артем Каллов exited observer at their location.
+[21:24:40]	MPF-I4.51977 entered observer.
+[21:24:43]	Артем Каллов entered observer.
+[21:24:44]	Артем Каллов exited observer at their location.
+[21:24:45]	MPF-I4.51977 exited observer at their location.
+[21:24:45]	Артем Каллов entered observer.
+[21:24:47]	MPF-I4.51977 entered observer.
+[21:24:51]	MPF-I4.51977 exited observer at their location.
+[21:24:52]	Артем Каллов exited observer at their location.
+[21:24:57]	Артем Каллов entered observer.
+[21:24:58]	MPF-I4.51977 has taken 111.49172973633 damage from Артем Каллов using ix_hands leaving them at -49 HP!
+[21:24:58]	MPF-I4.51977 has taken 111 damage from Артем Каллов.
+[21:24:58]	MPF-I4.51977 was killed by Артем Каллов using ix_hands
+[21:24:58]	Артем Каллов has killed MPF-I4.51977 with ix_hands.
+[21:24:58]	Артем Каллов exited observer at their location.
+[21:25:00]	Артем Каллов entered observer.
+[21:25:03]	Артем Каллов exited observer at their location.
+[21:25:09]	Артем Каллов entered observer.
+[21:25:18]	MPF-I4.51977 entered observer.
+[21:25:32]	MPF-I4.51977 exited observer at their location.
+[21:25:54]	MPF-I4.51977 has spawned a 'Entity [1068][ix_cidterminal]'.
+[21:26:46]	MPF-I4.51977 entered observer.
+[21:27:02]	MPF-I4.51977 exited observer at their location.
+[21:27:09]	MPF-I4.51977 ran 'drop' on item 'FAMAS' (#90)
+[21:27:09]	MPF-I4.51977 has lost a 'FAMAS' #90.
+[21:27:20]	MPF-I4.51977 entered observer.
+[21:27:24]	MPF-I4.51977 exited observer at their location.
+[21:27:28]	Артем Каллов exited observer at their location.
+[21:27:34]	MPF-I4.51977 has gained a 'M3 Super 90' #201.
+[21:27:34]	MPF-I4.51977 used command '/CharGiveItem MPF m3'.
+[21:27:34]	MPF-I4.51977 has taken 12.607493400574 damage from Артем Каллов using arccw_ruger leaving them at 97 HP!
+[21:27:34]	MPF-I4.51977 has taken 13 damage from Артем Каллов.
+[21:27:34]	Артем Каллов entered observer.
+[21:27:37]	Артем Каллов exited observer at their location.
+[21:27:38]	MPF-I4.51977 has taken 12.056645393372 damage from Артем Каллов using arccw_ruger leaving them at 95 HP!
+[21:27:38]	MPF-I4.51977 has taken 12 damage from Артем Каллов.
+[21:27:38]	MPF-I4.51977 ran 'Equip' on item 'M3 Super 90' (#201)
+[21:27:39]	Артем Каллов entered observer.
+[21:27:51]	MPF-I4.51977 has spawned a 'Entity [1107][arccw_ammo_buckshot_large]'.
+[21:27:53]	MPF-I4.51977 entered observer.
+[21:27:55]	MPF-I4.51977 exited observer at their location.
+[21:28:01]	MPF-I4.51977 entered observer.
+[21:28:03]	MPF-I4.51977 exited observer at their location.
+[21:28:03]	MPF-I4.51977 entered observer.
+[21:28:03]	MPF-I4.51977 exited observer at their location.
+[21:28:06]	MPF-I4.51977 has taken 14.438371658325 damage from Артем Каллов using arccw_ruger leaving them at 92 HP!
+[21:28:06]	MPF-I4.51977 has taken 14 damage from Артем Каллов.
+[21:28:27]	MPF-I4.51977 has taken 13.769490242004 damage from Артем Каллов using arccw_ruger leaving them at 89 HP!
+[21:28:27]	MPF-I4.51977 has taken 14 damage from Артем Каллов.
+[21:28:36]	MPF-I4.51977 has gained 100 tokens.
+[21:28:38]	MPF-I4.51977 has taken 5 damage from Артем Каллов using ix_hands leaving them at 88 HP!
+[21:28:38]	MPF-I4.51977 has taken 5 damage from Артем Каллов.
+[21:28:39]	MPF-I4.51977 has taken 5 damage from Артем Каллов using ix_hands leaving them at 87 HP!
+[21:28:39]	MPF-I4.51977 has taken 5 damage from Артем Каллов.
+[21:28:40]	MPF-I4.51977 has taken 5 damage from Артем Каллов using ix_hands leaving them at 86 HP!
+[21:28:40]	MPF-I4.51977 has taken 5 damage from Артем Каллов.
+[21:28:47]	MPF-I4.51977 entered observer.
+[21:28:56]	MPF-I4.51977 entered observer.
+[21:29:07]	Артем Каллов has spawned a 'NPC [1172][npc_citizen]'.
+[21:29:13]	MPF-I4.51977 exited observer at their location.
+[21:29:19]	Артем Каллов has spawned a 'NPC [1172][npc_citizen]'.
+[21:29:24]	MPF-I4.51977 has taken 11 damage from npc_citizen leaving them at 84 HP!
+[21:29:24]	MPF-I4.51977 has taken 12 damage from npc_citizen.
+[21:29:24]	MPF-I4.51977 has taken 11 damage from npc_citizen leaving them at 82 HP!
+[21:29:24]	MPF-I4.51977 has taken 12 damage from npc_citizen.
+[21:29:29]	Артем Каллов has spawned a 'NPC [1107][npc_citizen]'.
+[21:29:33]	Артем Каллов has spawned a 'NPC [1197][npc_citizen]'.
+[21:29:36]	Артем Каллов has spawned a 'NPC [1390][npc_citizen]'.
+[21:29:37]	Артем Каллов has spawned a 'NPC [1376][npc_citizen]'.
+[21:29:38]	Артем Каллов has spawned a 'NPC [1384][npc_citizen]'.
+[21:29:40]	Артем Каллов has spawned a 'NPC [1371][npc_citizen]'.
+[21:29:41]	Артем Каллов has spawned a 'NPC [1394][npc_citizen]'.
+[21:29:41]	Артем Каллов has spawned a 'NPC [1505][npc_citizen]'.
+[21:29:49]	MPF-I4.51977 entered observer.
+[21:29:49]	MPF-I4.51977 exited observer at their location.
+[21:30:14]	MPF-I4.51977 has taken 80.78946685791 damage from Артем Каллов using ix_hands leaving them at 19 HP!
+[21:30:14]	MPF-I4.51977 has taken 81 damage from Артем Каллов.
+[21:30:44]	MPF-I4.51977 has taken 105.75523376465 damage from Артем Каллов using ix_hands leaving them at -87 HP!
+[21:30:44]	MPF-I4.51977 has taken 106 damage from Артем Каллов.
+[21:30:44]	MPF-I4.51977 was killed by Артем Каллов using ix_hands
+[21:30:44]	Артем Каллов has killed MPF-I4.51977 with ix_hands.
+[21:31:01]	MPF-I4.51977 entered observer.
+[21:31:08]	MPF-I4.51977 exited observer at their location.
+[21:31:11]	MPF-I4.51977 has spawned a 'Entity [1172][ix_cidterminal]'.
+[21:31:24]	MPF-I4.51977 has taken 64.374771118164 damage from Артем Каллов using ix_hands leaving them at 87 HP!
+[21:31:24]	MPF-I4.51977 has taken 64 damage from Артем Каллов.
+[21:32:30]	MPF-I4.51977 entered observer.
+[21:32:36]	MPF-I4.51977 exited observer at their location.
+[21:32:37]	MPF-I4.51977 entered observer.
+[21:32:40]	MPF-I4.51977 exited observer at their location.
+[21:32:59]	MPF-I4.51977 entered observer.
+[21:33:00]	MPF-I4.51977 exited observer at their location.
+[21:33:05]	MPF-I4.51977 has taken 234 damage from worldspawn leaving them at -147 HP!
+[21:33:05]	MPF-I4.51977 has taken 234 damage from worldspawn.
+[21:33:05]	MPF-I4.51977 was killed by an worldspawn
+[21:33:05]	worldspawn has killed MPF-I4.51977.
+[21:33:15]	Артем Каллов exited observer at their location.
+[21:33:18]	Артем Каллов has taken 47 damage from worldspawn leaving them at 53 HP!
+[21:33:18]	Артем Каллов has taken 47 damage from worldspawn.
+[21:33:20]	Артем Каллов entered observer.
+[21:33:36]	MPF-I4.51977 has gained 100 tokens.
+[21:33:44]	MPF-I4.51977 used command '/ActStand'.
+[21:33:48]	MPF-I4.51977 used command '/ActDeny'.
+[21:33:52]	MPF-I4.51977 used command '/ActDeny'.
+[21:34:03]	MPF-I4.51977 has taken 94.390899658203 damage from Артем Каллов using weapon_physgun leaving them at 81 HP!
+[21:34:03]	MPF-I4.51977 has taken 94 damage from Артем Каллов.
+[23:29:26]	Г@H3NK has connected.
+[23:30:18]	Г@H3NK loaded the character 'Александр Климов'
+[23:33:45]	Александр Климов has disabled persistence for 'models/props_combine/combine_interface002.mdl'.
+[23:33:46]	Александр Климов has disabled persistence for 'models/props_combine/combine_intmonitor003.mdl'.
+[23:33:54]	Александр Климов has disabled persistence for 'models/props_combine/combine_intwallunit.mdl'.
+[23:33:56]	Александр Климов has enabled persistence for 'models/props_combine/combine_intwallunit.mdl'.
+[23:33:57]	Александр Климов has enabled persistence for 'models/props_combine/combine_intmonitor003.mdl'.
+[23:34:59]	Александр Климов entered observer.
+[23:35:00]	Александр Климов exited observer at their location.
+[23:35:11]	Александр Климов ran 'drop' on item 'ID Гражданина' (#70)
+[23:35:11]	Александр Климов has lost a 'ID Гражданина' #70.
+[23:35:29]	Александр Климов has enabled persistence for 'models/props_combine/combine_interface002.mdl'.
+[23:35:57]	Александр Климов has spawned 'models/hunter/blocks/cube075x1x1.mdl'.
+[23:36:06]	Александр Климов has spawned 'models/hunter/blocks/cube075x2x1.mdl'.
+[23:36:06]	Александр Климов has taken 50 damage from prop_physics.
+[23:36:06]	Александр Климов has taken 5 damage from prop_physics.
+[23:36:06]	Александр Климов has taken 5 damage from prop_physics.
+[23:36:08]	Александр Климов entered observer.
+[23:36:12]	Александр Климов has spawned 'models/hunter/blocks/cube05x1x05.mdl'.
+[23:36:13]	Александр Климов has spawned 'models/hunter/blocks/cube075x1x1.mdl'.
+[23:36:16]	Александр Климов has spawned 'models/hunter/blocks/cube1x1x1.mdl'.
+[23:36:19]	Александр Климов has spawned 'models/hunter/blocks/cube1x150x1.mdl'.
+[23:36:28]	Александр Климов exited observer at their location.
+[23:38:05]	Александр Климов has spawned 'models/props_combine/breenconsole.mdl'.
+[23:38:15]	Александр Климов has spawned 'models/props_combine/combine_interface001a.mdl'.
+[23:39:11]	Александр Климов has spawned a 'Entity [1073][ix_forcefield]'.
+[23:39:14]	Александр Климов has spawned a 'Entity [1073][ix_forcefield]'.
+[23:39:22]	Г@H3NK loaded the character 'MPF-I4.51977'
+[23:39:23]	MPF-I4.51977 entered observer.
+[23:39:39]	MPF-I4.51977 exited observer at their location.
+[23:39:39]	MPF-I4.51977 entered observer.
+[23:39:48]	MPF-I4.51977 exited observer at their location.
+[23:39:50]	MPF-I4.51977 entered observer.
+[23:39:58]	MPF-I4.51977 exited observer at their location.
+[23:40:22]	MPF-I4.51977 has spawned 'models/props_combine/introomarea.mdl'.
+[23:40:43]	MPF-I4.51977 has spawned 'models/props_combine/railing_corner_inside.mdl'.
+[23:41:13]	MPF-I4.51977 has spawned 'models/props_combine/combine_teleportplatform.mdl'.
+[23:41:16]	MPF-I4.51977 has spawned 'models/props_combine/combine_smallmonitor001.mdl'.
+[23:41:42]	MPF-I4.51977 has spawned 'models/props_combine/combine_barricade_bracket01a.mdl'.
+[23:41:50]	MPF-I4.51977 entered observer.
+[23:41:52]	MPF-I4.51977 exited observer at their location.
+[23:41:53]	MPF-I4.51977 entered observer.
+[23:41:54]	MPF-I4.51977 exited observer at their location.
+[23:41:55]	MPF-I4.51977 entered observer.
+[23:42:55]	MPF-I4.51977 exited observer at their location.
+[23:43:04]	MPF-I4.51977 has spawned 'models/hunter/triangles/075x075mirrored.mdl'.
+[23:43:09]	MPF-I4.51977 has spawned 'models/hunter/triangles/075x075mirrored.mdl'.
+[23:43:16]	MPF-I4.51977 has spawned 'models/hunter/plates/plate4x6.mdl'.
+[23:43:19]	MPF-I4.51977 has spawned 'models/hunter/plates/plate3x4.mdl'.
+[23:43:24]	MPF-I4.51977 has spawned 'models/hunter/plates/plate075x105.mdl'.
+[23:43:41]	MPF-I4.51977 has spawned 'models/hunter/triangles/2x2.mdl'.
+[23:44:07]	MPF-I4.51977 has spawned 'models/hunter/plates/plate025x125.mdl'.
+[23:44:22]	MPF-I4.51977 has gained 100 tokens.
+[23:44:23]	MPF-I4.51977 has spawned 'models/hunter/plates/plate075x2.mdl'.
+[23:44:30]	MPF-I4.51977 has spawned 'models/hunter/plates/plate1x3.mdl'.
+[23:44:36]	MPF-I4.51977 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[23:45:49]	MPF-I4.51977 has spawned 'models/hunter/plates/plate075x3.mdl'.
+[23:46:12]	MPF-I4.51977 has spawned 'models/hunter/plates/plate075x1.mdl'.
+[23:46:26]	MPF-I4.51977 entered observer.
+[23:46:27]	MPF-I4.51977 exited observer at their location.
+[23:46:30]	MPF-I4.51977 entered observer.
+[23:46:31]	MPF-I4.51977 exited observer at their location.
+[23:46:37]	MPF-I4.51977 has spawned 'models/combine_camera/combine_camera.mdl'.
+[23:46:44]	MPF-I4.51977 has spawned 'models/combine_turrets/ceiling_turret.mdl'.
+[23:46:46]	MPF-I4.51977 has spawned 'models/combine_turrets/ground_turret.mdl'.
+[23:46:57]	MPF-I4.51977 has spawned 'models/props_combine/combine_light001a.mdl'.
+[23:47:15]	MPF-I4.51977 has spawned 'models/props_combine/combinecamera001.mdl'.
+[23:47:21]	MPF-I4.51977 has spawned 'models/props_combine/combine_door01.mdl'.
+[23:47:30]	MPF-I4.51977 has spawned 'models/props_combine/combine_bunker01.mdl'.
+[23:47:32]	MPF-I4.51977 has spawned 'models/props_combine/combine_bunker_shield01a.mdl'.
+[23:47:36]	MPF-I4.51977 has spawned 'models/props_combine/combine_barricade_med01b.mdl'.
+[23:47:39]	MPF-I4.51977 has spawned 'models/props_combine/combine_barricade_short02a.mdl'.
+[23:47:40]	MPF-I4.51977 has spawned 'models/props_combine/combine_barricade_short01a.mdl'.
+[23:47:49]	MPF-I4.51977 has spawned 'models/props_combine/combine_barricade_short01a.mdl'.
+[23:48:20]	MPF-I4.51977 has enabled persistence for 'models/hunter/plates/plate075x3.mdl'.
+[23:48:22]	MPF-I4.51977 has enabled persistence for 'models/hunter/plates/plate075x1.mdl'.
+[23:48:23]	MPF-I4.51977 has enabled persistence for 'models/hunter/plates/plate075x105.mdl'.
+[23:48:24]	MPF-I4.51977 has enabled persistence for 'models/hunter/plates/plate025x125.mdl'.
+[23:48:25]	MPF-I4.51977 has enabled persistence for 'models/hunter/triangles/075x075mirrored.mdl'.
+[23:48:25]	MPF-I4.51977 has enabled persistence for 'models/hunter/plates/plate1x2.mdl'.
+[23:48:26]	MPF-I4.51977 has enabled persistence for 'models/hunter/triangles/2x2.mdl'.
+[23:48:38]	MPF-I4.51977 has spawned 'models/props_combine/combineinnerwallcluster1024_001a.mdl'.
+[23:48:47]	MPF-I4.51977 has spawned 'models/hunter/plates/plate075x2.mdl'.
+[23:48:53]	MPF-I4.51977 has spawned 'models/hunter/plates/plate1x3.mdl'.
+[23:48:58]	MPF-I4.51977 has spawned 'models/hunter/plates/plate075x3.mdl'.
+[23:49:01]	MPF-I4.51977 has spawned 'models/hunter/plates/plate075x2.mdl'.
+[23:49:16]	MPF-I4.51977 has spawned 'models/props_wasteland/cafeteria_table001a.mdl'.
+[23:49:22]	MPF-I4.51977 has gained 100 tokens.
+[23:49:59]	MPF-I4.51977 has spawned 'models/hunter/triangles/1x1mirrored.mdl'.
+[23:50:18]	MPF-I4.51977 has spawned 'models/hunter/geometric/tri1x1eq.mdl'.
+[23:50:44]	MPF-I4.51977 has spawned 'models/hunter/triangles/1x1x1carved025.mdl'.
+[23:51:03]	MPF-I4.51977 has enabled persistence for 'models/hunter/triangles/1x1x1carved025.mdl'.
+[23:51:09]	MPF-I4.51977 has enabled persistence for 'models/props_combine/combine_light001a.mdl'.
+[23:51:12]	MPF-I4.51977 has enabled persistence for 'models/props_combine/combine_barricade_short01a.mdl'.
+[23:51:34]	MPF-I4.51977 has spawned 'models/hunter/plates/plate3x4.mdl'.
+[23:51:54]	MPF-I4.51977 entered observer.
+[23:51:55]	MPF-I4.51977 exited observer at their location.
+[23:52:12]	MPF-I4.51977 entered observer.
+[23:52:14]	MPF-I4.51977 exited observer at their location.
+[23:52:20]	MPF-I4.51977 has spawned 'models/hunter/plates/plate075x4.mdl'.
+[23:52:58]	MPF-I4.51977 has disabled persistence for 'models/props_combine/combine_interface002.mdl'.
+[23:53:01]	MPF-I4.51977 has enabled persistence for 'models/props_combine/combine_interface002.mdl'.
+[23:53:37]	MPF-I4.51977 has spawned 'models/hunter/plates/plate075x2.mdl'.
+[23:53:42]	MPF-I4.51977 has spawned 'models/hunter/plates/plate075x2.mdl'.
+[23:53:44]	MPF-I4.51977 has spawned 'models/hunter/plates/plate075x4.mdl'.
+[23:54:22]	MPF-I4.51977 has gained 100 tokens.
+[23:54:34]	MPF-I4.51977 has enabled persistence for 'models/hunter/plates/plate075x4.mdl'.
+[23:54:35]	MPF-I4.51977 has enabled persistence for 'models/hunter/plates/plate075x4.mdl'.
+[23:54:36]	MPF-I4.51977 has enabled persistence for 'models/hunter/plates/plate075x2.mdl'.
+[23:54:37]	MPF-I4.51977 has enabled persistence for 'models/hunter/plates/plate075x2.mdl'.
+[23:54:39]	MPF-I4.51977 has enabled persistence for 'models/hunter/geometric/tri1x1eq.mdl'.
+[23:54:40]	MPF-I4.51977 has enabled persistence for 'models/hunter/plates/plate3x4.mdl'.
+[23:54:42]	MPF-I4.51977 has enabled persistence for 'models/hunter/triangles/1x1mirrored.mdl'.
+[23:54:48]	MPF-I4.51977 has enabled persistence for 'models/props_combine/combine_interface001a.mdl'.
+[23:55:24]	MPF-I4.51977 has spawned 'models/hunter/plates/plate075x105.mdl'.
+[23:55:30]	MPF-I4.51977 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[23:55:35]	MPF-I4.51977 has spawned 'models/hunter/plates/plate075x105.mdl'.
+[23:55:43]	MPF-I4.51977 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[23:55:54]	MPF-I4.51977 entered observer.
+[23:55:55]	MPF-I4.51977 exited observer at their location.
+[23:59:22]	MPF-I4.51977 has gained 100 tokens.

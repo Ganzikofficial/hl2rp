@@ -1,0 +1,897 @@
+[07:36:15]	Г@H3NK has connected.
+[07:37:02]	Г@H3NK loaded the character 'Александр Климов'
+[07:42:45]	Александр Климов entered observer.
+[07:42:50]	Александр Климов exited observer at their location.
+[07:42:58]	Александр Климов entered observer.
+[07:43:30]	Александр Климов exited observer at their location.
+[07:43:47]	Александр Климов has spawned a 'Entity [1368][ent_jack_gmod_ezbomb]'.
+[07:44:43]	Александр Климов entered observer.
+[07:44:58]	Александр Климов has spawned a 'Entity [458][ent_jack_gmod_ezfragnade]'.
+[07:45:09]	Александр Климов exited observer at their location.
+[07:45:09]	Александр Климов entered observer.
+[07:45:23]	Александр Климов has spawned a 'Entity [458][ent_jack_gmod_ezbomb]'.
+[07:45:33]	Александр Климов has spawned a 'Entity [467][ent_jack_gmod_ezbigbomb]'.
+[07:45:44]	Александр Климов has spawned a 'Entity [458][ent_jack_gmod_ezbigbomb]'.
+[07:45:46]	Александр Климов exited observer at their location.
+[07:45:49]	Александр Климов has spawned a 'Entity [1382][ent_jack_gmod_ezfragnade]'.
+[07:45:52]	Александр Климов entered observer.
+[07:45:53]	Александр Климов exited observer at their location.
+[07:45:56]	Александр Климов entered observer.
+[07:46:00]	Александр Климов exited observer at their location.
+[07:46:02]	Александр Климов has spawned a 'Entity [1374][ent_jack_gmod_ezfragnade]'.
+[07:46:10]	Александр Климов has spawned a 'Entity [467][ent_jack_gmod_ezdynamite]'.
+[07:46:16]	Александр Климов entered observer.
+[07:46:18]	Александр Климов exited observer at their location.
+[07:46:26]	Александр Климов entered observer.
+[07:46:29]	Александр Климов exited observer at their location.
+[07:46:33]	Александр Климов has spawned a 'Entity [1374][ent_jack_gmod_ezsmallbomb]'.
+[07:46:42]	Александр Климов entered observer.
+[07:46:43]	Александр Климов exited observer at their location.
+[07:46:46]	Александр Климов entered observer.
+[07:46:49]	Александр Климов exited observer at their location.
+[07:46:51]	Александр Климов entered observer.
+[07:46:52]	Александр Климов exited observer at their location.
+[07:46:56]	Александр Климов entered observer.
+[07:46:59]	Александр Климов exited observer at their location.
+[07:47:00]	Александр Климов entered observer.
+[07:47:02]	Александр Климов exited observer at their location.
+[07:47:15]	Александр Климов has spawned a 'Entity [467][ent_jack_gmod_eznuke_small]'.
+[07:47:25]	Александр Климов entered observer.
+[07:47:30]	Александр Климов exited observer at their location.
+[07:47:37]	Александр Климов has taken 4 damage from Александр Климов.
+[07:47:37]	Александр Климов has taken 4 damage from Александр Климов.
+[07:47:38]	Александр Климов has taken 2 damage from Александр Климов.
+[07:47:38]	Александр Климов has taken 3 damage from Александр Климов.
+[07:47:40]	Александр Климов has taken 1 damage from Александр Климов.
+[07:47:41]	Александр Климов has taken 1 damage from Александр Климов.
+[07:47:42]	Александр Климов has taken 1 damage from Александр Климов.
+[07:47:44]	Александр Климов has taken 1 damage from Александр Климов.
+[07:47:47]	Александр Климов has taken 1 damage from Александр Климов.
+[07:47:57]	Александр Климов has taken 1 damage from Александр Климов.
+[07:48:04]	Александр Климов has taken 1 damage from Александр Климов.
+[07:48:05]	Александр Климов has taken 1 damage from Александр Климов.
+[07:48:11]	Александр Климов has spawned a 'Entity [1890][ent_jack_gmod_ezfragnade]'.
+[07:48:12]	Александр Климов has taken 1 damage from Александр Климов.
+[07:48:13]	Александр Климов has taken 1 damage from Александр Климов.
+[07:48:14]	Александр Климов has taken 1 damage from Александр Климов.
+[07:48:17]	Александр Климов has taken 1 damage from Александр Климов.
+[07:48:19]	Александр Климов has taken 1 damage from Александр Климов.
+[07:48:20]	Александр Климов has taken 1 damage from Александр Климов.
+[07:48:22]	Александр Климов has taken 1 damage from Александр Климов.
+[07:48:22]	Александр Климов has spawned a 'Entity [1040][ent_jack_gmod_ezfragnade]'.
+[07:48:27]	Александр Климов has taken 1 damage from Александр Климов.
+[07:48:28]	Александр Климов has taken 1 damage from Александр Климов.
+[07:48:30]	Александр Климов has taken 1 damage from Александр Климов.
+[07:48:32]	Александр Климов has taken 1 damage from Александр Климов.
+[07:48:36]	Александр Климов has taken 1 damage from Александр Климов.
+[07:48:38]	Александр Климов has taken 1 damage from Александр Климов.
+[07:48:43]	Александр Климов has taken 1 damage from Александр Климов.
+[07:48:53]	Александр Климов has taken 1 damage from Александр Климов.
+[07:48:54]	Александр Климов entered observer.
+[07:49:12]	Александр Климов exited observer at their location.
+[07:49:14]	Александр Климов has taken 1 damage from Александр Климов.
+[07:49:17]	Александр Климов has taken 1 damage from Александр Климов.
+[07:49:19]	Александр Климов has taken 1 damage from Александр Климов.
+[07:49:21]	Александр Климов entered observer.
+[07:49:29]	Александр Климов exited observer at their location.
+[07:49:34]	Александр Климов has taken 1 damage from Александр Климов.
+[07:49:35]	Александр Климов has taken 1 damage from Александр Климов.
+[07:49:36]	Александр Климов entered observer.
+[07:49:47]	Александр Климов exited observer at their location.
+[07:49:51]	Александр Климов has taken 1 damage from Александр Климов.
+[07:49:54]	Александр Климов has taken 1 damage from Александр Климов.
+[07:49:55]	Александр Климов has taken 1 damage from Александр Климов.
+[07:49:56]	Александр Климов has taken 1 damage from Александр Климов.
+[07:50:00]	Александр Климов has taken 1 damage from Александр Климов.
+[07:50:07]	Александр Климов has taken 1 damage from Александр Климов.
+[07:50:13]	Александр Климов has taken 181 damage from Александр Климов.
+[07:50:13]	Александр Климов has killed Александр Климов.
+[07:50:17]	Александр Климов entered observer.
+[07:50:27]	Александр Климов exited observer at their location.
+[07:50:30]	Александр Климов entered observer.
+[07:50:35]	Александр Климов exited observer at their location.
+[07:50:58]	Александр Климов entered observer.
+[07:50:59]	Александр Климов exited observer at their location.
+[07:53:54]	Александр Климов entered observer.
+[07:53:55]	Александр Климов entered observer.
+[07:53:55]	Александр Климов exited observer at their location.
+[07:55:02]	Александр Климов entered observer.
+[07:55:08]	Александр Климов entered observer.
+[07:55:45]	Александр Климов entered observer.
+[07:55:45]	Александр Климов entered observer.
+[07:55:46]	Александр Климов exited observer at their location.
+[07:55:50]	Александр Климов entered observer.
+[07:55:52]	Александр Климов exited observer at their location.
+[08:03:39]	Г@H3NK has connected.
+[08:03:57]	Г@H3NK loaded the character 'Александр Климов'
+[08:04:14]	Александр Климов used command '/CharGiveItem Ал ied'.
+[08:05:28]	Александр Климов used command '/CharGiveItem Ал ied'.
+[08:05:31]	Александр Климов ran 'drop' on item 'Наручники' (#193)
+[08:05:31]	Александр Климов has lost a 'Наручники' #193.
+[08:05:32]	Александр Климов has gained a 'СВУ' #412.
+[08:05:32]	Александр Климов used command '/CharGiveItem Ал ied'.
+[08:05:37]	Александр Климов ran 'Equip' on item 'СВУ' (#412)
+[08:05:54]	Александр Климов destroyed a 'Наручники' #193.
+[08:06:01]	Александр Климов ran 'EquipUn' on item 'СВУ' (#412)
+[08:06:02]	Александр Климов ran 'Equip' on item 'СВУ' (#412)
+[08:06:11]	Александр Климов ran 'EquipUn' on item 'СВУ' (#412)
+[19:34:18]	Г@H3NK has connected.
+[19:34:56]	Г@H3NK loaded the character 'Александр Климов'
+[19:35:12]	Александр Климов ran 'Equip' on item 'M4' (#411)
+[19:36:06]	Александр Климов has spawned a 'NPC [14][npc_citizen]'.
+[19:36:07]	Александр Климов has spawned a 'NPC [108][npc_citizen]'.
+[19:36:14]	Александр Климов has spawned a 'NPC [14][npc_breen]'.
+[19:36:14]	Александр Климов has spawned a 'NPC [19][npc_breen]'.
+[19:36:15]	Александр Климов has spawned a 'NPC [55][npc_breen]'.
+[19:37:18]	Александр Климов ran 'drop' on item 'Контейнер гильз 12 Калибра' (#410)
+[19:37:18]	Александр Климов has lost a 'Контейнер гильз 12 Калибра' #410.
+[19:37:21]	Александр Климов ran 'take' on item 'Контейнер гильз 12 Калибра' (#410)
+[19:37:21]	Александр Климов has gained a 'Контейнер гильз 12 Калибра' #410.
+[19:37:23]	Александр Климов ran 'EquipUn' on item 'Форма сопротивления' (#403)
+[19:37:26]	Александр Климов ran 'Equip' on item 'Форма сопротивления' (#403)
+[19:37:43]	Александр Климов ran 'EquipUn' on item 'Форма сопротивления' (#403)
+[19:37:48]	Александр Климов ran 'Equip' on item 'Форма сопротивления' (#403)
+[19:37:49]	Александр Климов ran 'Equip' on item 'M9' (#307)
+[19:41:55]	Александр Климов entered observer.
+[19:41:56]	Александр Климов exited observer at their location.
+[19:43:43]	Александр Климов ran 'EquipUn' on item 'Форма сопротивления' (#403)
+[19:43:44]	Александр Климов ran 'drop' on item 'Форма сопротивления' (#403)
+[19:43:44]	Александр Климов has lost a 'Форма сопротивления' #403.
+[19:44:20]	Александр Климов entered observer.
+[19:44:21]	Александр Климов exited observer at their location.
+[19:44:21]	Александр Климов entered observer.
+[19:44:22]	Александр Климов exited observer at their location.
+[19:47:24]	Г@H3NK has connected.
+[19:48:19]	Г@H3NK loaded the character 'Александр Климов'
+[19:48:21]	Александр Климов entered observer.
+[19:48:23]	Александр Климов exited observer at their location.
+[19:48:29]	Александр Климов entered observer.
+[19:48:43]	Александр Климов exited observer at their location.
+[19:48:47]	Александр Климов entered observer.
+[19:48:55]	Александр Климов exited observer at their location.
+[19:49:17]	Александр Климов entered observer.
+[19:49:19]	Александр Климов exited observer at their location.
+[19:49:26]	Александр Климов entered observer.
+[19:49:27]	Александр Климов exited observer at their location.
+[19:50:35]	Александр Климов used command '/DoorSetClass cwu'.
+[19:50:45]	Александр Климов used command '/DoorSetHidden false'.
+[19:51:00]	Александр Климов used command '/DoorSetClass cwu'.
+[19:51:13]	Александр Климов used command '/DoorSetClass ГСР'.
+[19:52:02]	Александр Климов used command '/DoorSetFaction citizen'.
+[19:52:04]	Александр Климов used command '/DoorSetClass cwu'.
+[19:52:06]	Александр Климов used command '/DoorSetClass ГСР'.
+[19:52:08]	Александр Климов used command '/DoorSetClass cwu'.
+[19:52:25]	Александр Климов used command '/DoorSetClass CWU'.
+[19:52:37]	Александр Климов used command '/DoorSetChild'.
+[19:52:47]	Александр Климов used command '/DoorSetParent'.
+[19:52:51]	Александр Климов used command '/DoorSetChild'.
+[19:52:59]	Александр Климов entered observer.
+[19:53:04]	Александр Климов exited observer at their location.
+[19:54:13]	Александр Климов entered observer.
+[19:54:15]	Александр Климов exited observer at their location.
+[19:54:19]	Александр Климов has taken 55 damage from worldspawn.
+[19:54:19]	worldspawn has killed Александр Климов.
+[19:54:23]	Александр Климов entered observer.
+[19:54:35]	Александр Климов exited observer at their location.
+[19:54:39]	Александр Климов entered observer.
+[19:54:40]	Александр Климов exited observer at their location.
+[20:00:55]	Frank has connected.
+[20:01:23]	Александр Климов used command '/PlyWhitelist Frank matropolice'.
+[20:01:27]	Александр Климов used command '/PlyWhitelist Frank matrocop'.
+[20:01:34]	Александр Климов used command '/PlyWhitelist Frank metrocop'.
+[20:01:39]	Александр Климов used command '/PlyWhitelist Frank metropolice'.
+[20:01:43]	Александр Климов entered observer.
+[20:01:45]	Александр Климов exited observer at their location.
+[20:01:46]	Александр Климов entered observer.
+[20:01:48]	Александр Климов exited observer at their location.
+[20:02:35]	Александр Климов has spawned 'models/player/citizen_v2/male_06.mdl'.
+[20:05:45]	Frank created the character 'Фрэнк'
+[20:05:45]	Фрэнк has gained a 'Чемодан' #414.
+[20:05:45]	Фрэнк has gained a 'ID Карточка' #415.
+[20:05:46]	Frank loaded the character 'Фрэнк'
+[20:06:40]	Александр Климов entered observer.
+[20:06:42]	Александр Климов exited observer at their location.
+[20:07:23]	Александр Климов used command '/CharSetModel Фрэ models/player/fall_winter/male_09.mdl'.
+[20:09:18]	Александр Климов used command '/CharSetModel Ал models/player/fall_winter/male_04.mdl'.
+[20:13:25]	Александр Климов used command '/CharGiveItem Ал g17'.
+[20:13:43]	Александр Климов used command '/CharGiveItem Ал g17'.
+[20:13:48]	Александр Климов used command '/CharGiveItem Ал glock17'.
+[20:14:00]	Александр Климов has gained a 'Glock 18' #416.
+[20:14:00]	Александр Климов used command '/CharGiveItem Ал glock'.
+[20:14:02]	Александр Климов ran 'drop' on item 'Glock 18' (#416)
+[20:14:02]	Александр Климов has lost a 'Glock 18' #416.
+[20:14:36]	Фрэнк ran 'take' on item 'Glock 18' (#416)
+[20:14:36]	Фрэнк has gained a 'Glock 18' #416.
+[20:15:15]	Фрэнк ran 'Equip' on item 'Glock 18' (#416)
+[20:18:02]	Фрэнк entered observer.
+[20:19:29]	Фрэнк exited observer.
+[20:20:35]	Фрэнк entered observer.
+[20:20:48]	Фрэнк exited observer at their location.
+[20:20:54]	Фрэнк entered observer.
+[20:21:24]	Фрэнк exited observer at their location.
+[20:21:39]	Фрэнк has spawned a 'NPC [1376][npc_monk]'.
+[20:21:56]	Фрэнк entered observer.
+[20:22:05]	Фрэнк exited observer at their location.
+[20:22:19]	Фрэнк entered observer.
+[20:22:20]	Фрэнк exited observer at their location.
+[20:22:54]	Фрэнк entered observer.
+[20:22:55]	Фрэнк entered observer.
+[20:22:56]	Фрэнк exited observer at their location.
+[20:23:47]	Фрэнк entered observer.
+[20:23:48]	Фрэнк entered observer.
+[20:23:49]	Фрэнк exited observer at their location.
+[20:23:58]	Фрэнк entered observer.
+[20:23:58]	Фрэнк entered observer.
+[20:23:59]	Фрэнк exited observer at their location.
+[20:24:04]	Александр Климов has taken 500 damage from pill_ent_phys.
+[20:24:04]	pill_ent_phys has killed Александр Климов.
+[20:24:08]	Фрэнк entered observer.
+[20:24:10]	Александр Климов entered observer.
+[20:24:12]	Фрэнк exited observer at their location.
+[20:24:13]	Александр Климов exited observer at their location.
+[20:24:13]	Фрэнк entered observer.
+[20:24:17]	Фрэнк exited observer at their location.
+[20:24:24]	Фрэнк entered observer.
+[20:24:25]	Фрэнк entered observer.
+[20:24:27]	Фрэнк exited observer at their location.
+[20:25:03]	Фрэнк entered observer.
+[20:25:04]	Фрэнк has taken 9 damage from worldspawn.
+[20:25:06]	Фрэнк entered observer.
+[20:25:08]	Фрэнк exited observer at their location.
+[20:25:14]	Фрэнк entered observer.
+[20:25:15]	Фрэнк exited observer at their location.
+[20:25:33]	Александр Климов has taken 500 damage from pill_ent_phys.
+[20:25:33]	pill_ent_phys has killed Александр Климов.
+[20:25:41]	Фрэнк entered observer.
+[20:25:42]	Фрэнк has taken 0 damage from worldspawn.
+[20:26:05]	Фрэнк has taken 15 damage from Александр Климов.
+[20:26:06]	Фрэнк has taken 1 damage from Александр Климов.
+[20:26:07]	Фрэнк has taken 1 damage from Александр Климов.
+[20:26:08]	Фрэнк has taken 1 damage from Александр Климов.
+[20:26:09]	Фрэнк has taken 1 damage from Александр Климов.
+[20:26:10]	Фрэнк has taken 1 damage from Александр Климов.
+[20:26:11]	Фрэнк entered observer.
+[20:26:11]	Фрэнк has taken 1 damage from Александр Климов.
+[20:26:13]	Фрэнк entered observer.
+[20:26:13]	Фрэнк entered observer.
+[20:26:16]	Фрэнк exited observer at their location.
+[20:26:36]	Александр Климов has taken 5 damage from pill_ent_phys.
+[20:26:36]	Александр Климов has taken 200 damage from worldspawn.
+[20:26:36]	worldspawn has killed Александр Климов.
+[20:26:40]	Александр Климов entered observer.
+[20:26:42]	Александр Климов exited observer at their location.
+[20:26:43]	Фрэнк entered observer.
+[20:26:48]	Фрэнк entered observer.
+[20:26:49]	Александр Климов ran 'drop' on item 'M4' (#411)
+[20:26:49]	Александр Климов has lost a 'M4' #411.
+[20:26:55]	Фрэнк destroyed a 'M4' #411.
+[20:26:59]	Александр Климов has taken 50 damage from Фрэнк.
+[20:27:15]	Александр Климов has taken 25 damage from Фрэнк.
+[20:27:15]	Фрэнк has taken 30 damage from Александр Климов.
+[20:27:22]	Фрэнк has taken 75 damage from Александр Климов.
+[20:27:26]	Александр Климов has taken 25 damage from Фрэнк.
+[20:27:26]	Фрэнк has killed Александр Климов.
+[20:27:29]	Фрэнк entered observer.
+[20:27:30]	Фрэнк exited observer at their location.
+[20:27:33]	Александр Климов entered observer.
+[20:27:36]	Александр Климов exited observer at their location.
+[20:27:43]	Фрэнк entered observer.
+[20:28:31]	Фрэнк entered observer.
+[20:28:32]	Фрэнк entered observer.
+[20:28:32]	Фрэнк exited observer at their location.
+[20:28:43]	Фрэнк entered observer.
+[20:29:33]	Александр Климов entered observer.
+[20:29:39]	Александр Климов exited observer at their location.
+[20:29:57]	Александр Климов entered observer.
+[20:29:58]	Александр Климов exited observer at their location.
+[20:30:01]	Александр Климов entered observer.
+[20:30:05]	Александр Климов exited observer at their location.
+[20:30:50]	֍ Aime-moi ֍ has connected.
+[20:30:58]	Фрэнк entered observer.
+[20:32:07]	֍ Aime-moi ֍ loaded the character 'Артем Петров'
+[20:32:07]	Александр Климов entered observer.
+[20:32:11]	Александр Климов exited observer at their location.
+[20:32:13]	Александр Климов entered observer.
+[20:32:18]	Александр Климов exited observer at their location.
+[20:32:27]	[OOC] Артем Петров: Неожиданно тут видеть кого-то,кроме меня с Ганзиком
+[20:32:39]	Артем Петров entered observer.
+[20:32:50]	[OOC] Александр Климов: С нами 3 чела
+[20:33:04]	[OOC] Артем Петров: В плане? Три человека новых?
+[20:33:26]	Александр Климов entered observer.
+[20:33:28]	Александр Климов exited observer at their location.
+[20:33:49]	[OOC] Артем Петров: Я извиняюсь,какие модели ситизенов мы используем?
+[20:33:55]	[LOOC] Артем Петров: Че несет...
+[20:34:16]	Артем Петров exited observer at their location.
+[20:34:18]	Александр Климов has taken 6 damage from Фрэнк.
+[20:34:34]	Александр Климов entered observer.
+[20:34:35]	Александр Климов exited observer at their location.
+[20:34:45]	Артем Петров entered observer.
+[20:34:57]	Артем Петров exited observer at their location.
+[20:35:21]	Александр Климов has taken 1000 damage from Артем Петров.
+[20:35:21]	Артем Петров has killed Александр Климов.
+[20:36:11]	Фрэнк entered observer.
+[20:36:12]	Фрэнк exited observer at their location.
+[20:36:13]	Фрэнк has taken 3 damage from worldspawn.
+[20:36:21]	Фрэнк entered observer.
+[20:36:23]	Артем Петров has taken 5 damage from prop_physics.
+[20:36:25]	Фрэнк exited observer at their location.
+[20:36:33]	Александр Климов has taken 500 damage from pill_ent_phys.
+[20:36:33]	pill_ent_phys has killed Александр Климов.
+[20:36:35]	Артем Петров has taken 49 damage from Фрэнк.
+[20:36:35]	Артем Петров has taken 98 damage from Фрэнк.
+[20:36:37]	Александр Климов entered observer.
+[20:36:50]	Александр Климов exited observer at their location.
+[20:36:54]	Александр Климов ran 'Equip' on item 'M9' (#307)
+[20:37:10]	Фрэнк has taken 52 damage from Александр Климов.
+[20:37:11]	Артем Петров has taken 13 damage from Фрэнк.
+[20:37:11]	Артем Петров has taken 13 damage from Фрэнк.
+[20:37:11]	Фрэнк has taken 1000 damage from Артем Петров.
+[20:37:11]	Артем Петров has killed Фрэнк.
+[20:37:11]	Артем Петров has taken 52 damage from Александр Климов.
+[20:37:19]	Артем Петров has taken 53 damage from Александр Климов.
+[20:37:20]	Артем Петров has taken 53 damage from Александр Климов.
+[20:37:21]	Артем Петров has taken 13 damage from Александр Климов.
+[20:37:21]	Артем Петров has taken 53 damage from Александр Климов.
+[20:37:21]	Артем Петров has taken 13 damage from Александр Климов.
+[20:37:21]	Артем Петров has taken 13 damage from Александр Климов.
+[20:37:24]	Артем Петров has taken 53 damage from Александр Климов.
+[20:37:24]	Артем Петров has taken 13 damage from Александр Климов.
+[20:37:24]	Артем Петров has taken 52 damage from Александр Климов.
+[20:37:24]	Артем Петров has taken 13 damage from Александр Климов.
+[20:37:25]	Артем Петров has taken 13 damage from Александр Климов.
+[20:37:31]	Фрэнк has spawned a 'Entity [467][arccw_ammo_smg1]'.
+[20:37:32]	Фрэнк has spawned a 'Entity [1391][arccw_ammo_pistol]'.
+[20:37:41]	Артем Петров has taken 66 damage from Фрэнк.
+[20:37:41]	Артем Петров has taken 16 damage from Фрэнк.
+[20:37:41]	Артем Петров has taken 16 damage from Фрэнк.
+[20:37:41]	Артем Петров has taken 16 damage from Фрэнк.
+[20:37:41]	Артем Петров has taken 16 damage from Фрэнк.
+[20:37:41]	Артем Петров has taken 16 damage from Фрэнк.
+[20:37:41]	Артем Петров has taken 65 damage from Фрэнк.
+[20:37:42]	Артем Петров has taken 16 damage from Фрэнк.
+[20:37:43]	Артем Петров has taken 16 damage from Фрэнк.
+[20:37:43]	Артем Петров has taken 16 damage from Фрэнк.
+[20:37:43]	Артем Петров has taken 65 damage from Фрэнк.
+[20:37:43]	Артем Петров has taken 65 damage from Фрэнк.
+[20:37:43]	Артем Петров has taken 65 damage from Фрэнк.
+[20:37:43]	Артем Петров has taken 16 damage from Фрэнк.
+[20:37:43]	Артем Петров has taken 16 damage from Фрэнк.
+[20:37:43]	Артем Петров has taken 16 damage from Фрэнк.
+[20:37:57]	Артем Петров has taken 5 damage from prop_physics.
+[20:38:14]	Александр Климов has taken 16 damage from Фрэнк.
+[20:38:14]	Артем Петров has taken 16 damage from Фрэнк.
+[20:38:14]	Александр Климов has taken 1000 damage from Артем Петров.
+[20:38:14]	Артем Петров has killed Александр Климов.
+[20:38:15]	Артем Петров has taken 16 damage from Фрэнк.
+[20:38:16]	Фрэнк has taken 1000 damage from Артем Петров.
+[20:38:16]	Артем Петров has killed Фрэнк.
+[20:38:18]	Александр Климов entered observer.
+[20:38:23]	Александр Климов exited observer at their location.
+[20:38:26]	Александр Климов ran 'Equip' on item 'СВУ' (#412)
+[20:38:34]	Артем Петров has taken 50 damage from Фрэнк.
+[20:38:34]	Артем Петров has taken 12 damage from Фрэнк.
+[20:38:55]	Александр Климов ran 'Equip' on item 'M9' (#307)
+[20:38:58]	Артем Петров has taken 12 damage from Фрэнк.
+[20:38:58]	Артем Петров has taken 3 damage from Фрэнк.
+[20:38:58]	Артем Петров has taken 12 damage from Фрэнк.
+[20:38:58]	Артем Петров has taken 3 damage from Фрэнк.
+[20:38:58]	Артем Петров has taken 12 damage from Фрэнк.
+[20:38:58]	Артем Петров has taken 12 damage from Фрэнк.
+[20:38:58]	Артем Петров has taken 3 damage from Фрэнк.
+[20:38:58]	Артем Петров has taken 12 damage from Фрэнк.
+[20:38:58]	Александр Климов ran 'Equip' on item 'M9' (#307)
+[20:38:58]	Артем Петров has taken 12 damage from Фрэнк.
+[20:38:59]	Артем Петров has taken 3 damage from Фрэнк.
+[20:38:59]	Артем Петров has taken 12 damage from Фрэнк.
+[20:38:59]	Артем Петров has taken 12 damage from Фрэнк.
+[20:38:59]	Артем Петров has taken 12 damage from Фрэнк.
+[20:38:59]	Артем Петров has taken 12 damage from Фрэнк.
+[20:38:59]	Артем Петров has taken 12 damage from Фрэнк.
+[20:38:59]	Артем Петров has taken 3 damage from Фрэнк.
+[20:39:00]	Артем Петров has taken 12 damage from Фрэнк.
+[20:39:00]	Артем Петров has taken 3 damage from Фрэнк.
+[20:39:00]	Артем Петров has taken 3 damage from Фрэнк.
+[20:39:00]	Артем Петров has taken 12 damage from Фрэнк.
+[20:39:00]	Артем Петров has taken 12 damage from Фрэнк.
+[20:39:00]	Александр Климов ran 'Equip' on item 'M9' (#307)
+[20:39:00]	Артем Петров has taken 12 damage from Фрэнк.
+[20:39:00]	Артем Петров has taken 12 damage from Фрэнк.
+[20:39:00]	Артем Петров has taken 12 damage from Фрэнк.
+[20:39:01]	Артем Петров has taken 3 damage from Фрэнк.
+[20:39:01]	Артем Петров has taken 12 damage from Фрэнк.
+[20:39:01]	Артем Петров has taken 12 damage from Фрэнк.
+[20:39:01]	Александр Климов ran 'Equip' on item 'M9' (#307)
+[20:39:01]	Артем Петров has taken 3 damage from Фрэнк.
+[20:39:01]	Артем Петров has taken 12 damage from Фрэнк.
+[20:39:01]	Артем Петров has taken 12 damage from Фрэнк.
+[20:39:01]	Артем Петров has taken 12 damage from Фрэнк.
+[20:39:01]	Артем Петров has taken 3 damage from Фрэнк.
+[20:39:01]	Артем Петров has taken 3 damage from Фрэнк.
+[20:39:01]	Артем Петров has taken 12 damage from Фрэнк.
+[20:39:01]	Артем Петров has taken 12 damage from Фрэнк.
+[20:39:01]	Артем Петров has taken 12 damage from Фрэнк.
+[20:39:02]	Артем Петров has taken 3 damage from Фрэнк.
+[20:39:02]	Артем Петров has taken 12 damage from Фрэнк.
+[20:39:06]	Александр Климов ran 'Equip' on item 'M9' (#307)
+[20:39:07]	Александр Климов ran 'Equip' on item 'M9' (#307)
+[20:39:08]	Александр Климов ran 'Equip' on item 'M9' (#307)
+[20:39:09]	Александр Климов ran 'drop' on item 'M9' (#307)
+[20:39:09]	Александр Климов has lost a 'M9' #307.
+[20:39:12]	Александр Климов ran 'take' on item 'M9' (#307)
+[20:39:12]	Александр Климов has gained a 'M9' #307.
+[20:39:13]	Александр Климов ran 'Equip' on item 'M9' (#307)
+[20:39:14]	Артем Петров entered observer.
+[20:39:14]	Артем Петров entered observer.
+[20:39:15]	Фрэнк has spawned a 'Entity [1430][item_ammo_ar2_altfire]'.
+[20:39:15]	Фрэнк has spawned a 'Entity [1433][item_ammo_ar2_altfire]'.
+[20:39:21]	Александр Климов ran 'Equip' on item 'M9' (#307)
+[20:39:25]	Александр Климов ran 'EquipUn' on item 'СВУ' (#412)
+[20:39:28]	Александр Климов ran 'Equip' on item 'M9' (#307)
+[20:39:37]	Александр Климов has taken 1000 damage from Фрэнк.
+[20:39:37]	Фрэнк has killed Александр Климов with weapon_ar2.
+[20:39:41]	Александр Климов entered observer.
+[20:39:44]	Александр Климов exited observer at their location.
+[20:39:52]	Фрэнк has spawned a 'Entity [1393][item_ammo_ar2_altfire]'.
+[20:39:52]	Фрэнк has spawned a 'Entity [1398][item_ammo_ar2_altfire]'.
+[20:39:55]	Фрэнк has spawned a 'Entity [1393][combine_mine]'.
+[20:39:56]	Александр Климов ran 'Equip' on item 'M9' (#307)
+[20:39:58]	Александр Климов has taken 77 damage from combine_mine.
+[20:39:58]	Фрэнк has taken 26 damage from combine_mine.
+[20:40:01]	Артем Петров exited observer at their location.
+[20:40:08]	Артем Петров entered observer.
+[20:40:08]	Артем Петров entered observer.
+[20:40:20]	Александр Климов has taken 1000 damage from Фрэнк.
+[20:40:20]	Фрэнк has killed Александр Климов with weapon_ar2.
+[20:40:24]	Александр Климов entered observer.
+[20:40:26]	Фрэнк has taken 1000 damage from Артем Петров.
+[20:40:26]	Артем Петров has killed Фрэнк.
+[20:40:30]	Александр Климов exited observer at their location.
+[20:42:07]	Г@H3NK has connected.
+[20:43:11]	Г@H3NK loaded the character 'Александр Климов'
+[20:43:49]	Александр Климов has gained a 'M4' #414.
+[20:43:49]	Александр Климов used command '/CharGiveItem Ал M4'.
+[20:43:52]	Frank has connected.
+[20:44:34]	Frank loaded the character 'Фрэнк'
+[20:44:35]	֍ Aime-moi ֍ has connected.
+[20:44:37]	Фрэнк entered observer.
+[20:44:38]	Фрэнк exited observer at their location.
+[20:44:38]	Фрэнк entered observer.
+[20:44:42]	Фрэнк exited observer at their location.
+[20:44:45]	Фрэнк entered observer.
+[20:45:58]	Г@H3NK has connected.
+[20:46:52]	Г@H3NK loaded the character 'Александр Климов'
+[20:47:13]	Frank has connected.
+[20:47:30]	Frank loaded the character 'Фрэнк'
+[20:47:36]	Фрэнк entered observer.
+[20:47:36]	Фрэнк exited observer at their location.
+[20:48:00]	Александр Климов has spawned a 'Vehicle [553][prop_vehicle_prisoner_pod]'.
+[20:48:13]	֍ Aime-moi ֍ has connected.
+[20:49:16]	֍ Aime-moi ֍ loaded the character 'Август Крюгер'
+[20:49:19]	Август Крюгер entered observer.
+[20:49:35]	Август Крюгер exited observer at their location.
+[20:49:42]	Август Крюгер has taken 29 damage from Фрэнк.
+[20:49:42]	Август Крюгер has taken 29 damage from Фрэнк.
+[20:49:42]	Август Крюгер has taken 29 damage from Фрэнк.
+[20:49:42]	Август Крюгер has taken 29 damage from Фрэнк.
+[20:49:42]	Август Крюгер has taken 29 damage from Фрэнк.
+[20:49:42]	Август Крюгер has taken 29 damage from Фрэнк.
+[20:49:42]	Август Крюгер has taken 29 damage from Фрэнк.
+[20:49:42]	Август Крюгер has taken 29 damage from Фрэнк.
+[20:50:00]	Август Крюгер has taken 29 damage from Фрэнк.
+[20:50:00]	Август Крюгер has taken 29 damage from Фрэнк.
+[20:50:00]	Август Крюгер has taken 29 damage from Фрэнк.
+[20:50:00]	Август Крюгер has taken 29 damage from Фрэнк.
+[20:50:00]	Август Крюгер has taken 29 damage from Фрэнк.
+[20:50:00]	Август Крюгер has taken 29 damage from Фрэнк.
+[20:50:00]	Август Крюгер has taken 29 damage from Фрэнк.
+[20:50:00]	Август Крюгер has taken 29 damage from Фрэнк.
+[20:50:00]	Kiska has connected.
+[20:50:08]	Александр Климов has taken 1000 damage from Август Крюгер.
+[20:50:08]	Август Крюгер has killed Александр Климов.
+[20:50:14]	Александр Климов entered observer.
+[20:50:17]	Август Крюгер has taken 29 damage from Фрэнк.
+[20:50:17]	Август Крюгер has taken 29 damage from Фрэнк.
+[20:50:17]	Август Крюгер has taken 29 damage from Фрэнк.
+[20:50:34]	Фрэнк has taken 1000 damage from Август Крюгер.
+[20:50:40]	Александр Климов exited observer at their location.
+[20:50:52]	Александр Климов has taken 500 damage from prop_physics.
+[20:50:52]	prop_physics has killed Александр Климов.
+[20:51:06]	Александр Климов has taken 1000 damage from Август Крюгер.
+[20:51:06]	Август Крюгер has killed Александр Климов.
+[20:51:15]	Август Крюгер entered observer.
+[20:51:16]	Август Крюгер exited observer at their location.
+[20:51:16]	Август Крюгер entered observer.
+[20:51:55]	Kiska created the character 'Kiska'
+[20:51:55]	Kiska loaded the character 'Kiska'
+[20:51:58]	Фрэнк has spawned a 'Entity [1418][ent_bigmommapod]'.
+[20:51:59]	Александр Климов has taken 5 damage from npc_headcrab_fast.
+[20:52:00]	Александр Климов entered observer.
+[20:52:01]	Фрэнк has taken 5 damage from npc_headcrab_fast.
+[20:52:01]	Александр Климов exited observer at their location.
+[20:52:02]	Фрэнк has taken 5 damage from npc_headcrab.
+[20:52:02]	Александр Климов has taken 5 damage from npc_headcrab.
+[20:52:02]	Александр Климов entered observer.
+[20:52:03]	Фрэнк has taken 5 damage from npc_headcrab.
+[20:52:04]	Фрэнк has taken 5 damage from npc_headcrab.
+[20:52:06]	Фрэнк has taken 5 damage from npc_headcrab_fast.
+[20:52:06]	Kiska has taken 5 damage from npc_headcrab.
+[20:52:08]	Фрэнк has taken 5 damage from npc_headcrab_fast.
+[20:52:10]	Фрэнк has taken 5 damage from npc_headcrab_fast.
+[20:52:12]	Kiska has taken 5 damage from npc_headcrab_fast.
+[20:52:13]	Август Крюгер exited observer at their location.
+[20:52:14]	Фрэнк has taken 5 damage from npc_headcrab_fast.
+[20:52:22]	Александр Климов used command '/PlyWhitelist Kiska metropolice'.
+[20:52:23]	Kiska has taken 24 damage from Фрэнк.
+[20:52:33]	Август Крюгер has taken 100 damage from Фрэнк.
+[20:52:38]	Фрэнк has taken 1000 damage from Август Крюгер.
+[20:52:49]	Август Крюгер entered observer.
+[20:52:50]	Август Крюгер entered observer.
+[20:53:10]	Александр Климов exited observer at their location.
+[20:53:56]	Kiska created the character 'D47.MPF-RCT.150'
+[20:54:01]	Kiska loaded the character 'D47.MPF-RCT.150'
+[20:54:09]	Август Крюгер exited observer at their location.
+[20:54:15]	Август Крюгер entered observer.
+[20:54:16]	Август Крюгер has gained 100 tokens.
+[20:54:20]	D47.MPF-RCT.150 has gained 0 tokens.
+[20:54:20]	D47.MPF-RCT.150 ordered a shipment
+[20:54:25]	D47.MPF-RCT.150 took 'Ящик 7,62×39 мм патрон' from the shipment
+[20:54:29]	Август Крюгер exited observer at their location.
+[20:54:43]	Фрэнк entered observer.
+[20:54:47]	Александр Климов entered observer.
+[20:54:47]	Фрэнк exited observer at their location.
+[20:54:47]	Фрэнк entered observer.
+[20:54:48]	Фрэнк exited observer at their location.
+[20:54:48]	Фрэнк entered observer.
+[20:54:49]	Фрэнк exited observer at their location.
+[20:54:51]	Александр Климов exited observer at their location.
+[20:55:02]	Фрэнк entered observer.
+[20:55:06]	Александр Климов has taken 500 damage from pill_ent_phys.
+[20:55:06]	pill_ent_phys has killed Александр Климов.
+[20:55:10]	Александр Климов entered observer.
+[20:55:19]	Фрэнк exited observer at their location.
+[20:55:22]	Александр Климов exited observer at their location.
+[20:55:30]	Август Крюгер has taken 74 damage from Фрэнк.
+[20:55:30]	Август Крюгер has taken 124 damage from Фрэнк.
+[20:55:39]	Август Крюгер has taken 74 damage from Фрэнк.
+[20:55:52]	Август Крюгер has taken 45 damage from Фрэнк.
+[20:55:52]	Август Крюгер has taken 45 damage from Фрэнк.
+[20:56:03]	Александр Климов entered observer.
+[20:56:09]	Александр Климов exited observer at their location.
+[20:56:20]	Август Крюгер has taken 45 damage from Фрэнк.
+[20:56:20]	Август Крюгер has taken 45 damage from Фрэнк.
+[20:56:20]	Август Крюгер has taken 47 damage from Фрэнк.
+[20:56:21]	Август Крюгер has taken 47 damage from Фрэнк.
+[20:56:21]	Август Крюгер has taken 47 damage from Фрэнк.
+[20:56:21]	Август Крюгер has taken 47 damage from Фрэнк.
+[20:56:21]	Август Крюгер has taken 47 damage from Фрэнк.
+[20:56:21]	Август Крюгер has taken 47 damage from Фрэнк.
+[20:56:31]	Август Крюгер has taken 39 damage from Фрэнк.
+[20:56:31]	Август Крюгер has taken 39 damage from Фрэнк.
+[20:56:31]	Август Крюгер has taken 39 damage from Фрэнк.
+[20:56:31]	Август Крюгер has taken 39 damage from Фрэнк.
+[20:56:45]	Август Крюгер entered observer.
+[20:56:46]	Август Крюгер exited observer at their location.
+[20:57:28]	Август Крюгер entered observer.
+[20:57:30]	Август Крюгер exited observer at their location.
+[20:57:39]	Август Крюгер has taken 119 damage from Фрэнк.
+[20:57:39]	Август Крюгер has taken 119 damage from Фрэнк.
+[20:57:40]	Август Крюгер has taken 119 damage from Фрэнк.
+[20:57:40]	Август Крюгер has taken 119 damage from Фрэнк.
+[20:57:40]	Август Крюгер has taken 119 damage from Фрэнк.
+[20:57:40]	Август Крюгер has taken 118 damage from Фрэнк.
+[20:57:40]	Август Крюгер has taken 117 damage from Фрэнк.
+[20:57:40]	Август Крюгер has taken 116 damage from Фрэнк.
+[20:57:41]	Август Крюгер has taken 116 damage from Фрэнк.
+[20:57:41]	Август Крюгер entered observer.
+[20:57:49]	Фрэнк has taken 251 damage from Август Крюгер.
+[20:57:49]	Александр Климов has taken 250 damage from Август Крюгер.
+[20:57:49]	Август Крюгер has killed Александр Климов with weapon_ied.
+[20:57:49]	D47.MPF-RCT.150 has taken 267 damage from Август Крюгер.
+[20:57:49]	Август Крюгер has killed D47.MPF-RCT.150 with weapon_ied.
+[20:57:53]	Александр Климов entered observer.
+[20:57:57]	Александр Климов exited observer at their location.
+[20:58:03]	Август Крюгер exited observer at their location.
+[20:58:08]	Август Крюгер ran 'use' on item 'Ящик 7,62×39 мм патрон' (#415)
+[20:58:19]	Август Крюгер entered observer.
+[20:58:21]	Август Крюгер exited observer at their location.
+[20:58:22]	Август Крюгер has spawned a 'Entity [1507][ent_jack_gmod_ezweapon_shotrevolver]'.
+[20:58:40]	Август Крюгер has spawned a 'Entity [1517][ent_jack_gmod_ezammo]'.
+[20:58:53]	Александр Климов has taken 27 damage from Август Крюгер.
+[20:58:53]	Александр Климов has taken 20 damage from Август Крюгер.
+[20:58:53]	Александр Климов has taken 19 damage from Август Крюгер.
+[20:58:53]	Александр Климов has taken 17 damage from Август Крюгер.
+[20:59:03]	D47.MPF-RCT.150 has gained 50 tokens.
+[20:59:08]	Август Крюгер has spawned a 'Entity [1525][ent_jack_gmod_ezweapon_mmg]'.
+[20:59:14]	Август Крюгер has spawned a 'Entity [1517][ent_jack_gmod_ezammo]'.
+[20:59:18]	Август Крюгер has gained 100 tokens.
+[20:59:27]	Александр Климов used command '/CharSetName D47 D47.MPF.EpU-150'.
+[20:59:31]	Александр Климов has taken 10 damage from Август Крюгер.
+[20:59:50]	Август Крюгер used command '/CharSetModel Август models/player/hwm/sniper.mdl'.
+[21:00:02]	Фрэнк has spawned a 'Entity [1526][item_battery]'.
+[21:00:03]	Фрэнк has spawned a 'Entity [1527][item_battery]'.
+[21:00:04]	Фрэнк has spawned a 'Entity [1526][item_battery]'.
+[21:00:04]	Фрэнк has spawned a 'Entity [1528][item_battery]'.
+[21:00:06]	Фрэнк has spawned a 'Entity [1526][item_battery]'.
+[21:00:07]	Август Крюгер has taken 98 damage from D47.MPF.EpU-150.
+[21:00:07]	Александр Климов has taken 106 damage from D47.MPF.EpU-150.
+[21:00:07]	D47.MPF.EpU-150 has killed Александр Климов with wep_jack_gmod_mmg.
+[21:00:07]	Август Крюгер has taken 104 damage from D47.MPF.EpU-150.
+[21:00:07]	Август Крюгер has taken 76 damage from D47.MPF.EpU-150.
+[21:00:07]	Август Крюгер has taken 121 damage from D47.MPF.EpU-150.
+[21:00:08]	Август Крюгер has taken 97 damage from D47.MPF.EpU-150.
+[21:00:08]	Август Крюгер has taken 119 damage from D47.MPF.EpU-150.
+[21:00:08]	Август Крюгер has taken 104 damage from D47.MPF.EpU-150.
+[21:00:11]	Фрэнк has spawned a 'Entity [1528][item_battery]'.
+[21:00:15]	Александр Климов entered observer.
+[21:00:15]	Фрэнк has spawned a 'Entity [1417][item_battery]'.
+[21:00:17]	Фрэнк has spawned a 'Entity [1417][item_battery]'.
+[21:00:17]	Фрэнк has spawned a 'Entity [1419][item_battery]'.
+[21:00:17]	Фрэнк has spawned a 'Entity [1525][item_battery]'.
+[21:00:18]	Фрэнк has spawned a 'Entity [1526][item_battery]'.
+[21:00:23]	Александр Климов exited observer at their location.
+[21:00:43]	Август Крюгер used command '/CharSetModel Август models/player/fall_winter/male_09.mdl'.
+[21:00:45]	Август Крюгер entered observer.
+[21:00:46]	Фрэнк has taken 124 damage from D47.MPF.EpU-150.
+[21:00:46]	Фрэнк has taken 217 damage from D47.MPF.EpU-150.
+[21:00:54]	Август Крюгер exited observer at their location.
+[21:01:05]	Фрэнк entered observer.
+[21:01:06]	Фрэнк exited observer at their location.
+[21:01:20]	Август Крюгер has taken 107 damage from D47.MPF.EpU-150.
+[21:01:20]	Август Крюгер has taken 103 damage from D47.MPF.EpU-150.
+[21:01:20]	Август Крюгер has taken 122 damage from D47.MPF.EpU-150.
+[21:01:21]	Август Крюгер has taken 101 damage from D47.MPF.EpU-150.
+[21:01:27]	Фрэнк has spawned a 'Entity [1507][item_battery]'.
+[21:01:27]	Фрэнк has spawned a 'Entity [1594][item_battery]'.
+[21:01:28]	Фрэнк has spawned a 'Entity [1595][item_battery]'.
+[21:01:28]	Фрэнк has spawned a 'Entity [1596][item_battery]'.
+[21:01:28]	Фрэнк has spawned a 'Entity [1597][item_battery]'.
+[21:01:29]	Фрэнк has spawned a 'Entity [1507][item_battery]'.
+[21:01:29]	Фрэнк has spawned a 'Entity [1594][item_battery]'.
+[21:01:30]	D47.MPF.EpU-150 has taken 5 damage from Август Крюгер.
+[21:01:30]	D47.MPF.EpU-150 has taken 5 damage from Август Крюгер.
+[21:01:30]	D47.MPF.EpU-150 has taken 5 damage from Август Крюгер.
+[21:01:30]	D47.MPF.EpU-150 has taken 42 damage from Август Крюгер.
+[21:01:30]	Фрэнк has spawned a 'Entity [1507][item_battery]'.
+[21:01:42]	Август Крюгер has taken 17 damage from D47.MPF.EpU-150.
+[21:01:42]	Август Крюгер has taken 28 damage from D47.MPF.EpU-150.
+[21:01:42]	Август Крюгер has taken 20 damage from D47.MPF.EpU-150.
+[21:01:43]	Август Крюгер has taken 20 damage from D47.MPF.EpU-150.
+[21:01:44]	Август Крюгер has taken 69 damage from D47.MPF.EpU-150.
+[21:02:08]	Август Крюгер entered observer.
+[21:02:11]	Август Крюгер exited observer at their location.
+[21:02:14]	D47.MPF.EpU-150 has taken 293 damage from Август Крюгер.
+[21:02:14]	Август Крюгер has killed D47.MPF.EpU-150 with arccw_mifl_fas2_ragingbull.
+[21:02:21]	Август Крюгер entered observer.
+[21:02:21]	Август Крюгер exited observer at their location.
+[21:02:22]	Август Крюгер entered observer.
+[21:02:37]	Август Крюгер has spawned a 'Entity [1507][ent_jack_gmod_ezweapon_pas]'.
+[21:02:39]	Август Крюгер has spawned a 'Entity [1595][ent_jack_gmod_ezweapon_lmg]'.
+[21:02:41]	Август Крюгер has spawned a 'Entity [1507][ent_jack_gmod_ezweapon_fas]'.
+[21:02:45]	Август Крюгер has spawned a 'Entity [1419][ent_jack_gmod_ezweapon_mrl]'.
+[21:02:50]	Август Крюгер has spawned a 'Entity [1419][ent_jack_gmod_ezammo]'.
+[21:02:50]	Август Крюгер has spawned a 'Entity [1507][ent_jack_gmod_ezexplosives]'.
+[21:03:01]	Август Крюгер has spawned a 'Entity [1595][ent_jack_gmod_ezmunitions]'.
+[21:03:13]	Александр Климов has taken 335 damage from Август Крюгер.
+[21:03:13]	Август Крюгер has killed Александр Климов with arccw_mifl_fas2_ragingbull.
+[21:03:36]	Александр Климов entered observer.
+[21:03:54]	Александр Климов exited observer at their location.
+[21:03:57]	Александр Климов has taken 290 damage from Август Крюгер.
+[21:03:57]	Август Крюгер has killed Александр Климов with arccw_mifl_fas2_ragingbull.
+[21:04:01]	Александр Климов entered observer.
+[21:04:04]	D47.MPF.EpU-150 has gained 50 tokens.
+[21:04:04]	Август Крюгер exited observer at their location.
+[21:04:12]	D47.MPF.EpU-150 has taken 15 damage from D47.MPF.EpU-150.
+[21:04:12]	D47.MPF.EpU-150 has taken 25 damage from D47.MPF.EpU-150.
+[21:04:12]	Фрэнк has taken 146 damage from D47.MPF.EpU-150.
+[21:04:12]	Фрэнк has taken 147 damage from D47.MPF.EpU-150.
+[21:04:13]	Август Крюгер has spawned a 'Entity [1528][ent_jack_gmod_ezammo]'.
+[21:04:19]	Август Крюгер has gained 100 tokens.
+[21:04:21]	D47.MPF.EpU-150 has taken 337 damage from Август Крюгер.
+[21:04:21]	Август Крюгер has killed D47.MPF.EpU-150 with arccw_mifl_fas2_m24.
+[21:04:21]	Александр Климов exited observer at their location.
+[21:04:23]	Александр Климов ran 'Equip' on item 'M4' (#414)
+[21:04:26]	Александр Климов has taken 734 damage from Август Крюгер.
+[21:04:26]	Август Крюгер has killed Александр Климов with arccw_mifl_fas2_m24.
+[21:04:30]	Александр Климов entered observer.
+[21:04:32]	Александр Климов ran 'Equip' on item 'M4' (#414)
+[21:04:37]	D47.MPF.EpU-150 used the 'Стойка' vendor.
+[21:04:37]	Александр Климов exited observer at their location.
+[21:04:38]	Фрэнк has taken 60 damage from Август Крюгер.
+[21:04:40]	Август Крюгер has taken 104 damage from Александр Климов.
+[21:04:43]	Август Крюгер has taken 500 damage from pill_ent_phys.
+[21:04:43]	Август Крюгер has taken 50 damage from pill_ent_phys.
+[21:04:43]	Август Крюгер has taken 100 damage from pill_ent_phys.
+[21:04:44]	Август Крюгер has taken 13 damage from Александр Климов.
+[21:04:45]	Август Крюгер has taken 13 damage from Александр Климов.
+[21:04:48]	Август Крюгер entered observer.
+[21:04:48]	D47.MPF.EpU-150 used the 'Стойка' vendor.
+[21:04:50]	Александр Климов entered observer.
+[21:04:52]	Август Крюгер exited observer at their location.
+[21:04:53]	D47.MPF.EpU-150 used the 'Стойка' vendor.
+[21:05:00]	Август Крюгер has spawned a 'Entity [1525][ent_jack_gmod_ezweapon_lmg]'.
+[21:05:00]	Август Крюгер has spawned a 'Entity [1527][ent_jack_gmod_ezweapon_lmg]'.
+[21:05:00]	Август Крюгер has spawned a 'Entity [1544][ent_jack_gmod_ezweapon_lmg]'.
+[21:05:00]	Август Крюгер has spawned a 'Entity [1594][ent_jack_gmod_ezweapon_lmg]'.
+[21:05:00]	Август Крюгер has spawned a 'Entity [1596][ent_jack_gmod_ezweapon_lmg]'.
+[21:05:01]	Август Крюгер has spawned a 'Entity [1597][ent_jack_gmod_ezweapon_lmg]'.
+[21:05:01]	Август Крюгер has spawned a 'Entity [1599][ent_jack_gmod_ezweapon_lmg]'.
+[21:05:01]	Август Крюгер has spawned a 'Entity [1600][ent_jack_gmod_ezweapon_lmg]'.
+[21:05:01]	Август Крюгер has spawned a 'Entity [1601][ent_jack_gmod_ezweapon_lmg]'.
+[21:05:01]	Август Крюгер has spawned a 'Entity [1606][ent_jack_gmod_ezweapon_lmg]'.
+[21:05:02]	Август Крюгер entered observer.
+[21:05:06]	Фрэнк entered observer.
+[21:05:07]	Фрэнк has taken 27 damage from worldspawn.
+[21:05:08]	Август Крюгер exited observer at their location.
+[21:05:09]	Август Крюгер entered observer.
+[21:05:10]	Август Крюгер exited observer at their location.
+[21:05:12]	Август Крюгер entered observer.
+[21:05:12]	Август Крюгер exited observer at their location.
+[21:05:15]	Александр Климов exited observer at their location.
+[21:05:17]	Август Крюгер has taken 52 damage from Александр Климов.
+[21:05:17]	Август Крюгер has taken 52 damage from Александр Климов.
+[21:05:17]	Август Крюгер has taken 52 damage from Александр Климов.
+[21:05:18]	Август Крюгер has taken 104 damage from Александр Климов.
+[21:05:18]	Август Крюгер has taken 33 damage from worldspawn.
+[21:05:19]	Август Крюгер has taken 13 damage from Александр Климов.
+[21:05:20]	Август Крюгер entered observer.
+[21:05:24]	D47.MPF.EpU-150 used the 'Склад Снаряжения' vendor.
+[21:05:28]	D47.MPF.EpU-150 has gained 0 tokens.
+[21:05:29]	D47.MPF.EpU-150 has gained 0 tokens.
+[21:05:29]	D47.MPF.EpU-150 has gained 0 tokens.
+[21:05:30]	D47.MPF.EpU-150 has gained 0 tokens.
+[21:05:30]	D47.MPF.EpU-150 has gained 0 tokens.
+[21:05:30]	D47.MPF.EpU-150 has gained 0 tokens.
+[21:05:31]	D47.MPF.EpU-150 has gained 0 tokens.
+[21:05:31]	D47.MPF.EpU-150 has gained 0 tokens.
+[21:05:31]	Александр Климов has taken 24 damage from worldspawn.
+[21:05:31]	D47.MPF.EpU-150 has gained 0 tokens.
+[21:05:41]	D47.MPF.EpU-150 used the 'Полка' vendor.
+[21:05:43]	D47.MPF.EpU-150 has lost 8 tokens.
+[21:05:47]	D47.MPF.EpU-150 used the 'Стойка' vendor.
+[21:05:50]	D47.MPF.EpU-150 used the 'Склад Снаряжения' vendor.
+[21:05:50]	Фрэнк has taken 194 damage from Август Крюгер.
+[21:05:52]	D47.MPF.EpU-150 has gained 0 tokens.
+[21:05:53]	D47.MPF.EpU-150 has gained 0 tokens.
+[21:05:53]	D47.MPF.EpU-150 has gained 0 tokens.
+[21:05:53]	D47.MPF.EpU-150 has gained 0 tokens.
+[21:05:54]	D47.MPF.EpU-150 has gained 0 tokens.
+[21:05:56]	D47.MPF.EpU-150 has gained 0 tokens.
+[21:05:56]	D47.MPF.EpU-150 has gained 0 tokens.
+[21:05:57]	D47.MPF.EpU-150 has gained 0 tokens.
+[21:05:57]	D47.MPF.EpU-150 has gained 0 tokens.
+[21:06:14]	Александр Климов has taken 239 damage from Август Крюгер.
+[21:06:14]	Август Крюгер has killed Александр Климов with weapon_ied.
+[21:06:27]	D47.MPF.EpU-150 has taken 212 damage from Август Крюгер.
+[21:06:27]	Август Крюгер has killed D47.MPF.EpU-150 with weapon_ied.
+[21:06:47]	Август Крюгер has spawned a 'Entity [1528][ent_jack_gmod_ezammo]'.
+[21:06:47]	Август Крюгер has spawned a 'Entity [1594][ent_jack_gmod_ezammo]'.
+[21:06:47]	Август Крюгер has spawned a 'Entity [1607][ent_jack_gmod_ezammo]'.
+[21:06:47]	Август Крюгер has spawned a 'Entity [1629][ent_jack_gmod_ezammo]'.
+[21:06:47]	Фрэнк entered observer.
+[21:06:48]	Фрэнк has taken 18 damage from worldspawn.
+[21:06:51]	Александр Климов entered observer.
+[21:07:00]	Александр Климов exited observer at their location.
+[21:07:02]	Александр Климов ran 'Equip' on item 'M4' (#414)
+[21:07:17]	Александр Климов has taken 293 damage from Август Крюгер.
+[21:07:17]	Август Крюгер has killed Александр Климов with weapon_ied.
+[21:07:19]	Август Крюгер has spawned a 'Entity [1419][ent_jack_gmod_ezammo]'.
+[21:07:21]	Александр Климов entered observer.
+[21:07:30]	Александр Климов exited observer at their location.
+[21:07:31]	Александр Климов ran 'drop' on item 'M4' (#414)
+[21:07:31]	Александр Климов has lost a 'M4' #414.
+[21:07:37]	Александр Климов ran 'take' on item 'M4' (#414)
+[21:07:37]	Александр Климов has gained a 'M4' #414.
+[21:07:38]	Александр Климов has taken 214 damage from Август Крюгер.
+[21:07:38]	Август Крюгер has killed Александр Климов with ix_hands.
+[21:08:11]	Фрэнк has taken 74 damage from D47.MPF.EpU-150.
+[21:08:18]	D47.MPF.EpU-150 has taken 18 damage from Фрэнк.
+[21:08:18]	Фрэнк has taken 9 damage from D47.MPF.EpU-150.
+[21:08:19]	D47.MPF.EpU-150 has taken 18 damage from Фрэнк.
+[21:08:20]	Август Крюгер exited observer at their location.
+[21:08:20]	D47.MPF.EpU-150 has taken 73 damage from Фрэнк.
+[21:08:21]	D47.MPF.EpU-150 has taken 18 damage from Фрэнк.
+[21:08:21]	Фрэнк has taken 12 damage from D47.MPF.EpU-150.
+[21:08:22]	Август Крюгер entered observer.
+[21:08:22]	Александр Климов ran 'Equip' on item 'M4' (#414)
+[21:08:25]	Фрэнк has taken 66 damage from D47.MPF.EpU-150.
+[21:08:40]	D47.MPF.EpU-150 has taken 13 damage from Александр Климов.
+[21:08:40]	D47.MPF.EpU-150 has taken 13 damage from Александр Климов.
+[21:08:40]	D47.MPF.EpU-150 has taken 51 damage from Александр Климов.
+[21:08:40]	Александр Климов has killed D47.MPF.EpU-150 with arccw_m4a1.
+[21:08:54]	Александр Климов has taken 261 damage from Август Крюгер.
+[21:08:54]	Август Крюгер has killed Александр Климов with weapon_ied.
+[21:08:56]	Frank (STEAM_0:0:504151496) has disconnected.
+[21:09:05]	D47.MPF.EpU-150 has gained 50 tokens.
+[21:09:07]	Александр Климов ran 'Equip' on item 'M4' (#414)
+[21:09:10]	Александр Климов has taken 160 damage from Август Крюгер.
+[21:09:10]	Август Крюгер has killed Александр Климов with arccw_mifl_fas2_ragingbull.
+[21:09:15]	Александр Климов ran 'Equip' on item 'M4' (#414)
+[21:09:20]	Август Крюгер has gained 100 tokens.
+[21:09:20]	D47.MPF.EpU-150 has taken 154 damage from Август Крюгер.
+[21:09:28]	Александр Климов entered observer.
+[21:09:37]	Александр Климов exited observer at their location.
+[21:09:39]	Александр Климов entered observer.
+[21:09:40]	Александр Климов exited observer at their location.
+[21:09:43]	Александр Климов entered observer.
+[21:09:53]	D47.MPF.EpU-150 has taken 2 damage from Август Крюгер.
+[21:10:10]	Александр Климов exited observer at their location.
+[21:10:40]	Август Крюгер has taken 10 damage from D47.MPF.EpU-150.
+[21:10:40]	Август Крюгер has taken 33 damage from D47.MPF.EpU-150.
+[21:10:40]	Август Крюгер has taken 17 damage from D47.MPF.EpU-150.
+[21:10:40]	Август Крюгер has taken 15 damage from D47.MPF.EpU-150.
+[21:10:40]	Август Крюгер has taken 50 damage from D47.MPF.EpU-150.
+[21:10:41]	Август Крюгер has taken 52 damage from Александр Климов.
+[21:10:41]	Август Крюгер has taken 13 damage from Александр Климов.
+[21:10:41]	Август Крюгер has taken 10 damage from D47.MPF.EpU-150.
+[21:10:41]	Август Крюгер has taken 14 damage from D47.MPF.EpU-150.
+[21:10:42]	Август Крюгер has taken 52 damage from Александр Климов.
+[21:10:42]	Август Крюгер has taken 61 damage from D47.MPF.EpU-150.
+[21:10:42]	Август Крюгер has taken 52 damage from Александр Климов.
+[21:10:42]	Август Крюгер has taken 65 damage from D47.MPF.EpU-150.
+[21:10:42]	Август Крюгер has taken 13 damage from Александр Климов.
+[21:10:42]	Август Крюгер has taken 130 damage from D47.MPF.EpU-150.
+[21:10:42]	Август Крюгер has taken 52 damage from Александр Климов.
+[21:10:42]	Август Крюгер has taken 49 damage from D47.MPF.EpU-150.
+[21:10:42]	Август Крюгер has taken 125 damage from D47.MPF.EpU-150.
+[21:10:42]	Август Крюгер has taken 104 damage from Александр Климов.
+[21:10:42]	Август Крюгер has taken 52 damage from Александр Климов.
+[21:10:43]	Александр Климов has taken 63 damage from D47.MPF.EpU-150.
+[21:10:43]	Александр Климов has taken 40 damage from D47.MPF.EpU-150.
+[21:10:43]	D47.MPF.EpU-150 has killed Александр Климов with wep_jack_gmod_lmg.
+[21:10:44]	Август Крюгер has taken 14 damage from D47.MPF.EpU-150.
+[21:10:45]	Август Крюгер has taken 50 damage from D47.MPF.EpU-150.
+[21:10:45]	Август Крюгер has taken 64 damage from D47.MPF.EpU-150.
+[21:10:45]	Август Крюгер has taken 134 damage from D47.MPF.EpU-150.
+[21:10:45]	Август Крюгер has taken 113 damage from D47.MPF.EpU-150.
+[21:10:45]	Август Крюгер has taken 56 damage from D47.MPF.EpU-150.
+[21:10:45]	Август Крюгер has taken 66 damage from D47.MPF.EpU-150.
+[21:10:46]	Август Крюгер has taken 56 damage from D47.MPF.EpU-150.
+[21:10:46]	Август Крюгер has taken 60 damage from D47.MPF.EpU-150.
+[21:10:46]	Август Крюгер has taken 86 damage from D47.MPF.EpU-150.
+[21:10:50]	Александр Климов ran 'Equip' on item 'M4' (#414)
+[21:10:55]	Август Крюгер has taken 104 damage from Александр Климов.
+[21:10:55]	Август Крюгер has taken 13 damage from Александр Климов.
+[21:10:55]	Август Крюгер has taken 13 damage from Александр Климов.
+[21:10:55]	Август Крюгер has taken 13 damage from Александр Климов.
+[21:10:55]	Август Крюгер has taken 52 damage from Александр Климов.
+[21:10:55]	Август Крюгер has taken 13 damage from Александр Климов.
+[21:10:55]	Август Крюгер has taken 52 damage from Александр Климов.
+[21:10:55]	Август Крюгер has taken 52 damage from Александр Климов.
+[21:10:55]	Август Крюгер has taken 52 damage from Александр Климов.
+[21:10:55]	Август Крюгер has taken 52 damage from Александр Климов.
+[21:10:56]	Август Крюгер has taken 52 damage from Александр Климов.
+[21:10:56]	Август Крюгер has taken 103 damage from Александр Климов.
+[21:10:56]	Август Крюгер has taken 52 damage from Александр Климов.
+[21:10:56]	Август Крюгер has taken 52 damage from Александр Климов.
+[21:10:56]	Август Крюгер has taken 52 damage from Александр Климов.
+[21:10:57]	Август Крюгер has taken 104 damage from Александр Климов.
+[21:10:57]	Август Крюгер has taken 52 damage from Александр Климов.
+[21:10:58]	Август Крюгер has taken 13 damage from Александр Климов.
+[21:11:06]	Август Крюгер has taken 13 damage from Александр Климов.
+[21:11:06]	Август Крюгер has taken 52 damage from Александр Климов.
+[21:11:06]	Август Крюгер has taken 52 damage from Александр Климов.
+[21:11:06]	Август Крюгер has taken 13 damage from Александр Климов.
+[21:11:06]	Август Крюгер has taken 52 damage from Александр Климов.
+[21:11:06]	Август Крюгер has taken 13 damage from Александр Климов.
+[21:11:06]	Август Крюгер has taken 52 damage from Александр Климов.
+[21:11:07]	Август Крюгер has taken 52 damage from Александр Климов.
+[21:11:07]	Август Крюгер has taken 52 damage from Александр Климов.
+[21:11:07]	Август Крюгер has taken 52 damage from Александр Климов.
+[21:11:07]	Август Крюгер has taken 52 damage from Александр Климов.
+[21:11:07]	Август Крюгер has taken 13 damage from Александр Климов.
+[21:11:07]	Август Крюгер has taken 52 damage from Александр Климов.
+[21:11:07]	Август Крюгер has taken 52 damage from Александр Климов.
+[21:11:08]	Август Крюгер has taken 52 damage from Александр Климов.
+[21:11:08]	Август Крюгер has taken 52 damage from Александр Климов.
+[21:11:08]	Август Крюгер has taken 52 damage from Александр Климов.
+[21:11:08]	Август Крюгер has taken 52 damage from Александр Климов.
+[21:11:08]	Август Крюгер has taken 52 damage from Александр Климов.
+[21:11:08]	Август Крюгер has taken 13 damage from Александр Климов.
+[21:11:08]	Август Крюгер has taken 13 damage from Александр Климов.
+[21:11:15]	Август Крюгер has taken 13 damage from Александр Климов.
+[21:11:15]	Август Крюгер has taken 52 damage from Александр Климов.
+[21:11:15]	Август Крюгер has taken 13 damage from Александр Климов.
+[21:11:16]	Август Крюгер has taken 13 damage from Александр Климов.
+[21:11:16]	Август Крюгер has taken 13 damage from Александр Климов.
+[21:11:16]	Август Крюгер has taken 52 damage from Александр Климов.
+[21:11:16]	Август Крюгер has taken 13 damage from Александр Климов.
